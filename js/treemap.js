@@ -1,0 +1,852 @@
+"use strict";
+var mnv_ukelmap = mnv_ukelmap || {};
+
+/*
+Bostock's tremap is at:
+https://strongriley.github.io/d3/ex/treemap.html
+*/
+
+// TREE MAP
+mnv_ukelmap.treemap = (function(){
+  var my, model, modelFlags, controller, parties, numberformat;
+  // Internal 'globals'
+  var tree, treeWrapper, treeWidth, treeHeight,
+    treeMap, treeMapDiv, colChartDiv, colChartSVG, colChartGroup,
+    colChartxScale, colChartyScale, position, node, cluster,
+    svgH, svgW, xAxis, yAxis, xAxisEl, zeroline;
+  // Constituency info globals
+  var constInfo, region, constituency, party, partyname, partystatus,
+    mpname, mpvalues, majoritylabel, majorityvalues, swinglabel,
+    swingvalues, turnoutlabel, turnoutvalues;
+  my = {};
+  model = mnv_ukelmap.model;
+  modelFlags = model.flags;
+  controller = mnv_ukelmap.controller;
+  parties = model.parties;
+  numberformat = mnv_ukelmap.utilities.numberWithCommas;
+
+
+  /*
+  Code-cribbing...
+    See: https://gist.github.com/alexandersimoes/7516456#file-tree_map_ex1-html
+    And: http://d3plus.org/workshops/11_19_2013/tree_map/
+  */
+
+  // LOCAL FLAGS
+  my.localflags = {
+    currentconstit: "currentconstit",
+    dataindex: "dataindex",
+    updatecounter: -1
+  };
+  // LOCAL FLAGS ends
+
+  // Dynamic code will have to mimic this structure
+  /*tree = {
+    id: "tree",
+    children:[
+      {"value":70, "id":"oth"},
+      {"value":50, "id":"grn"},
+      {"value":120, "id":"ukp"},
+      {"value":40, "id":"lib"},
+      {"value":220, "id":"lab"},
+      {"value":250, "id":"con"}
+      ]
+  };*/
+
+  // POSITION
+  // Code to size and position nodes:
+  position = function() {
+    this
+      .style("left", function(d) { return d.x + "px"; })
+      .style("top", function(d) { return d.y + "px"; })
+      .style("width", function(d) { return d.dx - 1 + "px"; })
+      .style("height", function(d) { return d.dy - 1 + "px"; })
+    ;
+  };
+
+  // ASSIGN CONSTITUENCY DOM ELEMENTS
+  // Called from init: just ties elements to display constituency
+  // info to internal globals, for easy reference...
+  // All these elements were appended to the DOM in framework > appendConstituencyTemplate
+  function assignConstituencyDOMelements() {
+    constInfo = d3.select(".constituency-info");
+    region = d3.select(".region");
+    constituency = d3.select(".constituency");
+    party = d3.select(".party");
+    partyname = d3.select(".party-name");
+    partystatus = d3.select(".party-status");
+    mpname = d3.select(".mp-name");
+    mpvalues = d3.select(".mp-values");
+    majoritylabel = d3.select(".majority-label");
+    majorityvalues = d3.select(".majority-values");
+    swinglabel = d3.select(".swing-label");
+    swingvalues = d3.select(".swing-values");
+    turnoutlabel = d3.select(".turnout-label");
+    turnoutvalues = d3.select(".turnout-values");
+  }
+  // ASSIGN CONSTITUENCY DOM ELEMENTS ends
+
+  // INIT
+  my.init = function() {
+    var sizes, p, temp;
+
+    // Assign internal globals to constit info elements
+    assignConstituencyDOMelements();
+
+    // Existing wrapper
+    treeWrapper = d3.select('.ukelmap-treechart');
+    // treeWidth = parseInt(treeWrapper.style("width"),10);
+    // treeHeight = parseInt(treeWrapper.style("height"),10);
+    sizes = mnv_ukelmap.utilities.recursiveParentSizeSearch(treeWrapper.node(),4);
+    if (sizes !== undefined) {
+      treeWidth = sizes.width;
+      treeHeight = sizes.height;
+    }
+    else {
+      treeWidth = 250;
+      treeHeight = 300;
+    }
+
+    tree = {
+      children: []
+    }
+    for (p in parties) {
+      if (parties.hasOwnProperty(p)) {
+        temp = {};
+        temp.id = p;
+        temp.value = 0;
+        tree.children.push(temp);
+      }
+    }
+
+    // Layout
+    treeMap = d3.layout.treemap()
+      .size([treeWidth,treeHeight])
+      // Must be false to get update to work":"
+      .sticky(false)
+      // Sorts to drop from top-left to bottom-right
+      // Comment out to sort the other way:
+      .sort(function(a,b) {
+          return a.value - b.value;
+      })
+      .value(function(d) {
+        return d.value; })
+      ;
+
+    treeMapDiv = treeWrapper.append("div")
+      .attr("class", "ukelmap-treemap-div")
+    ;
+    // And the column chart container
+    colChartDiv = treeWrapper.append("div")
+      .attr("class", "ukelmap-colchart-div")
+    ;
+
+    initColChart(colChartDiv);
+
+    // Flag that framework is ready...
+    controller.startchecks('treemap');
+  };
+  // INIT ends
+
+  // RESIZE
+  // Just reruns update with current id...
+  my.resize = function() {
+    var id, dataindex, dataObj, thisdata, results;
+    id = my.localflags.currentconstit;
+    dataindex = my.localflags.dataindex;
+    if (dataindex === "fif") {
+      dataObj = model.data.singleResults2015;
+      results = model.results2015;
+    }
+    else {
+      dataObj = model.data.singleResults2010;
+      results = model.results2010;
+    }
+    if (id == undefined) {
+      // Seats count
+        thisdata = results;
+    }
+    else {
+      // One result
+      thisdata = dataObj[id];
+    }
+    updateTreeMap(thisdata);
+    // updateConstitInfo(data);
+  };
+  // RESIZE ends
+
+  // UPDATE
+  my.update = function() {
+    var currentconstit, constitavailable, changed, data, dataindex, defaultText,
+      updatecounter;
+    constitavailable = modelFlags.constitavailable;
+    currentconstit = modelFlags.currentconstit;
+    dataindex = modelFlags.dataindex; // i.e. index of current tab
+    updatecounter = modelFlags.updatecounter;
+    // When the datafilter responds to the map's request to find data for 1 constit
+    // (either loaded from file, or available in model.data)...
+    // If there IS a constit id (ie we're not looking for a national seat count),
+    // and if the datafilter set the not-available flag, bale out now.
+    if ( (currentconstit !== undefined) &&
+         (!constitavailable) ) {
+      showUndeclared(currentconstit);
+      return;
+    }
+
+    // Still here? OK...
+    d3.select(".ukelmap-treechart")
+      .transition().duration(500)
+      .style("opacity", 1);
+
+    // So if we're still here, there's an available constit to process
+    changed = false;
+    if (  (my.localflags.currentconstit !== currentconstit) ||
+          (my.localflags.dataindex !== dataindex) ||
+          (my.localflags.updatecounter !== updatecounter) ) {
+      changed = true;
+    }
+    //
+    if (changed) {
+      if (currentconstit !== undefined) {
+        if (dataindex === "sev") {
+          data = model.data.singleResults2017[currentconstit];
+          // Update treemap for new constit
+          updateTreeMap(data);
+          // Update constit details
+          updateConstitInfo(data);
+        } else if (dataindex === "fif") {
+          data = model.data.singleResults2015[currentconstit];
+          // Update treemap for new constit
+          updateTreeMap(data);
+          // Update constit details
+          updateConstitInfo(data);
+        } else if (dataindex === "ten") {
+          data = model.data.singleResults2010[currentconstit];
+          // Update treemap for new constit
+          updateTreeMap(data);
+          // Update constit details
+          updateConstitInfo(data);
+        }
+        else {
+          data = model.data.singleResults2010[currentconstit];
+          updateColChart(data, dataindex);
+        }
+        mnv_ukelmap.framework.viewConstituency( true );
+        d3.select(".ukelmap-treetext-bottom").text("")
+      }
+      else {
+        // currentconstit === undefined, so we're
+        if (dataindex === "sev") {
+          data = model.results2017;
+        } else if (dataindex === "fif") {
+          data = model.results2015;
+        } else {
+          data = model.results2010;
+        }
+        // "Seats": update tree map only
+        // (CSS shows default text)
+        updateTreeMap(data);
+        if ( (dataindex === "sev") || (dataindex === "fif") || (dataindex === "ten") ) {
+          d3.select(".ukelmap-treetext-bottom").text("UK total");
+        }
+        else {
+          d3.select(".ukelmap-treetext-bottom").text("");
+          updateColChart(data, dataindex);
+        }
+      }
+      // Set the default text
+      if ( (dataindex === "sev") || (dataindex === "fif") || (dataindex === "ten") ) {
+        defaultText = model.strings.defaultText;
+      } else {
+        defaultText = mnv_ukelmap.model.demographics[dataindex].explanation;
+      }
+      d3.select(".default-body").html(defaultText);
+
+      my.localflags.currentconstit = currentconstit;
+      my.localflags.dataindex = dataindex;
+      my.localflags.updatecounter = updatecounter;
+    }
+    // if changed ends
+  };
+  // UPDATE ends
+
+  function makeTreeDataObj(data) {
+    var conID, children, p, val, temp, lookup, total;
+    lookup = model.data.constituencyLookupObj[data.id];
+    tree = {
+      id: data.id,
+      //name: data.constituency_name,
+      // name: lookup.name,
+      name: function() {
+        if (!lookup === undefined) { return lookup.name; }
+      },
+      children:[]
+    };
+    // Loop thro parties defined in model
+    total = 0;
+    for (p in parties) {
+      if (parties.hasOwnProperty(p)) {
+        val = parseInt(data[p]);
+        if (!isNaN(val)) {
+          temp = {};
+          temp.id = p;
+          temp.value = val;
+          total += val;
+          tree.children.push(temp);
+        }
+      }
+    }
+    // 2017 general: append 'undeclared'
+    if ( (modelFlags.dataindex === "sev") &&
+       (modelFlags.currentconstit === undefined) ) {
+      temp = {};
+      temp.id = "undeclared";
+      temp.value = 650 - total;
+      tree.children.push(temp);
+    }
+    return tree;
+  }
+
+  // UPDATE COL CHART
+  // Params are constit-specific object and topic id
+  function updateColChart(data, topicID) {
+    var constitID, o=[], temp={}, nrOfDecimal = 1;
+    if (data === undefined) { return; }
+    constitID = data.id;
+    if (constitID === undefined) {
+      // Default national result
+      o = [
+        {display: "", value:0, valStr:""},
+        {display: "National average", value: model.demographics[topicID].nat_avg, valStr: model.demographics[topicID].nat_avg}
+      ];
+    }
+    else {
+      o = [];
+      temp = {};
+      // Local: constit name and val for this topic:
+      temp.display = model.data.constituencyLookupObj[constitID].name;
+      if (isNaN(data[topicID])) {
+        temp.value = 0;
+        temp.valStr = "No data";
+      }
+      else {
+        temp.value = data[topicID];
+        temp.valStr = d3.round(data[topicID],nrOfDecimal);
+      }
+      o.push(temp);
+      // National:
+      temp = {};
+      temp.display = "National average";
+      temp.value = model.demographics[topicID].nat_avg;
+      temp.valStr = d3.round(model.demographics[topicID].nat_avg,nrOfDecimal);
+      o.push(temp);
+    }
+    drawColChart(o);
+  }
+
+  // UPDATE TREEMAP
+  // Called from my.update
+  function updateTreeMap(data) {
+    var sizes, tree, kids, kLen, maj, turnout, hpercent, wpercent;
+
+    if (data === undefined) { return; }
+
+    wpercent = parseInt(treeWrapper.style("width"),10);
+    hpercent = parseInt(treeWrapper.style("height"),10);
+    sizes = mnv_ukelmap.utilities.recursiveParentSizeSearch(treeWrapper.node(),2);
+    if (sizes !== undefined) {
+      treeWidth = sizes.width - 20;
+      treeHeight = sizes.height / 3;
+    }
+    else {
+      treeWidth = 350;
+      treeHeight = 185;
+    }
+
+      //treeWidth = 350;
+      //treeHeight = 185;
+
+
+    treeMap.size([treeWidth,treeHeight]);
+
+    // Convert to treemap-compatible data object
+    tree = makeTreeDataObj(data);
+
+    // This is a bit cheeky, but...
+    // tree.children is an array of party votes only
+    // So sort and use it to fill the majority span:
+    kids = tree.children.sort(function(a,b) {
+      return a.value - b.value;
+      });
+    kLen = kids.length - 1;
+    if (kLen > 0) {
+      maj = kids[kLen].value - kids[kLen-1].value;
+    }
+    else {
+      // Only one result!!!
+      maj = kids[0].value;
+    }
+    maj = numberformat(maj);
+    majorityvalues.text(maj);
+
+    // Overall turnout:
+    turnout = data.turnout;
+
+    // Kill current content:
+    d3.selectAll(".ukelmap-treemap-node").remove();
+
+    // Bind data
+    node = treeMapDiv.datum(tree).selectAll(".node")
+      .data(treeMap.nodes)
+    ;
+
+    // Enter
+    node.enter().append("div")
+      .attr("class", "ukelmap-treemap-node")
+    ;
+    // Update
+    node
+      //.data(treeMap.nodes)
+      //.transition().duration(500)
+      .call(position)
+      .style("background-color", function(d, i) {
+        var col;
+        // Node 0 is the background, so white:
+        if (i === 0) {
+          col = "#ffffff";
+        }
+        else {
+          if (d.id === "undeclared") {
+            col = model.colours.undeclared;
+          }
+          else {
+            col = parties[d.id].colour;
+          }
+        }
+        return col;
+      })
+      .attr("datatooltip", function(d, i){
+        var result;
+        if (d.id === "undeclared") {
+            result = "Undeclared: " + d.value + " seats";
+        }
+        else if (i > 0) {
+          if (turnout !== undefined) {
+            result = model.parties[d.id].midname + ": " + (d.value / turnout * 100).toFixed(1) + "%";
+          }
+          else {
+            result = model.parties[d.id].midname + ": " + d.value + " seats";
+          }
+        }
+        return result;
+      })
+      .text(function(d, i) {
+        var result;
+        if (i > 0) {
+          if ( (d.dx > 40) && (d.dy > 20) ) {
+            if (turnout !== undefined) {
+              result = (d.value / turnout * 100).toFixed(1) + "%";
+            }
+            else {
+              result = d.value + " seats";
+            }
+          }
+        }
+        return result;
+      })
+      ;
+    // Update on text sub-div
+    // (separated to isolate from the transition on the node div)
+    /*
+    node
+      .append('div')
+      .attr("class")
+      .style("font-size", function(d) {
+          // compute font size based on sqrt(area)
+          //return Math.max(20, 0.18*Math.sqrt(d.area))+'px'; })
+          return Math.max(15, 0.1*Math.sqrt(d.area))+'px'; })
+      .text(function(d) {
+        var id, pName, partyTurnout;
+        partyTurnout = d.value / turnout * 100;
+        //id = d.id;
+        pName = null; // by default
+        // If node has no children (ie is a party value)
+        if (!d.children) {
+          // pName = parties[id].shortname;
+          return partyTurnout.toFixed(1) + "%";
+        }
+        //return pName;
+      })
+      */
+    ;
+
+    // Exit
+    node
+      .exit()
+      .attr("test", function() {
+      })
+      .remove();
+  }
+  // UPDATE TREEMAP ENDS
+
+  // UPDATE CONSTIT INFO
+  // Displays constituency details
+  function updateConstitInfo(data) {
+    var id, winner, winStr, winCol, statusStr, mpVotes, vPercent, tuStr,
+      swingLab, swingVal;
+
+    if (data === undefined) { return; }
+
+    // Do any workings...
+    winStr = parties[data.win].midname;
+    winCol = parties[data.win].colour;
+    // Status (gain/hold); if undefined, blank
+    statusStr = data.status;
+    if (statusStr === undefined) {
+      statusStr = ""
+    }
+    // Winner's votes and % of votes
+    mpVotes = data[data.win];
+    vPercent = mpVotes / data.turnout * 100;
+    mpVotes = numberformat(mpVotes);
+    mpVotes += " (" + vPercent.toFixed(1) + "%)";
+    // Swing
+    swingLab = "Swing";
+    swingVal = data.swing;
+    if (swingVal === undefined) {
+      swingLab = "";
+      swingVal = "";
+    }
+    else {
+      swingVal += "%";
+    }
+
+    // Turnout as number and % of population
+    tuStr = numberformat(data.turnout);
+    tuStr += " (" + (data.turnout / data.electorate * 100).toFixed(1) + "%)";
+    // Now slam everything into the elements:
+    region.text(data.region);
+    //constituency.text(data.constituency_name);
+    constituency.text(model.data.constituencyLookupObj[data.id].name);
+    partyname
+      .text(winStr)
+      .style("color",winCol)
+      ;
+    partystatus.text(statusStr);
+    mpname
+      .text(data.mpn)
+      .style("color",winCol);
+    mpvalues.text(mpVotes);
+    majoritylabel.text("Majority");
+    swinglabel.text(swingLab);
+    swingvalues.text(swingVal);
+    turnoutlabel.text("Turnout");
+    turnoutvalues.text(tuStr);
+    // NOTE: majority is done by updateTreemap, where we have a sort...
+
+  }
+  // UPDATE CONSTIT INFO ends
+
+
+  // SHOW UNDECLARED
+  // Hide treemap and show undeclared details
+  function showUndeclared(id) {
+    d3.select(".ukelmap-treechart")
+      .transition().duration(500)
+      .style("opacity", 0);
+    mnv_ukelmap.framework.viewConstituency(true);
+    d3.select(".ukelmap-treetext-bottom").text("");
+    region.text("Not declared");
+    constituency.text(model.data.constituencyLookupObj[id].name);
+    partyname.text("");
+    partystatus.text("");
+    mpname.text("");
+    mpvalues.text("");
+    majoritylabel.text("");
+    majorityvalues.text("");
+    swinglabel.text("");
+    swingvalues.text("");
+    turnoutlabel.text("");
+    turnoutvalues.text("");
+    // Kludge forces local flag off, so that on a tab change my.update
+    // registers the incoming constit id as a change...
+    my.localflags.currentconstit = undefined;
+  }
+
+  // ************ Below is specific to the demographics column chart ***************
+
+  // DRAW COL CHART
+  // Param is data array for this constit. 2 elements with
+  // display and value properties
+  function drawColChart(data) {
+    var topicID, demographics, enter, min, max, needUpdateYAxis, valOffset = 5,
+      getY, noVal = false;
+
+    // On the mobile version, the colChart doesn't get initted (because
+    // containing wrappers have no size). In that case, we've returned from
+    // initColChart before the svg element colChartSVG was created.
+    // So abort if it doesn't exist:
+    if (colChartSVG === undefined) { return; }
+
+    // Update axis if topic is changed
+    needUpdateYAxis = (topicID!==model.flags.dataindex);
+
+    topicID = model.flags.dataindex;
+    demographics = model.demographics[topicID];
+
+    // DOMAINS
+    colChartxScale
+      .domain(data.map(function(d) {
+        return d.display;
+      }))
+      ;
+    min = demographics.min;
+    max = demographics.max;
+    colChartyScale
+      .domain([min,max])
+      ;
+
+    cluster = colChartGroup.selectAll(".cluster")
+      .data(data);
+
+    getY = function(d) { return d.value < 0 ? colChartyScale(0) : colChartyScale(d.value); };
+
+    cluster.each(function(d, i) {
+      var it, val, label, col;
+      var _d = d;
+      var _i = i;
+      it = d3.select(this);
+      // Rect
+      col = it.selectAll("rect")
+        .transition().duration(750)
+        .attr({
+          //"x": my.col_x(_d,_i),
+          "x": function(_d) {
+            return my.col_x(_d); },
+          "width": function() { return colChartxScale.rangeBand(); },
+          "y": function(d, i) { return getY(_d); },
+          "height": function(d, i) { return Math.abs( colChartyScale(_d.value) - colChartyScale(0) ); }
+        })
+        .style("fill", function(){
+          return my.col_fill(_d, _i);
+          })
+        ;
+
+      // Value
+      val = it.selectAll(".ukel-val-text")
+        .transition().duration(750)
+        .attr({
+          // "x": my.col_x(_d,_i),
+          "x": function(d) { return my.col_x(d)},
+          "y": function() { return getY(_d) - valOffset}
+        })
+        .text(d.valStr)
+        ;
+      // Category
+      label = it.selectAll(".ukel-cat-text-p")
+        .text(function() { return d.display; });
+
+    });
+
+    // Enter
+    enter = cluster.enter().append("g")
+      .attr("class","cluster")
+      ;
+
+    // THERE'S SOME REDUNDANCY HERE: I CAN DO A LOT OF WHAT THE ENTER DOES IN THE UPDATE, ABOVE...
+    var colWidth = function() { return colChartxScale.rangeBand(); };
+
+    // Rect
+    enter.append("rect")
+      .attr({
+        "class": "col-rect",
+        // X pos and width:
+        "x": function(d) {
+          return my.col_x(d)},
+        "width": colWidth(),
+        "y": function(d, i) {
+          return getY(d); },
+        "height": function(d, i) { return Math.abs( colChartyScale(d.value) - colChartyScale(0) ); }
+      })
+      .style("fill", function(d, i){
+        return my.col_fill(d, i);
+      })
+    ;
+
+    // Category string
+    var colsI = 0;
+    enter.append("foreignObject")
+      .attr({
+        //"y": function(d, i) { return getY(d) - labelOffset; },
+        "y": svgH + 5,
+        "x": function(d){
+          //var x = colsI *  (my.col_x()*2 + colWidth());
+          // var x = colsI *  (colChartxScale(d.display)*2 + colWidth());
+          // colsI++;
+          // return x;
+          return my.col_x(d);
+        },
+        "dy": ".15em",
+        "height": 100,
+        // Width is a bit of a hack to force alignment:
+        "width": colWidth() * 0.9,
+        "class": function(d, i){
+          return "ukel-cat-text ukel-cat-" + ((i===0) ? "cons" : "nat");
+        }})
+        .append("xhtml:body")
+        .attr("xmlns","http://www.w3.org/1999/xhtml")
+        .append("div")
+        .append("p")
+        .attr("class","ukel-cat-text-p")
+        .text(function(d){
+          return d.display;
+        });
+        // .attr("class", "ukel-cat-text-div")
+        // .text(function(d) { return d.display; })
+
+    // Value text:
+    enter.append("text")
+      .attr({
+        "y": function(d, i) { return getY(d) - valOffset; },
+        "x": my.text_x,
+        "dy": ".15em",
+        "class": function(d, i){
+          return "ukel-val-text ukel-val-" + ((i===0) ? "cons" : "nat");
+          }
+        })
+        .text(function(d) { return d.valStr; })
+        /*
+        .text(function(d) {
+          var s;
+          if (d.display.length > 0) {
+            s = d3.round(d.value, nrOfDecimal);
+          }
+          else {
+            s = "";
+          }
+          return s;
+        })
+        */
+        ;
+
+    if(needUpdateYAxis){
+      // Update Y axis
+      colChartSVG
+        .transition()
+        .select(".y-axis") // change the y axis
+              .duration(750)
+              .call(yAxis);
+      // ...snd zero line
+      zeroline
+        .transition().duration(750)
+        .attr('x1', 0)
+        .attr('y1', colChartyScale(0))
+        .attr('x2', svgW)
+        .attr('y2', colChartyScale(0));
+    }
+    // // Not that it should be needed...
+    // cluster.exit()
+    //   .style("opacity", 1)
+    //   .transition()
+    //     .duration(300)
+    //     .style("opacity", 0)
+    //     .remove()
+    //   ;
+  }
+
+  // INIT COL CHART
+  // Param is wrapper
+  function initColChart(wrapper) {
+    var margin, sizes;
+    // Set our margins
+    margin = {
+      top: 10,
+      right: 0,
+      bottom: 80,
+      left: 30
+    }
+
+    // Try to detect w and h from the wrapper
+    sizes = wrapper.node().getBoundingClientRect();
+    if(sizes.width!==0 && sizes.width){
+     svgH = sizes.height;
+     svgW = sizes.width;
+    }
+    else {
+      // Try to detect sizes from parent element
+      sizes = mnv_ukelmap.utilities.recursiveParentSizeSearch(wrapper.node());
+      // Set default width
+      //if(!sizes){
+      if(sizes !== undefined){
+        svgH = 300;
+        svgW = 250;
+      }
+    }
+    svgW = svgW - margin.left - margin.right,
+    svgH = svgH - margin.top - margin.bottom;
+    colChartSVG = wrapper.append("svg")
+      .attr("width", svgW + margin.left + margin.right)
+      .attr("height", svgH + margin.top + margin.bottom)
+      ;
+
+    colChartGroup = colChartSVG
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    colChartxScale = d3.scale.ordinal()
+      .rangeBands([0,svgW], 0.2, 0)
+      ;
+
+    colChartyScale = d3.scale.linear()
+      .range([svgH,0])
+      ;
+
+    yAxis = d3.svg.axis()
+      .scale(colChartyScale)
+      .orient("left")
+      .ticks(5)
+      .tickSize(-svgW,0)
+      ;
+
+    colChartGroup.append("g")
+      .attr("class","y-axis")
+      .call(yAxis);
+
+    // Zero line
+    zeroline = colChartGroup
+      .append('line')
+      .attr('x1', 0)
+      .attr('y1', colChartyScale(0))
+      .attr('x2', svgW)
+      .attr('y2', colChartyScale(0))
+      .attr("class","zero-line")
+      .style("stroke-width",1)
+      ;
+  }
+  // INIT COL CHART ends
+
+  // Column chart functions:
+  // x-pos of columns
+  my.col_x = function(d, i) {
+    var it = colChartxScale(d.display);
+    return colChartxScale(d.display);
+  };
+  // TEXT_X returns text x-pos
+  my.text_x = function(d, i) { return colChartxScale(d.display); };
+  my.cluster_w = function(d, i) {
+    //colChartxScale(i)
+    return  colChartxScale.rangeBand();
+  }
+  // Height and fill functions
+  my.col_height = function(d) {
+    //return colChartyScale(+d.value) - colChartyScale(0);
+    return svgH - colChartyScale(+d.value);
+  };
+  my.col_fill = function(d, i){
+    var sel = (i === 0) ? "cons" : "nat";
+    return model.demographics[model.flags.dataindex].fill[sel];
+  }
+
+  return my;
+}());
+// TREE MAP ends

@@ -1,0 +1,82 @@
+.mnv-preloader-overlay {
+  content: '';
+  background: white;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.mnv-preloader-loader,
+.mnv-preloader-loader:before,
+.mnv-preloader-loader:after {
+  border-radius: 50%;
+}
+.mnv-preloader-loader:before,
+.mnv-preloader-loader:after {
+  position: absolute;
+  content: '';
+}
+.mnv-preloader-loader:before {
+  width: ($preloader-size/2 + $preloader-thick);
+  height: $preloader-size + ($preloader-thick*10);
+  background: white;
+  border-radius: ($preloader-size + $preloader-thick) 0 0 ($preloader-size + $preloader-thick);
+  top: -($preloader-thick/2);
+  left: -($preloader-thick/2);
+  -webkit-transform-origin: ($preloader-size/2 + $preloader-thick) ($preloader-size/2 + ($preloader-thick/2));
+  transform-origin: ($preloader-size/2 + $preloader-thick) ($preloader-size/2 + ($preloader-thick/2));
+  -webkit-animation: load2 2s infinite ease 1.5s;
+  animation: load2 2s infinite ease 1.5s;
+}
+.mnv-preloader-loader {
+  font-size: 13px;
+  text-indent: -99999em;
+  margin: $preloader-size/2 auto;
+  position: absolute;
+  width: $preloader-size;
+  height: $preloader-size;
+  z-index: 1;
+  box-shadow: inset 0 0 0 1em $preloader-color-ECRed;
+  left: 50%;
+  top: 50%;
+  margin-left: -$preloader-size/2;
+  margin-top: -$preloader-size/2;
+}
+.mnv-preloader-loader:after {
+  width: ($preloader-size/2 + $preloader-thick);
+  height: ($preloader-size + $preloader-thick);
+  background: white;
+  border-radius: 0 ($preloader-size + $preloader-thick) ($preloader-size + $preloader-thick) 0;
+  top: -($preloader-thick/2);
+  left: ($preloader-size/2 + ($preloader-thick/2));
+  -webkit-transform-origin: 0px ($preloader-size/2 + ($preloader-thick/2));
+  transform-origin: 0px ($preloader-size/2 + ($preloader-thick/2));
+  -webkit-animation: load2 2s infinite ease;
+  animation: load2 2s infinite ease;
+}
+
+@-webkit-keyframes load2 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load2 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}

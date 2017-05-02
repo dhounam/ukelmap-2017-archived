@@ -1,0 +1,17 @@
+{
+  "name": "mnv-shared",
+  "version": "0.1.0",
+  "authors": [
+    "Umberto Babini <umbertobabini@economist.com>"
+  ],
+  "description": "Provide shared assets between widgets, components,  charts",
+  "license": "MIT",
+  "homepage": "https://github.com/umbobabo/mnv-shared",
+  "ignore": [
+    "images/",
+    "node_modules/",
+    ".gitignore",
+    "bower.json",
+    "Gruntfile.js"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "mnv-cmp-livesearch",
+  "homepage": "https://github.com/umbobabo/mnv-cmp-livesearch",
+  "authors": [
+    "Umberto Babini <umbertobabini@economist.com>"
+  ],
+  "description": "Provide a pure JS livesearch field",
+  "main": [
+    "./dist/css/style.css",
+    "./dist/js/mnv-cmp-livesearch.min.js",
+    ".dist/js/mnv-cmp-livesearch.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "js/",
+    "minerva-ws/",
+    "node_modules/",
+    "partials/",
+    "views/",
+    ".gitignore",
+    "bower.json",
+    "config.json",
+    "Gruntfile.js",
+    "minerva-ws.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "mnv-shared": "*"
+  },
+  "_release": "82baee95b3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "82baee95b340d7cac3e8bf15f6b4f00c3fc7c1ca"
+  },
+  "_source": "git://github.com/umbobabo/mnv-cmp-livesearch.git",
+  "_target": "*",
+  "_originalSource": "mnv-cmp-livesearch"
+}

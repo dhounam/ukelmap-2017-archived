@@ -1,0 +1,111 @@
+$prefix: "ukelmap";
+// CDN folder version
+// Change this if you need to uncache CDN files
+$cdnversion: "0.0.1";
+//$cdnHost: "(<YourIPAddress>|localhost):3000/projects";
+// CDN host/path
+$cdnHost: "cdn.static-economist.com";
+// Vars
+// Example of var 
+$spacer: 10px;
+$white: #ffffff;
+$dashed: dashed 1px $color-grey;
+// Note: helper mixin will be moved asap to a shared folder on Minerva
+
+// Example of CDN variables use trought ec-sprite mixing
+@mixin ec-sprite(){
+  background-image: url('http://#{$cdnHost}/sites/default/files/external/minerva_assets/ukelmap/#{$cdnversion}/images/sprite.png');
+  content: '';
+  @include respond-to('retina') {
+    background-image: url('http://#{$cdnHost}/sites/default/files/external/minerva_assets/ukelmap/#{$cdnversion}/images/sprite-2x.png');
+    // Change this to the size of your 1x sprite
+    background-size: 277px 143px !important;
+  }
+}
+// respond-to mixin provide an easy way to add mediaquery
+// This part need to bre improved, don't trust too much on it ;-).
+@mixin respond-to($ver...) {
+  @each $version in $ver {
+    @if #{$version} == 'mobilePortrait' {
+      @media screen and (max-width: 767px) and (orientation: portrait) {
+        @content;
+      }
+    }
+    @if #{$version} == 'mobileLandscape' {
+      @media screen and (max-width: 767px) and (orientation: landscape) {
+        @content;
+      }
+    }
+    @if #{$version} == 'mobile' {
+      @media screen and (max-width: 767px) {
+        @content;
+      }
+    }
+    @if #{$version} == 'notMobile' {
+      @media screen and (min-width: 768px) {
+        @content;
+      }
+    }
+    @if #{$version} == 'lowResolution' {
+      @media screen and (min-width: 901px) and (max-width: 1024px) {
+        @content;
+      }
+    }
+    @if #{$version} == 'tablet' {
+      @media screen and (min-width: 768px) and (max-width: 900px) {
+        @content;
+      }
+    }
+    @if #{$version} == 'tabletPortrait' {
+      @media screen and (min-width: 768px) and (max-width: 1024px)  and (orientation: portrait) {
+        @content;
+      }
+    }
+    @if #{$version} == 'tabletLandscape' {
+      @media screen and (min-width: 768px) and (max-width: 1024px)  and (orientation: landscape) {
+        @content;
+      }
+    }
+    @if #{$version} == 'retina' {
+      @media screen and (-webkit-min-device-pixel-ratio: 2),
+      screen and (   min--moz-device-pixel-ratio: 2),
+      screen and (     -o-min-device-pixel-ratio: 2/1),
+      screen and (        min-device-pixel-ratio: 2),
+      screen and (                min-resolution: 192dpi),
+      screen and (                min-resolution: 2dppx) {
+        @content;
+      }
+    }
+
+    @if #{$version} == 'iphone5Landscape' {
+      @media only screen 
+      and (min-device-width : 280px) 
+      and (max-device-width : 568px) 
+      and (orientation : landscape) 
+      and (-webkit-min-device-pixel-ratio : 2)
+      {
+        @content;
+      }
+    }
+    @if #{$version} == 'iphone6Landscape' {
+     @media only screen 
+      and (min-device-width : 375px) 
+      and (max-device-width : 667px) 
+      and (orientation : landscape) 
+      and (-webkit-min-device-pixel-ratio : 2)
+      {
+        @content;
+      }
+    }
+    @if #{$version} == 'iphone6PlusLandscape' {
+      @media only screen 
+      and (min-device-width : 414px) 
+      and (max-device-width : 736px) 
+      and (orientation : landscape) 
+      and (-webkit-min-device-pixel-ratio : 3) 
+      {
+        @content;
+      }
+    }
+  }
+}

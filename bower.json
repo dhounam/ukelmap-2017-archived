@@ -1,0 +1,10 @@
+{
+  "name": "ukelmap",
+  "version": "0.0.0",
+  "dependencies": {
+    "mnv-cmp-livesearch": "*",
+    "mnv-cmp-mapbar": "*",
+    "mnv-shared": "*",
+    "d3": "3.4.6"
+  }
+}

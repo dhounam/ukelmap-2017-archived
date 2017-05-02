@@ -1,0 +1,63 @@
+//Add this attribute to the element that needs a tooltip
+[datatooltip] {
+  position: relative;
+  cursor: pointer;
+  overflow: visible !important;
+}
+
+// Hide the tooltip content by default
+[datatooltip]:before,
+[datatooltip]:after {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+// Position tooltip above the element
+[datatooltip]:before {
+  position: absolute;
+  top: - $tooltip-height - $tooltip-margin;
+  right: 50%;
+  margin-right: -($tooltip-width/2);
+  margin-bottom: $tooltip-margin;
+  padding: 7px;
+  width: $tooltip-width;
+  height: $tooltip-height;
+  -webkit-border-radius: 3px;
+  -moz-border-radius:    3px;
+  border-radius:         3px;
+  background-color: #000;
+  background-color: $color-grey;
+  color: #fff;
+  content: attr(datatooltip);
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.2;
+  box-sizing: border-box;
+}
+
+label:last-of-type [datatooltip]:before {
+  right: 0;
+}
+
+// Triangle hack to make tooltip look like a speech bubble
+[datatooltip]:after {
+  position: absolute;
+  right: 50%;
+  width: 0;
+  top:  - $tooltip-margin;
+  border-top: $tooltip-triangle-height solid #000;
+  border-top: $tooltip-triangle-height solid $color-grey;
+  border-right: $tooltip-triangle-height solid transparent;
+  border-left: $tooltip-triangle-height solid transparent;
+  content: ' ';
+  font-size: 0;
+  line-height: 0;
+}
+
+// Show tooltip content on hover
+[datatooltip]:hover:before,
+[datatooltip]:hover:after {
+  visibility: visible;
+  opacity: 1;
+  z-index: 99999999999999;
+}

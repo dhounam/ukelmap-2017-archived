@@ -1,0 +1,85 @@
+$prefix: 'mnv-ec-livesearch';
+
+.#{$prefix} {
+  position: relative;
+  font-family: $font-family;
+  -webkit-font-smoothing: antialiased;
+  ::-webkit-input-placeholder {
+    color: $input-placeholder-color;
+  }
+  ::-moz-placeholder { /* Firefox 19+ */
+    color: $input-placeholder-color;
+  }
+  :-ms-input-placeholder {
+    color: $input-placeholder-color;
+  }
+  :-moz-placeholder { /* Firefox 18- */
+    color: $input-placeholder-color;
+  }
+  .#{$prefix}-input {
+    box-sizing: border-box;
+		border: none;
+    background: $input-bg;
+    height: $bar-height;
+    width: 100%;
+    padding: $input-padding;
+    padding-right: $input-padding + $close-btn-w;
+    padding-right: $input-padding * 2;
+    font-size: $input-font-size;
+    outline: none;
+    &:focus {
+      background-color: $input-hover-bg;
+      color: $input-hover-color;
+    }
+	}
+  .#{$prefix}-reset {
+    background: $close-btn-bg;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 70%;
+    border: none;
+    height: 100%;
+    width: $close-btn-w;
+    position: absolute;
+    height: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    padding: $input-padding;
+    outline: none;
+    &.close {
+      background-image: url('data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%3C!DOCTYPE%20svg%20PUBLIC%20%22-%2F%2FW3C%2F%2FDTD%20SVG%201.1%2F%2FEN%22%20%22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%2FDTD%2Fsvg11.dtd%22%3E%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20x%3D%220px%22%20y%3D%220px%22%20%20viewBox%3D%220%200%2056.69%2056.69%22%20enable-background%3D%22new%200%200%2056.69%2056.69%22%20xml%3Aspace%3D%22preserve%22%3E%3Cpath%20id%3D%22CIRCLE__x2F__DELETE_2_%22%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20fill%3D%22%23FFFFFF%22%20d%3D%22M28.25%2C55.5%20c-14.981%2C0-27.125-12.144-27.125-27.125C1.125%2C13.394%2C13.269%2C1.25%2C28.25%2C1.25s27.125%2C12.144%2C27.125%2C27.125%20C55.375%2C43.356%2C43.231%2C55.5%2C28.25%2C55.5z%20M28.25%2C6.336c-12.172%2C0-22.039%2C9.867-22.039%2C22.039c0%2C12.172%2C9.867%2C22.039%2C22.039%2C22.039%20s22.039-9.867%2C22.039-22.039C50.289%2C16.203%2C40.422%2C6.336%2C28.25%2C6.336z%20M37.574%2C40.242c-0.702%2C0-1.338-0.285-1.798-0.745l0%2C0%20l-7.526-7.526l-7.526%2C7.526l0%2C0c-0.46%2C0.46-1.096%2C0.745-1.798%2C0.745c-1.404%2C0-2.543-1.138-2.543-2.543%20c0-0.702%2C0.285-1.338%2C0.745-1.798l0%2C0l7.526-7.526l-7.526-7.526l0%2C0c-0.46-0.46-0.745-1.096-0.745-1.798%20c0-1.404%2C1.139-2.543%2C2.543-2.543c0.702%2C0%2C1.338%2C0.285%2C1.798%2C0.745l0%2C0l7.526%2C7.526l7.526-7.526l0%2C0%20c0.46-0.46%2C1.096-0.745%2C1.798-0.745c1.404%2C0%2C2.543%2C1.139%2C2.543%2C2.543c0%2C0.702-0.285%2C1.338-0.745%2C1.798l0%2C0l-7.526%2C7.526l7.526%2C7.526%20l0%2C0c0.46%2C0.46%2C0.745%2C1.096%2C0.745%2C1.798C40.117%2C39.104%2C38.979%2C40.242%2C37.574%2C40.242z%22%2F%3E%3C%2Fsvg%3E');
+    }
+    &.search {
+      background-image: url('data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%3C!DOCTYPE%20svg%20PUBLIC%20%22-%2F%2FW3C%2F%2FDTD%20SVG%201.1%2F%2FEN%22%20%22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%2FDTD%2Fsvg11.dtd%22%3E%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20x%3D%220px%22%20y%3D%220px%22%20%20viewBox%3D%220%200%2056.69%2056.69%22%20enable-background%3D%22new%200%200%2056.69%2056.69%22%20xml%3Aspace%3D%22preserve%22%3E%3Cpath%20fill%3D%22%23FFFFFF%22%20d%3D%22M51.709%2C44.258l-8.83-8.831l-1.6-1.599c-0.064-0.064-0.139-0.108-0.205-0.169%20c1.719-2.966%2C2.719-6.401%2C2.719-10.076c0-11.127-9.02-20.146-20.147-20.146C12.519%2C3.437%2C3.5%2C12.456%2C3.5%2C23.583%20c0%2C11.127%2C9.019%2C20.146%2C20.146%2C20.146c3.611%2C0%2C6.993-0.963%2C9.924-2.627c0.068%2C0.078%2C0.121%2C0.165%2C0.195%2C0.239l1.6%2C1.599l8.83%2C8.831%20c1.979%2C1.977%2C5.184%2C1.977%2C7.16%2C0l0.354-0.354C53.686%2C49.44%2C53.686%2C46.235%2C51.709%2C44.258z%20M23.648%2C39.043%20c-8.539%2C0-15.463-6.919-15.463-15.46c0-8.54%2C6.924-15.461%2C15.463-15.461c8.538%2C0%2C15.458%2C6.921%2C15.458%2C15.461%20C39.105%2C32.124%2C32.186%2C39.043%2C23.648%2C39.043z%22%2F%3E%3C%2Fsvg%3E');
+    }
+    &:hover {
+      background-color: $close-btn-hover-bg;
+      cursor: pointer;
+    }
+  }
+  .#{$prefix}-list {
+    position: absolute;
+    top: $close-btn-w;
+    width: 100%;
+    max-height: 85vh;
+    overflow-y: auto;
+    box-sizing: border-box;
+    li {
+      width: 100%;
+      background: $result-item-bg;
+      color: $result-item-color;
+      font-family: $font-family;
+      padding: $input-padding+2 $input-padding;
+      border-bottom: solid 1px $result-item-border-bottom-color;
+      box-sizing: border-box;
+      font-size: $result-font-size;
+      line-height: $result-line-height;
+      &:hover {
+        background-color: $result-item-hover-bg;
+        color: $result-item-hover-color;
+        cursor: pointer;
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "mnv-cmp-mapbar",
+  "version": "0.1.0",
+  "homepage": "https://github.com/umbobabo/mnv-cmp-mapbar",
+  "authors": [
+    "Umberto Babini <umbertobabini@economist.com>"
+  ],
+  "description": "Provide a pure JS mapbar field",
+  "main": [
+  	"./dist/css/style.css",
+  	"./dist/js/mnv-cmp-mapbar.min.js",
+  	".dist/js/mnv-cmp-mapbar.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+  	"css/",
+  	"data/",
+  	"js/",
+    "minerva-ws/",
+  	"node_modules/",
+  	"partials/",
+    "sites/",
+    "tmp/",
+    "views/",
+    ".gitignore",
+    "bower.json",
+  	"config.json",
+    "Gruntfile.js",
+    "minerva-ws.js",
+    "package.json"
+  ]
+}

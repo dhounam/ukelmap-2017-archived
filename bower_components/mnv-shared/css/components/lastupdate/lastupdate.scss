@@ -1,0 +1,11 @@
+.not-highlight {
+  background: initial;
+  -webkit-transition: background 2000ms ease-out;
+  -moz-transition: background 2000ms ease-out;
+  -ms-transition: background 2000ms ease-out;
+  -o-transition: background 2000ms ease-out;
+  transition: background 2000ms ease-out;
+}
+.highlight {
+  background: $lastupdate-bg;
+}

@@ -1,0 +1,19 @@
+.mnv-ec-storytiles .hero {
+  .mnv-map-uk-election-2017-election-night {
+  	float: none;
+    max-width: none;
+    .title-main,
+    .title-fly {
+      padding: 0;
+    }
+  }
+  .mnv-map-uk-election-2017-election-night + .copy {
+    display: none;
+  }
+}
+@media only screen and (max-width: 980px) and (min-width: 633px){
+  .mnv-ec-storytiles .hero .mnv-map-uk-election-2017-election-night {
+    float: none !important;
+    max-width: none !important;
+  }
+}
