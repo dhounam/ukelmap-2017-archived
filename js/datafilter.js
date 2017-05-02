@@ -2,6 +2,14 @@
 var mnv_ukelmap = mnv_ukelmap || {};
 
 // JSONP CALLBACKS FOR:
+// Brexit results
+  function resultsBrexitCB() {
+    var key, makeObj, makeArray;
+    key = "resultsBrexit";
+    makeObj = true;
+    makeArray = false;
+    mnv_ukelmap.datafilter.filterResults(null, arguments[0], key, makeObj, makeArray);
+  }
 // 2010 results
   function results2010BasicCB() {
     var key, makeObj, makeArray;
@@ -338,6 +346,15 @@ mnv_ukelmap.datafilter = (function(){
     var filename, clearCache, cb, key, widget;
     preloader.el = $('.ukelmap-map-div');
     preloader.addPreloader();
+
+    // BREXIT RESULTS
+    filename = model.sourcefiles.resultsBrexit;
+    // Key for callback lookup is set by the file-specific callback (see top)
+    cb = "resultsBrexitCB";
+    // During devel, at least, I have to force a cache-clear
+    clearCache = true;
+    // Dive in after the data:
+    goJson(filename, cb, clearCache);
 
     // 2010 RESULTS
     filename = model.sourcefiles.results2010;

@@ -957,7 +957,8 @@ $input-hover-bg: $color-light-grey;
       color: #a0aaaa;
       background: $color-darker-grey;
       overflow: hidden;
-      max-width: 25%;
+      // Next was madness, becos it presupposed...
+      // max-width: 25%;
       span {
         white-space: nowrap;
       }

@@ -40,7 +40,9 @@ mnv_ukelmap.model = (function(){
     map: {
       default: '#DDDDDD'
     },
-    undeclared: '#aaa'
+    undeclared: '#aaa',
+    remain: 'green',
+    leave: 'pink',
   };
 
   // DATA repository (filled by datafilter)
@@ -127,7 +129,33 @@ mnv_ukelmap.model = (function(){
       ],
       smallranges: null,
       keyTitle: "Seats"
+    },
+    // BREXIT
+    // Details to come, using old salaries for now
+    "brx":{
+      compare: "LESS-EQUAL",
+      // LAYOUT sets key layout: number of rows and columns
+      layout: {rows:5, columns:3},
+      // Range values are for %-remain
+      bigranges: [
+        {val:30,fill:"#8D6300",display:"30 or less"},
+        {val:40,fill:"#C89608",display:"30 to 40"},
+        {val:50,fill:"#FFCB4D",display:"40 to 50"},
+        {val:60,fill:"#98DAFF",display:"50 to 60"},
+        {val:70,fill:"#5DA4DF",display:"60 to 70"},
+        {val:1000,fill:"#00588D",display:"More than 70"}
+      ],
+      smallranges: null,
+      keyTitle: "% who voted 'Remain' on 23rd June 2016"
     }
+    // Colours from Matt's file
+    // 8D6300
+    // C89608
+    // FFCB4D
+    // 98DAFF
+    // 5DA4DF
+    // 00588D
+
     // NOTE: demographics removed
     // Population
     // Population % change in 2s from less than -2 to more than +10 (eight plots)
@@ -220,8 +248,10 @@ mnv_ukelmap.model = (function(){
     singleconstitfolder: "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_livemap_2015_night/consFinalResults/",
     // NOTE: temporarily, for 2017:
     results2017: "files-from-cdn/seatsAndWinners2017.json",
-    constitfolder2017: "files-from-cdn/live-results/"
+    constitfolder2017: "files-from-cdn/live-results/",
     // These should eventually be replaced by a 'winners' file on CDN. And 2017 single constit files should go in the singleconstitfolder...
+    // BREXIT data are local...
+    resultsBrexit: "files-from-cdn/brexit.json"
   };
 
   // STRINGS
@@ -235,7 +265,8 @@ mnv_ukelmap.model = (function(){
     shortMonths: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
     defaultHeader:"",
     defaultSubHeader:"",
-    defaultText: "Britain is divided into 650 constituencies. Each sends one MP to the House of Commons in Westminster. Rural seats are much larger than urban ones, so our map shows both the true geographic picture of the country and a schematic view of the political landscape."
+    defaultText: "Britain is divided into 650 constituencies. Each sends one MP to the House of Commons in Westminster. Rural seats are much larger than urban ones, so our map shows both the true geographic picture of the country and a schematic view of the political landscape.",
+    brexitText: "Something about Brexit...",
   };
 
   // STARTCHECKS
@@ -285,22 +316,22 @@ mnv_ukelmap.model = (function(){
       label: "2010",
       children: {},
       id: "ten"
-    // },
-    // 2: {
-    //   label: "Population",
-    //   children: {},
-    //   id: "pop"
-    // },
-    // 3: {
+    },
+    3: {
+      label: "Brexit",
+      children: {},
+      id: "brx"
+    }
+    // 4: {
     //   label: "House prices",
     //   children: {},
     //   id: "hpr"
-    // },
+    // }
     // 4: {
     //   label: "Salaries",
     //   children: {},
     //   id: "sal"
-    }
+    // }
   };
 
   // RESULTS
@@ -322,8 +353,6 @@ mnv_ukelmap.model = (function(){
     uup:0,
     total: 650
   };
-  // NOTE: this currently gets overwritten from 2015 winners file
-  // but will eventually be the data used...
   my.results2015 = {
     con:331,
     lab:232,
@@ -341,6 +370,10 @@ mnv_ukelmap.model = (function(){
     uup:2,
     oth:1,
     total: 650
+};
+// Overall national 'Remain' vote in the referendum:
+my.resultsBrexit = {
+  val: 48.1,
 };
 
   // DEMOGRAPHICS

@@ -154,13 +154,20 @@ mnv_ukelmap.treemap = (function(){
     var id, dataindex, dataObj, thisdata, results;
     id = my.localflags.currentconstit;
     dataindex = my.localflags.dataindex;
-    if (dataindex === "fif") {
+    if (dataindex === "sev") {
+      // dataObj is from the external data file
+      dataObj = model.data.singleResults2017;
+      // results is a 'basic' results object in the model
+      results = model.results2017;
+    } else if (dataindex === "fif") {
       dataObj = model.data.singleResults2015;
       results = model.results2015;
-    }
-    else {
+    } else if (dataindex === "ten") {
       dataObj = model.data.singleResults2010;
       results = model.results2010;
+    } else {
+      dataObj = model.data.resultsBrexit;
+      results = model.resultsBrexit;
     }
     if (id == undefined) {
       // Seats count
@@ -170,7 +177,8 @@ mnv_ukelmap.treemap = (function(){
       // One result
       thisdata = dataObj[id];
     }
-    updateTreeMap(thisdata);
+    // Update with the data object, the 'key', and a constit id (if any)
+    updateTreeMap(thisdata, dataindex, id);
     // updateConstitInfo(data);
   };
   // RESIZE ends
@@ -211,25 +219,30 @@ mnv_ukelmap.treemap = (function(){
         if (dataindex === "sev") {
           data = model.data.singleResults2017[currentconstit];
           // Update treemap for new constit
-          updateTreeMap(data);
+          updateTreeMap(data, dataindex, currentconstit);
           // Update constit details
-          updateConstitInfo(data);
+          updateConstitInfo(data, dataindex, currentconstit);
         } else if (dataindex === "fif") {
           data = model.data.singleResults2015[currentconstit];
           // Update treemap for new constit
-          updateTreeMap(data);
+          updateTreeMap(data, dataindex, currentconstit);
           // Update constit details
-          updateConstitInfo(data);
+          updateConstitInfo(data, dataindex, currentconstit);
         } else if (dataindex === "ten") {
           data = model.data.singleResults2010[currentconstit];
           // Update treemap for new constit
-          updateTreeMap(data);
+          updateTreeMap(data, dataindex, currentconstit);
           // Update constit details
-          updateConstitInfo(data);
+          updateConstitInfo(data, dataindex, currentconstit);
         }
         else {
-          data = model.data.singleResults2010[currentconstit];
-          updateColChart(data, dataindex);
+          // Brexit
+          data = model.data.resultsBrexitObj[currentconstit];
+          // updateColChart(data, dataindex);
+          // Update treemap for new constit
+          updateTreeMap(data, dataindex, currentconstit);
+          // Update constit details, using 2015 result...
+          updateConstitInfo(model.data.singleResults2015[currentconstit], dataindex, currentconstit);
         }
         mnv_ukelmap.framework.viewConstituency( true );
         d3.select(".ukelmap-treetext-bottom").text("")
@@ -240,25 +253,27 @@ mnv_ukelmap.treemap = (function(){
           data = model.results2017;
         } else if (dataindex === "fif") {
           data = model.results2015;
-        } else {
+        } else if (dataindex === "ten") {
           data = model.results2010;
+        } else {
+          data = model.resultsBrexit;
         }
         // "Seats": update tree map only
         // (CSS shows default text)
-        updateTreeMap(data);
+        updateTreeMap(data, dataindex);
         if ( (dataindex === "sev") || (dataindex === "fif") || (dataindex === "ten") ) {
           d3.select(".ukelmap-treetext-bottom").text("UK total");
         }
         else {
           d3.select(".ukelmap-treetext-bottom").text("");
-          updateColChart(data, dataindex);
+          // updateColChart(data, dataindex);
         }
       }
-      // Set the default text
-      if ( (dataindex === "sev") || (dataindex === "fif") || (dataindex === "ten") ) {
-        defaultText = model.strings.defaultText;
+      // Set the explanatory text
+      if (dataindex === "brx") {
+        defaultText = model.strings.brexitText;
       } else {
-        defaultText = mnv_ukelmap.model.demographics[dataindex].explanation;
+        defaultText = model.strings.defaultText;
       }
       d3.select(".default-body").html(defaultText);
 
@@ -270,7 +285,7 @@ mnv_ukelmap.treemap = (function(){
   };
   // UPDATE ends
 
-  function makeTreeDataObj(data) {
+  function makeTreeDataObj(data, key) {
     var conID, children, p, val, temp, lookup, total;
     lookup = model.data.constituencyLookupObj[data.id];
     tree = {
@@ -310,6 +325,8 @@ mnv_ukelmap.treemap = (function(){
   // UPDATE COL CHART
   // Params are constit-specific object and topic id
   function updateColChart(data, topicID) {
+    console.log("I shouldn't be here (updateColChart)...")
+    return;
     var constitID, o=[], temp={}, nrOfDecimal = 1;
     if (data === undefined) { return; }
     constitID = data.id;
@@ -344,9 +361,10 @@ mnv_ukelmap.treemap = (function(){
     drawColChart(o);
   }
 
-  // UPDATE TREEMAP
+
+  // UPDATE BREXIT TREEMAP
   // Called from my.update
-  function updateTreeMap(data) {
+  function updateBexitTreeMap(data) {
     var sizes, tree, kids, kLen, maj, turnout, hpercent, wpercent;
 
     if (data === undefined) { return; }
@@ -363,19 +381,68 @@ mnv_ukelmap.treemap = (function(){
       treeHeight = 185;
     }
 
-      //treeWidth = 350;
-      //treeHeight = 185;
+    treeMap.size([treeWidth,treeHeight]);
 
+    // Convert to treemap-compatible data object
+    // Incoming 'data' is an object with a single property:
+    // remain vote, as 'val'
+    // I want an object with a 'children' property > remain/leave
+    tree = {
+      children: {
+        remain: data.val,
+        leave: 100 - data.val
+      }
+    }
+
+  }
+  // UPDATE BREXIT TREEMAP ENDS
+
+  // UPDATE TREEMAP
+
+
+  // UPDATE PARTY TREE MAP
+  function updateTreeMap(data, key, constitID) {
+    var sizes, tree, kids, kLen, maj, turnout, hpercent, wpercent, mapTree, majorityTree, itemisedData;
+
+    if (data === undefined) { return; }
+
+    wpercent = parseInt(treeWrapper.style("width"),10);
+    hpercent = parseInt(treeWrapper.style("height"),10);
+    sizes = mnv_ukelmap.utilities.recursiveParentSizeSearch(treeWrapper.node(),2);
+    if (sizes !== undefined) {
+      treeWidth = sizes.width - 20;
+      treeHeight = sizes.height / 3;
+    }
+    else {
+      treeWidth = 350;
+      treeHeight = 185;
+    }
 
     treeMap.size([treeWidth,treeHeight]);
 
     // Convert to treemap-compatible data object
-    tree = makeTreeDataObj(data);
+    if (key === "brx") {
+      mapTree = {
+        children: [
+          {id: 'remain', value: data.val},
+          {id: 'leave', value: 100 - data.val}
+        ]
+      };
+      // And fetch in 2015 data
+      if (typeof constitID === 'undefined') {
+        itemisedData = model.results2015;
+      } else {
+        itemisedData = model.data.singleResults2015[constitID];
+      }
+    } else {
+      itemisedData = data;
+    }
+    majorityTree = makeTreeDataObj(itemisedData, key)
 
     // This is a bit cheeky, but...
     // tree.children is an array of party votes only
     // So sort and use it to fill the majority span:
-    kids = tree.children.sort(function(a,b) {
+    kids = majorityTree.children.sort(function(a,b) {
       return a.value - b.value;
       });
     kLen = kids.length - 1;
@@ -390,13 +457,18 @@ mnv_ukelmap.treemap = (function(){
     majorityvalues.text(maj);
 
     // Overall turnout:
-    turnout = data.turnout;
+    turnout = majorityTree.turnout;
 
     // Kill current content:
     d3.selectAll(".ukelmap-treemap-node").remove();
 
+    // Now switch around to get the right data for the actual treeMap
+    if (key !== 'brx') {
+      mapTree = majorityTree;
+    }
+
     // Bind data
-    node = treeMapDiv.datum(tree).selectAll(".node")
+    node = treeMapDiv.datum(mapTree).selectAll(".node")
       .data(treeMap.nodes)
     ;
 
@@ -416,10 +488,14 @@ mnv_ukelmap.treemap = (function(){
           col = "#ffffff";
         }
         else {
-          if (d.id === "undeclared") {
-            col = model.colours.undeclared;
-          }
-          else {
+          // Defined colour?
+          col = model.colours[d.id];
+          // if (d.id === "undeclared") {
+          //   col = model.colours.undeclared;
+          // } else if (d.id === "remain") {
+          //   col = model.colours.undeclared;
+          // }
+          if (typeof col === 'undefined') {
             col = parties[d.id].colour;
           }
         }
@@ -430,6 +506,11 @@ mnv_ukelmap.treemap = (function(){
         if (d.id === "undeclared") {
             result = "Undeclared: " + d.value + " seats";
         }
+        else if (d.id === 'remain') {
+          result = "Remain: " + d.value + "%";
+        } else if (d.id === 'leave') {
+          result = "Leave: " + d.value + "%";
+        }
         else if (i > 0) {
           if (turnout !== undefined) {
             result = model.parties[d.id].midname + ": " + (d.value / turnout * 100).toFixed(1) + "%";
@@ -437,6 +518,8 @@ mnv_ukelmap.treemap = (function(){
           else {
             result = model.parties[d.id].midname + ": " + d.value + " seats";
           }
+        } else {
+          result = '';
         }
         return result;
       })
@@ -444,7 +527,11 @@ mnv_ukelmap.treemap = (function(){
         var result;
         if (i > 0) {
           if ( (d.dx > 40) && (d.dy > 20) ) {
-            if (turnout !== undefined) {
+            if (d.id === 'remain') {
+              result = "Remain: " + d.value + "%";
+            } else if (d.id === 'leave') {
+              result = "Leave: " + d.value + "%";
+            } else if (turnout !== undefined) {
               result = (d.value / turnout * 100).toFixed(1) + "%";
             }
             else {
@@ -491,12 +578,12 @@ mnv_ukelmap.treemap = (function(){
 
   // UPDATE CONSTIT INFO
   // Displays constituency details
-  function updateConstitInfo(data) {
+  function updateConstitInfo(data, key) {
     var id, winner, winStr, winCol, statusStr, mpVotes, vPercent, tuStr,
       swingLab, swingVal;
 
     if (data === undefined) { return; }
-
+    console.log(data)
     // Do any workings...
     winStr = parties[data.win].midname;
     winCol = parties[data.win].colour;
@@ -532,7 +619,10 @@ mnv_ukelmap.treemap = (function(){
       .text(winStr)
       .style("color",winCol)
       ;
-    partystatus.text(statusStr);
+    // partystatus.text(statusStr);
+    // NOTE: until we know what we're doing with 2017 data, this string
+    // (which is welded into 2015 data) foreced to empty
+    partystatus.text('');
     mpname
       .text(data.mpn)
       .style("color",winCol);

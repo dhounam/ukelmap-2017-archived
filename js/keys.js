@@ -276,7 +276,7 @@ mnv_ukelmap.keys = (function(){
         return col;
       })
       .text(function(d) {
-        if ( (dataindex === "hpr") || (dataindex === "pop") || (dataindex === "sal") || (dataindex === "ele") ) {
+        if (dataindex === "brx") {
           return d.display;
         }
       })

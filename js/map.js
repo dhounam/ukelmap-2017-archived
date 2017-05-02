@@ -107,7 +107,7 @@ mnv_ukelmap.map = (function(){
   // Called from path click
   pathClickFcn = function(id) {
     var data = model.data.results2010Obj;
-    // If there's matching data, clone the DOM element
+    // If there's (2010) matching data, clone the DOM element
     if (data[id] !== undefined) {
       cloneMapPath(id);
     }
@@ -561,7 +561,7 @@ mnv_ukelmap.map = (function(){
   // colourMap is called from update. According to dataIndex, forks to:
   //    simpleColour
   //    marginalColour
-  //    demographicColour
+  //    brexitColour
   // Each returns a fill value for a single path
 
   // SIMPLE COLOUR
@@ -577,7 +577,7 @@ mnv_ukelmap.map = (function(){
   }
   // SIMPLE COLOUR ends
 
-  function demographicColour(data) {
+  function brexitColour(data) {
     var dIndex, id, val, rangesArray, i, col;
     dIndex = model.flags.dataindex;
     // By default:
@@ -613,10 +613,12 @@ mnv_ukelmap.map = (function(){
       data = model.data.results2017Obj;
     } else if (dIndex === "fif") {
       data = model.data.results2015Obj;
-    } else {
+    } else if (dIndex === "ten") {
       data = model.data.results2010Obj;
+    } else {
+      data = model.data.resultsBrexitObj;
     }
-    // console.log("Recolouring for " + dIndex);
+    // console.log(data);
     // d3 loop through existing state paths setting colours:
     d3.selectAll('.mappath')
       .transition().duration(500)
@@ -639,8 +641,8 @@ mnv_ukelmap.map = (function(){
             case "ten":
               fill = simpleColour(luObj);
               break;
-            case "pop":
-              fill = demographicColour(luObj);
+            case "brx":
+              fill = brexitColour(luObj);
               break;
             case "hpr":
               fill = demographicColour(luObj);

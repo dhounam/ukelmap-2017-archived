@@ -266,7 +266,7 @@ ul.ec-interactive-dropdowns {
   height: 100%;
   /*39px;*/
   box-sizing: border-box;
-  width: 20%;
+  /* width: 20%; */
   float: left; }
 
 .ec-interactive-dropdowns > li {
@@ -1071,8 +1071,7 @@ ul.ec-interactive-dropdowns {
       line-height: 18px;
       color: #a0aaaa;
       background: #333;
-      overflow: hidden;
-      max-width: 25%; }
+      overflow: hidden; }
       .mnv-map-uk-election-2017-election-night .ec-interactive-dropdowns li span {
         white-space: nowrap; }
       .mnv-map-uk-election-2017-election-night .ec-interactive-dropdowns li:hover {
