@@ -1,5 +1,5 @@
 /*
-  Module is responsible for general wrapper 
+  Module is responsible for general wrapper
 */
 "use strict";
 var mnv_ukelmap = mnv_ukelmap || {};
@@ -18,42 +18,42 @@ mnv_ukelmap.dropdowns = (function(){
 
   // *** UMBERTO'S DROPDOWNS
 
-// CREATE TABS
-// Called from the INIT function.
-// Passed the tab definition and the DOM container; and an index identifying type (topics, zoom...)
-function createTabs (tabs, appendTo, typeIndex) {
-  // Build tabs and sub-menus.
-  function createLevel(tabs, className, selected){
-    var tabsTree = '<ul class="' + ((className) ? "ec-interactive-dropdowns" : "") +'">', tabsTreeChild, s = '', childClass, tabLength = 0;
-    for (s in tabs) {
-      tabsTreeChild = '';
-      if (tabs.hasOwnProperty(s)) {
-        if (!mnv_ukelmap.utilities.isEmptyObject(tabs[s].children)) {
-          childClass = 'has-child';
-          // Recursion
-          tabsTreeChild = createLevel(tabs[s].children);
-        } else {
-          childClass = 'has-nochild';
+  // CREATE TABS
+  // Called from the INIT function.
+  // Passed the tab definition and the DOM container; and an index identifying type (topics, zoom...)
+  function createTabs (tabs, appendTo, eventListener) {
+    // Build tabs and sub-menus.
+    function createLevel(tabs, className, selected){
+      var tabsTree = '<ul class="' + ((className) ? "ec-interactive-dropdowns" : "") +'">', tabsTreeChild, s = '', childClass, tabLength = 0;
+      for (s in tabs) {
+        tabsTreeChild = '';
+        if (tabs.hasOwnProperty(s)) {
+          if (!mnv_ukelmap.utilities.isEmptyObject(tabs[s].children)) {
+            childClass = 'has-child';
+            // Recursion
+            tabsTreeChild = createLevel(tabs[s].children);
+          } else {
+            childClass = 'has-nochild';
+          }
+          // Default selected:
+          if ((selected!==undefined && tabLength === selected) || (selected===undefined && tabLength === 0)) {
+            childClass += ' selected';
+          }
+          tabsTree +=  '<li class="' + childClass + '"><span>' + tabs[s].label + '</span>' + tabsTreeChild + '</li>';
         }
-        // Default selected:
-        if ((selected!==undefined && tabLength === selected) || (selected===undefined && tabLength === 0)) {
-          childClass += ' selected';
-        }
-        tabsTree +=  '<li class="' + childClass + '"><span>' + tabs[s].label + '</span>' + tabsTreeChild + '</li>';
+        tabLength ++;
       }
-      tabLength ++;
+      tabsTree += '</ul>';
+      return tabsTree;
     }
-    tabsTree += '</ul>';
-    return tabsTree;
+    appendTo.append(createLevel(tabs, "ec-interactive-dropdowns", model.flags.topic_index));
+    interactiveDropdowns(eventListener);
   }
-  appendTo.append(createLevel(tabs, "ec-interactive-dropdowns", model.flags.topic_index));
-  interactiveDropdowns(typeIndex);
-}
 
 
-// INTERACTIVE DROPDOWNS
-// Called from createTabs. Param is the name of the callback function
-function interactiveDropdowns(callFunction) {
+  // INTERACTIVE DROPDOWNS
+  // Called from createTabs. Param is the name of the callback function
+  function interactiveDropdowns(callFunction) {
     var $this, $thisElm, cssTransitions, dropdownsMenu, showDropdowns;
     // Css transitions support. This relys on the Modernizr library.
     cssTransitions = $('.csstransitions').length;
@@ -78,7 +78,7 @@ function interactiveDropdowns(callFunction) {
     } else {
       $('li.has-child', dropdownsMenu).mouseenter(showDropdowns);
       $('li.has-child', dropdownsMenu).mouseleave(
-      function () {       
+      function () {
         $this = $(this);
         if (cssTransitions) {
           $this.removeClass('show-menu');
@@ -120,22 +120,45 @@ function interactiveDropdowns(callFunction) {
 
   // *** UMBERTO'S DROPDOWNS END
 
-
-  // INIT 
+  // INIT
   my.init = function() {
     var tabs, topicdiv;
     tabs = model.tabs;
     topicdiv = $(".ukelmap-topic-div");
     createTabs(tabs,topicdiv,controller.dropdownListener);
-
-    // Flag that dropdown is ready...
-    controller.startchecks('dropdowns');
-
   };
   // INIT ends
-  
+
   // UPDATE
   my.update = function() {
+    var tabs, topicdiv, timeStamp, liveTime;
+    console.log('Update dropdown...');
+
+    // To prevent unnecessary redraws, what's current situation?
+    // Crude check on first id:
+    var currentID = model.tabs[0].id;
+    // Go-live time check
+    // UTC time now:
+    timeStamp =  Date.now();
+    // 'Go-live' time:
+    var liveTime = model.goliveTime;
+    // If it's after 'go-live' time, redirect model.tabs to livetab definitions
+    if (timeStamp > liveTime) {
+      model.tabs = model.livetabs;
+      // Prevent any further update...
+      model.startchecks.big.dropdowns.update = false;
+    }
+    // Redraw the tab-bar (emptying its parent first)
+    tabs = model.tabs;
+    // So have things changed?
+    if (tabs[0].id !== currentID) {
+      console.log(`ID changed from ${currentID} to ${tabs[0].id}`);
+      topicdiv = $(".ukelmap-topic-div");
+      topicdiv.empty();
+      createTabs(tabs,topicdiv,controller.dropdownListener);
+      // And force update to new tab's data...
+      controller.dropdownListener(0);
+    }
   };
   // UPDATE ends
 
@@ -149,9 +172,9 @@ function interactiveDropdowns(callFunction) {
  * Two objects are hard-defined here as variables to be passed to the function createTabs
  *    var tabs should be the tab-definition in the model
  *    var appendTo should be the DOM object to which the tab is appended
- * 
+ *
  * function createTabs should be called from the INIT function, and passed the two above objects
- * 
+ *
  * So to get this working, I need to call createTabs from my INIT function, passing in the tabs definition
  * on the model, and the DOM container
  * I also need to add, somewhere, code to set the width%, based on the number of tabls
@@ -160,9 +183,8 @@ function interactiveDropdowns(callFunction) {
 
 
 /*
-// APPEND_TO  
+// APPEND_TO
 // This stands in for a reference to the container on the DOM
 var demo_appendTo = $('#ec-article-body');
 // APPEND_TO ends
 */
-

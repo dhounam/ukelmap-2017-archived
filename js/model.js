@@ -24,7 +24,7 @@ mnv_ukelmap.model = (function(){
     requestedconstit: undefined,
     currentconstit: undefined,
     constitavailable: false,
-    dataindex: "sev",
+    dataindex: "fif",
     datapointindex: 0,
     freezechart: false,
     mapindex: 0,
@@ -35,14 +35,21 @@ mnv_ukelmap.model = (function(){
     updatecounter: 0
   };
 
+  // GO-LIVE TIME: 10pm on 8 June 2017 as ms
+  // Note that months are from zero (so 5 for June)
+  // And, since June is BST, subtract 1 from hour (i.e. 21 for 10pm)
+  // my.goliveTime = new Date(Date.UTC(2017, 5, 8, 21, 0, 0));
+  // But for TESTING, May 3, 4pm
+  my.goliveTime = Date.UTC(2017, 4, 3, 15, 44, 0);
+
   // COLOURS
   my.colours = {
     map: {
       default: '#DDDDDD'
     },
     undeclared: '#aaa',
-    remain: 'green',
-    leave: 'pink',
+    remain: '#5DA4DF',
+    leave: '#C89608',
   };
 
   // DATA repository (filled by datafilter)
@@ -146,89 +153,8 @@ mnv_ukelmap.model = (function(){
         {val:1000,fill:"#00588D",display:"More than 70"}
       ],
       smallranges: null,
-      keyTitle: "% who voted 'Remain' on 23rd June 2016"
+      keyTitle: "Percent 'Remain'"
     }
-    // Colours from Matt's file
-    // 8D6300
-    // C89608
-    // FFCB4D
-    // 98DAFF
-    // 5DA4DF
-    // 00588D
-
-    // NOTE: demographics removed
-    // Population
-    // Population % change in 2s from less than -2 to more than +10 (eight plots)
-    // (the full range for pop. goes from -3.9 to +12.2)
-    // "pop":{
-    //   compare: "LESS-EQUAL",
-    //   // LAYOUT sets key layout: number of rows and columns
-    //   layout: {rows:5, columns:3},
-    //   bigranges: [
-    //     {val:-2,fill:"#39bcd9",display:"Less than -2"},
-    //     //{val:-2,fill:"#a2d8e7",display:"-3 to -2"},
-    //     {val:0,fill:"#69c5dc",display:"-2 to 0"},
-    //     // {val:0,fill:"#3abcda",display:"-1 to 0"},
-    //     {val:2,fill:"#a2d8e7",display:"0 to 2"},
-    //     //{val:2,fill:"#aca480",display:"1 to 2"},
-    //     {val:4,fill:"#cee9f2",display:"2 to 4"},
-    //     //{val:4,fill:"#b1b9d4",display:"3 to 4"},
-    //     {val:6,fill:"#b1b9d3",display:"4 to 6"},
-    //     // {val:6,fill:"#8d97bf",display:"5 to 6"},
-    //     {val:8,fill:"#8c96be",display:"6 to 8"},
-    //     // {val:8,fill:"#6574aa",display:"7 to 8"},
-    //     {val:10,fill:"#6574aa",display:"8 to 10"},
-    //     // {val:10,fill:"#3d5194",display:"9 to 10"},
-    //     {val:1000,fill:"#3c5094",display:"More than 10"}
-    //   ],
-    //   smallranges: null,
-    //   keyTitle: "% change, 2010 to 2013"
-    // },
-    // 3: house prices
-    // House price change in 15s, from less than -15 to more than +90 (eight plots)
-    // (the full range for HPI goes from -17.7 to +103.7)
-    // "hpr":{
-    //   compare: "LESS-EQUAL",
-    //   // LAYOUT sets key layout: number of rows and columns
-    //   layout: {rows:5, columns:3},
-    //   bigranges: [
-    //     {val:-15,fill:"#39bcd9",display:"Less than -15"},
-    //     // {val:-2,fill:"#a2d8e7",display:"-3 to -2"},
-    //     {val:0,fill:"#69c5dc",display:"-15 to 0"},
-    //     // {val:0,fill:"#3abcda",display:"-1 to 0"},
-    //     {val:15,fill:"#a2d8e7",display:"0 to 15"},
-    //     // {val:2,fill:"#aca480",display:"1 to 2"},
-    //     {val:30,fill:"#cee9f2",display:"15 to 30"},
-    //     // {val:4,fill:"#b1b9d4",display:"3 to 4"},
-    //     {val:45,fill:"#b1b9d3",display:"30 to 45"},
-    //     // {val:6,fill:"#8d97bf",display:"5 to 6"},
-    //     {val:60,fill:"#8c96be",display:"45 to 60"},
-    //     // {val:8,fill:"#6574aa",display:"7 to 8"},
-    //     {val:75,fill:"#6574aa",display:"60 to 75"},
-    //     // {val:10,fill:"#3d5194",display:"9 to 10"},
-    //     {val:1000,fill:"#3c5094",display:"More than 75"}
-    //   ],
-    //   smallranges: null,
-    //   keyTitle: "% change in annual average, May 2010 to Dec 2014"
-    // },
-    // 4: salaries
-    // Salaries change in 5s from less than -25 to more than +25 (eight plots)
-    // (the full range on salaries goes from -25.3 to +28.3)
-    // "sal":{
-    //   compare: "LESS-EQUAL",
-    //   // LAYOUT sets key layout: number of rows and columns
-    //   layout: {rows:5, columns:3},
-    //   bigranges: [
-    //     {val:-20,fill:"#39bcd9",display:"Less than -20"},
-    //     {val:-10,fill:"#69c5dc",display:"-20 to -10"},
-    //     {val:0,fill:"#a2d8e7",display:"-10 to 0"},
-    //     {val:10,fill:"#8c96be",display:"0 to 10"},
-    //     {val:20,fill:"#6574aa",display:"10 to 20"},
-    //     {val:1000,fill:"#3c5094",display:"More than 20"}
-    //   ],
-    //   smallranges: null,
-    //   keyTitle: "% change in annual average earnings, 2010 to 2014"
-    // }
   };
 
 
@@ -266,7 +192,7 @@ mnv_ukelmap.model = (function(){
     defaultHeader:"",
     defaultSubHeader:"",
     defaultText: "Britain is divided into 650 constituencies. Each sends one MP to the House of Commons in Westminster. Rural seats are much larger than urban ones, so our map shows both the true geographic picture of the country and a schematic view of the political landscape.",
-    brexitText: "Something about Brexit...",
+    brexitText: "The United Kingdom European Union membership referendum took place on 23 June 2016"
   };
 
   // STARTCHECKS
@@ -282,7 +208,7 @@ mnv_ukelmap.model = (function(){
       // framework: {name: 'framework', ready:false, kickoff:true, update:true},
       // datafilter has no kickoff or update: it does what it has to on init
       datafilter: {name: 'datafilter', ready:false, kickoff:false, update:true},
-      dropdowns: {name: 'dropdowns', ready:false, kickoff:true, update:false},
+      dropdowns: {name: 'dropdowns', ready:false, kickoff:true, update:true},
       keys: {name: 'keys', ready:false, kickoff:true, update:true},
       map: {name: 'map', ready:false, kickoff:true, update:true},
       treemap: {name: 'treemap', ready:false, kickoff:true, update:true},
@@ -292,7 +218,7 @@ mnv_ukelmap.model = (function(){
       // framework: {name: 'framework', ready:false, kickoff:true, update:true},
       // datafilter has no kickoff or update: it does what it has to on init
       datafilter: {name: 'datafilter', ready:false, kickoff:false, update:true},
-      dropdowns: {name: 'dropdowns', ready:false, kickoff:true, update:false},
+      dropdowns: {name: 'dropdowns', ready:false, kickoff:true, update:true},
       keys: {name: 'keys', ready:false, kickoff:true, update:true},
       map: {name: 'map', ready:false, kickoff:true, update:true},
       treemap: {name: 'treemap', ready:false, kickoff:true, update:true},
@@ -301,7 +227,24 @@ mnv_ukelmap.model = (function(){
   };
 
   // TABS
-  my.tabs = {
+  my.unlivetabs = {
+    0: {
+      label: "2015",
+      children: {},
+      id: "fif"
+    },
+    1: {
+      label: "2010",
+      children: {},
+      id: "ten"
+    },
+    2: {
+      label: "Brexit",
+      children: {},
+      id: "brx"
+    }
+  };
+  my.livetabs = {
     0: {
       label: "2017",
       children: {},
@@ -322,16 +265,6 @@ mnv_ukelmap.model = (function(){
       children: {},
       id: "brx"
     }
-    // 4: {
-    //   label: "House prices",
-    //   children: {},
-    //   id: "hpr"
-    // }
-    // 4: {
-    //   label: "Salaries",
-    //   children: {},
-    //   id: "sal"
-    // }
   };
 
   // RESULTS
@@ -375,43 +308,6 @@ mnv_ukelmap.model = (function(){
 my.resultsBrexit = {
   val: 48.1,
 };
-
-  // DEMOGRAPHICS
-  // national % change 2010-15, for column charts
-  // NOTE: becomes redundant
-  // var howToUse = "<div class='how-to-use'>Select or search for a constituency for a national comparison.</div>";
-  // my.demographics = {
-  //   hpr: {
-  //     fill: {
-  //       cons: "#9f0737",
-  //       nat: "#929ca2",
-  //     },
-  //     nat_avg: 17,
-  //     min: -20,
-  //     max: 120,
-  //     explanation: "House prices, % change in annual average, May 2010 to Dec 2014" + howToUse
-  //   },
-  //   sal: {
-  //     fill: {
-  //       cons: "#9f0737",
-  //       nat: "#929ca2",
-  //     },
-  //     nat_avg: 4.7,
-  //     min: -30,
-  //     max: 30,
-  //     explanation: "Salaries, % change in annual average earnings, 2010 to 2014" + howToUse
-  //   },
-  //   pop: {
-  //     fill: {
-  //       cons: "#9f0737",
-  //       nat: "#929ca2",
-  //     },
-  //     nat_avg: 2.3,
-  //     min: -5,
-  //     max: 20,
-  //     explanation: "Population, % change 2010 to 2013" + howToUse
-  //   }
-  // };
 
   // PARTIES
   // All lookups for parties: colours, strings...

@@ -9,6 +9,7 @@ $lastupdate-bg: $color-aqua-blue-middle-light;
 @import '../../bower_components/mnv-shared/css/components/lastupdate/lastupdate';
 //Overwrite Livesearch default value
 $close-btn-w: 30px;
+$input-font-family: EconSansCond;
 $input-font-size: 14px;
 $result-font-size: 14px;
 $bar-height: 30px;
@@ -91,13 +92,6 @@ $input-hover-bg: $color-light-grey;
   src: url(../font/econsanscndbol-webfont.woff2) format('woff2'),
        url(../font/econsanscndbol-webfont.woff) format('woff')
 }
-
-// @font-face {
-//   font-family: EconSansCond;
-//   src: url(../font/econsanscndmed-webfont.woff2) format('woff2'),
-//   font-weight: 600;
-//        url(../font/econsanscndmed-webfont.woff) format('woff')
-// }
 
 // FONTS end
 
@@ -293,6 +287,7 @@ $input-hover-bg: $color-light-grey;
   }
   .mnv-ec-livesearch {
     z-index: 9999;
+    font-family: $input-font-family;
   }
   .#{$prefix}-keys-div {
     width: 25%;
@@ -422,11 +417,13 @@ $input-hover-bg: $color-light-grey;
     .ukel-val-cons,
     .ukel-val-nat  {
       font-size: 18px;
-      font-family: Officina_bold;
+      font-family: EconSansCond;
+      font-weight: 700;
     }
     .ukel-cat-text-p {
       font-size: 14px;
-      font-family: Officina_bold;
+      font-family: EconSansCond;
+      font-weight: 700;
       -webkit-font-smoothing: antialiased;
     }
     .ukel-cat-cons .ukel-cat-text-p {
@@ -465,7 +462,8 @@ $input-hover-bg: $color-light-grey;
     .default-text-container {
       color: #535353;
       font-size: 18px;
-      font-family: Officina_bold;
+      font-family: EconSansCond;
+      font-weight: 700;
       padding-top: 55px !important;
       line-height: 120%;
       padding-bottom: 20px;
@@ -477,6 +475,10 @@ $input-hover-bg: $color-light-grey;
       padding-right: $spacer;
       line-height: 120%;
     }
+  }
+
+  .#{$prefix}-treetext-top {
+    margin-bottom: 10px;
   }
 
   // #{$prefix}-tree has 3 children:

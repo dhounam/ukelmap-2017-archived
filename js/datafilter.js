@@ -148,10 +148,11 @@ mnv_ukelmap.datafilter = (function(){
           dataObj.corr = model.data.results2017Obj[id].corr;
         } else if (dataindex === "fif") {
           objName = "singleResults2015";
-          // Fish any correction value out of the global data node
-          dataObj.corr = model.data.results2015Obj[id].corr;
-        } else {
+        }  else if (dataindex === "ten") {
           objName = "singleResults2010";
+        } else {
+          // Brexit
+          objName = "singleResults2015";
         }
         // Update relevant single constituency repository in model.data
         model.data[objName][id] = dataObj;
@@ -498,8 +499,12 @@ mnv_ukelmap.datafilter = (function(){
     }
     else if (dataindex === "fif") {
       check = model.data.singleResults2015[id];
-    } else {
+    } else if (dataindex === 'ten') {
       check = model.data.singleResults2010[id];
+    }
+    else if (dataindex === 'brx') {
+      // Brexit wants a 2015 constit result
+      check = model.data.singleResults2015[id];
     }
     if (check !== undefined) {
         mnv_ukelmap.controller.findConstitListener(id, true);
@@ -517,8 +522,11 @@ mnv_ukelmap.datafilter = (function(){
       filename = model.sourcefiles.constitfolder2017 + 'r2017';
     } else if (dataindex === "fif") {
       filename += "r2015";
-    } else {
+    } else if (dataindex === "ten") {
       filename += "r2010";
+    } else {
+      // Brexit uses 2015
+      filename += "r2015";
     }
     filename += id + ".json";
     // Now jump out of the aeroplane to read it...

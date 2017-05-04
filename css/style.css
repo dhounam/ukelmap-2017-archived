@@ -141,7 +141,7 @@ label:last-of-type [datatooltip]:before {
 
 .mnv-ec-livesearch {
   position: relative;
-  font-family: "EconSans";
+  font-family: "EconSansCond";
   -webkit-font-smoothing: antialiased; }
   .mnv-ec-livesearch ::-webkit-input-placeholder {
     color: #000; }
@@ -200,7 +200,7 @@ label:last-of-type [datatooltip]:before {
       width: 100%;
       background: #333;
       color: #fff;
-      font-family: "EconSans";
+      font-family: "EconSansCond";
       padding: 7px 5px;
       border-bottom: solid 1px #fff;
       box-sizing: border-box;
@@ -583,7 +583,8 @@ ul.ec-interactive-dropdowns {
   .mnv-map-uk-election-2017-election-night .ukelmap-map-div {
     width: 45%; }
   .mnv-map-uk-election-2017-election-night .mnv-ec-livesearch {
-    z-index: 9999; }
+    z-index: 9999;
+    font-family: EconSansCond; }
   .mnv-map-uk-election-2017-election-night .ukelmap-keys-div {
     width: 25%; }
   .mnv-map-uk-election-2017-election-night .ukelmap-keys-ul {
@@ -679,10 +680,12 @@ ul.ec-interactive-dropdowns {
   .mnv-map-uk-election-2017-election-night .ukelmap-colchart-div svg .ukel-val-cons,
   .mnv-map-uk-election-2017-election-night .ukelmap-colchart-div svg .ukel-val-nat {
     font-size: 18px;
-    font-family: Officina_bold; }
+    font-family: EconSansCond;
+    font-weight: 700; }
   .mnv-map-uk-election-2017-election-night .ukelmap-colchart-div svg .ukel-cat-text-p {
     font-size: 14px;
-    font-family: Officina_bold;
+    font-family: EconSansCond;
+    font-weight: 700;
     -webkit-font-smoothing: antialiased; }
   .mnv-map-uk-election-2017-election-night .ukelmap-colchart-div svg .ukel-cat-cons .ukel-cat-text-p {
     color: #9f0737; }
@@ -717,7 +720,8 @@ ul.ec-interactive-dropdowns {
   .mnv-map-uk-election-2017-election-night.tabs-pop .default-text-container, .mnv-map-uk-election-2017-election-night.tabs-hpr .default-text-container, .mnv-map-uk-election-2017-election-night.tabs-sal .default-text-container, .mnv-map-uk-election-2017-election-night.tabs-ele .default-text-container {
     color: #535353;
     font-size: 18px;
-    font-family: Officina_bold;
+    font-family: EconSansCond;
+    font-weight: 700;
     padding-top: 55px !important;
     line-height: 120%;
     padding-bottom: 20px; }
@@ -726,6 +730,8 @@ ul.ec-interactive-dropdowns {
   .mnv-map-uk-election-2017-election-night.tabs-pop .ukelmap-keys-label, .mnv-map-uk-election-2017-election-night.tabs-hpr .ukelmap-keys-label, .mnv-map-uk-election-2017-election-night.tabs-sal .ukelmap-keys-label, .mnv-map-uk-election-2017-election-night.tabs-ele .ukelmap-keys-label {
     padding-right: 10px;
     line-height: 120%; }
+  .mnv-map-uk-election-2017-election-night .ukelmap-treetext-top {
+    margin-bottom: 10px; }
   .mnv-map-uk-election-2017-election-night .ukelmap-treetext-top, .mnv-map-uk-election-2017-election-night .ukelmap-treechart, .mnv-map-uk-election-2017-election-night .ukelmap-treetext-bottom {
     float: left;
     width: 100%;

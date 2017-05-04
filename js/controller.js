@@ -205,6 +205,9 @@ mnv_ukelmap.controller = (function(){
     // Slap into the model:
     model.data.today = today;
 
+    // Default tab definition:
+    model.tabs = model.unlivetabs;
+
     // How big are we today?
     getWidgetSize();
 

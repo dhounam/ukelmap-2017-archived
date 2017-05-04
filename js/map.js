@@ -432,7 +432,7 @@ mnv_ukelmap.map = (function(){
       list: mnv_ukelmap.model.data.constituencyLookupArray,
       searchProperty: "name",
       hideOnLeave: true,
-      placeholder: "Search your constituency"
+      placeholder: "Search by constituency"
     };
     // Create the liveSearch obj
     liveSearchCmp = new ecLiveSearch(config);
@@ -560,7 +560,6 @@ mnv_ukelmap.map = (function(){
   // MAP COLOURING FUNCTIONS
   // colourMap is called from update. According to dataIndex, forks to:
   //    simpleColour
-  //    marginalColour
   //    brexitColour
   // Each returns a fill value for a single path
 
@@ -577,30 +576,46 @@ mnv_ukelmap.map = (function(){
   }
   // SIMPLE COLOUR ends
 
+  // BREXIT COLOUR
+  // Arg is an object with props 'id' and 'val'
   function brexitColour(data) {
-    var dIndex, id, val, rangesArray, i, col;
+    var dIndex, remain, col, rangesArray, i;
     dIndex = model.flags.dataindex;
+    remain = data.val;
     // By default:
     col = "#eeeeee";
-    // Lookup string for this topic
-    id = my.localflags.dataindex;
-    // Get the value. If there isn't one, set to default:
-    val = data[id];
-    if (isNaN(val)) {
-      return col;
-    }
-    else {
-      // Still here? Look up in the ranges array for demographics
-      rangesArray = model.keys[dIndex].bigranges;
-      for (i = 0; i < rangesArray.length; i ++) {
-        if (val < rangesArray[i].val) {
-          //r = i;
-          break;
-        }
+    rangesArray = model.keys[dIndex].bigranges;
+    for (i = 0; i < rangesArray.length; i ++) {
+      if (data.val < rangesArray[i].val) {
+        col = rangesArray[i].fill;
+        break;
       }
-      return rangesArray[i].fill;
     }
+    return col;
+
+    // var dIndex, id, val, rangesArray, i, col;
+    // dIndex = model.flags.dataindex;
+    // // Lookup string for this topic
+    // id = my.localflags.dataindex;
+    // // Get the value. If there isn't one, set to default:
+    // val = data[id];
+    // if (isNaN(val)) {
+    //   return col;
+    // }
+    // else {
+    //   // Still here? Look up in the ranges array for demographics
+    //   rangesArray = model.keys[dIndex].bigranges;
+    //   for (i = 0; i < rangesArray.length; i ++) {
+    //     if (val < rangesArray[i].val) {
+    //       //r = i;
+    //       break;
+    //     }
+    //   }
+    //   return rangesArray[i].fill;
+    // }
+
   }
+  // BREXIT COLOUR ends
 
 
   // COLOUR MAP
@@ -643,12 +658,6 @@ mnv_ukelmap.map = (function(){
               break;
             case "brx":
               fill = brexitColour(luObj);
-              break;
-            case "hpr":
-              fill = demographicColour(luObj);
-              break;
-            case "sal":
-              fill = demographicColour(luObj);
               break;
             default:
               fill = simpleColour(luObj);

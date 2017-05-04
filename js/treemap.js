@@ -119,6 +119,11 @@ mnv_ukelmap.treemap = (function(){
       }
     }
 
+    // var treemap = d3.treemap()
+    //     .tile(d3.treemapSquarify.ratio(1))
+    //     .size([width / ratio, height]);
+
+
     // Layout
     treeMap = d3.layout.treemap()
       .size([treeWidth,treeHeight])
@@ -127,7 +132,7 @@ mnv_ukelmap.treemap = (function(){
       // Sorts to drop from top-left to bottom-right
       // Comment out to sort the other way:
       .sort(function(a,b) {
-          return a.value - b.value;
+          return a.id - b.id;
       })
       .value(function(d) {
         return d.value; })
@@ -166,10 +171,15 @@ mnv_ukelmap.treemap = (function(){
       dataObj = model.data.singleResults2010;
       results = model.results2010;
     } else {
-      dataObj = model.data.resultsBrexit;
+      dataObj = model.data.resultsBrexitObj;
       results = model.resultsBrexit;
     }
-    if (id == undefined) {
+    // If we launched on a small device, this will error.
+    // Obvz there's a proper fix, but for now... kludge.
+    if (typeof dataObj === 'undefined') {
+      return;
+    }
+    if (typeof id === 'undefined') {
       // Seats count
         thisdata = results;
     }
@@ -261,20 +271,16 @@ mnv_ukelmap.treemap = (function(){
         // "Seats": update tree map only
         // (CSS shows default text)
         updateTreeMap(data, dataindex);
-        if ( (dataindex === "sev") || (dataindex === "fif") || (dataindex === "ten") ) {
-          d3.select(".ukelmap-treetext-bottom").text("UK total");
+        if (dataindex === "brx") {
+          d3.select(".ukelmap-treetext-bottom").text("National result");
+          defaultText = model.strings.brexitText;
         }
         else {
-          d3.select(".ukelmap-treetext-bottom").text("");
-          // updateColChart(data, dataindex);
+          d3.select(".ukelmap-treetext-bottom").text("UK total");
+          defaultText = model.strings.defaultText;
         }
       }
       // Set the explanatory text
-      if (dataindex === "brx") {
-        defaultText = model.strings.brexitText;
-      } else {
-        defaultText = model.strings.defaultText;
-      }
       d3.select(".default-body").html(defaultText);
 
       my.localflags.currentconstit = currentconstit;
@@ -366,7 +372,7 @@ mnv_ukelmap.treemap = (function(){
   // Called from my.update
   function updateBexitTreeMap(data) {
     var sizes, tree, kids, kLen, maj, turnout, hpercent, wpercent;
-
+    alert('Called updateBexitTreeMap');
     if (data === undefined) { return; }
 
     wpercent = parseInt(treeWrapper.style("width"),10);
@@ -422,10 +428,12 @@ mnv_ukelmap.treemap = (function(){
 
     // Convert to treemap-compatible data object
     if (key === "brx") {
+      var remainVal = data.val.toFixed(1);
+      var leaveVal = (100 - remainVal).toFixed(1);
       mapTree = {
         children: [
-          {id: 'remain', value: data.val},
-          {id: 'leave', value: 100 - data.val}
+          {id: 'remain', value: remainVal},
+          {id: 'leave', value: leaveVal}
         ]
       };
       // And fetch in 2015 data
@@ -456,8 +464,8 @@ mnv_ukelmap.treemap = (function(){
     maj = numberformat(maj);
     majorityvalues.text(maj);
 
-    // Overall turnout:
-    turnout = majorityTree.turnout;
+    // Overall turnout, from original data obj:
+    turnout = itemisedData.turnout;
 
     // Kill current content:
     d3.selectAll(".ukelmap-treemap-node").remove();
@@ -466,6 +474,28 @@ mnv_ukelmap.treemap = (function(){
     if (key !== 'brx') {
       mapTree = majorityTree;
     }
+
+    // employees.sort(function(a, b){
+    //     var nameA=a.name.toLowerCase(), nameB=b.name.toLowerCase()
+    //     if (nameA < nameB) //sort string ascending
+    //         return -1
+    //     if (nameA > nameB)
+    //         return 1
+    //     return 0 //default return value (no sorting)
+    // })
+
+    // Sorting...
+    // Brexit forces "Leave", "Remain"
+    // Others sort by value
+    treeMap.sort(function(a,b) {
+      if (key === 'brx') {
+        if (a.id < b.id) { return -1 }
+        if (a.id > b.id) { return 1 }
+        return 0;
+      } else {
+        return a.value - b.value;
+      }
+    });
 
     // Bind data
     node = treeMapDiv.datum(mapTree).selectAll(".node")
@@ -479,7 +509,7 @@ mnv_ukelmap.treemap = (function(){
     // Update
     node
       //.data(treeMap.nodes)
-      //.transition().duration(500)
+      // .transition().duration(500)
       .call(position)
       .style("background-color", function(d, i) {
         var col;
@@ -583,7 +613,7 @@ mnv_ukelmap.treemap = (function(){
       swingLab, swingVal;
 
     if (data === undefined) { return; }
-    console.log(data)
+
     // Do any workings...
     winStr = parties[data.win].midname;
     winCol = parties[data.win].colour;
