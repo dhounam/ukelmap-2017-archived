@@ -39,8 +39,8 @@ mnv_ukelmap.model = (function(){
   // Note that months are from zero (so 5 for June)
   // And, since June is BST, subtract 1 from hour (i.e. 21 for 10pm)
   // my.goliveTime = new Date(Date.UTC(2017, 5, 8, 21, 0, 0));
-  // But for TESTING, May 3, 4pm
-  my.goliveTime = Date.UTC(2017, 4, 3, 15, 44, 0);
+  // But for TESTING (4 = May; hour must be T-1)
+  my.goliveTime = Date.UTC(2017, 4, 8, 14, 12, 0);
 
   // COLOURS
   my.colours = {
@@ -319,7 +319,7 @@ my.resultsBrexit = {
       midname:"Conservative",
       shortname:"Con",
       keyname:"Con",
-      colour: "#3356f9",
+      colour: "rgba(0, 107, 161, 1)",
       // heatcolour are used for one-party heatmaps
       heatcolour: "#3356f9",
       currentseats: 307
@@ -330,7 +330,7 @@ my.resultsBrexit = {
       midname:"Labour",
       shortname:"Lab",
       keyname:"Lab",
-      colour:"#df181c",
+      colour:"rgba(219, 68, 75, 1)",
       heatcolour: "#df181c",
       currentseats: 258
     },
@@ -340,7 +340,7 @@ my.resultsBrexit = {
       midname:"Lib Dem",
       shortname:"LD",
       keyname:"Lib Dem",
-      colour:"#fd9d28",
+      colour:"rgba(234, 179, 51, 1)",
       heatcolour: "#fd9d28",
       currentseats: 57
     },
@@ -350,7 +350,7 @@ my.resultsBrexit = {
       midname:"Green",
       shortname:"Green",
       keyname:"Green",
-      colour:"#6a9e3f",
+      colour:"rgba(54, 153, 139, 1)",
       heatcolour: "#6a9e3f",
       currentseats: 1
     },
@@ -360,7 +360,7 @@ my.resultsBrexit = {
       midname:"UKIP",
       shortname:"UKIP",
       keyname:"UKIP",
-      colour:"#79279f",
+      colour:"rgba(154, 96, 128, 1)",
       heatcolour: "#79279f",
       currentseats:0
     },

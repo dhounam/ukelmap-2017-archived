@@ -518,7 +518,7 @@ mnv_ukelmap.datafilter = (function(){
     if (dataindex === "sev") {
       filename += "r2017";
       // NOTE: during local tests, override with local folder:
-      console.log('Inferentially pointing to local single-constituencies folder for 2017 results...')
+      // console.log('Inferentially pointing to local single-constituencies folder for 2017 results...')
       filename = model.sourcefiles.constitfolder2017 + 'r2017';
     } else if (dataindex === "fif") {
       filename += "r2015";

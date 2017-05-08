@@ -132,7 +132,6 @@ mnv_ukelmap.dropdowns = (function(){
   // UPDATE
   my.update = function() {
     var tabs, topicdiv, timeStamp, liveTime;
-    console.log('Update dropdown...');
 
     // To prevent unnecessary redraws, what's current situation?
     // Crude check on first id:
@@ -152,7 +151,6 @@ mnv_ukelmap.dropdowns = (function(){
     tabs = model.tabs;
     // So have things changed?
     if (tabs[0].id !== currentID) {
-      console.log(`ID changed from ${currentID} to ${tabs[0].id}`);
       topicdiv = $(".ukelmap-topic-div");
       topicdiv.empty();
       createTabs(tabs,topicdiv,controller.dropdownListener);

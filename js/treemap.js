@@ -248,7 +248,6 @@ mnv_ukelmap.treemap = (function(){
         else {
           // Brexit
           data = model.data.resultsBrexitObj[currentconstit];
-          // updateColChart(data, dataindex);
           // Update treemap for new constit
           updateTreeMap(data, dataindex, currentconstit);
           // Update constit details, using 2015 result...
@@ -328,51 +327,11 @@ mnv_ukelmap.treemap = (function(){
     return tree;
   }
 
-  // UPDATE COL CHART
-  // Params are constit-specific object and topic id
-  function updateColChart(data, topicID) {
-    console.log("I shouldn't be here (updateColChart)...")
-    return;
-    var constitID, o=[], temp={}, nrOfDecimal = 1;
-    if (data === undefined) { return; }
-    constitID = data.id;
-    if (constitID === undefined) {
-      // Default national result
-      o = [
-        {display: "", value:0, valStr:""},
-        {display: "National average", value: model.demographics[topicID].nat_avg, valStr: model.demographics[topicID].nat_avg}
-      ];
-    }
-    else {
-      o = [];
-      temp = {};
-      // Local: constit name and val for this topic:
-      temp.display = model.data.constituencyLookupObj[constitID].name;
-      if (isNaN(data[topicID])) {
-        temp.value = 0;
-        temp.valStr = "No data";
-      }
-      else {
-        temp.value = data[topicID];
-        temp.valStr = d3.round(data[topicID],nrOfDecimal);
-      }
-      o.push(temp);
-      // National:
-      temp = {};
-      temp.display = "National average";
-      temp.value = model.demographics[topicID].nat_avg;
-      temp.valStr = d3.round(model.demographics[topicID].nat_avg,nrOfDecimal);
-      o.push(temp);
-    }
-    drawColChart(o);
-  }
-
-
   // UPDATE BREXIT TREEMAP
   // Called from my.update
-  function updateBexitTreeMap(data) {
+  function updateB_exitTreeMap(data) {
     var sizes, tree, kids, kLen, maj, turnout, hpercent, wpercent;
-    alert('Called updateBexitTreeMap');
+    alert('Called updateB_exitTreeMap');
     if (data === undefined) { return; }
 
     wpercent = parseInt(treeWrapper.style("width"),10);
@@ -404,9 +363,6 @@ mnv_ukelmap.treemap = (function(){
   // UPDATE BREXIT TREEMAP ENDS
 
   // UPDATE TREEMAP
-
-
-  // UPDATE PARTY TREE MAP
   function updateTreeMap(data, key, constitID) {
     var sizes, tree, kids, kLen, maj, turnout, hpercent, wpercent, mapTree, majorityTree, itemisedData;
 
