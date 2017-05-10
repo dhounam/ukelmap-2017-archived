@@ -38,9 +38,9 @@ mnv_ukelmap.model = (function(){
   // GO-LIVE TIME: 10pm on 8 June 2017 as ms
   // Note that months are from zero (so 5 for June)
   // And, since June is BST, subtract 1 from hour (i.e. 21 for 10pm)
-  // my.goliveTime = new Date(Date.UTC(2017, 5, 8, 21, 0, 0));
+  my.goliveTime = new Date(Date.UTC(2017, 5, 8, 21, 0, 0));
   // But for TESTING (4 = May; hour must be T-1)
-  my.goliveTime = Date.UTC(2017, 4, 8, 14, 12, 0);
+  // my.goliveTime = Date.UTC(2017, 4, 9, 13, 45, 0);
 
   // COLOURS
   my.colours = {
