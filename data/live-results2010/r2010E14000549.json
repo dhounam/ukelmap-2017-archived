@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Battersea",
+
+"id": "E14000549",
+
+"region": "London",
+
+"turnout": "48792",
+
+"electorate": "74300",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.492,
+
+"hpr": 46.4940568629387,
+
+"sal": 5.50235598115216,
+
+"ele": -3.97409,
+
+"con": "23103",
+
+"lab": "17126",
+
+"lib": "7176",
+
+"grn": "559",
+
+"ukp": "505",
+
+"ind": "155",
+
+"oth": "168",
+
+"mpn": "Jane Ellison",
+
+});
+

@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Norwich, North",
+
+"id": "E14000863",
+
+"region": "East Of England",
+
+"turnout": "42573",
+
+"electorate": "65258",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.548,
+
+"hpr": 13.4646588748404,
+
+"sal": 5.50225181123946,
+
+"ele": -1.46676,
+
+"con": "17280",
+
+"lab": "13379",
+
+"lib": "7783",
+
+"grn": "1245",
+
+"ukp": "1878",
+
+"bnp": "747",
+
+"ind": "143",
+
+"oth": "118",
+
+"mpn": "Chloe Smith",
+
+});
+

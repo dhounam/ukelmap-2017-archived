@@ -203,7 +203,7 @@ $input-hover-bg: $color-light-grey;
     line-height: 3em;
     padding: 0 1%;
     box-sizing: border-box;
-    display: none;
+    display: block;
   }
   .redflash-div {
     background-color: #FF0000;
@@ -551,6 +551,10 @@ $input-hover-bg: $color-light-grey;
   }
   // Footer sub-divs.
   .source-div, .footnote-div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
     float: left;
     width: 30%;
     height: 100%;
@@ -558,8 +562,18 @@ $input-hover-bg: $color-light-grey;
     line-height: 1em;
   }
   .footnote-div {
+    padding-top: 13px;
+    padding-right: 3px;
+    float: right;
+    font-size: 100%;
     text-align: right;
-    width: 69%;
+    vertical-align: baseline;
+    line-height: 1em;
+    display: none;
+    // width: 69%;
+  }
+  .footnote-show {
+    display: block;
   }
   // Map contents: ocean fill, paths group, individual paths....
   .ocean {

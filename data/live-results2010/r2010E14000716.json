@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Great Grimsby",
+
+"id": "E14000716",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "32954",
+
+"electorate": "61229",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.71,
+
+"hpr": 3.06250093207908,
+
+"sal": 1.4342453662842,
+
+"ele": -6.582,
+
+"con": "10063",
+
+"lab": "10777",
+
+"lib": "7388",
+
+"ukp": "2043",
+
+"bnp": "1517",
+
+"ind": "835",
+
+"oth": "331",
+
+"mpn": "Austin Mitchell",
+
+});
+

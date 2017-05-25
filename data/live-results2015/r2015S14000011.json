@@ -1,0 +1,16 @@
+resultCB({
+"name": "Coatbridge, Chryston and Bellshill",
+"id": "S14000011",
+"region": "Scotland",
+"turnout": "50698",
+"electorate": "73813",
+"win": "snp",
+"swing": "36.22",
+"status": "gain",
+"con": "3209",
+"lab": "17195",
+"lib": "549",
+"ukp": "1049",
+"snp": "28696",
+"mpn": "Phil Boswell"
+});

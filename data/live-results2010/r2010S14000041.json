@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Kirkcaldy & Cowdenbeath",
+
+"id": "S14000041",
+
+"region": "Scotland",
+
+"turnout": "45802",
+
+"electorate": "73665",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 5.51077208481613,
+
+"sal": -1.81274900398407,
+
+"ele": 1.267232,
+
+"con": "4258",
+
+"lab": "29559",
+
+"lib": "4269",
+
+"ukp": "760",
+
+"snp": "6550",
+
+"ind": "184",
+
+"oth": "222",
+
+"mpn": "Gordon Brown",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Leeds East",
+"id": "E14000778",
+"region": "Yorkshire",
+"turnout": "38196",
+"electorate": "64754",
+"win": "lab",
+"swing": "2.8",
+"status": "hold",
+"con": "7997",
+"lab": "20530",
+"lib": "1296",
+"grn": "1117",
+"ukp": "7256",
+"mpn": "Richard Burgon"
+});

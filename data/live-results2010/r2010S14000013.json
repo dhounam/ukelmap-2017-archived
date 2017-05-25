@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Dumfries & Galloway",
+
+"id": "S14000013",
+
+"region": "Scotland",
+
+"turnout": "52173",
+
+"electorate": "74581",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 2.683807693429,
+
+"sal": 4.40691927512356,
+
+"ele": -1.79834,
+
+"con": "16501",
+
+"lab": "23950",
+
+"lib": "4608",
+
+"ukp": "695",
+
+"snp": "6419",
+
+"mpn": "Russell Brown",
+
+});
+

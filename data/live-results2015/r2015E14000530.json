@@ -1,0 +1,16 @@
+resultCB({
+"name": "Aldershot",
+"id": "E14000530",
+"region": "South East",
+"turnout": "46191",
+"electorate": "72434",
+"win": "con",
+"swing": "1.18",
+"status": "hold",
+"con": "23369",
+"lab": "8468",
+"lib": "4076",
+"grn": "2025",
+"ukp": "8253",
+"mpn": "Gerald Howarth"
+});

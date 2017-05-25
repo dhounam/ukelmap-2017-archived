@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Corby",
+
+"id": "E14000648",
+
+"region": "East Midlands",
+
+"turnout": "35775",
+
+"electorate": "79878",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.108,
+
+"hpr": 8.50161049031178,
+
+"sal": 6.51838802025986,
+
+"ele": 1.632705,
+
+"con": "9476",
+
+"lab": "17267",
+
+"lib": "1770",
+
+"grn": "378",
+
+"ukp": "5108",
+
+"bnp": "614",
+
+"oth": "1052",
+
+"mpn": "Andy Sawford",
+
+});
+

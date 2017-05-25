@@ -1,0 +1,16 @@
+resultCB({
+"name": "Pendle",
+"id": "E14000875",
+"region": "North West",
+"turnout": "44448",
+"electorate": "64657",
+"win": "con",
+"swing": "2.15",
+"status": "hold",
+"con": "20978",
+"lab": "15525",
+"lib": "1487",
+"grn": "1043",
+"ukp": "5415",
+"mpn": "Andrew Stephenson"
+});

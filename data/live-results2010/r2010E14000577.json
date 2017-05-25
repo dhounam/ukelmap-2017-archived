@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Bolsover",
+
+"id": "E14000577",
+
+"region": "East Midlands",
+
+"turnout": "43988",
+
+"electorate": "72766",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.151,
+
+"hpr": 2.39566709296697,
+
+"sal": 0.911111111111111,
+
+"ele": -2.63769,
+
+"con": "10812",
+
+"lab": "21994",
+
+"lib": "6821",
+
+"ukp": "1721",
+
+"bnp": "2640",
+
+"mpn": "Dennis Skinner",
+
+});
+

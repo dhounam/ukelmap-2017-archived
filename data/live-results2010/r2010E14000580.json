@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bolton, West",
+
+"id": "E14000580",
+
+"region": "North West",
+
+"turnout": "47576",
+
+"electorate": "71250",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.064,
+
+"hpr": 2.64208170938174,
+
+"sal": -3.90714778211905,
+
+"ele": 0.558675,
+
+"con": "18235",
+
+"lab": "18327",
+
+"lib": "8177",
+
+"grn": "545",
+
+"ukp": "1901",
+
+"ind": "254",
+
+"oth": "137",
+
+"mpn": "Julie Hilling",
+
+});
+

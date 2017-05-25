@@ -1,0 +1,16 @@
+resultCB({
+"name": "Lincoln",
+"id": "E14000792",
+"region": "East Midlands",
+"turnout": "46852",
+"electorate": "74121",
+"win": "con",
+"swing": "0.38",
+"status": "hold",
+"con": "19976",
+"lab": "18533",
+"lib": "1992",
+"ukp": "5721",
+"oth": "630",
+"mpn": "Karl McCartney"
+});

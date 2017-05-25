@@ -1,0 +1,17 @@
+resultCB({
+"name": "Chorley",
+"id": "E14000637",
+"region": "North West",
+"turnout": "51712",
+"electorate": "74679",
+"win": "lab",
+"swing": "1.78",
+"status": "hold",
+"con": "18792",
+"lab": "23322",
+"lib": "1354",
+"grn": "1111",
+"ukp": "6995",
+"ind": "138",
+"mpn": "Lindsay Hoyle"
+});

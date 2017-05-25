@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Wimbledon",
+
+"id": "E14001040",
+
+"region": "London",
+
+"turnout": "47395",
+
+"electorate": "65723",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.498,
+
+"hpr": 56.5503222599377,
+
+"sal": 4.25756509500353,
+
+"ele": -2.24539,
+
+"con": "23257",
+
+"lab": "10550",
+
+"lib": "11849",
+
+"grn": "590",
+
+"ukp": "914",
+
+"oth": "235",
+
+"mpn": "Stephen Hammond",
+
+});
+

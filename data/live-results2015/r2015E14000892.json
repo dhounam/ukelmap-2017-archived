@@ -1,0 +1,17 @@
+resultCB({
+"name": "Redditch",
+"id": "E14000892",
+"region": "West Midlands",
+"turnout": "44098",
+"electorate": "65529",
+"win": "con",
+"swing": "1.39",
+"status": "hold",
+"con": "20771",
+"lab": "13717",
+"lib": "1349",
+"grn": "960",
+"ukp": "7133",
+"ind": "168",
+"mpn": "Karen Lumley"
+});

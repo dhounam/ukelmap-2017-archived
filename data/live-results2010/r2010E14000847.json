@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Herefordshire, North",
+
+"id": "E14000847",
+
+"region": "West Midlands",
+
+"turnout": "47568",
+
+"electorate": "66525",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.311,
+
+"hpr": 1.32892715707152,
+
+"sal": 2.94401544401546,
+
+"ele": -2.99049,
+
+"con": "24631",
+
+"lab": "3373",
+
+"lib": "14744",
+
+"grn": "1533",
+
+"ukp": "2701",
+
+"ind": "586",
+
+"mpn": "Bill Wiggin",
+
+});
+

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Aldridge-Brownhills",
+
+"id": "E14000531",
+
+"region": "West Midlands",
+
+"turnout": "38634",
+
+"electorate": "59355",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.884,
+
+"hpr": 2.16047561334869,
+
+"sal": 15.6871508379888,
+
+"ele": 1.114601,
+
+"con": "22913",
+
+"lab": "7647",
+
+"lib": "6833",
+
+"grn": "847",
+
+"oth": "394",
+
+"mpn": "Richard Shepherd",
+
+});
+

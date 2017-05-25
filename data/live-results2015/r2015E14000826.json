@@ -1,0 +1,17 @@
+resultCB({
+"name": "Morley and Outwood",
+"id": "E14000826",
+"region": "Yorkshire And The Humber",
+"turnout": "48250",
+"electorate": "76179",
+"win": "con",
+"swing": "1.56",
+"status": "gain",
+"con": "18776",
+"lab": "18354",
+"lib": "1426",
+"grn": "1264",
+"ukp": "7951",
+"oth": "479",
+"mpn": "Andrea Jenkyns"
+});

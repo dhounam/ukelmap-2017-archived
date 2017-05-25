@@ -1,0 +1,17 @@
+resultCB({
+"name": "Leeds North West",
+"id": "E14000780",
+"region": "Yorkshire",
+"turnout": "43357",
+"electorate": "61974",
+"win": "lib",
+"swing": "9.9",
+"status": "hold",
+"con": "8083",
+"lab": "13041",
+"lib": "15948",
+"grn": "3042",
+"ukp": "2997",
+"oth": "246",
+"mpn": "Greg Mulholland"
+});

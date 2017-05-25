@@ -1,0 +1,17 @@
+resultCB({
+"name": "North West Cambridgeshire",
+"id": "E14000855",
+"region": "East Anglia",
+"turnout": "61100",
+"electorate": "91783",
+"win": "con",
+"swing": "4.9",
+"status": "hold",
+"con": "32070",
+"lab": "10927",
+"lib": "3479",
+"grn": "2159",
+"ukp": "12275",
+"oth": "190",
+"mpn": "Shailesh Vara"
+});

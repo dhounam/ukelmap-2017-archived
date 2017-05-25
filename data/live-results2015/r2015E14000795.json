@@ -1,0 +1,18 @@
+resultCB({
+"name": "Liverpool Wavertree",
+"id": "E14000795",
+"region": "North West",
+"turnout": "40974",
+"electorate": "61731",
+"win": "lab",
+"swing": "6.84",
+"status": "hold",
+"con": "4098",
+"lab": "28401",
+"lib": "2454",
+"grn": "2140",
+"ukp": "3375",
+"ind": "144",
+"oth": "362",
+"mpn": "Luciana Berger"
+});

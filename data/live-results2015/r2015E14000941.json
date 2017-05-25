@@ -1,0 +1,16 @@
+resultCB({
+"name": "South Norfolk",
+"id": "E14000941",
+"region": "East Anglia",
+"turnout": "57123",
+"electorate": "78885",
+"win": "con",
+"swing": "0.14",
+"status": "hold",
+"con": "30995",
+"lab": "10502",
+"lib": "4689",
+"grn": "3090",
+"ukp": "7847",
+"mpn": "Richard Bacon"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Newport West",
+"id": "W07000056",
+"region": "Wales",
+"turnout": "40347",
+"electorate": "62145",
+"win": "lab",
+"swing": "0.11",
+"status": "hold",
+"con": "13123",
+"lab": "16633",
+"lib": "1581",
+"grn": "1272",
+"ukp": "6134",
+"plc": "1604",
+"mpn": "Paul Flynn"
+});

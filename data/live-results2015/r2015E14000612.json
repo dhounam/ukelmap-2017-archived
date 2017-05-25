@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bury South",
+"id": "E14000612",
+"region": "North West",
+"turnout": "47215",
+"electorate": "73883",
+"win": "lab",
+"swing": "1.8",
+"status": "hold",
+"con": "16350",
+"lab": "21272",
+"lib": "1690",
+"grn": "1434",
+"ukp": "6299",
+"oth": "170",
+"mpn": "Ivan Lewis"
+});

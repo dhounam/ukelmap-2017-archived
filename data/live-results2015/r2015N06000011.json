@@ -1,0 +1,15 @@
+resultCB({
+"name": "Newry and Armagh",
+"id": "N06000011",
+"region": "Northern Ireland",
+"turnout": "49877",
+"electorate": "77622",
+"win": "snf",
+"swing": "",
+"status": "hold",
+"con": "210",
+"snf": "20488",
+"sdl": "12026",
+"uup": "16312",
+"mpn": "Mickey Brady"
+});

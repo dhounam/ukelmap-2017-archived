@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Hull, East",
+
+"id": "E14000771",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "34184",
+
+"electorate": "67530",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": -0.25,
+
+"hpr": 8.61873010789142,
+
+"sal": 13.2503660322108,
+
+"ele": -3.89274,
+
+"con": "5667",
+
+"lab": "16387",
+
+"lib": "7790",
+
+"ukp": "2745",
+
+"oth": "1595",
+
+"mpn": "Karl Turner",
+
+});
+

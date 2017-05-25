@@ -1,0 +1,18 @@
+resultCB({
+"name": "Cardiff West",
+"id": "W07000079",
+"region": "Wales",
+"turnout": "43792",
+"electorate": "66758",
+"win": "lab",
+"swing": "1.95",
+"status": "hold",
+"con": "11014",
+"lab": "17803",
+"lib": "2069",
+"grn": "1704",
+"ukp": "4923",
+"plc": "6096",
+"oth": "183",
+"mpn": "Kevin Brennan"
+});

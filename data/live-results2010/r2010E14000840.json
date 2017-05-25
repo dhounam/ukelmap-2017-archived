@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Durham, North",
+
+"id": "E14000840",
+
+"region": "North East",
+
+"turnout": "40967",
+
+"electorate": "67548",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.77,
+
+"hpr": -2.91711743719321,
+
+"sal": -1.47160266727983,
+
+"ele": -4.27739,
+
+"con": "8622",
+
+"lab": "20698",
+
+"lib": "8617",
+
+"ukp": "1344",
+
+"bnp": "1686",
+
+"mpn": "Kevan Jones",
+
+});
+

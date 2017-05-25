@@ -1,0 +1,17 @@
+resultCB({
+"name": "Stoke-on-Trent South",
+"id": "E14000974",
+"region": "West Midlands",
+"turnout": "39107",
+"electorate": "68788",
+"win": "lab",
+"swing": "1.94",
+"status": "hold",
+"con": "12780",
+"lab": "15319",
+"lib": "1309",
+"grn": "1029",
+"ukp": "8298",
+"oth": "372",
+"mpn": "Rob Flello"
+});

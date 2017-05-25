@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Dorset, Mid & Poole North",
+
+"id": "E14000815",
+
+"region": "South West",
+
+"turnout": "46788",
+
+"electorate": "72647",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 0.437,
+
+"hpr": 20.0774160623308,
+
+"sal": 9.36737375633565,
+
+"ele": -1.58546,
+
+"con": "20831",
+
+"lab": "2748",
+
+"lib": "21100",
+
+"ukp": "2109",
+
+"mpn": "Annette Brooke",
+
+});
+

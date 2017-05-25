@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Harrogate & Knaresborough",
+
+"id": "E14000730",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "53134",
+
+"electorate": "75269",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.532,
+
+"hpr": 7.54698752621614,
+
+"sal": 1.66922486569455,
+
+"ele": 1.31706,
+
+"con": "24305",
+
+"lab": "3413",
+
+"lib": "23266",
+
+"ukp": "1056",
+
+"bnp": "1094",
+
+"mpn": "Andrew Jones",
+
+});
+

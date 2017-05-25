@@ -1,0 +1,17 @@
+resultCB({
+"name": "Putney",
+"id": "E14000887",
+"region": "London",
+"turnout": "42813",
+"electorate": "63918",
+"win": "con",
+"swing": "0.44",
+"status": "hold",
+"con": "23018",
+"lab": "12838",
+"lib": "2717",
+"grn": "2067",
+"ukp": "1989",
+"oth": "184",
+"mpn": "Justine Greening"
+});

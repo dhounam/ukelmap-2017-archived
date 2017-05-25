@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Norfolk, South",
+
+"id": "E14000941",
+
+"region": "East Of England",
+
+"turnout": "54993",
+
+"electorate": "76165",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.232,
+
+"hpr": 13.8900494447469,
+
+"sal": 0.543376428705258,
+
+"ele": 2.394422,
+
+"con": "27133",
+
+"lab": "7252",
+
+"lib": "16193",
+
+"grn": "1000",
+
+"ukp": "2329",
+
+"bnp": "1086",
+
+"mpn": "Richard Bacon",
+
+});
+

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Preseli Pembrokeshire",
+
+"id": "W07000065",
+
+"region": "Wales",
+
+"turnout": "39602",
+
+"electorate": "57419",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.692,
+
+"hpr": -3.8116302164683,
+
+"sal": 5.35026943802926,
+
+"ele": -1.90635,
+
+"con": "16944",
+
+"lab": "12339",
+
+"lib": "5759",
+
+"ukp": "906",
+
+"plc": "3654",
+
+"mpn": "Stephen Crabb",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "East Hampshire",
+"id": "E14000680",
+"region": "South East",
+"turnout": "51649",
+"electorate": "72600",
+"win": "con",
+"swing": "2.61",
+"status": "hold",
+"con": "31334",
+"lab": "5220",
+"lib": "5732",
+"grn": "3176",
+"ukp": "6187",
+"mpn": "Damian Hinds"
+});

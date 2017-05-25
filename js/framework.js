@@ -109,6 +109,13 @@ mnv_ukelmap.framework = (function(){
       .attr('class','last-update')
     ;
 
+    var bString = "Results for Stoke-on-Trent Central; Copeland; Richmond Park; Witney; Batley and Seen; Tooting; Ogmore; Sheffield Brightside and Hillsborough; and Oldham West and Royton, are by-elections";
+    bString = "*By-election result"
+    footer.append('span')
+      .attr('class','footnote-div')
+      .text(bString)
+    ;
+
     if(my.localflags.visiblehead){
       buildHeader();
     }

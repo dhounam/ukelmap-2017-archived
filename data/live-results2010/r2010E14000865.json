@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Nottingham, East",
+
+"id": "E14000865",
+
+"region": "East Midlands",
+
+"turnout": "33112",
+
+"electorate": "58707",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.976,
+
+"hpr": -5.56210461968192E-02,
+
+"sal": -2.05175600739372,
+
+"ele": -3.66677,
+
+"con": "7846",
+
+"lab": "15022",
+
+"lib": "8053",
+
+"grn": "928",
+
+"ukp": "1138",
+
+"oth": "125",
+
+"mpn": "Christopher Leslie",
+
+});
+

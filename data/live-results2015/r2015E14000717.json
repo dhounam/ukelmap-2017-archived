@@ -1,0 +1,17 @@
+resultCB({
+"name": "Great Yarmouth",
+"id": "E14000717",
+"region": "East Anglia",
+"turnout": "44469",
+"electorate": "69793",
+"win": "con",
+"swing": "1.95",
+"status": "hold",
+"con": "19089",
+"lab": "12935",
+"lib": "1030",
+"grn": "978",
+"ukp": "10270",
+"oth": "167",
+"mpn": "Brandon Lewis"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Harrow, East",
+
+"id": "E14000731",
+
+"region": "London",
+
+"turnout": "48006",
+
+"electorate": "68554",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.436,
+
+"hpr": 49.3049020946812,
+
+"sal": 5.62278905231798,
+
+"ele": -3.007,
+
+"con": "21435",
+
+"lab": "18032",
+
+"lib": "6850",
+
+"grn": "793",
+
+"ukp": "896",
+
+"mpn": "Bob Blackman",
+
+});
+

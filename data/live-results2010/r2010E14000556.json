@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Beverley & Holderness",
+
+"id": "E14000556",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "53199",
+
+"electorate": "79611",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.735,
+
+"hpr": 4.5577468469576,
+
+"sal": 12.724451341166,
+
+"ele": -0.86855,
+
+"con": "25063",
+
+"lab": "11224",
+
+"lib": "12076",
+
+"grn": "686",
+
+"ukp": "1845",
+
+"bnp": "2080",
+
+"ind": "225",
+
+"mpn": "Graham Stuart",
+
+});
+

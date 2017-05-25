@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Aberdeenshire, West & Kincardine",
+
+"id": "S14000058",
+
+"region": "Scotland",
+
+"turnout": "45195",
+
+"electorate": "66110",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": 22.7542210902558,
+
+"sal": 8.43573563600133,
+
+"ele": 10.42025,
+
+"con": "13678",
+
+"lab": "6159",
+
+"lib": "17362",
+
+"ukp": "397",
+
+"bnp": "513",
+
+"snp": "7086",
+
+"mpn": "Sir Robert Smith",
+
+});
+

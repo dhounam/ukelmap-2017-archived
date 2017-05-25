@@ -1,0 +1,17 @@
+resultCB({
+"name": "Southend West",
+"id": "E14000957",
+"region": "East Anglia",
+"turnout": "44509",
+"electorate": "66876",
+"win": "con",
+"swing": "0.57",
+"status": "hold",
+"con": "22175",
+"lab": "8154",
+"lib": "4129",
+"grn": "2083",
+"ukp": "7803",
+"oth": "165",
+"mpn": "Sir David Amess"
+});

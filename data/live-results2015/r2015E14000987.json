@@ -1,0 +1,16 @@
+resultCB({
+"name": "Tatton",
+"id": "E14000987",
+"region": "North West",
+"turnout": "45298",
+"electorate": "64512",
+"win": "con",
+"swing": "1.47",
+"status": "hold",
+"con": "26552",
+"lab": "8311",
+"lib": "3850",
+"grn": "1714",
+"ukp": "4871",
+"mpn": "George Osborne"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Ribble, South",
+
+"id": "E14000943",
+
+"region": "North West",
+
+"turnout": "51458",
+
+"electorate": "75822",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": -0.308,
+
+"hpr": 8.90847938633374,
+
+"sal": -7.42684157416751,
+
+"ele": -1.17272,
+
+"con": "23396",
+
+"lab": "17842",
+
+"lib": "7271",
+
+"ukp": "1895",
+
+"bnp": "1054",
+
+"mpn": "Lorraine Fullbrook",
+
+});
+

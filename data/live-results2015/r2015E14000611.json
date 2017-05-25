@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bury North",
+"id": "E14000611",
+"region": "North West",
+"turnout": "45230",
+"electorate": "67580",
+"win": "con",
+"swing": "2.08",
+"status": "hold",
+"con": "18970",
+"lab": "18592",
+"lib": "932",
+"grn": "1141",
+"ukp": "5595",
+"mpn": "David Nuttall"
+});

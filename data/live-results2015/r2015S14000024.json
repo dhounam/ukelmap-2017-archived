@@ -1,0 +1,18 @@
+resultCB({
+"name": "Edinburgh South",
+"id": "S14000024",
+"region": "Scotland",
+"turnout": "49286",
+"electorate": "65846",
+"win": "lab",
+"swing": "10.86",
+"status": "hold",
+"con": "8626",
+"lab": "19293",
+"lib": "1823",
+"grn": "2090",
+"ukp": "601",
+"snp": "16656",
+"oth": "197",
+"mpn": "Ian Murray"
+});

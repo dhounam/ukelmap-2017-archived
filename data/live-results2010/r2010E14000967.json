@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Stalybridge & Hyde",
+
+"id": "E14000967",
+
+"region": "North West",
+
+"turnout": "40879",
+
+"electorate": "69037",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.923,
+
+"hpr": -0.619929841413125,
+
+"sal": -1.12841345068834,
+
+"ele": 1.626169,
+
+"con": "13445",
+
+"lab": "16189",
+
+"lib": "6965",
+
+"grn": "679",
+
+"ukp": "1342",
+
+"bnp": "2259",
+
+"mpn": "Jonathan Reynolds",
+
+});
+

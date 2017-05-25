@@ -1,0 +1,17 @@
+resultCB({
+"name": "Ealing Southall",
+"id": "E14000676",
+"region": "London",
+"turnout": "43321",
+"electorate": "65495",
+"win": "lab",
+"swing": "10.79",
+"status": "hold",
+"con": "9387",
+"lab": "28147",
+"lib": "1550",
+"grn": "2007",
+"ukp": "1769",
+"oth": "461",
+"mpn": "Virendra Sharma"
+});

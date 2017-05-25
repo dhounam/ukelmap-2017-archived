@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Bexhill & Battle",
+
+"id": "E14000557",
+
+"region": "South East",
+
+"turnout": "54587",
+
+"electorate": "79208",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.466,
+
+"hpr": 11.2644455223926,
+
+"sal": 2.59136212624584,
+
+"ele": -0.8149,
+
+"con": "28147",
+
+"lab": "6524",
+
+"lib": "15267",
+
+"bnp": "1950",
+
+"oth": "2699",
+
+"mpn": "Greg Barker",
+
+});
+

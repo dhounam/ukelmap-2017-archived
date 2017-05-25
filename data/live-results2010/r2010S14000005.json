@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Argyll & Bute",
+
+"id": "S14000005",
+
+"region": "Scotland",
+
+"turnout": "45207",
+
+"electorate": "67165",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": -8.80217149334715,
+
+"sal": 6.92746536267317,
+
+"ele": 1.719512,
+
+"con": "10861",
+
+"lab": "10274",
+
+"lib": "14292",
+
+"grn": "789",
+
+"snp": "8563",
+
+"ind": "272",
+
+"oth": "156",
+
+"mpn": "Alan Reid",
+
+});
+

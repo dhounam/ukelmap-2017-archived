@@ -1,0 +1,17 @@
+resultCB({
+"name": "Holborn and St. Pancras",
+"id": "E14000750",
+"region": "London",
+"turnout": "54917",
+"electorate": "86864",
+"win": "lab",
+"swing": "2.65",
+"status": "hold",
+"con": "12014",
+"lab": "29062",
+"lib": "3555",
+"grn": "7013",
+"ukp": "2740",
+"oth": "533",
+"mpn": "Keir Starmer"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Derbyshire Dales",
+
+"id": "E14000664",
+
+"region": "East Midlands",
+
+"turnout": "46780",
+
+"electorate": "63367",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.488,
+
+"hpr": 5.55782596587764,
+
+"sal": 1.65757448594208,
+
+"ele": -1.86488,
+
+"con": "24378",
+
+"lab": "9061",
+
+"lib": "10512",
+
+"grn": "772",
+
+"ukp": "1779",
+
+"oth": "278",
+
+"mpn": "Patrick McLoughlin",
+
+});
+

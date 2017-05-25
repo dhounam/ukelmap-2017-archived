@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Worthing, East & Shoreham",
+
+"id": "E14000682",
+
+"region": "South East",
+
+"turnout": "48397",
+
+"electorate": "74001",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.104,
+
+"hpr": 24.5225295927335,
+
+"sal": -0.899205353408618,
+
+"ele": -1.20925,
+
+"con": "23458",
+
+"lab": "8087",
+
+"lib": "12353",
+
+"grn": "1126",
+
+"ukp": "2984",
+
+"oth": "389",
+
+"mpn": "Tim Loughton",
+
+});
+

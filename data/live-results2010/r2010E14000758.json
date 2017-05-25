@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Hyndburn",
+
+"id": "E14000758",
+
+"region": "North West",
+
+"turnout": "42672",
+
+"electorate": "67221",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": -0.697,
+
+"hpr": 0.894469214817306,
+
+"sal": 4.45325250641176,
+
+"ele": 0.938378,
+
+"con": "14441",
+
+"lab": "17531",
+
+"lib": "5033",
+
+"grn": "463",
+
+"ukp": "1481",
+
+"bnp": "2137",
+
+"ind": "378",
+
+"oth": "1208",
+
+"mpn": "Graham Jones",
+
+});
+

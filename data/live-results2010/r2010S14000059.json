@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Dunbartonshire, West",
+
+"id": "S14000059",
+
+"region": "Scotland",
+
+"turnout": "42266",
+
+"electorate": "66085",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 39.3707628045617,
+
+"sal": 7.98597584729256,
+
+"ele": 3.358243,
+
+"con": "3242",
+
+"lab": "25905",
+
+"lib": "3434",
+
+"ukp": "683",
+
+"snp": "8497",
+
+"oth": "505",
+
+"mpn": "Gemma Doyle",
+
+});
+

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Edinburgh, North & Leith",
+
+"id": "S14000023",
+
+"region": "Scotland",
+
+"turnout": "47356",
+
+"electorate": "69204",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": 19.416795798825,
+
+"sal": 6.32295719844358,
+
+"ele": 15.13354,
+
+"con": "7079",
+
+"lab": "17740",
+
+"lib": "16016",
+
+"grn": "1062",
+
+"snp": "4568",
+
+"ind": "128",
+
+"oth": "763",
+
+"mpn": "Mark Lazarowicz",
+
+});
+

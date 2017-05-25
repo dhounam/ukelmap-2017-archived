@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Congleton",
+
+"id": "E14000646",
+
+"region": "North West",
+
+"turnout": "50780",
+
+"electorate": "73692",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.231,
+
+"hpr": 11.8910559471132,
+
+"sal": 8.58618463524856,
+
+"ele": -6.47809,
+
+"con": "23250",
+
+"lab": "8747",
+
+"lib": "16187",
+
+"ukp": "2147",
+
+"ind": "276",
+
+"oth": "173",
+
+"mpn": "Fiona Bruce",
+
+});
+

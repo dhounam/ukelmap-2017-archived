@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Worcestershire, West",
+
+"id": "E14001035",
+
+"region": "West Midlands",
+
+"turnout": "54093",
+
+"electorate": "73270",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.256,
+
+"hpr": 7.39691976290591,
+
+"sal": 10.3298439660281,
+
+"ele": -0.15821,
+
+"con": "27213",
+
+"lab": "3661",
+
+"lib": "20459",
+
+"grn": "641",
+
+"ukp": "2119",
+
+"mpn": "Harriett Baldwin",
+
+});
+

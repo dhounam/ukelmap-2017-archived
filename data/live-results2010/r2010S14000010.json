@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Ayrshire, Central",
+
+"id": "S14000010",
+
+"region": "Scotland",
+
+"turnout": "43915",
+
+"electorate": "68352",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 1.7443380032113,
+
+"sal": 6.50974623023173,
+
+"ele": 1.640798,
+
+"con": "8943",
+
+"lab": "20950",
+
+"lib": "5236",
+
+"snp": "8364",
+
+"oth": "422",
+
+"mpn": "Brian Donohoe",
+
+});
+

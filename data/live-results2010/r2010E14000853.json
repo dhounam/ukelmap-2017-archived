@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Tyneside, North",
+
+"id": "E14000853",
+
+"region": "North East",
+
+"turnout": "46405",
+
+"electorate": "77690",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.157,
+
+"hpr": 9.18771888102401,
+
+"sal": 3.71082484137666,
+
+"ele": -0.26407,
+
+"con": "8514",
+
+"lab": "23505",
+
+"lib": "10621",
+
+"ukp": "1306",
+
+"bnp": "1860",
+
+"oth": "599",
+
+"mpn": "Mary Glindon",
+
+});
+

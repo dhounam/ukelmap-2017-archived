@@ -1,0 +1,17 @@
+resultCB({
+"name": "Leicester West",
+"id": "E14000784",
+"region": "East Midlands",
+"turnout": "34522",
+"electorate": "63204",
+"win": "lab",
+"swing": "4.83",
+"status": "hold",
+"con": "8848",
+"lab": "16051",
+"lib": "1507",
+"grn": "1878",
+"ukp": "5950",
+"oth": "288",
+"mpn": "Liz Kendall"
+});

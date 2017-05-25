@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Cambridgeshire, North East",
+
+"id": "E14000842",
+
+"region": "East Of England",
+
+"turnout": "52264",
+
+"electorate": "73224",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.955,
+
+"hpr": 11.1708189491506,
+
+"sal": 5.58108995403808,
+
+"ele": -1.56063,
+
+"con": "26862",
+
+"lab": "9274",
+
+"lib": "10437",
+
+"ukp": "2991",
+
+"bnp": "1747",
+
+"ind": "566",
+
+"oth": "387",
+
+"mpn": "Stephen Barclay",
+
+});
+

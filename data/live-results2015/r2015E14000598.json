@@ -1,0 +1,18 @@
+resultCB({
+"name": "Brighton Pavilion",
+"id": "E14000598",
+"region": "South East",
+"turnout": "54676",
+"electorate": "76557",
+"win": "grn",
+"swing": "6.08",
+"status": "hold",
+"con": "12448",
+"lab": "14904",
+"lib": "1525",
+"grn": "22871",
+"ukp": "2724",
+"ind": "116",
+"oth": "88",
+"mpn": "Caroline Lucas"
+});

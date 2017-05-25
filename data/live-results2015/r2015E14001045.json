@@ -1,0 +1,17 @@
+resultCB({
+"name": "Witham",
+"id": "E14001045",
+"region": "East Of England",
+"turnout": "47168",
+"electorate": "67090",
+"win": "con",
+"swing": "2.11",
+"status": "hold",
+"con": "27123",
+"lab": "7467",
+"lib": "2891",
+"grn": "2038",
+"ukp": "7569",
+"oth": "80",
+"mpn": "Priti Patel"
+});

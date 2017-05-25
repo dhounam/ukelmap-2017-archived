@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Walsall, South",
+
+"id": "E14001012",
+
+"region": "West Midlands",
+
+"turnout": "40882",
+
+"electorate": "64830",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.853,
+
+"hpr": 7.51094166639845,
+
+"sal": -1.23757354432948,
+
+"ele": 3.592953,
+
+"con": "14456",
+
+"lab": "16211",
+
+"lib": "5880",
+
+"ukp": "3449",
+
+"oth": "886",
+
+"mpn": "Valerie Vaz",
+
+});
+

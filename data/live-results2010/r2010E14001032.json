@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "West Ham",
+
+"id": "E14001032",
+
+"region": "London",
+
+"turnout": "46951",
+
+"electorate": "85313",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 6.617,
+
+"hpr": 31.8791878628422,
+
+"sal": -9.79724500851262,
+
+"ele": -0.27162,
+
+"con": "6888",
+
+"lab": "29422",
+
+"lib": "5392",
+
+"grn": "645",
+
+"ukp": "766",
+
+"ind": "177",
+
+"oth": "3661",
+
+"mpn": "Lyn Brown",
+
+});
+

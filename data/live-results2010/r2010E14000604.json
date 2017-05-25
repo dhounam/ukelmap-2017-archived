@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bromley & Chislehurst",
+
+"id": "E14000604",
+
+"region": "London",
+
+"turnout": "44037",
+
+"electorate": "65427",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.63,
+
+"hpr": 24.1256379157379,
+
+"sal": 8.28421220328181,
+
+"ele": -1.00291,
+
+"con": "23569",
+
+"lab": "7295",
+
+"lib": "9669",
+
+"grn": "607",
+
+"ukp": "1451",
+
+"bnp": "1070",
+
+"oth": "376",
+
+"mpn": "Bob Neill",
+
+});
+

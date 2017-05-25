@@ -1,0 +1,17 @@
+resultCB({
+"name": "Stretford and Urmston",
+"id": "E14000979",
+"region": "North West",
+"turnout": "46386",
+"electorate": "69490",
+"win": "lab",
+"swing": "2.65",
+"status": "hold",
+"con": "12916",
+"lab": "24601",
+"lib": "1362",
+"grn": "2187",
+"ukp": "5068",
+"oth": "252",
+"mpn": "Kate Green"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Stoke-on-Trent North",
+"id": "E14000973",
+"region": "West Midlands",
+"turnout": "38654",
+"electorate": "72689",
+"win": "lab",
+"swing": "3.99",
+"status": "hold",
+"con": "10593",
+"lab": "15429",
+"lib": "1137",
+"grn": "1091",
+"ukp": "9542",
+"ind": "862",
+"mpn": "Ruth Smeeth"
+});

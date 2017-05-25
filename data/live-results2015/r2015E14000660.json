@@ -1,0 +1,16 @@
+resultCB({
+"name": "Daventry",
+"id": "E14000660",
+"region": "East Midlands",
+"turnout": "52518",
+"electorate": "72753",
+"win": "con",
+"swing": "0.31",
+"status": "hold",
+"con": "30550",
+"lab": "9491",
+"lib": "2352",
+"grn": "1829",
+"ukp": "8296",
+"mpn": "Chris Heaton-Harris"
+});

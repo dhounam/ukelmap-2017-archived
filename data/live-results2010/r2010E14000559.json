@@ -1,0 +1,34 @@
+resultCB({
+
+"name": "Birkenhead",
+
+"id": "E14000559",
+
+"region": "North West",
+
+"turnout": "35323",
+
+"electorate": "62773",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.924,
+
+"hpr": -0.90513800658114,
+
+"sal": 9.99999999999999,
+
+"ele": -4.40845,
+
+"con": "6687",
+
+"lab": "22082",
+
+"lib": "6554",
+
+"mpn": "Frank Field",
+
+});
+

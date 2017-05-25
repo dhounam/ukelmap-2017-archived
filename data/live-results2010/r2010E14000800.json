@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Luton, North",
+
+"id": "E14000800",
+
+"region": "East Of England",
+
+"turnout": "43018",
+
+"electorate": "65062",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 3.468,
+
+"hpr": 13.2288412557582,
+
+"sal": 6.91122821240373,
+
+"ele": 0.299752,
+
+"con": "13672",
+
+"lab": "21192",
+
+"lib": "4784",
+
+"grn": "490",
+
+"ukp": "1564",
+
+"bnp": "1316",
+
+"mpn": "Kelvin Hopkins",
+
+});
+

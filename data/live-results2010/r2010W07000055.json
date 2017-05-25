@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Newport, East",
+
+"id": "W07000055",
+
+"region": "Wales",
+
+"turnout": "34448",
+
+"electorate": "54437",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.558,
+
+"hpr": 19.3059174012204,
+
+"sal": 1.1373035566584,
+
+"ele": 0.731437,
+
+"con": "7918",
+
+"lab": "12744",
+
+"lib": "11094",
+
+"ukp": "677",
+
+"bnp": "1168",
+
+"plc": "724",
+
+"oth": "123",
+
+"mpn": "Jessica Morden",
+
+});
+

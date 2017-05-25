@@ -1,0 +1,19 @@
+resultCB({
+"name": "Belfast South",
+"id": "N06000003",
+"region": "Northern Ireland",
+"turnout": "38957",
+"electorate": "64912",
+"win": "sdl",
+"swing": "7.5",
+"status": "hold",
+"con": "582",
+"grn": "2238",
+"ukp": "1900",
+"snf": "5402",
+"sdl": "9560",
+"dup": "8654",
+"uup": "3549",
+"oth": "7072",
+"mpn": "Dr Alasdair McDonnell"
+});

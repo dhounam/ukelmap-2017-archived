@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Watford",
+
+"id": "E14001021",
+
+"region": "East Of England",
+
+"turnout": "55208",
+
+"electorate": "80798",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 4.984,
+
+"hpr": 26.9819147818448,
+
+"sal": 7.24120346761856,
+
+"ele": 2.438354,
+
+"con": "19291",
+
+"lab": "14750",
+
+"lib": "17866",
+
+"grn": "885",
+
+"ukp": "1199",
+
+"bnp": "1217",
+
+"mpn": "Richard Harrington",
+
+});
+

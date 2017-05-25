@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Chipping Barnet",
+
+"id": "E14000636",
+
+"region": "London",
+
+"turnout": "50608",
+
+"electorate": "77798",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.488,
+
+"hpr": 31.9875590509841,
+
+"sal": 0.114080834419809,
+
+"ele": 1.525779,
+
+"con": "24700",
+
+"lab": "12773",
+
+"lib": "10202",
+
+"grn": "1021",
+
+"ukp": "1442",
+
+"ind": "470",
+
+"mpn": "Theresa Villiers",
+
+});
+

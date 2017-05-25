@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Peterborough",
+
+"id": "E14000878",
+
+"region": "East Of England",
+
+"turnout": "44927",
+
+"electorate": "70316",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.921,
+
+"hpr": 12.6987342150988,
+
+"sal": 6.93641618497109,
+
+"ele": 3.309815,
+
+"con": "18133",
+
+"lab": "13272",
+
+"lib": "8816",
+
+"grn": "523",
+
+"ukp": "3007",
+
+"ind": "406",
+
+"oth": "770",
+
+"mpn": "Stewart Jackson",
+
+});
+

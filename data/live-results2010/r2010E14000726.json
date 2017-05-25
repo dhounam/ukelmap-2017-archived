@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Hammersmith",
+
+"id": "E14000726",
+
+"region": "London",
+
+"turnout": "47452",
+
+"electorate": "72348",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": -1.778,
+
+"hpr": 55.0581577132323,
+
+"sal": -9.65102901700115,
+
+"ele": -0.46579,
+
+"con": "17261",
+
+"lab": "20810",
+
+"lib": "7567",
+
+"grn": "696",
+
+"ukp": "551",
+
+"bnp": "432",
+
+"ind": "135",
+
+"mpn": "Andy Slaughter",
+
+});
+

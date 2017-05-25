@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "York, Central",
+
+"id": "E14001061",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "46483",
+
+"electorate": "74908",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.613,
+
+"hpr": 19.3499762515413,
+
+"sal": 1.2933458294283,
+
+"ele": -7.44599,
+
+"con": "12122",
+
+"lab": "18573",
+
+"lib": "11694",
+
+"grn": "1669",
+
+"ukp": "1100",
+
+"bnp": "1171",
+
+"oth": "154",
+
+"mpn": "Hugh Bayley",
+
+});
+

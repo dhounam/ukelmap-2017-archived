@@ -1,0 +1,16 @@
+resultCB({
+"name": "South Staffordshire",
+"id": "E14000945",
+"region": "West Midlands",
+"turnout": "49598",
+"electorate": "84243",
+"win": "con",
+"swing": "4.09",
+"status": "hold",
+"con": "29478",
+"lab": "9107",
+"lib": "1448",
+"grn": "1298",
+"ukp": "8267",
+"mpn": "Gavin Williamson"
+});

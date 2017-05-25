@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wellingborough",
+"id": "E14001025",
+"region": "East Midlands",
+"turnout": "50430",
+"electorate": "77127",
+"win": "con",
+"swing": "6.28",
+"status": "hold",
+"con": "26265",
+"lab": "9839",
+"lib": "2240",
+"grn": "2218",
+"ukp": "9868",
+"mpn": "Peter Bone"
+});

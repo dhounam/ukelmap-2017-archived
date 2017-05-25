@@ -1,0 +1,18 @@
+resultCB({
+"name": "Taunton",
+"id": "E14000988",
+"region": "South West",
+"turnout": "57887",
+"electorate": "81830",
+"win": "con",
+"swing": "16.81",
+"status": "gain",
+"con": "27849",
+"lab": "5347",
+"lib": "12358",
+"grn": "2630",
+"ukp": "6921",
+"ind": "2664",
+"oth": "118",
+"mpn": "Rebecca Pow"
+});

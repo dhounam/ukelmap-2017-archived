@@ -1,0 +1,17 @@
+resultCB({
+"name": "South Down",
+"id": "N06000015",
+"region": "Northern Ireland",
+"turnout": "42697",
+"electorate": "75215",
+"win": "sdl",
+"swing": "2.98",
+"status": "hold",
+"con": "318",
+"ukp": "3044",
+"snf": "12186",
+"sdl": "18077",
+"dup": "3486",
+"oth": "1622",
+"mpn": "Margaret Ritchie"
+});

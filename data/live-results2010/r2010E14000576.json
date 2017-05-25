@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Bognor Regis & Littlehampton",
+
+"id": "E14000576",
+
+"region": "South East",
+
+"turnout": "46852",
+
+"electorate": "70812",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.042,
+
+"hpr": 13.7138556486219,
+
+"sal": -7.79428571428572,
+
+"ele": 0.01267,
+
+"con": "24087",
+
+"lab": "6580",
+
+"lib": "11024",
+
+"ukp": "3036",
+
+"bnp": "1890",
+
+"ind": "235",
+
+"mpn": "Nick Gibb",
+
+});
+

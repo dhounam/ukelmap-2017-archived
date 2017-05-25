@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Bedfordshire, Mid",
+
+"id": "E14000813",
+
+"region": "East Of England",
+
+"turnout": "54897",
+
+"electorate": "76023",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.205,
+
+"hpr": 24.9060526244795,
+
+"sal": 5.04430811179277,
+
+"ele": 5.406117,
+
+"con": "28815",
+
+"lab": "8108",
+
+"lib": "13663",
+
+"grn": "773",
+
+"ukp": "2826",
+
+"oth": "712",
+
+"mpn": "Nadine Dorries",
+
+});
+

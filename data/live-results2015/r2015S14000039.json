@@ -1,0 +1,18 @@
+resultCB({
+"name": "Inverness, Nairn, Badenoch and Strathspey",
+"id": "S14000039",
+"region": "Scotland",
+"turnout": "57613",
+"electorate": "77268",
+"win": "snp",
+"swing": "20.39",
+"status": "gain",
+"con": "3410",
+"lab": "4311",
+"lib": "18029",
+"grn": "1367",
+"ukp": "1236",
+"snp": "28838",
+"oth": "422",
+"mpn": "Drew Hendry"
+});

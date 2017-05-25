@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Blyth Valley",
+
+"id": "E14000575",
+
+"region": "North East",
+
+"turnout": "38566",
+
+"electorate": "64263",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.185,
+
+"hpr": 4.34127034446934,
+
+"sal": 13.7889973803287,
+
+"ele": -0.50441,
+
+"con": "6412",
+
+"lab": "17156",
+
+"lib": "10488",
+
+"ukp": "1665",
+
+"bnp": "1699",
+
+"ind": "819",
+
+"oth": "327",
+
+"mpn": "Ronnie Campbell",
+
+});
+

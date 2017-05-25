@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Renfrewshire, East",
+
+"id": "S14000021",
+
+"region": "Scotland",
+
+"turnout": "51181",
+
+"electorate": "66249",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 12.4125650575398,
+
+"sal": 7.14592274678112,
+
+"ele": 4.049727,
+
+"con": "15567",
+
+"lab": "25987",
+
+"lib": "4720",
+
+"ukp": "372",
+
+"snp": "4535",
+
+"mpn": "Jim Murphy",
+
+});
+

@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Brentford & Isleworth",
+
+"id": "E14000593",
+
+"region": "London",
+
+"turnout": "53765",
+
+"electorate": "83546",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 4.21,
+
+"hpr": 31.6946727886546,
+
+"sal": -0.860609480812627,
+
+"ele": -0.72061,
+
+"con": "20022",
+
+"lab": "18064",
+
+"lib": "12718",
+
+"grn": "787",
+
+"ukp": "863",
+
+"bnp": "704",
+
+"ind": "68",
+
+"oth": "539",
+
+"mpn": "Mary Macleod",
+
+});
+

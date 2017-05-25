@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Edinburgh, South West",
+
+"id": "S14000025",
+
+"region": "Scotland",
+
+"turnout": "45462",
+
+"electorate": "66359",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 10.6957456478921,
+
+"sal": 9.09844216108718,
+
+"ele": 6.603745,
+
+"con": "11026",
+
+"lab": "19473",
+
+"lib": "8194",
+
+"grn": "872",
+
+"snp": "5530",
+
+"oth": "367",
+
+"mpn": "Alistair Darling",
+
+});
+

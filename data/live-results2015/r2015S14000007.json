@@ -1,0 +1,15 @@
+resultCB({
+"name": "Banff and Buchan",
+"id": "S14000007",
+"region": "Scotland",
+"turnout": "45629",
+"electorate": "68609",
+"win": "snp",
+"swing": "10.48",
+"status": "hold",
+"con": "13148",
+"lab": "2647",
+"lib": "2347",
+"snp": "27487",
+"mpn": "Dr Eilidh Whiteford"
+});

@@ -1,0 +1,18 @@
+resultCB({
+"name": "Copeland",
+"byelection": true,
+"id": "E14000647",
+"region": "North West",
+"turnout": "31108",
+"electorate": "",
+"win": "con",
+"con": "13,748",
+"lab": "11,601",
+"lib": "2,252",
+"grn": "515",
+"ukp": "2,025",
+"oth": "927",
+"mpn": "Trudy Harrison",
+"swing": "6.7",
+"status": "gain"
+});

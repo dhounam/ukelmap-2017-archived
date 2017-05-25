@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Doncaster, Central",
+
+"id": "E14000668",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "41745",
+
+"electorate": "75207",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.858,
+
+"hpr": 5.91166437459177,
+
+"sal": -2.8449777433714,
+
+"ele": -5.95718,
+
+"con": "10340",
+
+"lab": "16569",
+
+"lib": "8795",
+
+"ukp": "1421",
+
+"bnp": "1762",
+
+"ind": "970",
+
+"oth": "1888",
+
+"mpn": "Rosie Winterton",
+
+});
+

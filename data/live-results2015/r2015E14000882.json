@@ -1,0 +1,17 @@
+resultCB({
+"name": "Poplar and Limehouse",
+"id": "E14000882",
+"region": "London",
+"turnout": "51044",
+"electorate": "82076",
+"win": "lab",
+"swing": "10.12",
+"status": "hold",
+"con": "12962",
+"lab": "29886",
+"lib": "2149",
+"grn": "2463",
+"ukp": "3128",
+"oth": "456",
+"mpn": "Jim Fitzpatrick"
+});

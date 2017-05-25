@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Cardiff, Central",
+
+"id": "W07000050",
+
+"region": "Wales",
+
+"turnout": "36151",
+
+"electorate": "61162",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 4.535,
+
+"hpr": 13.3650433622711,
+
+"sal": 2.93229074106985,
+
+"ele": -15.0507,
+
+"con": "7799",
+
+"lab": "10400",
+
+"lib": "14976",
+
+"grn": "575",
+
+"ukp": "765",
+
+"plc": "1246",
+
+"ind": "86",
+
+"oth": "304",
+
+"mpn": "Jenny Willott",
+
+});
+

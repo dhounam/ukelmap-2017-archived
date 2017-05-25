@@ -1,0 +1,16 @@
+resultCB({
+"name": "Totnes",
+"id": "E14001001",
+"region": "South West",
+"turnout": "47097",
+"electorate": "68630",
+"win": "con",
+"swing": "0.5",
+"status": "hold",
+"con": "24941",
+"lab": "5988",
+"lib": "4667",
+"grn": "4845",
+"ukp": "6656",
+"mpn": "Dr Sarah Wollaston"
+});

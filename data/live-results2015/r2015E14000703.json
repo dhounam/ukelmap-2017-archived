@@ -1,0 +1,16 @@
+resultCB({
+"name": "Finchley and Golders Green",
+"id": "E14000703",
+"region": "London",
+"turnout": "50759",
+"electorate": "72049",
+"win": "con",
+"swing": "0.58",
+"status": "hold",
+"con": "25835",
+"lab": "20173",
+"lib": "1662",
+"grn": "1357",
+"ukp": "1732",
+"mpn": "Mike Freer"
+});

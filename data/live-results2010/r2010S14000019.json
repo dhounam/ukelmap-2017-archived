@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "East Kilbride, Strathaven & Lesmahagow",
+
+"id": "S14000019",
+
+"region": "Scotland",
+
+"turnout": "50946",
+
+"electorate": "76534",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": -7.21334303261122,
+
+"sal": 4.39700784528372,
+
+"ele": 5.503352,
+
+"con": "6613",
+
+"lab": "26241",
+
+"lib": "5052",
+
+"grn": "1003",
+
+"snp": "11738",
+
+"ind": "299",
+
+"mpn": "Michael McCann",
+
+});
+

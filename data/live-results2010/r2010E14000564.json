@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Birmingham Ladywood",
+
+"id": "E14000564",
+
+"region": "West Midlands",
+
+"turnout": "35833",
+
+"electorate": "73646",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 6.359,
+
+"hpr": 20.0513904869463,
+
+"sal": 3.63013698630137,
+
+"ele": -10.441,
+
+"con": "4277",
+
+"lab": "19950",
+
+"lib": "9845",
+
+"grn": "859",
+
+"ukp": "902",
+
+"mpn": "Shabana Mahmood",
+
+});
+

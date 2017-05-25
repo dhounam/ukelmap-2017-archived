@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Barking",
+
+"id": "E14000540",
+
+"region": "London",
+
+"turnout": "45343",
+
+"electorate": "73864",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 7.191,
+
+"hpr": 28.7026735021232,
+
+"sal": 7.28146368508592,
+
+"ele": -1.76255,
+
+"con": "8073",
+
+"lab": "24628",
+
+"lib": "3719",
+
+"grn": "317",
+
+"ukp": "1300",
+
+"bnp": "6620",
+
+"ind": "77",
+
+"oth": "609",
+
+"mpn": "Margaret Hodge",
+
+});
+

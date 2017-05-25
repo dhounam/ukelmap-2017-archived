@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Thanet, South",
+
+"id": "E14000948",
+
+"region": "South East",
+
+"turnout": "45933",
+
+"electorate": "71596",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.665,
+
+"hpr": 14.3159851274101,
+
+"sal": -11.5315638450502,
+
+"ele": -1.96683,
+
+"con": "22043",
+
+"lab": "14426",
+
+"lib": "6935",
+
+"ukp": "2529",
+
+"mpn": "Laura Sandys",
+
+});
+

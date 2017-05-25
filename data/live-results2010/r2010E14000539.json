@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Banbury",
+
+"id": "E14000539",
+
+"region": "South East",
+
+"turnout": "56241",
+
+"electorate": "86986",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.522,
+
+"hpr": 21.7371784365941,
+
+"sal": 2.6732133115112,
+
+"ele": 0.600479,
+
+"con": "29703",
+
+"lab": "10773",
+
+"lib": "11476",
+
+"grn": "959",
+
+"ukp": "2806",
+
+"ind": "524",
+
+"mpn": "Tony Baldry",
+
+});
+

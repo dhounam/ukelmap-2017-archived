@@ -1,0 +1,17 @@
+resultCB({
+"name": "North East Derbyshire",
+"id": "E14000843",
+"region": "East Midlands",
+"turnout": "47948",
+"electorate": "71456",
+"win": "lab",
+"swing": "0.64",
+"status": "hold",
+"con": "17605",
+"lab": "19488",
+"lib": "2004",
+"grn": "1059",
+"ukp": "7631",
+"ind": "161",
+"mpn": "Natascha Engel"
+});

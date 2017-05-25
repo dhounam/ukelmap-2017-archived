@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Southampton Test",
+
+"id": "E14000956",
+
+"region": "South East",
+
+"turnout": "44187",
+
+"electorate": "71931",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 4.539,
+
+"hpr": 5.74114824622414,
+
+"sal": 9.58952583156403,
+
+"ele": -6.60001,
+
+"con": "14588",
+
+"lab": "17001",
+
+"lib": "9865",
+
+"grn": "881",
+
+"ukp": "1726",
+
+"ind": "126",
+
+"mpn": "Alan Whitehead",
+
+});
+

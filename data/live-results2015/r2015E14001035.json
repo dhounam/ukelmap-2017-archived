@@ -1,0 +1,16 @@
+resultCB({
+"name": "West Worcestershire",
+"id": "E14001035",
+"region": "West Midlands",
+"turnout": "54100",
+"electorate": "73415",
+"win": "con",
+"swing": "2.33",
+"status": "hold",
+"con": "30342",
+"lab": "7244",
+"lib": "5245",
+"grn": "3505",
+"ukp": "7764",
+"mpn": "Harriett Baldwin"
+});

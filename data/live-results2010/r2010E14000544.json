@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Basildon & Billericay",
+
+"id": "E14000544",
+
+"region": "East Of England",
+
+"turnout": "41569",
+
+"electorate": "65482",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.134,
+
+"hpr": 12.1885552450638,
+
+"sal": -2.50630782169891,
+
+"ele": 3.800802,
+
+"con": "21922",
+
+"lab": "9584",
+
+"lib": "6538",
+
+"ukp": "1591",
+
+"bnp": "1934",
+
+"mpn": "John Baron",
+
+});
+

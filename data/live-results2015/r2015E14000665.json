@@ -1,0 +1,16 @@
+resultCB({
+"name": "Devizes",
+"id": "E14000665",
+"region": "South West",
+"turnout": "48836",
+"electorate": "69211",
+"win": "con",
+"swing": "4.05",
+"status": "hold",
+"con": "28295",
+"lab": "6360",
+"lib": "3954",
+"grn": "2683",
+"ukp": "7544",
+"mpn": "Claire Perry"
+});

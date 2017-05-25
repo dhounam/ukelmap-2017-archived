@@ -1,0 +1,16 @@
+resultCB({
+"name": "North Ayrshire and Arran",
+"id": "S14000048",
+"region": "Scotland",
+"turnout": "53869",
+"electorate": "75772",
+"win": "snp",
+"swing": "23.33",
+"status": "gain",
+"con": "7968",
+"lab": "15068",
+"lib": "896",
+"ukp": "1296",
+"snp": "28641",
+"mpn": "Patricia Gibson"
+});

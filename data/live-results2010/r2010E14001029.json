@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "West Bromwich East",
+
+"id": "E14001029",
+
+"region": "West Midlands",
+
+"turnout": "37950",
+
+"electorate": "62824",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.549,
+
+"hpr": 8.91901347047317,
+
+"sal": -6.1162696810658,
+
+"ele": 0.583695,
+
+"con": "10961",
+
+"lab": "17657",
+
+"lib": "4993",
+
+"ukp": "984",
+
+"bnp": "2205",
+
+"oth": "1150",
+
+"mpn": "Tom Watson",
+
+});
+

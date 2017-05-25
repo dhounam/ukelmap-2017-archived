@@ -1,0 +1,18 @@
+resultCB({
+"name": "Birmingham Edgbaston",
+"id": "E14000560",
+"region": "West Midlands",
+"turnout": "41293",
+"electorate": "65591",
+"win": "lab",
+"swing": "1.74",
+"status": "hold",
+"con": "15812",
+"lab": "18518",
+"lib": "1184",
+"grn": "1371",
+"ukp": "4154",
+"ind": "91",
+"oth": "163",
+"mpn": "Gisela Stuart"
+});

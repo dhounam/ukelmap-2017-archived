@@ -1,0 +1,16 @@
+resultCB({
+"name": "Telford",
+"id": "E14000989",
+"region": "West Midlands",
+"turnout": "40645",
+"electorate": "66166",
+"win": "con",
+"swing": "2.08",
+"status": "gain",
+"con": "16094",
+"lab": "15364",
+"lib": "927",
+"grn": "930",
+"ukp": "7330",
+"mpn": "Lucy Allan"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "New Forest, East",
+
+"id": "E14000827",
+
+"region": "South East",
+
+"turnout": "50036",
+
+"electorate": "72858",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.858,
+
+"hpr": 12.3734727998589,
+
+"sal": 1.02573666542337,
+
+"ele": -0.5524,
+
+"con": "26443",
+
+"lab": "4915",
+
+"lib": "15136",
+
+"grn": "1024",
+
+"ukp": "2518",
+
+"mpn": "Julian Lewis",
+
+});
+

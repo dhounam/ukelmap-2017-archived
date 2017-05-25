@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Birmingham Hall Green",
+
+"id": "E14000562",
+
+"region": "West Midlands",
+
+"turnout": "48727",
+
+"electorate": "76580",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.937,
+
+"hpr": 7.76286868300777,
+
+"sal": -5.50260744470418,
+
+"ele": -0.52236,
+
+"con": "7320",
+
+"lab": "16039",
+
+"lib": "11988",
+
+"ukp": "950",
+
+"ind": "190",
+
+"res": "12240",
+
+"mpn": "Roger Godsiff",
+
+});
+

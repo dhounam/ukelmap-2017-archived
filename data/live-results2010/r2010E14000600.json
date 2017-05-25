@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Bristol, North West",
+
+"id": "E14000600",
+
+"region": "South West",
+
+"turnout": "50336",
+
+"electorate": "73469",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.435,
+
+"hpr": 20.9540141603756,
+
+"sal": 2.11096581356249,
+
+"ele": 0.942493,
+
+"con": "19115",
+
+"lab": "13059",
+
+"lib": "15841",
+
+"grn": "511",
+
+"ukp": "1175",
+
+"oth": "635",
+
+"mpn": "Charlotte Leslie",
+
+});
+

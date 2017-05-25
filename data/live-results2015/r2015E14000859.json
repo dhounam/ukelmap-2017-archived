@@ -1,0 +1,16 @@
+resultCB({
+"name": "North West Norfolk",
+"id": "E14000859",
+"region": "East Anglia",
+"turnout": "47371",
+"electorate": "72400",
+"win": "con",
+"swing": "5.74",
+"status": "hold",
+"con": "24727",
+"lab": "10779",
+"lib": "1673",
+"grn": "1780",
+"ukp": "8412",
+"mpn": "Henry Bellingham"
+});

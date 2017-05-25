@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Berwickshire, Roxburgh & Selkirk",
+
+"id": "S14000008",
+
+"region": "Scotland",
+
+"turnout": "49014",
+
+"electorate": "73826",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 5.21584525084381,
+
+"sal": 5.13721185510427,
+
+"ele": -0.47467,
+
+"con": "16555",
+
+"lab": "5003",
+
+"lib": "22230",
+
+"ukp": "595",
+
+"snp": "4497",
+
+"oth": "134",
+
+"mpn": "Michael Moore",
+
+});
+

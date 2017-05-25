@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bedford",
+
+"id": "E14000552",
+
+"region": "East Of England",
+
+"turnout": "45102",
+
+"electorate": "68491",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.613,
+
+"hpr": 19.1135910324097,
+
+"sal": 9.49266745937376,
+
+"ele": -1.01031,
+
+"con": "17546",
+
+"lab": "16193",
+
+"lib": "8957",
+
+"grn": "393",
+
+"ukp": "1136",
+
+"bnp": "757",
+
+"ind": "120",
+
+"mpn": "Richard Fuller",
+
+});
+

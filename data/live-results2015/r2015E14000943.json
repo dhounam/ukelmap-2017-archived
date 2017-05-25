@@ -1,0 +1,15 @@
+resultCB({
+"name": "South Ribble",
+"id": "E14000943",
+"region": "North West",
+"turnout": "52370",
+"electorate": "76489",
+"win": "con",
+"swing": "0.28",
+"status": "hold",
+"con": "24313",
+"lab": "18368",
+"lib": "2312",
+"ukp": "7377",
+"mpn": "Seema Kennedy"
+});

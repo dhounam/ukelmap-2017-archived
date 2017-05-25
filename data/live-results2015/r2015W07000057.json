@@ -1,0 +1,17 @@
+resultCB({
+"name": "Arfon",
+"id": "W07000057",
+"region": "Wales",
+"turnout": "26837",
+"electorate": "40492",
+"win": "plc",
+"swing": "4.04",
+"status": "hold",
+"con": "3521",
+"lab": "8122",
+"lib": "718",
+"ukp": "2277",
+"plc": "11790",
+"oth": "409",
+"mpn": "Hywel Williams"
+});

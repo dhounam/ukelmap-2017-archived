@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Charnwood",
+
+"id": "E14000625",
+
+"region": "East Midlands",
+
+"turnout": "53542",
+
+"electorate": "74473",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.279,
+
+"hpr": 17.2383030124721,
+
+"sal": -8.48290194596638,
+
+"ele": 2.887575,
+
+"con": "26560",
+
+"lab": "10536",
+
+"lib": "11531",
+
+"ukp": "1799",
+
+"bnp": "3116",
+
+"mpn": "Stephen Dorrell",
+
+});
+

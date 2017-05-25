@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Newry & Armagh",
+
+"id": "N06000011",
+
+"region": "Northern Ireland",
+
+"turnout": "44906",
+
+"electorate": "74308",
+
+"win": "snf",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 3.894357,
+
+"ind": "656",
+
+"snf": "18857",
+
+"sdl": "10526",
+
+"dup": "5764",
+
+"uup": "8558",
+
+"oth": "545",
+
+"mpn": "Conor Murphy",
+
+});
+

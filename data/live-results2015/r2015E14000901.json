@@ -1,0 +1,16 @@
+resultCB({
+"name": "Romsey and Southampton North",
+"id": "E14000901",
+"region": "South East",
+"turnout": "48398",
+"electorate": "66519",
+"win": "con",
+"swing": "14.05",
+"status": "hold",
+"con": "26285",
+"lab": "5749",
+"lib": "8573",
+"grn": "2280",
+"ukp": "5511",
+"mpn": "Caroline Nokes"
+});

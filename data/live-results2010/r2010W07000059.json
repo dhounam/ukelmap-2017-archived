@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Clwyd, West",
+
+"id": "W07000059",
+
+"region": "Wales",
+
+"turnout": "38111",
+
+"electorate": "57913",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.081,
+
+"hpr": 7.55082337511368E-02,
+
+"sal": 9.32034536196591,
+
+"ele": 0.761211,
+
+"con": "15833",
+
+"lab": "9414",
+
+"lib": "5801",
+
+"ukp": "864",
+
+"plc": "5864",
+
+"ind": "96",
+
+"oth": "239",
+
+"mpn": "David Jones",
+
+});
+

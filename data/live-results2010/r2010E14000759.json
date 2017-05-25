@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Ilford, North",
+
+"id": "E14000759",
+
+"region": "London",
+
+"turnout": "47018",
+
+"electorate": "71995",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.414,
+
+"hpr": 25.5544820357848,
+
+"sal": -0.965561635017693,
+
+"ele": 0.921404,
+
+"con": "21506",
+
+"lab": "16102",
+
+"lib": "5966",
+
+"grn": "572",
+
+"ukp": "871",
+
+"bnp": "1545",
+
+"oth": "456",
+
+"mpn": "Lee Scott",
+
+});
+

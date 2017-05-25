@@ -1,0 +1,16 @@
+resultCB({
+"name": "Macclesfield",
+"id": "E14000802",
+"region": "North West",
+"turnout": "49598",
+"electorate": "71580",
+"win": "con",
+"swing": "1.61",
+"status": "hold",
+"con": "26063",
+"lab": "11252",
+"lib": "3842",
+"grn": "2404",
+"ukp": "6037",
+"mpn": "David Rutley"
+});

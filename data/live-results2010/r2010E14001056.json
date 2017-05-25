@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Wycombe",
+
+"id": "E14001056",
+
+"region": "South East",
+
+"turnout": "48151",
+
+"electorate": "74502",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.993,
+
+"hpr": 21.1364937306187,
+
+"sal": 2.13166144200628,
+
+"ele": 0.886694,
+
+"con": "23423",
+
+"lab": "8326",
+
+"lib": "13863",
+
+"ukp": "2123",
+
+"ind": "188",
+
+"oth": "228",
+
+"mpn": "Steven Baker",
+
+});
+

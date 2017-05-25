@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Devon, Central",
+
+"id": "E14000623",
+
+"region": "South West",
+
+"turnout": "53873",
+
+"electorate": "71204",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.487,
+
+"hpr": 11.453193106278,
+
+"sal": 1.60204318551196,
+
+"ele": 0.68365,
+
+"con": "27737",
+
+"lab": "3715",
+
+"lib": "18507",
+
+"grn": "1044",
+
+"ukp": "2870",
+
+"mpn": "Mel Stride",
+
+});
+

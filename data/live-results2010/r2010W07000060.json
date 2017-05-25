@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Vale of Clwyd",
+
+"id": "W07000060",
+
+"region": "Wales",
+
+"turnout": "35534",
+
+"electorate": "55781",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.175,
+
+"hpr": 3.07871653048552,
+
+"sal": 13.9611730689797,
+
+"ele": 0.192967,
+
+"con": "12508",
+
+"lab": "15017",
+
+"lib": "4472",
+
+"ukp": "515",
+
+"bnp": "827",
+
+"plc": "2068",
+
+"oth": "127",
+
+"mpn": "Chris Ruane",
+
+});
+

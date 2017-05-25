@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Clwyd, South",
+
+"id": "W07000062",
+
+"region": "Wales",
+
+"turnout": "34681",
+
+"electorate": "53748",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.178,
+
+"hpr": -0.214871701196373,
+
+"sal": -10.4327335047129,
+
+"ele": 1.16238,
+
+"con": "10477",
+
+"lab": "13311",
+
+"lib": "5965",
+
+"ukp": "819",
+
+"bnp": "1100",
+
+"plc": "3009",
+
+"mpn": "Susan Elan Jones",
+
+});
+

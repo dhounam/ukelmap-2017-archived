@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Derbyshire, South",
+
+"id": "E14000935",
+
+"region": "East Midlands",
+
+"turnout": "50419",
+
+"electorate": "70610",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.167,
+
+"hpr": 7.06035588637157,
+
+"sal": 12.0016874077199,
+
+"ele": 3.590137,
+
+"con": "22935",
+
+"lab": "15807",
+
+"lib": "8012",
+
+"ukp": "1206",
+
+"bnp": "2193",
+
+"oth": "266",
+
+"mpn": "Heather Wheeler",
+
+});
+

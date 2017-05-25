@@ -1,0 +1,16 @@
+resultCB({
+"name": "Brentford and Isleworth",
+"id": "E14000593",
+"region": "London",
+"turnout": "57355",
+"electorate": "84557",
+"win": "lab",
+"swing": "2.23",
+"status": "gain",
+"con": "24631",
+"lab": "25096",
+"lib": "2305",
+"grn": "2120",
+"ukp": "3203",
+"mpn": "Ruth Cadbury"
+});

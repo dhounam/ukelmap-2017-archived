@@ -1,0 +1,16 @@
+resultCB({
+"name": "Enfield Southgate",
+"id": "E14000692",
+"region": "London",
+"turnout": "45812",
+"electorate": "64938",
+"win": "con",
+"swing": "3.41",
+"status": "hold",
+"con": "22624",
+"lab": "17871",
+"lib": "1518",
+"grn": "1690",
+"ukp": "2109",
+"mpn": "David Burrowes"
+});

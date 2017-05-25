@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "St. Austell & Newquay",
+
+"id": "E14000961",
+
+"region": "South West",
+
+"turnout": "47238",
+
+"electorate": "76346",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 2.6,
+
+"hpr": 5.3411664051241,
+
+"sal": 6.85835995740149,
+
+"ele": -0.79767,
+
+"con": "18877",
+
+"lab": "3386",
+
+"lib": "20189",
+
+"ukp": "1757",
+
+"bnp": "1022",
+
+"oth": "2007",
+
+"mpn": "Stephen Gilbert",
+
+});
+

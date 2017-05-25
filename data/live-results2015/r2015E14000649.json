@@ -1,0 +1,17 @@
+resultCB({
+"name": "Coventry North East",
+"id": "E14000649",
+"region": "West Midlands",
+"turnout": "42231",
+"electorate": "76401",
+"win": "lab",
+"swing": "0.96",
+"status": "hold",
+"con": "9751",
+"lab": "22025",
+"lib": "2007",
+"grn": "1245",
+"ukp": "6278",
+"oth": "925",
+"mpn": "Colleen Fletcher"
+});

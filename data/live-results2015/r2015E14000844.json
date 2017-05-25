@@ -1,0 +1,17 @@
+resultCB({
+"name": "North East Hampshire",
+"id": "E14000844",
+"region": "South East",
+"turnout": "54000",
+"electorate": "74025",
+"win": "con",
+"swing": "10.14",
+"status": "hold",
+"con": "35573",
+"lab": "5290",
+"lib": "5657",
+"grn": "2364",
+"ukp": "4732",
+"oth": "384",
+"mpn": "Ranil Jayawardena"
+});

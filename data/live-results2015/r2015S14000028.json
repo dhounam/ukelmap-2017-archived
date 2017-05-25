@@ -1,0 +1,16 @@
+resultCB({
+"name": "Falkirk",
+"id": "S14000028",
+"region": "Scotland",
+"turnout": "60340",
+"electorate": "83380",
+"win": "snp",
+"swing": "24.05",
+"status": "gain",
+"con": "7325",
+"lab": "15130",
+"lib": "1225",
+"ukp": "1829",
+"snp": "34831",
+"mpn": "John McNally"
+});

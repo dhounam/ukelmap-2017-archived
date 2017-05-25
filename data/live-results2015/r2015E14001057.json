@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wyre and Preston North",
+"id": "E14001057",
+"region": "North West",
+"turnout": "49893",
+"electorate": "70697",
+"win": "con",
+"swing": "1.36",
+"status": "hold",
+"con": "26528",
+"lab": "12377",
+"lib": "2712",
+"grn": "1699",
+"ukp": "6577",
+"mpn": "Ben Wallace"
+});

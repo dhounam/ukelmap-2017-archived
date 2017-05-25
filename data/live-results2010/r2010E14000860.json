@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Wiltshire, North",
+
+"id": "E14000860",
+
+"region": "South West",
+
+"turnout": "48699",
+
+"electorate": "66313",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.655,
+
+"hpr": 7.32508126056732,
+
+"sal": 10.4244083708195,
+
+"ele": -0.38928,
+
+"con": "25114",
+
+"lab": "3239",
+
+"lib": "17631",
+
+"grn": "599",
+
+"ukp": "1908",
+
+"ind": "208",
+
+"mpn": "James Gray",
+
+});
+

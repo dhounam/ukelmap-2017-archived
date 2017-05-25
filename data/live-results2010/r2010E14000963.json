@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "St. Helens, South & Whiston",
+
+"id": "E14000963",
+
+"region": "North West",
+
+"turnout": "46081",
+
+"electorate": "77975",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.597,
+
+"hpr": 0.367754303918886,
+
+"sal": 5.86635586635586,
+
+"ele": -2.64151,
+
+"con": "8209",
+
+"lab": "24364",
+
+"lib": "10242",
+
+"ukp": "1226",
+
+"bnp": "2040",
+
+"mpn": "Shaun Woodward",
+
+});
+

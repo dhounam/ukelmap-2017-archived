@@ -1,0 +1,16 @@
+resultCB({
+"name": "Sedgefield",
+"id": "E14000915",
+"region": "North East",
+"turnout": "38716",
+"electorate": "62860",
+"win": "lab",
+"swing": "1.97",
+"status": "hold",
+"con": "11432",
+"lab": "18275",
+"lib": "1370",
+"grn": "1213",
+"ukp": "6426",
+"mpn": "Phil Wilson"
+});

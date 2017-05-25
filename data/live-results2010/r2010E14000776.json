@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Lancaster & Fleetwood",
+
+"id": "E14000776",
+
+"region": "North West",
+
+"turnout": "42701",
+
+"electorate": "69908",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.79,
+
+"hpr": 9.17323298297434,
+
+"sal": 3.19428786170613,
+
+"ele": -11.2013,
+
+"con": "15404",
+
+"lab": "15071",
+
+"lib": "8167",
+
+"grn": "1888",
+
+"ukp": "1020",
+
+"bnp": "938",
+
+"ind": "213",
+
+"mpn": "Eric Ollerenshaw",
+
+});
+

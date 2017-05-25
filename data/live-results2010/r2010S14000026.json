@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Edinburgh, West",
+
+"id": "S14000026",
+
+"region": "Scotland",
+
+"turnout": "46447",
+
+"electorate": "65161",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": 5.23327799103157,
+
+"sal": 4.13067378671272,
+
+"ele": 8.600028,
+
+"con": "10767",
+
+"lab": "12881",
+
+"lib": "16684",
+
+"snp": "6115",
+
+"mpn": "Michael Crockart",
+
+});
+

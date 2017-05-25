@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Birmingham Hodge Hill",
+
+"id": "E14000563",
+
+"region": "West Midlands",
+
+"turnout": "42472",
+
+"electorate": "75040",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.076,
+
+"hpr": 1.58386278612583,
+
+"sal": 4.38002539145155,
+
+"ele": 0.04248,
+
+"con": "4936",
+
+"lab": "22077",
+
+"lib": "11775",
+
+"ukp": "714",
+
+"bnp": "2333",
+
+"oth": "637",
+
+"mpn": "Liam Byrne",
+
+});
+

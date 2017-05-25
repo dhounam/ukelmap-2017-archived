@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Blaydon",
+
+"id": "E14000574",
+
+"region": "North East",
+
+"turnout": "44913",
+
+"electorate": "67808",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.876,
+
+"hpr": -0.950295197363488,
+
+"sal": 12.0355596079325,
+
+"ele": -2.19203,
+
+"con": "7159",
+
+"lab": "22297",
+
+"lib": "13180",
+
+"bnp": "2277",
+
+"mpn": "Dave Anderson",
+
+});
+

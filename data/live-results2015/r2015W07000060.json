@@ -1,0 +1,16 @@
+resultCB({
+"name": "Vale of Clwyd",
+"id": "W07000060",
+"region": "Wales",
+"turnout": "35261",
+"electorate": "56505",
+"win": "con",
+"swing": "3.87",
+"status": "gain",
+"con": "13760",
+"lab": "13523",
+"lib": "915",
+"ukp": "4577",
+"plc": "2486",
+"mpn": "James Davies"
+});

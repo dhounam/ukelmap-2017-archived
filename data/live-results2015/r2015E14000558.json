@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bexleyheath and Crayford",
+"id": "E14000558",
+"region": "London",
+"turnout": "43685",
+"electorate": "64828",
+"win": "con",
+"swing": "1.46",
+"status": "hold",
+"con": "20643",
+"lab": "11451",
+"lib": "1308",
+"grn": "950",
+"ukp": "9182",
+"oth": "151",
+"mpn": "David Evennett"
+});

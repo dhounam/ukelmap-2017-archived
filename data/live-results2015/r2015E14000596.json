@@ -1,0 +1,18 @@
+resultCB({
+"name": "Brigg and Goole",
+"id": "E14000596",
+"region": "Yorkshire",
+"turnout": "43270",
+"electorate": "68486",
+"win": "con",
+"swing": "7.05",
+"status": "hold",
+"con": "22946",
+"lab": "11770",
+"lib": "764",
+"grn": "915",
+"ukp": "6694",
+"ind": "153",
+"oth": "28",
+"mpn": "Andrew Percy"
+});

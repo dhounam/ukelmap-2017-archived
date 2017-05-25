@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Cambridge",
+
+"id": "E14000617",
+
+"region": "East Of England",
+
+"turnout": "50130",
+
+"electorate": "77081",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 5.197,
+
+"hpr": 42.5405232358954,
+
+"sal": 8.81079280479679,
+
+"ele": -1.25245,
+
+"con": "12829",
+
+"lab": "12174",
+
+"lib": "19621",
+
+"grn": "3804",
+
+"ukp": "1195",
+
+"ind": "145",
+
+"oth": "362",
+
+"mpn": "Julian Huppert",
+
+});
+

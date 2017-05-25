@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Ynys Mon",
+
+"id": "W07000041",
+
+"region": "Wales",
+
+"turnout": "34444",
+
+"electorate": "50075",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.369,
+
+"hpr": 0.545128523013162,
+
+"sal": 10.0805523590334,
+
+"ele": -4.3745,
+
+"con": "7744",
+
+"lab": "11490",
+
+"lib": "2592",
+
+"ukp": "1201",
+
+"plc": "9029",
+
+"ind": "2225",
+
+"oth": "163",
+
+"mpn": "Albert Owen",
+
+});
+

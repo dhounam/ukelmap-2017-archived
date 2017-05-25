@@ -1,0 +1,17 @@
+resultCB({
+"name": "Paisley and Renfrewshire North",
+"id": "S14000052",
+"region": "Scotland",
+"turnout": "50462",
+"electorate": "66206",
+"win": "snp",
+"swing": "26.47",
+"status": "gain",
+"con": "6183",
+"lab": "16525",
+"lib": "1055",
+"grn": "703",
+"snp": "25601",
+"oth": "395",
+"mpn": "Gavin Newlands"
+});

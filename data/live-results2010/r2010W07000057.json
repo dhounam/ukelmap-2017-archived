@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Arfon",
+
+"id": "W07000057",
+
+"region": "Wales",
+
+"turnout": "26078",
+
+"electorate": "41198",
+
+"win": "plc",
+
+"marginal": "True",
+
+"pop": 1.497,
+
+"hpr": -1.99155221098349,
+
+"sal": 9.6375081397873,
+
+"ele": -7.11194,
+
+"con": "4416",
+
+"lab": "7928",
+
+"lib": "3666",
+
+"ukp": "685",
+
+"plc": "9383",
+
+"mpn": "Hywel Williams",
+
+});
+

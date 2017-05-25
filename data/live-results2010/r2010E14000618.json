@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Cannock Chase",
+
+"id": "E14000618",
+
+"region": "West Midlands",
+
+"turnout": "45559",
+
+"electorate": "74509",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.26,
+
+"hpr": 11.7930977848304,
+
+"sal": -3.28134494632367,
+
+"ele": -0.91142,
+
+"con": "18271",
+
+"lab": "15076",
+
+"lib": "7732",
+
+"ukp": "1580",
+
+"bnp": "2168",
+
+"ind": "380",
+
+"oth": "352",
+
+"mpn": "Aidan Burley",
+
+});
+

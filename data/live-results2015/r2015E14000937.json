@@ -1,0 +1,16 @@
+resultCB({
+"name": "South East Cambridgeshire",
+"id": "E14000937",
+"region": "East Anglia",
+"turnout": "59506",
+"electorate": "84570",
+"win": "con",
+"swing": "8.99",
+"status": "hold",
+"con": "28845",
+"lab": "9013",
+"lib": "12008",
+"grn": "3047",
+"ukp": "6593",
+"mpn": "Lucy Frazer"
+});

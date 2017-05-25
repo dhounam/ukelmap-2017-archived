@@ -1,0 +1,18 @@
+resultCB({
+"name": "Uxbridge and Ruislip South",
+"id": "E14001007",
+"region": "London",
+"turnout": "44811",
+"electorate": "70634",
+"win": "con",
+"swing": "0.51",
+"status": "hold",
+"con": "22511",
+"lab": "11816",
+"lib": "2215",
+"grn": "1414",
+"ukp": "6346",
+"ind": "123",
+"oth": "386",
+"mpn": "Boris Johnson"
+});

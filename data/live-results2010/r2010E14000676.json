@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Ealing Southall",
+
+"id": "E14000676",
+
+"region": "London",
+
+"turnout": "42756",
+
+"electorate": "60379",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 3.289,
+
+"hpr": 40.8547131010155,
+
+"sal": -8.44058164800268,
+
+"ele": 0.020233,
+
+"con": "12733",
+
+"lab": "22024",
+
+"lib": "6383",
+
+"grn": "705",
+
+"oth": "911",
+
+"mpn": "Virendra Sharma",
+
+});
+

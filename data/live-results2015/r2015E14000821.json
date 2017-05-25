@@ -1,0 +1,18 @@
+resultCB({
+"name": "Milton Keynes North",
+"id": "E14000821",
+"region": "South East",
+"turnout": "57692",
+"electorate": "84892",
+"win": "con",
+"swing": "0.14",
+"status": "hold",
+"con": "27244",
+"lab": "17491",
+"lib": "3575",
+"grn": "2255",
+"ukp": "6852",
+"ind": "112",
+"oth": "163",
+"mpn": "Mark Lancaster"
+});

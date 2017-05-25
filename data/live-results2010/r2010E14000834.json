@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Newcastle-under-Lyme",
+
+"id": "E14000834",
+
+"region": "West Midlands",
+
+"turnout": "43191",
+
+"electorate": "69433",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.149,
+
+"hpr": 3.02904856981769,
+
+"sal": 15.4759238521837,
+
+"ele": -4.15874,
+
+"con": "14841",
+
+"lab": "16393",
+
+"lib": "8466",
+
+"ukp": "3491",
+
+"mpn": "Paul Farrelly",
+
+});
+

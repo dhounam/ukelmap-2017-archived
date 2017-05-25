@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Great Yarmouth",
+
+"id": "E14000717",
+
+"region": "East Of England",
+
+"turnout": "43057",
+
+"electorate": "70315",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.755,
+
+"hpr": 8.02345183939562,
+
+"sal": 8.4123711340206,
+
+"ele": -2.0514,
+
+"con": "18571",
+
+"lab": "14295",
+
+"lib": "6188",
+
+"grn": "416",
+
+"ukp": "2066",
+
+"bnp": "1421",
+
+"oth": "100",
+
+"mpn": "Brandon Lewis",
+
+});
+

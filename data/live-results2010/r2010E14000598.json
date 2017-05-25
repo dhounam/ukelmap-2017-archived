@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Brighton Pavilion",
+
+"id": "E14000598",
+
+"region": "South East",
+
+"turnout": "51834",
+
+"electorate": "74004",
+
+"win": "grn",
+
+"marginal": "True",
+
+"pop": 4.511,
+
+"hpr": 33.9553959353154,
+
+"sal": 2.7383958050107,
+
+"ele": -8.09591,
+
+"con": "12275",
+
+"lab": "14986",
+
+"lib": "7159",
+
+"grn": "16238",
+
+"ukp": "948",
+
+"oth": "228",
+
+"mpn": "Dr Caroline Lucas",
+
+});
+

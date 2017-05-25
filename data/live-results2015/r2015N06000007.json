@@ -1,0 +1,15 @@
+resultCB({
+"name": "Fermanagh and South Tyrone",
+"id": "N06000007",
+"region": "Northern Ireland",
+"turnout": "50864",
+"electorate": "70106",
+"win": "uup",
+"swing": "",
+"status": "gain",
+"grn": "788",
+"snf": "23078",
+"sdl": "2732",
+"uup": "23608",
+"mpn": "Tom Elliott"
+});

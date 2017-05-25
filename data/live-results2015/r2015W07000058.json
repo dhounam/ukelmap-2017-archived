@@ -1,0 +1,17 @@
+resultCB({
+"name": "Aberconwy",
+"id": "W07000058",
+"region": "Wales",
+"turnout": "30148",
+"electorate": "45540",
+"win": "con",
+"swing": "0.96",
+"status": "hold",
+"con": "12513",
+"lab": "8514",
+"lib": "1391",
+"grn": "727",
+"ukp": "3467",
+"plc": "3536",
+"mpn": "Guto Bebb"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Northampton North",
+"id": "E14000861",
+"region": "East Midlands",
+"turnout": "39411",
+"electorate": "59147",
+"win": "con",
+"swing": "1.71",
+"status": "hold",
+"con": "16699",
+"lab": "13454",
+"lib": "1401",
+"grn": "1503",
+"ukp": "6354",
+"mpn": "Michael Ellis"
+});

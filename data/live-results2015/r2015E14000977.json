@@ -1,0 +1,16 @@
+resultCB({
+"name": "Stratford-on-Avon",
+"id": "E14000977",
+"region": "West Midlands",
+"turnout": "51459",
+"electorate": "70914",
+"win": "con",
+"swing": "1.72",
+"status": "hold",
+"con": "29674",
+"lab": "6677",
+"lib": "6182",
+"grn": "2128",
+"ukp": "6798",
+"mpn": "Nadhim Zahawi"
+});

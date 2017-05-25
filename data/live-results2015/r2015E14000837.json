@@ -1,0 +1,18 @@
+resultCB({
+"name": "North Cornwall",
+"id": "E14000837",
+"region": "South West",
+"turnout": "48255",
+"electorate": "67192",
+"win": "con",
+"swing": "10.92",
+"status": "gain",
+"con": "21699",
+"lab": "2621",
+"lib": "15068",
+"grn": "2063",
+"ukp": "6121",
+"ind": "52",
+"oth": "631",
+"mpn": "Scott Mann"
+});

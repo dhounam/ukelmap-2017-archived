@@ -1,0 +1,17 @@
+resultCB({
+"name": "Salisbury",
+"id": "E14000912",
+"region": "South West",
+"turnout": "50705",
+"electorate": "69590",
+"win": "con",
+"swing": "0.66",
+"status": "hold",
+"con": "28192",
+"lab": "7771",
+"lib": "5099",
+"grn": "2762",
+"ukp": "6152",
+"ind": "729",
+"mpn": "John Glen"
+});

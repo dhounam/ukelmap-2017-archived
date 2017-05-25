@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Kilmarnock & Loudoun",
+
+"id": "S14000040",
+
+"region": "Scotland",
+
+"turnout": "46553",
+
+"electorate": "74131",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": -4.41755449367527,
+
+"sal": 5.07417759621586,
+
+"ele": 0.389371,
+
+"con": "6592",
+
+"lab": "24460",
+
+"lib": "3419",
+
+"snp": "12082",
+
+"mpn": "Cathy Jamieson",
+
+});
+

@@ -1,0 +1,19 @@
+resultCB({
+"name": "Lagan Valley",
+"id": "N06000009",
+"region": "Northern Ireland",
+"turnout": "39795",
+"electorate": "71140",
+"win": "dup",
+"swing": "",
+"status": "hold",
+"con": "654",
+"ukp": "2200",
+"ind": "756",
+"snf": "1144",
+"sdl": "2500",
+"dup": "19055",
+"uup": "6055",
+"oth": "5544",
+"mpn": "Jeffrey Donaldson"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Liverpool West Derby",
+
+"id": "E14000796",
+
+"region": "North West",
+
+"turnout": "35784",
+
+"electorate": "63082",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.209,
+
+"hpr": 8.25120325055826,
+
+"sal": -4.47873541588257,
+
+"ele": -2.26675,
+
+"con": "3311",
+
+"lab": "22953",
+
+"lib": "4486",
+
+"ukp": "1093",
+
+"oth": "3941",
+
+"mpn": "Stephen Twigg",
+
+});
+

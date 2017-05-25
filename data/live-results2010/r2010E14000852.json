@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Thanet, North",
+
+"id": "E14000852",
+
+"region": "South East",
+
+"turnout": "43343",
+
+"electorate": "69432",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.16,
+
+"hpr": 13.5892116503992,
+
+"sal": 5.27215035391751,
+
+"ele": 1.890095,
+
+"con": "22826",
+
+"lab": "9298",
+
+"lib": "8400",
+
+"ukp": "2819",
+
+"mpn": "Roger Gale",
+
+});
+

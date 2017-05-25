@@ -1,0 +1,17 @@
+resultCB({
+"name": "Sunderland Central",
+"id": "E14000982",
+"region": "North East",
+"turnout": "41762",
+"electorate": "72933",
+"win": "lab",
+"swing": "5.47",
+"status": "hold",
+"con": "9780",
+"lab": "20959",
+"lib": "1105",
+"grn": "1706",
+"ukp": "7997",
+"oth": "215",
+"mpn": "Julie Elliott"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Carshalton & Wallington",
+
+"id": "E14000621",
+
+"region": "London",
+
+"turnout": "45918",
+
+"electorate": "66520",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 3.421,
+
+"hpr": 34.6361400434425,
+
+"sal": 5.92070484581497,
+
+"ele": 5.054477,
+
+"con": "16920",
+
+"lab": "4015",
+
+"lib": "22180",
+
+"grn": "355",
+
+"ukp": "1348",
+
+"bnp": "1100",
+
+"mpn": "Tom Brake",
+
+});
+

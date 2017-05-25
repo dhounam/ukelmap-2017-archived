@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Bournemouth, West",
+
+"id": "E14000585",
+
+"region": "South West",
+
+"turnout": "41659",
+
+"electorate": "71753",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.26,
+
+"hpr": 15.4912253504503,
+
+"sal": 9.39694341181333,
+
+"ele": -2.49884,
+
+"con": "18808",
+
+"lab": "6171",
+
+"lib": "13225",
+
+"ukp": "2999",
+
+"ind": "456",
+
+"mpn": "Conor Burns",
+
+});
+

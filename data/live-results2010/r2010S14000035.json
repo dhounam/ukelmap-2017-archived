@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Glasgow, South West",
+
+"id": "S14000035",
+
+"region": "Scotland",
+
+"turnout": "31781",
+
+"electorate": "58182",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 56.3580822452865,
+
+"sal": 8.87762762762765,
+
+"ele": 12.25974,
+
+"con": "2084",
+
+"lab": "19863",
+
+"lib": "2870",
+
+"bnp": "841",
+
+"snp": "5192",
+
+"oth": "931",
+
+"mpn": "Ian Davidson",
+
+});
+

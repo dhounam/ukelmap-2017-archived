@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Henley",
+
+"id": "E14000742",
+
+"region": "South East",
+
+"turnout": "53520",
+
+"electorate": "75005",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.878,
+
+"hpr": 20.6559188869587,
+
+"sal": 9.95042492917848,
+
+"ele": 3.859229,
+
+"con": "30054",
+
+"lab": "5835",
+
+"lib": "13466",
+
+"grn": "1328",
+
+"ukp": "1817",
+
+"bnp": "1020",
+
+"mpn": "John Howell",
+
+});
+

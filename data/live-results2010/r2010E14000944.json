@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "South Shields",
+
+"id": "E14000944",
+
+"region": "North East",
+
+"turnout": "24736",
+
+"electorate": "63294",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.196,
+
+"hpr": 3.71383682772941,
+
+"sal": 10.282722513089,
+
+"ele": -1.40192,
+
+"con": "2857",
+
+"lab": "12493",
+
+"lib": "352",
+
+"ukp": "5988",
+
+"bnp": "711",
+
+"ind": "1331",
+
+"oth": "1004",
+
+"mpn": "Emma Lewell-Buck",
+
+});
+

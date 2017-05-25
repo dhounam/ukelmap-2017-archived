@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Dover",
+
+"id": "E14000670",
+
+"region": "South East",
+
+"turnout": "50385",
+
+"electorate": "71832",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.479,
+
+"hpr": 17.3010301028696,
+
+"sal": 1.17835030956661,
+
+"ele": 1.318236,
+
+"con": "22174",
+
+"lab": "16900",
+
+"lib": "7962",
+
+"ukp": "1747",
+
+"bnp": "1104",
+
+"ind": "82",
+
+"oth": "416",
+
+"mpn": "Charlie Elphicke",
+
+});
+

@@ -1,0 +1,18 @@
+resultCB({
+"name": "Ross, Skye and Lochaber",
+"id": "S14000055",
+"region": "Scotland",
+"turnout": "41811",
+"electorate": "54169",
+"win": "snp",
+"swing": "24.89",
+"status": "gain",
+"con": "2598",
+"lab": "2043",
+"lib": "14995",
+"grn": "1051",
+"ukp": "814",
+"snp": "20119",
+"ind": "191",
+"mpn": "Ian Blackford"
+});

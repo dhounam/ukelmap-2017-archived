@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Suffolk, Central & North Ipswich",
+
+"id": "E14000624",
+
+"region": "East Of England",
+
+"turnout": "53420",
+
+"electorate": "75848",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.862,
+
+"hpr": 14.2755217064592,
+
+"sal": 4.60161908819769,
+
+"ele": -0.8314,
+
+"con": "27125",
+
+"lab": "8636",
+
+"lib": "13339",
+
+"grn": "1452",
+
+"ukp": "2361",
+
+"ind": "389",
+
+"oth": "118",
+
+"mpn": "Daniel Poulter",
+
+});
+

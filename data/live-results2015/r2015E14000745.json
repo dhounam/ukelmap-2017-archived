@@ -1,0 +1,15 @@
+resultCB({
+"name": "Hertsmere",
+"id": "E14000745",
+"region": "East Anglia",
+"turnout": "50091",
+"electorate": "73753",
+"win": "con",
+"swing": "0.19",
+"status": "hold",
+"con": "29696",
+"lab": "11235",
+"lib": "2777",
+"ukp": "6383",
+"mpn": "Oliver Dowden"
+});

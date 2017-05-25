@@ -1,0 +1,16 @@
+resultCB({
+"name": "Blaydon",
+"id": "E14000574",
+"region": "North East",
+"turnout": "44936",
+"electorate": "67706",
+"win": "lab",
+"swing": "",
+"status": "hold",
+"con": "7838",
+"lab": "22090",
+"lib": "5497",
+"grn": "1648",
+"ukp": "7863",
+"mpn": "David Anderson"
+});

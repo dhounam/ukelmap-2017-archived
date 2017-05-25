@@ -1,0 +1,16 @@
+resultCB({
+"name": "Livingston",
+"id": "S14000044",
+"region": "Scotland",
+"turnout": "57547",
+"electorate": "82373",
+"win": "snp",
+"swing": "25.9",
+"status": "gain",
+"con": "5929",
+"lab": "15893",
+"lib": "1232",
+"ukp": "1757",
+"snp": "32736",
+"mpn": "Hannah Bardell"
+});

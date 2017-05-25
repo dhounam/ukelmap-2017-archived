@@ -1,0 +1,17 @@
+resultCB({
+"name": "Inverclyde",
+"id": "S14000038",
+"region": "Scotland",
+"turnout": "44607",
+"electorate": "59350",
+"win": "snp",
+"swing": "31.63",
+"status": "gain",
+"con": "4446",
+"lab": "13522",
+"lib": "1106",
+"ukp": "715",
+"snp": "24585",
+"oth": "233",
+"mpn": "Ronnie Cowan"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Dunfermline and West Fife",
+"id": "S14000017",
+"region": "Scotland",
+"turnout": "55890",
+"electorate": "78037",
+"win": "snp",
+"swing": "27.07",
+"status": "gain",
+"con": "6623",
+"lab": "17744",
+"lib": "2232",
+"grn": "1195",
+"snp": "28096",
+"mpn": "Douglas Chapman"
+});

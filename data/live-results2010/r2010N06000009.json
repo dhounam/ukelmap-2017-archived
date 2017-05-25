@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Lagan Valley",
+
+"id": "N06000009",
+
+"region": "Northern Ireland",
+
+"turnout": "36540",
+
+"electorate": "65257",
+
+"win": "dup",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 8.965007,
+
+"snf": "1465",
+
+"sdl": "1835",
+
+"dup": "18199",
+
+"uup": "7713",
+
+"oth": "7328",
+
+"mpn": "Daphne Trimble",
+
+});
+

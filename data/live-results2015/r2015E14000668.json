@@ -1,0 +1,16 @@
+resultCB({
+"name": "Doncaster Central",
+"id": "E14000668",
+"region": "Yorkshire",
+"turnout": "40420",
+"electorate": "71136",
+"win": "lab",
+"swing": "5.66",
+"status": "hold",
+"con": "8386",
+"lab": "19840",
+"lib": "1717",
+"ukp": "9747",
+"oth": "730",
+"mpn": "Rosie Winterton"
+});

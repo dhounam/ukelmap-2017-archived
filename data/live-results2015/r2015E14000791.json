@@ -1,0 +1,17 @@
+resultCB({
+"name": "Lichfield",
+"id": "E14000791",
+"region": "West Midlands",
+"turnout": "51467",
+"electorate": "83339",
+"win": "con",
+"swing": "0.39",
+"status": "hold",
+"con": "28389",
+"lab": "10200",
+"lib": "2700",
+"grn": "1976",
+"ukp": "8082",
+"oth": "120",
+"mpn": "Michael Fabricant"
+});

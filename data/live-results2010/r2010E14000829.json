@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Newark",
+
+"id": "E14000829",
+
+"region": "East Midlands",
+
+"turnout": "38707",
+
+"electorate": "73486",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.288,
+
+"hpr": 5.9286735329887,
+
+"sal": 5.71967316153363,
+
+"ele": 0.757851,
+
+"con": "17431",
+
+"lab": "6842",
+
+"lib": "1004",
+
+"grn": "1057",
+
+"ukp": "10028",
+
+"ind": "1891",
+
+"oth": "454",
+
+"mpn": "Robert Jenrick",
+
+});
+

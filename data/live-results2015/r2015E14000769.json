@@ -1,0 +1,17 @@
+resultCB({
+"name": "Kettering",
+"id": "E14000769",
+"region": "East Midlands",
+"turnout": "47218",
+"electorate": "70155",
+"win": "con",
+"swing": "3.72",
+"status": "hold",
+"con": "24467",
+"lab": "11877",
+"lib": "1490",
+"grn": "1633",
+"ukp": "7600",
+"oth": "151",
+"mpn": "Philip Hollobone"
+});

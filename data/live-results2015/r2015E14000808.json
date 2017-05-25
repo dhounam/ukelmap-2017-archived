@@ -1,0 +1,17 @@
+resultCB({
+"name": "Manchester Gorton",
+"id": "E14000808",
+"region": "North West",
+"turnout": "42019",
+"electorate": "72959",
+"win": "lab",
+"swing": "4.96",
+"status": "hold",
+"con": "4063",
+"lab": "28187",
+"lib": "1782",
+"grn": "4108",
+"ukp": "3434",
+"oth": "445",
+"mpn": "Sir Gerald Kaufman"
+});

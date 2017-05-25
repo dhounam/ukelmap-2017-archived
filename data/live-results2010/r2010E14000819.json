@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Middlesbrough",
+
+"id": "E14000819",
+
+"region": "North East",
+
+"turnout": "33455",
+
+"electorate": "65148",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.978,
+
+"hpr": 1.22330518650955,
+
+"sal": 6.3779357897005,
+
+"ele": -2.40696,
+
+"con": "6283",
+
+"lab": "15351",
+
+"lib": "6662",
+
+"ukp": "1236",
+
+"bnp": "1954",
+
+"ind": "1969",
+
+"mpn": "Andrew McDonald",
+
+});
+

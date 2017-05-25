@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Dunbartonshire East",
+
+"id": "S14000018",
+
+"region": "Scotland",
+
+"turnout": "47948",
+
+"electorate": "63795",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": 15.4334902318305,
+
+"sal": -11.3220693259014,
+
+"ele": 4.63658,
+
+"con": "7431",
+
+"lab": "16367",
+
+"lib": "18551",
+
+"ukp": "545",
+
+"snp": "5054",
+
+"mpn": "Jo Swinson",
+
+});
+

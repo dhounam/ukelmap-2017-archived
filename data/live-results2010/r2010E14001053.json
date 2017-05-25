@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Workington",
+
+"id": "E14001053",
+
+"region": "North West",
+
+"turnout": "39259",
+
+"electorate": "59607",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.078,
+
+"hpr": 5.4448963698264,
+
+"sal": -5.26995052699505,
+
+"ele": -4.64809,
+
+"con": "13290",
+
+"lab": "17865",
+
+"lib": "5318",
+
+"ukp": "876",
+
+"bnp": "1496",
+
+"oth": "414",
+
+"mpn": "Tony Cunningham",
+
+});
+

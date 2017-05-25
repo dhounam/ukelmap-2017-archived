@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Eastleigh",
+
+"id": "E14000685",
+
+"region": "South East",
+
+"turnout": "41616",
+
+"electorate": "79004",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 2.982,
+
+"hpr": 17.6813433261139,
+
+"sal": 10.1013965946049,
+
+"ele": 2.302121,
+
+"con": "10559",
+
+"lab": "4088",
+
+"lib": "13342",
+
+"ukp": "11571",
+
+"oth": "2056",
+
+"mpn": "Mike Thornton",
+
+});
+

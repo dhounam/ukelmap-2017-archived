@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Stirling",
+
+"id": "S14000057",
+
+"region": "Scotland",
+
+"turnout": "46791",
+
+"electorate": "66080",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 0.432581377724802,
+
+"sal": -5.52136451556183,
+
+"ele": -2.51291,
+
+"con": "11204",
+
+"lab": "19558",
+
+"lib": "6797",
+
+"grn": "746",
+
+"ukp": "395",
+
+"snp": "8091",
+
+"mpn": "Anne McGuire",
+
+});
+

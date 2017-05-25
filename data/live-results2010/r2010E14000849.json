@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Shropshire, North",
+
+"id": "E14000849",
+
+"region": "West Midlands",
+
+"turnout": "51869",
+
+"electorate": "78926",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.589,
+
+"hpr": 0.93452974764952,
+
+"sal": 14.4955713977101,
+
+"ele": -1.28354,
+
+"con": "26692",
+
+"lab": "9406",
+
+"lib": "10864",
+
+"grn": "808",
+
+"ukp": "2432",
+
+"bnp": "1667",
+
+"mpn": "Owen Paterson",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Delyn",
+
+"id": "W07000042",
+
+"region": "Wales",
+
+"turnout": "36984",
+
+"electorate": "53470",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": -0.07,
+
+"hpr": 0.466634072633681,
+
+"sal": 12.4743537135823,
+
+"ele": -1.06949,
+
+"con": "12811",
+
+"lab": "15083",
+
+"lib": "5747",
+
+"ukp": "655",
+
+"bnp": "844",
+
+"plc": "1844",
+
+"mpn": "David Hanson",
+
+});
+

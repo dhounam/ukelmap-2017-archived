@@ -1,0 +1,17 @@
+resultCB({
+"name": "Leeds West",
+"id": "E14000781",
+"region": "Yorkshire",
+"turnout": "38423",
+"electorate": "64950",
+"win": "lab",
+"swing": "2.67",
+"status": "hold",
+"con": "7729",
+"lab": "18456",
+"lib": "1495",
+"grn": "3217",
+"ukp": "7104",
+"oth": "422",
+"mpn": "Rachel Reeves"
+});

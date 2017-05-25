@@ -1,0 +1,17 @@
+resultCB({
+"name": "Islington North",
+"id": "E14000763",
+"region": "London",
+"turnout": "49234",
+"electorate": "73325",
+"win": "lab",
+"swing": "1.39",
+"status": "hold",
+"con": "8465",
+"lab": "29659",
+"lib": "3984",
+"grn": "5043",
+"ukp": "1971",
+"oth": "112",
+"mpn": "Jeremy Corbyn"
+});

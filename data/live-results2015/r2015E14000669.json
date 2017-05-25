@@ -1,0 +1,17 @@
+resultCB({
+"name": "Doncaster North",
+"id": "E14000669",
+"region": "Yorkshire",
+"turnout": "39501",
+"electorate": "70898",
+"win": "lab",
+"swing": "6.59",
+"status": "hold",
+"con": "7235",
+"lab": "20708",
+"lib": "1005",
+"grn": "757",
+"ukp": "8928",
+"oth": "868",
+"mpn": "Ed Miliband"
+});

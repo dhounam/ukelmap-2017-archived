@@ -1,0 +1,16 @@
+resultCB({
+"name": "Keighley",
+"id": "E14000766",
+"region": "Yorkshire",
+"turnout": "49123",
+"electorate": "68865",
+"win": "con",
+"swing": "0.03",
+"status": "hold",
+"con": "21766",
+"lab": "18713",
+"lib": "1321",
+"grn": "1661",
+"ukp": "5662",
+"mpn": "Kris Hopkins"
+});

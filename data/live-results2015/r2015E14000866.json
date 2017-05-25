@@ -1,0 +1,17 @@
+resultCB({
+"name": "Nottingham North",
+"id": "E14000866",
+"region": "East Midlands",
+"turnout": "35343",
+"electorate": "65918",
+"win": "lab",
+"swing": "4.91",
+"status": "hold",
+"con": "7423",
+"lab": "19283",
+"lib": "847",
+"grn": "1088",
+"ukp": "6542",
+"oth": "160",
+"mpn": "Graham Allen"
+});

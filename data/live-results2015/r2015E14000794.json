@@ -1,0 +1,18 @@
+resultCB({
+"name": "Liverpool Walton",
+"id": "E14000794",
+"region": "North West",
+"turnout": "38403",
+"electorate": "62868",
+"win": "lab",
+"swing": "1.49",
+"status": "hold",
+"con": "1802",
+"lab": "31222",
+"lib": "899",
+"grn": "956",
+"ukp": "3445",
+"ind": "56",
+"oth": "23",
+"mpn": "Steve Rotheram"
+});

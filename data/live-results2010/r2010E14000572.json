@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Blackpool, North & Cleveleys",
+
+"id": "E14000572",
+
+"region": "North West",
+
+"turnout": "40591",
+
+"electorate": "65888",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": -0.383,
+
+"hpr": -1.88335142614321,
+
+"sal": 10.0602409638554,
+
+"ele": -6.72312,
+
+"con": "16964",
+
+"lab": "14814",
+
+"lib": "5400",
+
+"ukp": "1659",
+
+"bnp": "1556",
+
+"oth": "198",
+
+"mpn": "Paul Maynard",
+
+});
+

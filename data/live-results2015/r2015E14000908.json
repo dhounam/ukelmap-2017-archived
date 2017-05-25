@@ -1,0 +1,16 @@
+resultCB({
+"name": "Rushcliffe",
+"id": "E14000908",
+"region": "East Midlands",
+"turnout": "55164",
+"electorate": "73294",
+"win": "con",
+"swing": "2.69",
+"status": "hold",
+"con": "28354",
+"lab": "14525",
+"lib": "2783",
+"grn": "3559",
+"ukp": "5943",
+"mpn": "Kenneth Clarke"
+});

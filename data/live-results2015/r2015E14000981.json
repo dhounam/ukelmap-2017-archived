@@ -1,0 +1,16 @@
+resultCB({
+"name": "Suffolk Coastal",
+"id": "E14000981",
+"region": "East Anglia",
+"turnout": "55594",
+"electorate": "78782",
+"win": "con",
+"swing": "1.77",
+"status": "hold",
+"con": "28855",
+"lab": "10013",
+"lib": "4777",
+"grn": "3294",
+"ukp": "8655",
+"mpn": "Therese Coffey"
+});

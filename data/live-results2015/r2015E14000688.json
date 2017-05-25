@@ -1,0 +1,17 @@
+resultCB({
+"name": "Ellesmere Port and Neston",
+"id": "E14000688",
+"region": "North West",
+"turnout": "46727",
+"electorate": "68134",
+"win": "lab",
+"swing": "1.82",
+"status": "hold",
+"con": "16041",
+"lab": "22316",
+"lib": "1563",
+"grn": "990",
+"ukp": "5594",
+"oth": "223",
+"mpn": "Justin Madders"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Hereford and Herefordshire South",
+"id": "E14000743",
+"region": "West Midlands",
+"turnout": "47257",
+"electorate": "70711",
+"win": "con",
+"swing": "3.55",
+"status": "hold",
+"con": "24844",
+"lab": "6042",
+"lib": "5002",
+"grn": "3415",
+"ukp": "7954",
+"mpn": "Jesse Norman"
+});

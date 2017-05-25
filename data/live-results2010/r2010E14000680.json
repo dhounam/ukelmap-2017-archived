@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Hampshire, East",
+
+"id": "E14000680",
+
+"region": "South East",
+
+"turnout": "51317",
+
+"electorate": "72250",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.571,
+
+"hpr": 15.4396626022111,
+
+"sal": 2.73692810457516,
+
+"ele": -0.64504,
+
+"con": "29137",
+
+"lab": "4043",
+
+"lib": "15640",
+
+"ukp": "1477",
+
+"oth": "1020",
+
+"mpn": "Damian Hinds",
+
+});
+

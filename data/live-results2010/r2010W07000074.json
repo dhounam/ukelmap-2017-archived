@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Ogmore",
+
+"id": "W07000074",
+
+"region": "Wales",
+
+"turnout": "34650",
+
+"electorate": "55527",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.057,
+
+"hpr": 12.0973291914685,
+
+"sal": 8.23323869840577,
+
+"ele": -2.52438,
+
+"con": "5398",
+
+"lab": "18644",
+
+"lib": "5260",
+
+"ukp": "780",
+
+"bnp": "1242",
+
+"plc": "3326",
+
+"mpn": "Huw Irranca-Davies",
+
+});
+

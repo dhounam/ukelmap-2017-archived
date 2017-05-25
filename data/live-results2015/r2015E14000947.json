@@ -1,0 +1,16 @@
+resultCB({
+"name": "South Swindon",
+"id": "E14000947",
+"region": "South West",
+"turnout": "49263",
+"electorate": "73956",
+"win": "con",
+"swing": "2.11",
+"status": "hold",
+"con": "22777",
+"lab": "16992",
+"lib": "1817",
+"grn": "1757",
+"ukp": "5920",
+"mpn": "Robert Buckland"
+});

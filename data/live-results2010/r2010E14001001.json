@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Totnes",
+
+"id": "E14001001",
+
+"region": "South West",
+
+"turnout": "47843",
+
+"electorate": "67937",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.79,
+
+"hpr": 7.69430951344083,
+
+"sal": 3.96593673965937,
+
+"ele": -0.84622,
+
+"con": "21940",
+
+"lab": "3538",
+
+"lib": "17013",
+
+"grn": "1181",
+
+"ukp": "2890",
+
+"bnp": "624",
+
+"ind": "390",
+
+"oth": "267",
+
+"mpn": "Dr Sarah Wollaston",
+
+});
+

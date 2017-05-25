@@ -1,0 +1,18 @@
+resultCB({
+"name": "Wigan",
+"id": "E14001039",
+"region": "North West",
+"turnout": "45293",
+"electorate": "76068",
+"win": "lab",
+"swing": "3.84",
+"status": "hold",
+"con": "9389",
+"lab": "23625",
+"lib": "1255",
+"grn": "1273",
+"ukp": "8818",
+"ind": "165",
+"oth": "768",
+"mpn": "Lisa Nandy"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Cambridgeshire, North West",
+
+"id": "E14000855",
+
+"region": "East Of England",
+
+"turnout": "58283",
+
+"electorate": "88857",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.482,
+
+"hpr": 12.243749250138,
+
+"sal": 7.50194855806703,
+
+"ele": 7.997152,
+
+"con": "29425",
+
+"lab": "9877",
+
+"lib": "12748",
+
+"ukp": "4826",
+
+"oth": "1407",
+
+"mpn": "Shailesh Vara",
+
+});
+

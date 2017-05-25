@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wealden",
+"id": "E14001023",
+"region": "South East",
+"turnout": "57017",
+"electorate": "80252",
+"win": "con",
+"swing": "5.12",
+"status": "hold",
+"con": "32508",
+"lab": "6165",
+"lib": "5180",
+"grn": "3623",
+"ukp": "9541",
+"mpn": "Nus Ghani"
+});

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Hull, North",
+
+"id": "E14000772",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "33291",
+
+"electorate": "64082",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.941,
+
+"hpr": 9.13891346570668,
+
+"sal": 12.1465173657241,
+
+"ele": -2.58693,
+
+"con": "4365",
+
+"lab": "13044",
+
+"lib": "12403",
+
+"grn": "478",
+
+"ukp": "1358",
+
+"bnp": "1443",
+
+"oth": "200",
+
+"mpn": "Diana Johnson",
+
+});
+

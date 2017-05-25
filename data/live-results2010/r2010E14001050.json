@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Wolverhampton, South East",
+
+"id": "E14001050",
+
+"region": "West Midlands",
+
+"turnout": "34707",
+
+"electorate": "60450",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.851,
+
+"hpr": 5.19278539250905,
+
+"sal": -4.07172995780591,
+
+"ele": 3.269199,
+
+"con": "9912",
+
+"lab": "16505",
+
+"lib": "5277",
+
+"ukp": "2675",
+
+"ind": "338",
+
+"mpn": "Pat McFadden",
+
+});
+

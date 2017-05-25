@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Arundel & South Downs",
+
+"id": "E14000534",
+
+"region": "South East",
+
+"turnout": "55982",
+
+"electorate": "77564",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.26,
+
+"hpr": 21.3021558332821,
+
+"sal": 5.90648072190318,
+
+"ele": -0.12497,
+
+"con": "32333",
+
+"lab": "4835",
+
+"lib": "15642",
+
+"ukp": "3172",
+
+"mpn": "Nick Herbert",
+
+});
+

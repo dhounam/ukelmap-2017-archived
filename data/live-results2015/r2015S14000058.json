@@ -1,0 +1,18 @@
+resultCB({
+"name": "West Aberdeenshire and Kincardine",
+"id": "S14000058",
+"region": "Scotland",
+"turnout": "55196",
+"electorate": "73445",
+"win": "snp",
+"swing": "21.46",
+"status": "gain",
+"con": "15916",
+"lab": "2487",
+"lib": "11812",
+"grn": "885",
+"ukp": "1006",
+"snp": "22949",
+"ind": "141",
+"mpn": "Stuart Donaldson"
+});

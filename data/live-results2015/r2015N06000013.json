@@ -1,0 +1,19 @@
+resultCB({
+"name": "North Down",
+"id": "N06000013",
+"region": "Northern Ireland",
+"turnout": "35947",
+"electorate": "64207",
+"win": "ind",
+"swing": "",
+"status": "hold",
+"con": "1593",
+"grn": "1958",
+"ukp": "1482",
+"ind": "17689",
+"snf": "273",
+"sdl": "355",
+"dup": "8487",
+"oth": "4110",
+"mpn": "Sylvia Hermon"
+});

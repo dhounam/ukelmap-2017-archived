@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Colne Valley",
+
+"id": "E14000645",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "55296",
+
+"electorate": "80062",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.088,
+
+"hpr": 4.48536164912119,
+
+"sal": -6.89589302769818,
+
+"ele": 0.023772,
+
+"con": "20440",
+
+"lab": "14589",
+
+"lib": "15603",
+
+"grn": "867",
+
+"ukp": "1163",
+
+"bnp": "1893",
+
+"oth": "741",
+
+"mpn": "Jason McCartney",
+
+});
+

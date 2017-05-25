@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Worsley & Eccles South",
+
+"id": "E14001054",
+
+"region": "North West",
+
+"turnout": "41701",
+
+"electorate": "72473",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.578,
+
+"hpr": 7.9474163633128,
+
+"sal": 8.52038479157122,
+
+"ele": -2.18299,
+
+"con": "13555",
+
+"lab": "17892",
+
+"lib": "6883",
+
+"ukp": "2037",
+
+"oth": "1334",
+
+"mpn": "Barbara Keeley",
+
+});
+

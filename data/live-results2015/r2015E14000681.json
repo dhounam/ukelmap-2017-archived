@@ -1,0 +1,17 @@
+resultCB({
+"name": "East Surrey",
+"id": "E14000681",
+"region": "South East",
+"turnout": "56103",
+"electorate": "79654",
+"win": "con",
+"swing": "4.73",
+"status": "hold",
+"con": "32211",
+"lab": "6627",
+"lib": "5189",
+"grn": "2159",
+"ukp": "9553",
+"ind": "364",
+"mpn": "Sam Gyimah"
+});

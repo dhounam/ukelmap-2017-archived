@@ -1,0 +1,16 @@
+resultCB({
+"name": "Central Ayrshire",
+"id": "S14000010",
+"region": "Scotland",
+"turnout": "50773",
+"electorate": "69982",
+"win": "snp",
+"swing": "27.71",
+"status": "gain",
+"con": "8803",
+"lab": "13410",
+"lib": "917",
+"grn": "644",
+"snp": "26999",
+"mpn": "Dr Philippa Whitford"
+});

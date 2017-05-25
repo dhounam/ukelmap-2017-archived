@@ -1,0 +1,17 @@
+resultCB({
+"name": "Glasgow South",
+"id": "S14000034",
+"region": "Scotland",
+"turnout": "48778",
+"electorate": "74051",
+"win": "snp",
+"swing": "28.36",
+"status": "gain",
+"con": "4752",
+"lab": "14504",
+"lib": "1019",
+"grn": "1431",
+"snp": "26773",
+"oth": "299",
+"mpn": "Stewart McDonald"
+});

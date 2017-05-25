@@ -1,0 +1,16 @@
+resultCB({
+"name": "Middlesbrough",
+"id": "E14000819",
+"region": "North East",
+"turnout": "32706",
+"electorate": "61868",
+"win": "lab",
+"swing": "2.02",
+"status": "hold",
+"con": "5388",
+"lab": "18584",
+"lib": "1220",
+"grn": "1407",
+"ukp": "6107",
+"mpn": "Andy McDonald"
+});

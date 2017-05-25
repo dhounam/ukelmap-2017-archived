@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Ilford, South",
+
+"id": "E14000760",
+
+"region": "London",
+
+"turnout": "51191",
+
+"electorate": "75246",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 6.494,
+
+"hpr": 24.3767224852325,
+
+"sal": 5.34232365145229,
+
+"ele": 4.179718,
+
+"con": "14014",
+
+"lab": "25301",
+
+"lib": "8679",
+
+"grn": "1319",
+
+"ukp": "1132",
+
+"oth": "746",
+
+"mpn": "Mike Gapes",
+
+});
+

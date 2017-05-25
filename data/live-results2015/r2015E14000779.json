@@ -1,0 +1,17 @@
+resultCB({
+"name": "Leeds North East",
+"id": "E14000779",
+"region": "Yorkshire",
+"turnout": "48291",
+"electorate": "69097",
+"win": "lab",
+"swing": "2.73",
+"status": "hold",
+"con": "15887",
+"lab": "23137",
+"lib": "2569",
+"grn": "2541",
+"ukp": "3706",
+"oth": "451",
+"mpn": "Fabian Hamilton"
+});

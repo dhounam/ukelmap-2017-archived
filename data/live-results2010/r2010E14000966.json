@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Staffordshire Moorlands",
+
+"id": "E14000966",
+
+"region": "West Midlands",
+
+"turnout": "43815",
+
+"electorate": "62071",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.128,
+
+"hpr": 1.05755199705966,
+
+"sal": 5.30954428202924,
+
+"ele": 0.062523,
+
+"con": "19793",
+
+"lab": "13104",
+
+"lib": "7338",
+
+"ukp": "3580",
+
+"mpn": "Karen Bradley",
+
+});
+

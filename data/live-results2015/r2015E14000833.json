@@ -1,0 +1,17 @@
+resultCB({
+"name": "Newcastle upon Tyne North",
+"id": "E14000833",
+"region": "North East",
+"turnout": "44891",
+"electorate": "67267",
+"win": "lab",
+"swing": "0.05",
+"status": "hold",
+"con": "10536",
+"lab": "20689",
+"lib": "4366",
+"grn": "1515",
+"ukp": "7447",
+"oth": "338",
+"mpn": "Catherine McKinnell"
+});

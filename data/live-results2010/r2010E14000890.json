@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Reading, West",
+
+"id": "E14000890",
+
+"region": "South East",
+
+"turnout": "47530",
+
+"electorate": "72118",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.811,
+
+"hpr": 15.4535881733902,
+
+"sal": 2.58754260923459,
+
+"ele": -1.26146,
+
+"con": "20523",
+
+"lab": "14519",
+
+"lib": "9546",
+
+"grn": "582",
+
+"ukp": "1508",
+
+"oth": "852",
+
+"mpn": "Alok Sharma",
+
+});
+

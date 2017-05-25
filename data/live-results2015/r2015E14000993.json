@@ -1,0 +1,18 @@
+resultCB({
+"name": "Thirsk and Malton",
+"id": "E14000993",
+"region": "Yorkshire And The Humber",
+"turnout": "52365",
+"electorate": "77451",
+"win": "con",
+"swing": "1.08",
+"status": "hold",
+"con": "27545",
+"lab": "8089",
+"lib": "4703",
+"grn": "2404",
+"ukp": "7805",
+"ind": "692",
+"oth": "1127",
+"mpn": "Kevin Hollinrake"
+});

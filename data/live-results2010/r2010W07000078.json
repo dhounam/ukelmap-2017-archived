@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Vale of Glamorgan",
+
+"id": "W07000078",
+
+"region": "Wales",
+
+"turnout": "48667",
+
+"electorate": "70262",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.422,
+
+"hpr": 7.34787971288907,
+
+"sal": -2.66294227188081,
+
+"ele": 0.407508,
+
+"con": "20341",
+
+"lab": "16034",
+
+"lib": "7403",
+
+"grn": "457",
+
+"ukp": "1529",
+
+"plc": "2667",
+
+"oth": "236",
+
+"mpn": "Alun Cairns",
+
+});
+

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Sutton & Cheam",
+
+"id": "E14000984",
+
+"region": "London",
+
+"turnout": "48508",
+
+"electorate": "66658",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 3.544,
+
+"hpr": 29.0541561201499,
+
+"sal": -0.402046783625735,
+
+"ele": 4.274717,
+
+"con": "20548",
+
+"lab": "3376",
+
+"lib": "22156",
+
+"grn": "246",
+
+"ukp": "950",
+
+"bnp": "1014",
+
+"oth": "218",
+
+"mpn": "Paul Burstow",
+
+});
+

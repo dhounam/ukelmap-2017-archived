@@ -1,0 +1,16 @@
+resultCB({
+"name": "West Suffolk",
+"id": "E14001034",
+"region": "East Anglia",
+"turnout": "49232",
+"electorate": "76197",
+"win": "con",
+"swing": "6.85",
+"status": "hold",
+"con": "25684",
+"lab": "8604",
+"lib": "2465",
+"grn": "1779",
+"ukp": "10700",
+"mpn": "Matthew Hancock"
+});

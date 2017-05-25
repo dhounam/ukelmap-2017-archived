@@ -1,0 +1,17 @@
+resultCB({
+"name": "Colne Valley",
+"id": "E14000645",
+"region": "Yorkshire",
+"turnout": "56790",
+"electorate": "82510",
+"win": "con",
+"swing": "0.56",
+"status": "hold",
+"con": "25236",
+"lab": "19868",
+"lib": "3407",
+"grn": "1919",
+"ukp": "5734",
+"oth": "626",
+"mpn": "Jason McCartney"
+});

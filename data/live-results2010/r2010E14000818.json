@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Worcestershire, Mid",
+
+"id": "E14000818",
+
+"region": "West Midlands",
+
+"turnout": "50931",
+
+"electorate": "72171",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.587,
+
+"hpr": 12.0025741905698,
+
+"sal": 1.99869650228112,
+
+"ele": -0.55248,
+
+"con": "27770",
+
+"lab": "7613",
+
+"lib": "11906",
+
+"grn": "593",
+
+"ukp": "3049",
+
+"mpn": "Peter Luff",
+
+});
+

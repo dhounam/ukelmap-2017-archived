@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Woking",
+
+"id": "E14001047",
+
+"region": "South East",
+
+"turnout": "52786",
+
+"electorate": "73838",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.032,
+
+"hpr": 25.4743081807947,
+
+"sal": 4.94722955145335E-02,
+
+"ele": -0.29426,
+
+"con": "26551",
+
+"lab": "4246",
+
+"lib": "19744",
+
+"ukp": "1997",
+
+"oth": "248",
+
+"mpn": "Jonathan Lord",
+
+});
+

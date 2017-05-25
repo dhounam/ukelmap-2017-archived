@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Dudley, North",
+
+"id": "E14000671",
+
+"region": "West Midlands",
+
+"turnout": "38602",
+
+"electorate": "60838",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.129,
+
+"hpr": 4.63153121093114,
+
+"sal": 7.88197251414712,
+
+"ele": -0.84458,
+
+"con": "14274",
+
+"lab": "14923",
+
+"lib": "4066",
+
+"ukp": "3267",
+
+"bnp": "1899",
+
+"oth": "173",
+
+"mpn": "Ian Austin",
+
+});
+

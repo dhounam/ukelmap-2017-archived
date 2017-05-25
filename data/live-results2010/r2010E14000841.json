@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Bedfordshire, North East",
+
+"id": "E14000841",
+
+"region": "East Of England",
+
+"turnout": "55552",
+
+"electorate": "78060",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 6.302,
+
+"hpr": 15.6214057603063,
+
+"sal": -6.94011768778122,
+
+"ele": 7.165343,
+
+"con": "30989",
+
+"lab": "8957",
+
+"lib": "12047",
+
+"ukp": "2294",
+
+"bnp": "1265",
+
+"mpn": "Alistair Burt",
+
+});
+

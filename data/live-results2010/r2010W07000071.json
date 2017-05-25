@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Merthyr Tydfil & Rhymney",
+
+"id": "W07000071",
+
+"region": "Wales",
+
+"turnout": "32076",
+
+"electorate": "54715",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.775,
+
+"hpr": 8.92662416596535,
+
+"sal": 0.747417014728512,
+
+"ele": 3.702571,
+
+"con": "2412",
+
+"lab": "14007",
+
+"lib": "9951",
+
+"ukp": "872",
+
+"bnp": "1173",
+
+"plc": "1621",
+
+"ind": "1845",
+
+"oth": "195",
+
+"mpn": "Dai Havard",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Darlington",
+"id": "E14000658",
+"region": "North East",
+"turnout": "41141",
+"electorate": "65832",
+"win": "lab",
+"swing": "0.11",
+"status": "hold",
+"con": "14479",
+"lab": "17637",
+"lib": "1966",
+"grn": "1444",
+"ukp": "5392",
+"oth": "223",
+"mpn": "Jenny Chapman"
+});

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Colchester",
+
+"id": "E14000644",
+
+"region": "East Of England",
+
+"turnout": "46139",
+
+"electorate": "74062",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 4.702,
+
+"hpr": 13.6983128590375,
+
+"sal": -9.41217634709588,
+
+"ele": -5.00946,
+
+"con": "15169",
+
+"lab": "5680",
+
+"lib": "22151",
+
+"grn": "694",
+
+"ukp": "1350",
+
+"bnp": "705",
+
+"oth": "390",
+
+"mpn": "Bob Russell",
+
+});
+

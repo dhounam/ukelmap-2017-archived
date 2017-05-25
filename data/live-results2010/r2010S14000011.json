@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Coatbridge, Chryston & Bellshill",
+
+"id": "S14000011",
+
+"region": "Scotland",
+
+"turnout": "41635",
+
+"electorate": "70067",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 13.5995918498131,
+
+"sal": 2.33100233100234,
+
+"ele": 2.84648,
+
+"con": "3374",
+
+"lab": "27728",
+
+"lib": "3519",
+
+"snp": "7014",
+
+"mpn": "Tom Clarke",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Swindon, North",
+
+"id": "E14000851",
+
+"region": "South West",
+
+"turnout": "50295",
+
+"electorate": "78391",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.489,
+
+"hpr": 9.44611305384426,
+
+"sal": -1.90439176059076,
+
+"ele": 1.967347,
+
+"con": "22408",
+
+"lab": "15348",
+
+"lib": "8668",
+
+"grn": "487",
+
+"ukp": "1842",
+
+"bnp": "1542",
+
+"mpn": "Justin Tomlinson",
+
+});
+

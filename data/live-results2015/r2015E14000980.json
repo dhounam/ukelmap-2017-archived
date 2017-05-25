@@ -1,0 +1,18 @@
+resultCB({
+"name": "Stroud",
+"id": "E14000980",
+"region": "South West",
+"turnout": "60819",
+"electorate": "80522",
+"win": "con",
+"swing": "2.88",
+"status": "hold",
+"con": "27813",
+"lab": "22947",
+"lib": "2086",
+"grn": "2779",
+"ukp": "4848",
+"ind": "246",
+"oth": "100",
+"mpn": "Neil Carmichael"
+});

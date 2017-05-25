@@ -1,0 +1,18 @@
+resultCB({
+"name": "Strangford",
+"id": "N06000016",
+"region": "Northern Ireland",
+"turnout": "33924",
+"electorate": "64286",
+"win": "dup",
+"swing": "",
+"status": "hold",
+"con": "2167",
+"ukp": "2237",
+"snf": "876",
+"sdl": "2335",
+"dup": "15053",
+"uup": "4868",
+"oth": "6388",
+"mpn": "Jim Shannon"
+});

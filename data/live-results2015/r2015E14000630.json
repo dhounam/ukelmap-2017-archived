@@ -1,0 +1,17 @@
+resultCB({
+"name": "Cheltenham",
+"id": "E14000630",
+"region": "South West",
+"turnout": "53735",
+"electorate": "77286",
+"win": "con",
+"swing": "10.72",
+"status": "gain",
+"con": "24790",
+"lab": "3902",
+"lib": "18274",
+"grn": "2689",
+"ukp": "3808",
+"ind": "272",
+"mpn": "Alex Chalk"
+});

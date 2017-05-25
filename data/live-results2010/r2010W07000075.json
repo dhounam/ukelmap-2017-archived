@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Pontypridd",
+
+"id": "W07000075",
+
+"region": "Wales",
+
+"turnout": "36671",
+
+"electorate": "58219",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.592,
+
+"hpr": 4.68036968025115,
+
+"sal": 13.0203908241291,
+
+"ele": -0.57466,
+
+"con": "5932",
+
+"lab": "14220",
+
+"lib": "11435",
+
+"grn": "361",
+
+"ukp": "1229",
+
+"plc": "2673",
+
+"oth": "821",
+
+"mpn": "Owen Smith",
+
+});
+

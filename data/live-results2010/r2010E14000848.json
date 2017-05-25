@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Norfolk, North",
+
+"id": "E14000848",
+
+"region": "East Of England",
+
+"turnout": "49661",
+
+"electorate": "67841",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 1.193,
+
+"hpr": 13.8231647352342,
+
+"sal": -1.98446937014668,
+
+"ele": 0.320697,
+
+"con": "15928",
+
+"lab": "2896",
+
+"lib": "27554",
+
+"grn": "508",
+
+"ukp": "2680",
+
+"ind": "95",
+
+"mpn": "Norman Lamb",
+
+});
+

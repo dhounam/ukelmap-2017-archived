@@ -1,0 +1,16 @@
+resultCB({
+"name": "Castle Point",
+"id": "E14000622",
+"region": "East Anglia",
+"turnout": "44729",
+"electorate": "68170",
+"win": "con",
+"swing": "",
+"status": "hold",
+"con": "23112",
+"lab": "6283",
+"lib": "80",
+"grn": "1076",
+"ukp": "14178",
+"mpn": "Rebecca Harris"
+});

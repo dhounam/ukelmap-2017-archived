@@ -1,0 +1,16 @@
+resultCB({
+"name": "Tamworth",
+"id": "E14000986",
+"region": "West Midlands",
+"turnout": "47174",
+"electorate": "71912",
+"win": "con",
+"swing": "5.42",
+"status": "hold",
+"con": "23606",
+"lab": "12304",
+"lib": "1427",
+"grn": "1110",
+"ukp": "8727",
+"mpn": "Christopher Pincher"
+});

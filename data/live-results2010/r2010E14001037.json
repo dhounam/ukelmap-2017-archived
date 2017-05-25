@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Westmorland & Lonsdale",
+
+"id": "E14001037",
+
+"region": "North West",
+
+"turnout": "51487",
+
+"electorate": "67881",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": -0.591,
+
+"hpr": 3.28115919871479,
+
+"sal": -3.77038762973947,
+
+"ele": -3.21661,
+
+"con": "18632",
+
+"lab": "1158",
+
+"lib": "30896",
+
+"ukp": "801",
+
+"mpn": "Tim Farron",
+
+});
+

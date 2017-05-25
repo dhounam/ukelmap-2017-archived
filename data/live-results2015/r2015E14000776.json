@@ -1,0 +1,17 @@
+resultCB({
+"name": "Lancaster and Fleetwood",
+"id": "E14000776",
+"region": "North West",
+"turnout": "41738",
+"electorate": "60883",
+"win": "lab",
+"swing": "1.91",
+"status": "gain",
+"con": "16378",
+"lab": "17643",
+"lib": "1390",
+"grn": "2093",
+"ukp": "4060",
+"oth": "174",
+"mpn": "Cat Smith"
+});

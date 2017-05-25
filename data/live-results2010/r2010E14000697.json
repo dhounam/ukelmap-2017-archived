@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Esher & Walton",
+
+"id": "E14000697",
+
+"region": "South East",
+
+"turnout": "54543",
+
+"electorate": "75338",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.242,
+
+"hpr": 28.3019749409678,
+
+"sal": -1.04482132041187,
+
+"ele": 3.301812,
+
+"con": "32134",
+
+"lab": "5829",
+
+"lib": "13541",
+
+"ukp": "1783",
+
+"ind": "378",
+
+"oth": "878",
+
+"mpn": "Dominic Raab",
+
+});
+

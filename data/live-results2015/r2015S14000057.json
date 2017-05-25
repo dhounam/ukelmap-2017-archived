@@ -1,0 +1,16 @@
+resultCB({
+"name": "Stirling",
+"id": "S14000057",
+"region": "Scotland",
+"turnout": "52135",
+"electorate": "67236",
+"win": "snp",
+"swing": "22.3",
+"status": "gain",
+"con": "12051",
+"lab": "13303",
+"lib": "1392",
+"grn": "1606",
+"snp": "23783",
+"mpn": "Steven Paterson"
+});

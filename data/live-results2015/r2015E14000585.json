@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bournemouth West",
+"id": "E14000585",
+"region": "South West",
+"turnout": "41773",
+"electorate": "72082",
+"win": "con",
+"swing": "4.12",
+"status": "hold",
+"con": "20155",
+"lab": "7386",
+"lib": "3281",
+"grn": "3107",
+"ukp": "7745",
+"oth": "99",
+"mpn": "Conor Burns"
+});

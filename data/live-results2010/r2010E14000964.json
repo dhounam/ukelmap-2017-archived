@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "St. Ives",
+
+"id": "E14000964",
+
+"region": "South West",
+
+"turnout": "45921",
+
+"electorate": "66930",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 1.495,
+
+"hpr": 10.0103801025818,
+
+"sal": 2.36785458024396,
+
+"ele": -0.15053,
+
+"con": "17900",
+
+"lab": "3751",
+
+"lib": "19619",
+
+"grn": "1308",
+
+"ukp": "2560",
+
+"oth": "783",
+
+"mpn": "Andrew George",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Stone",
+"id": "E14000975",
+"region": "West Midlands",
+"turnout": "47031",
+"electorate": "67339",
+"win": "con",
+"swing": "2.33",
+"status": "hold",
+"con": "25733",
+"lab": "9483",
+"lib": "2473",
+"grn": "1191",
+"ukp": "7620",
+"ind": "531",
+"mpn": "Bill Cash"
+});

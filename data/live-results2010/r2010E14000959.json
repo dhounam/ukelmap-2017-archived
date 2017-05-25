@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Spelthorne",
+
+"id": "E14000959",
+
+"region": "South East",
+
+"turnout": "47304",
+
+"electorate": "70479",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.75,
+
+"hpr": 24.166129210019,
+
+"sal": 22.2396129766648,
+
+"ele": -0.50027,
+
+"con": "22261",
+
+"lab": "7789",
+
+"lib": "12242",
+
+"ukp": "4009",
+
+"ind": "314",
+
+"oth": "689",
+
+"mpn": "Kwasi Kwarteng",
+
+});
+

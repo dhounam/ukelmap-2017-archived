@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bristol West",
+"id": "E14000602",
+"region": "South West",
+"turnout": "64218",
+"electorate": "89198",
+"win": "lab",
+"swing": "18.67",
+"status": "gain",
+"con": "9752",
+"lab": "22900",
+"lib": "12103",
+"grn": "17227",
+"ukp": "1940",
+"oth": "296",
+"mpn": "Thangam Debbonaire"
+});

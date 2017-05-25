@@ -1,0 +1,19 @@
+resultCB({
+"name": "Cardiff North",
+"id": "W07000051",
+"region": "Wales",
+"turnout": "51151",
+"electorate": "67193",
+"win": "con",
+"swing": "1.89",
+"status": "hold",
+"con": "21709",
+"lab": "19572",
+"lib": "1953",
+"grn": "1254",
+"ukp": "3953",
+"plc": "2301",
+"ind": "78",
+"oth": "331",
+"mpn": "Craig Williams"
+});

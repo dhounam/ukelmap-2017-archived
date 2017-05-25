@@ -1,0 +1,16 @@
+resultCB({
+"name": "Torbay",
+"id": "E14000999",
+"region": "South West",
+"turnout": "48079",
+"electorate": "76259",
+"win": "con",
+"swing": "7.56",
+"status": "gain",
+"con": "19551",
+"lab": "4166",
+"lib": "16265",
+"grn": "1557",
+"ukp": "6540",
+"mpn": "Kevin Foster"
+});

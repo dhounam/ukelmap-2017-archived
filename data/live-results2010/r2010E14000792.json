@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Lincoln",
+
+"id": "E14000792",
+
+"region": "East Midlands",
+
+"turnout": "45721",
+
+"electorate": "73540",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.309,
+
+"hpr": 8.76466055213328,
+
+"sal": 10.0264927654371,
+
+"ele": -4.75981,
+
+"con": "17163",
+
+"lab": "16105",
+
+"lib": "9256",
+
+"ukp": "1004",
+
+"bnp": "1367",
+
+"ind": "222",
+
+"oth": "604",
+
+"mpn": "Karl McCartney",
+
+});
+

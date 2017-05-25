@@ -1,0 +1,17 @@
+resultCB({
+"name": "Wokingham",
+"id": "E14001048",
+"region": "South East",
+"turnout": "55999",
+"electorate": "77881",
+"win": "con",
+"swing": "0.3",
+"status": "hold",
+"con": "32329",
+"lab": "8132",
+"lib": "7572",
+"grn": "2092",
+"ukp": "5516",
+"ind": "358",
+"mpn": "John Redwood"
+});

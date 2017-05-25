@@ -1,0 +1,17 @@
+resultCB({
+"name": "Kenilworth and Southam",
+"id": "E14000767",
+"region": "West Midlands",
+"turnout": "48791",
+"electorate": "65245",
+"win": "con",
+"swing": "1.91",
+"status": "hold",
+"con": "28474",
+"lab": "7472",
+"lib": "4913",
+"grn": "1956",
+"ukp": "5467",
+"oth": "509",
+"mpn": "Jeremy Wright"
+});

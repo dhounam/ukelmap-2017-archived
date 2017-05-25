@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Epping Forest",
+
+"id": "E14000693",
+
+"region": "East Of England",
+
+"turnout": "46584",
+
+"electorate": "72198",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.903,
+
+"hpr": 28.5069750097287,
+
+"sal": 0.414078674948243,
+
+"ele": 1.162403,
+
+"con": "25148",
+
+"lab": "6641",
+
+"lib": "10017",
+
+"grn": "659",
+
+"ukp": "1852",
+
+"bnp": "1982",
+
+"oth": "285",
+
+"mpn": "Eleanor Laing",
+
+});
+

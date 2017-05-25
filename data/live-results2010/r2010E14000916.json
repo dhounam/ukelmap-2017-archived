@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Sefton, Central",
+
+"id": "E14000916",
+
+"region": "North West",
+
+"turnout": "48463",
+
+"electorate": "67512",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": -1.049,
+
+"hpr": -0.922684844592141,
+
+"sal": 11.9277108433735,
+
+"ele": -2.03642,
+
+"con": "16445",
+
+"lab": "20307",
+
+"lib": "9656",
+
+"ukp": "2055",
+
+"mpn": "Bill Esterson",
+
+});
+

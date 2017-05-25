@@ -1,0 +1,18 @@
+resultCB({
+"name": "Islwyn",
+"id": "W07000077",
+"region": "Wales",
+"turnout": "35411",
+"electorate": "55075",
+"win": "lab",
+"swing": "8.55",
+"status": "hold",
+"con": "5366",
+"lab": "17346",
+"lib": "950",
+"grn": "659",
+"ukp": "6932",
+"plc": "3794",
+"oth": "364",
+"mpn": "Chris Evans"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Harrogate and Knaresborough",
+"id": "E14000730",
+"region": "Yorkshire",
+"turnout": "53376",
+"electorate": "77379",
+"win": "con",
+"swing": "14.36",
+"status": "hold",
+"con": "28153",
+"lab": "5409",
+"lib": "11782",
+"grn": "2351",
+"ukp": "5681",
+"mpn": "Andrew Jones"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Stafford",
+
+"id": "E14000965",
+
+"region": "West Midlands",
+
+"turnout": "50239",
+
+"electorate": "70587",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.496,
+
+"hpr": 9.90877042941204,
+
+"sal": -2.88640595903166,
+
+"ele": -4.45314,
+
+"con": "22047",
+
+"lab": "16587",
+
+"lib": "8211",
+
+"grn": "564",
+
+"ukp": "1727",
+
+"bnp": "1103",
+
+"mpn": "Jeremy Lefroy",
+
+});
+

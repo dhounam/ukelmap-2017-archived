@@ -1,0 +1,16 @@
+resultCB({
+"name": "Sleaford and North Hykeham",
+"id": "E14000929",
+"region": "East Midlands",
+"turnout": "61944",
+"electorate": "88188",
+"win": "con",
+"swing": "2.11",
+"status": "hold",
+"con": "34805",
+"lab": "10690",
+"lib": "3500",
+"ukp": "9716",
+"oth": "3233",
+"mpn": "Stephen Phillips"
+});

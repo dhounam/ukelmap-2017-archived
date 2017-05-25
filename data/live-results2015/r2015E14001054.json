@@ -1,0 +1,18 @@
+resultCB({
+"name": "Worsley and Eccles South",
+"id": "E14001054",
+"region": "North West",
+"turnout": "42048",
+"electorate": "72174",
+"win": "lab",
+"swing": "1.87",
+"status": "hold",
+"con": "12654",
+"lab": "18600",
+"lib": "1100",
+"grn": "1242",
+"ukp": "7688",
+"ind": "184",
+"oth": "580",
+"mpn": "Barbara Keeley"
+});

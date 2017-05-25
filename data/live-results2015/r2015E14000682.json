@@ -1,0 +1,17 @@
+resultCB({
+"name": "East Worthing and Shoreham",
+"id": "E14000682",
+"region": "South East",
+"turnout": "49898",
+"electorate": "74272",
+"win": "con",
+"swing": "0.9",
+"status": "hold",
+"con": "24686",
+"lab": "9737",
+"lib": "3360",
+"grn": "2605",
+"ukp": "8267",
+"oth": "1243",
+"mpn": "Tim Loughton"
+});

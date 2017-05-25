@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Wrekin, The",
+
+"id": "E14000992",
+
+"region": "West Midlands",
+
+"turnout": "45968",
+
+"electorate": "65544",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.313,
+
+"hpr": 5.27196029930816,
+
+"sal": 14.3018526886579,
+
+"ele": -0.44901,
+
+"con": "21922",
+
+"lab": "12472",
+
+"lib": "8019",
+
+"ukp": "2050",
+
+"bnp": "1505",
+
+"mpn": "Mark Pritchard",
+
+});
+

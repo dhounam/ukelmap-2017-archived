@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Gosport",
+
+"id": "E14000713",
+
+"region": "South East",
+
+"turnout": "46939",
+
+"electorate": "72720",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.192,
+
+"hpr": 11.9389056310775,
+
+"sal": 15.9685863874346,
+
+"ele": 0.779363,
+
+"con": "24300",
+
+"lab": "7944",
+
+"lib": "9887",
+
+"grn": "573",
+
+"ukp": "1496",
+
+"bnp": "1004",
+
+"ind": "289",
+
+"oth": "1446",
+
+"mpn": "Caroline Dinenage",
+
+});
+

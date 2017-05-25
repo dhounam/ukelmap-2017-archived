@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Houghton & Sunderland South",
+
+"id": "E14000754",
+
+"region": "North East",
+
+"turnout": "38021",
+
+"electorate": "68729",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.203,
+
+"hpr": 6.80529466506241,
+
+"sal": 10.1763907734057,
+
+"ele": -1.40772,
+
+"con": "8147",
+
+"lab": "19137",
+
+"lib": "5292",
+
+"ukp": "1022",
+
+"bnp": "1961",
+
+"ind": "2462",
+
+"mpn": "Bridget Phillipson",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Heywood and Middleton",
+"id": "E14000747",
+"region": "North West",
+"turnout": "48538",
+"electorate": "79989",
+"win": "lab",
+"swing": "13.28",
+"status": "hold",
+"con": "9268",
+"lab": "20926",
+"lib": "1607",
+"grn": "1110",
+"ukp": "15627",
+"mpn": "Liz McInnes"
+});

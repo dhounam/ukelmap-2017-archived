@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Skipton & Ripon",
+
+"id": "E14000928",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "54724",
+
+"electorate": "77381",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.223,
+
+"hpr": 0.842508905030684,
+
+"sal": 12.7563669145819,
+
+"ele": -0.76839,
+
+"con": "27685",
+
+"lab": "5498",
+
+"lib": "17735",
+
+"ukp": "1909",
+
+"bnp": "1403",
+
+"ind": "315",
+
+"oth": "179",
+
+"mpn": "Julian Smith",
+
+});
+

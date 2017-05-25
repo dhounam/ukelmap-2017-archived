@@ -1,0 +1,15 @@
+resultCB({
+"name": "Kilmarnock and Loudoun",
+"id": "S14000040",
+"region": "Scotland",
+"turnout": "53903",
+"electorate": "75233",
+"win": "snp",
+"swing": "25.95",
+"status": "gain",
+"con": "6752",
+"lab": "16362",
+"lib": "789",
+"snp": "30000",
+"mpn": "Alan Brown"
+});

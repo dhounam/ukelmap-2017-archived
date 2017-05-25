@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Sheffield Heeley",
+
+"id": "E14000923",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "40871",
+
+"electorate": "65869",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.437,
+
+"hpr": 8.10563193720462,
+
+"sal": -8.43155031731641,
+
+"ele": -0.84667,
+
+"con": "7081",
+
+"lab": "17409",
+
+"lib": "11602",
+
+"grn": "989",
+
+"ukp": "1530",
+
+"bnp": "2260",
+
+"mpn": "Meg Munn",
+
+});
+

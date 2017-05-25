@@ -1,0 +1,17 @@
+resultCB({
+"name": "Croydon Central",
+"id": "E14000654",
+"region": "London",
+"turnout": "52941",
+"electorate": "78171",
+"win": "con",
+"swing": "2.83",
+"status": "hold",
+"con": "22753",
+"lab": "22588",
+"lib": "1152",
+"grn": "1454",
+"ukp": "4810",
+"oth": "184",
+"mpn": "Gavin Barwell"
+});

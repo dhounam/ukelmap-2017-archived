@@ -1,0 +1,19 @@
+seatsAndWinners2017CB({
+"time":"08 Jun 17 00:00",
+  "seats": {
+    "con":0,
+    "lab":0,
+    "lib":0,
+    "grn":0,
+    "ukp":0,
+    "snp":0,
+    "plc":0,
+    "ind":0,
+    "snf":0,
+    "sdl":0,
+    "dup":0,
+    "uup":0,
+    "oth":0
+  },
+  "winnersbyconstit": []
+})

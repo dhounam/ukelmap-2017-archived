@@ -1,0 +1,16 @@
+resultCB({
+"name": "Filton and Bradley Stoke",
+"id": "E14000702",
+"region": "South West",
+"turnout": "49101",
+"electorate": "70722",
+"win": "con",
+"swing": "2.86",
+"status": "hold",
+"con": "22920",
+"lab": "13082",
+"lib": "3581",
+"grn": "2257",
+"ukp": "7261",
+"mpn": "Jack Lopresti"
+});

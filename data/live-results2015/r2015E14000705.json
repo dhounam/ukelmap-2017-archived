@@ -1,0 +1,16 @@
+resultCB({
+"name": "Forest of Dean",
+"id": "E14000705",
+"region": "South West",
+"turnout": "49520",
+"electorate": "69882",
+"win": "con",
+"swing": "0.25",
+"status": "hold",
+"con": "23191",
+"lab": "12204",
+"lib": "2630",
+"grn": "2703",
+"ukp": "8792",
+"mpn": "Mark Harper"
+});

@@ -1,0 +1,19 @@
+resultCB({
+"name": "North Antrim",
+"id": "N06000012",
+"region": "Northern Ireland",
+"turnout": "41907",
+"electorate": "75874",
+"win": "dup",
+"swing": "1.03",
+"status": "hold",
+"con": "368",
+"ukp": "1341",
+"ind": "57",
+"snf": "5143",
+"sdl": "2925",
+"dup": "18107",
+"oth": "8912",
+"uup": "5054",
+"mpn": "Ian Paisley"
+});

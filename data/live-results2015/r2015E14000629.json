@@ -1,0 +1,16 @@
+resultCB({
+"name": "Chelsea and Fulham",
+"id": "E14000629",
+"region": "London",
+"turnout": "40226",
+"electorate": "63478",
+"win": "con",
+"swing": "1.06",
+"status": "hold",
+"con": "25322",
+"lab": "9300",
+"lib": "2091",
+"grn": "1474",
+"ukp": "2039",
+"mpn": "Greg Hands"
+});

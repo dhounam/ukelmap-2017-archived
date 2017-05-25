@@ -1,0 +1,16 @@
+resultCB({
+"name": "Dumfries and Galloway",
+"id": "S14000013",
+"region": "Scotland",
+"turnout": "56602",
+"electorate": "75249",
+"win": "snp",
+"swing": "25.16",
+"status": "gain",
+"con": "16926",
+"lab": "13982",
+"lib": "953",
+"ukp": "1301",
+"snp": "23440",
+"mpn": "Richard Arkless"
+});

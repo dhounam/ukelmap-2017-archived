@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Knowsley",
+
+"id": "E14000775",
+
+"region": "North West",
+
+"turnout": "44658",
+
+"electorate": "79561",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": -0.222,
+
+"hpr": 7.49013848634652,
+
+"sal": 10.0129198966408,
+
+"ele": -1.12778,
+
+"con": "4004",
+
+"lab": "31650",
+
+"lib": "5964",
+
+"ukp": "1145",
+
+"bnp": "1895",
+
+"mpn": "George Howarth",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Harrow West",
+"id": "E14000732",
+"region": "London",
+"turnout": "46603",
+"electorate": "69643",
+"win": "lab",
+"swing": "1.04",
+"status": "hold",
+"con": "19677",
+"lab": "21885",
+"lib": "1567",
+"grn": "1310",
+"ukp": "2047",
+"ind": "117",
+"mpn": "Gareth Thomas"
+});

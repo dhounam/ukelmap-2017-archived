@@ -1,0 +1,17 @@
+resultCB({
+"name": "Solihull",
+"id": "E14000931",
+"region": "West Midlands",
+"turnout": "54779",
+"electorate": "77251",
+"win": "con",
+"swing": "11.94",
+"status": "gain",
+"con": "26956",
+"lab": "5693",
+"lib": "14054",
+"grn": "1632",
+"ukp": "6361",
+"oth": "83",
+"mpn": "Julian Knight"
+});

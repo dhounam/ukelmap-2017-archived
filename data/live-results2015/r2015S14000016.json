@@ -1,0 +1,17 @@
+resultCB({
+"name": "Dundee West",
+"id": "S14000016",
+"region": "Scotland",
+"turnout": "44714",
+"electorate": "66287",
+"win": "snp",
+"swing": "28.91",
+"status": "gain",
+"con": "3852",
+"lab": "10592",
+"lib": "1057",
+"grn": "1225",
+"snp": "27684",
+"oth": "304",
+"mpn": "Chris Law"
+});

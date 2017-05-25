@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Hove",
+
+"id": "E14000755",
+
+"region": "South East",
+
+"turnout": "49819",
+
+"electorate": "71708",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.961,
+
+"hpr": 30.3877663104257,
+
+"sal": 8.55668056382768,
+
+"ele": -2.00289,
+
+"con": "18294",
+
+"lab": "16426",
+
+"lib": "11240",
+
+"grn": "2568",
+
+"ukp": "1206",
+
+"ind": "85",
+
+"mpn": "Mike Weatherley",
+
+});
+

@@ -1,0 +1,15 @@
+resultCB({
+"name": "Basildon and Billericay",
+"id": "E14000544",
+"region": "East Of England",
+"turnout": "43028",
+"electorate": "68459",
+"win": "con",
+"swing": "0.34",
+"status": "hold",
+"con": "22668",
+"lab": "10186",
+"lib": "1636",
+"ukp": "8538",
+"mpn": "John Baron"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Streatham",
+
+"id": "E14000978",
+
+"region": "London",
+
+"turnout": "46837",
+
+"electorate": "74531",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 8.037,
+
+"hpr": 38.945047791028,
+
+"sal": -3.83779869659666,
+
+"ele": 0.934605,
+
+"con": "8578",
+
+"lab": "20037",
+
+"lib": "16778",
+
+"grn": "861",
+
+"oth": "583",
+
+"mpn": "Chuka Umunna",
+
+});
+

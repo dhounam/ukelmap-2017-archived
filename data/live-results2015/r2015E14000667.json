@@ -1,0 +1,16 @@
+resultCB({
+"name": "Don Valley",
+"id": "E14000667",
+"region": "Yorkshire",
+"turnout": "42486",
+"electorate": "71299",
+"win": "lab",
+"swing": "6.32",
+"status": "hold",
+"con": "10736",
+"lab": "19621",
+"lib": "1487",
+"ukp": "9963",
+"oth": "679",
+"mpn": "Caroline Flint"
+});

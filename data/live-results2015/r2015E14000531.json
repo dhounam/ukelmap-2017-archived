@@ -1,0 +1,17 @@
+resultCB({
+"name": "Aldridge-Brownhills",
+"id": "E14000531",
+"region": "West Midlands",
+"turnout": "39497",
+"electorate": "60215",
+"win": "con",
+"swing": "4.92",
+"status": "hold",
+"con": "20558",
+"lab": "8835",
+"lib": "1330",
+"grn": "826",
+"ukp": "7751",
+"oth": "197",
+"mpn": "Wendy Morton"
+});

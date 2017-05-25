@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Bassetlaw",
+
+"id": "E14000546",
+
+"region": "East Midlands",
+
+"turnout": "49577",
+
+"electorate": "76542",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.545,
+
+"hpr": 3.36723704760091,
+
+"sal": 2.20925385577324,
+
+"ele": -1.08286,
+
+"con": "16803",
+
+"lab": "25018",
+
+"lib": "5570",
+
+"ukp": "1779",
+
+"ind": "407",
+
+"mpn": "John Mann",
+
+});
+

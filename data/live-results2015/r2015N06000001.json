@@ -1,0 +1,17 @@
+resultCB({
+"name": "Belfast East",
+"id": "N06000001",
+"region": "Northern Ireland",
+"turnout": "39682",
+"electorate": "63154",
+"win": "dup",
+"swing": "5.49",
+"status": "gain",
+"con": "1121",
+"grn": "1058",
+"snf": "823",
+"sdl": "127",
+"dup": "19575",
+"oth": "16978",
+"mpn": "Gavin Robinson"
+});

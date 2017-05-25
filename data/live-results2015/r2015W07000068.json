@@ -1,0 +1,17 @@
+resultCB({
+"name": "Brecon and Radnorshire",
+"id": "W07000068",
+"region": "Wales",
+"turnout": "40074",
+"electorate": "54311",
+"win": "con",
+"swing": "11.19",
+"status": "gain",
+"con": "16453",
+"lab": "5904",
+"lib": "11351",
+"grn": "1261",
+"ukp": "3338",
+"plc": "1767",
+"mpn": "Chris Davies"
+});

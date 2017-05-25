@@ -1,0 +1,16 @@
+resultCB({
+"name": "Henley",
+"id": "E14000742",
+"region": "South East",
+"turnout": "55236",
+"electorate": "78243",
+"win": "con",
+"swing": "0.34",
+"status": "hold",
+"con": "32292",
+"lab": "6917",
+"lib": "6205",
+"grn": "3815",
+"ukp": "6007",
+"mpn": "John Howell"
+});

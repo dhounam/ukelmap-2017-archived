@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Reading, East",
+
+"id": "E14000889",
+
+"region": "South East",
+
+"turnout": "49985",
+
+"electorate": "74922",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.632,
+
+"hpr": 22.2823820203582,
+
+"sal": -4.11632481033998,
+
+"ele": -6.00361,
+
+"con": "21269",
+
+"lab": "12729",
+
+"lib": "13664",
+
+"grn": "1069",
+
+"ukp": "1086",
+
+"ind": "111",
+
+"oth": "57",
+
+"mpn": "Rob Wilson",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Exeter",
+"id": "E14000698",
+"region": "South West",
+"turnout": "54018",
+"electorate": "76964",
+"win": "lab",
+"swing": "4.04",
+"status": "hold",
+"con": "17879",
+"lab": "25062",
+"lib": "2321",
+"grn": "3491",
+"ukp": "5075",
+"oth": "190",
+"mpn": "Ben Bradshaw"
+});

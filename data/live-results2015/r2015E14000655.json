@@ -1,0 +1,18 @@
+resultCB({
+"name": "Croydon North",
+"id": "E14000655",
+"region": "London",
+"turnout": "53522",
+"electorate": "85951",
+"win": "lab",
+"swing": "4.01",
+"status": "hold",
+"con": "12149",
+"lab": "33513",
+"lib": "1919",
+"grn": "2515",
+"ukp": "2899",
+"ind": "141",
+"oth": "386",
+"mpn": "Steve Reed"
+});

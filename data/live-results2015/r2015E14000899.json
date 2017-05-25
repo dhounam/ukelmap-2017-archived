@@ -1,0 +1,16 @@
+resultCB({
+"name": "Rochford and Southend East",
+"id": "E14000899",
+"region": "East Anglia",
+"turnout": "43608",
+"electorate": "71935",
+"win": "con",
+"swing": "2.41",
+"status": "hold",
+"con": "20241",
+"lab": "10765",
+"lib": "1459",
+"grn": "2195",
+"ukp": "8948",
+"mpn": "James Duddridge"
+});

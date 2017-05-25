@@ -1,0 +1,17 @@
+resultCB({
+"name": "Fareham",
+"id": "E14000699",
+"region": "South East",
+"turnout": "54700",
+"electorate": "77233",
+"win": "con",
+"swing": "5.23",
+"status": "hold",
+"con": "30689",
+"lab": "7800",
+"lib": "4814",
+"grn": "2129",
+"ukp": "8427",
+"ind": "841",
+"mpn": "Suella Fernandes"
+});

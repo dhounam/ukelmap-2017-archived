@@ -1,0 +1,17 @@
+resultCB({
+"name": "Central Suffolk and North Ipswich",
+"id": "E14000624",
+"region": "East Anglia",
+"turnout": "54089",
+"electorate": "78782",
+"win": "con",
+"swing": "1.32",
+"status": "hold",
+"con": "30317",
+"lab": "10173",
+"lib": "3314",
+"grn": "2664",
+"ukp": "7459",
+"oth": "162",
+"mpn": "Daniel Poulter"
+});

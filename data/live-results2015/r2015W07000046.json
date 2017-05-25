@@ -1,0 +1,19 @@
+resultCB({
+"name": "Gower",
+"id": "W07000046",
+"region": "Wales",
+"turnout": "42758",
+"electorate": "61820",
+"win": "con",
+"swing": "3.25",
+"status": "gain",
+"con": "15862",
+"lab": "15835",
+"lib": "1552",
+"grn": "1161",
+"ukp": "4773",
+"plc": "3051",
+"ind": "168",
+"oth": "356",
+"mpn": "Byron Davies"
+});

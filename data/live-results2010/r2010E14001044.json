@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Wirral, West",
+
+"id": "E14001044",
+
+"region": "North West",
+
+"turnout": "39372",
+
+"electorate": "55050",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": -0.097,
+
+"hpr": 6.38123895577823,
+
+"sal": 3.96659707724424,
+
+"ele": -2.31179,
+
+"con": "16726",
+
+"lab": "14290",
+
+"lib": "6630",
+
+"ukp": "899",
+
+"ind": "506",
+
+"oth": "321",
+
+"mpn": "Esther McVey",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "North Warwickshire",
+"id": "E14000854",
+"region": "West Midlands",
+"turnout": "47381",
+"electorate": "70152",
+"win": "con",
+"swing": "3.08",
+"status": "hold",
+"con": "20046",
+"lab": "17069",
+"lib": "978",
+"grn": "894",
+"ukp": "8256",
+"oth": "138",
+"mpn": "Craig Tracey"
+});

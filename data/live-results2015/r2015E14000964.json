@@ -1,0 +1,17 @@
+resultCB({
+"name": "St Ives",
+"id": "E14000964",
+"region": "South West",
+"turnout": "48312",
+"electorate": "65570",
+"win": "con",
+"swing": "4.43",
+"status": "gain",
+"con": "18491",
+"lab": "4510",
+"lib": "16022",
+"grn": "3051",
+"ukp": "5720",
+"oth": "518",
+"mpn": "Derek Thomas"
+});

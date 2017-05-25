@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Thornbury & Yate",
+
+"id": "E14000994",
+
+"region": "South West",
+
+"turnout": "48226",
+
+"electorate": "64092",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 0.962,
+
+"hpr": 13.9573149040444,
+
+"sal": 5.79128440366972,
+
+"ele": 1.913024,
+
+"con": "17916",
+
+"lab": "3385",
+
+"lib": "25032",
+
+"ukp": "1709",
+
+"oth": "184",
+
+"mpn": "Steve Webb",
+
+});
+

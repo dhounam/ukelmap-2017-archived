@@ -1,0 +1,17 @@
+resultCB({
+"name": "Kensington",
+"id": "E14000768",
+"region": "London",
+"turnout": "34828",
+"electorate": "61333",
+"win": "con",
+"swing": "1.69",
+"status": "gain",
+"con": "18199",
+"lab": "10838",
+"lib": "1962",
+"grn": "1765",
+"ukp": "1557",
+"oth": "507",
+"mpn": "Victoria Borwick"
+});

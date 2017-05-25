@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Eltham",
+
+"id": "E14000690",
+
+"region": "London",
+
+"turnout": "41964",
+
+"electorate": "62590",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.345,
+
+"hpr": 39.0310950493514,
+
+"sal": -16.8614845119813,
+
+"ele": 0.243529,
+
+"con": "15753",
+
+"lab": "17416",
+
+"lib": "5299",
+
+"grn": "419",
+
+"ukp": "1011",
+
+"bnp": "1745",
+
+"ind": "104",
+
+"oth": "217",
+
+"mpn": "Clive Efford",
+
+});
+

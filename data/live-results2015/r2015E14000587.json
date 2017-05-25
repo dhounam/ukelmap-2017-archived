@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bradford East",
+"id": "E14000587",
+"region": "Yorkshire And The Humber",
+"turnout": "41406",
+"electorate": "66123",
+"win": "lab",
+"swing": "9.01",
+"status": "gain",
+"con": "4682",
+"lab": "19312",
+"lib": "12228",
+"grn": "871",
+"ukp": "4103",
+"oth": "210",
+"mpn": "Imran Hussain"
+});

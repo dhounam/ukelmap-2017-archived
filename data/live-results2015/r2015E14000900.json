@@ -1,0 +1,16 @@
+resultCB({
+"name": "Romford",
+"id": "E14000900",
+"region": "London",
+"turnout": "49178",
+"electorate": "72594",
+"win": "con",
+"swing": "11.71",
+"status": "hold",
+"con": "25067",
+"lab": "10268",
+"lib": "1413",
+"grn": "1222",
+"ukp": "11208",
+"mpn": "Andrew Rosindell"
+});

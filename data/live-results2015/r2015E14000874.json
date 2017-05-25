@@ -1,0 +1,17 @@
+resultCB({
+"name": "Oxford West and Abingdon",
+"id": "E14000874",
+"region": "South East",
+"turnout": "57247",
+"electorate": "79767",
+"win": "con",
+"swing": "8.21",
+"status": "hold",
+"con": "26153",
+"lab": "7274",
+"lib": "16571",
+"grn": "2497",
+"ukp": "3963",
+"oth": "789",
+"mpn": "Nicola Blackwood"
+});

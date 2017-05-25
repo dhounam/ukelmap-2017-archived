@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Don Valley",
+
+"id": "E14000667",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "43430",
+
+"electorate": "73214",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.585,
+
+"hpr": 5.01572353927958,
+
+"sal": -1.75695461200587,
+
+"ele": -5.49945,
+
+"con": "12877",
+
+"lab": "16472",
+
+"lib": "7422",
+
+"ukp": "1904",
+
+"bnp": "2112",
+
+"ind": "887",
+
+"oth": "1756",
+
+"mpn": "Caroline Flint",
+
+});
+

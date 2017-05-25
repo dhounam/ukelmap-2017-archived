@@ -1,0 +1,16 @@
+resultCB({
+"name": "Corby",
+"id": "E14000648",
+"region": "East Midlands",
+"turnout": "56174",
+"electorate": "79775",
+"win": "con",
+"swing": "0.4",
+"status": "gain",
+"con": "24023",
+"lab": "21611",
+"lib": "1458",
+"grn": "1374",
+"ukp": "7708",
+"mpn": "Tom Pursglove"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Dewsbury",
+"id": "E14000666",
+"region": "Yorkshire",
+"turnout": "53630",
+"electorate": "79765",
+"win": "lab",
+"swing": "2.77",
+"status": "gain",
+"con": "20955",
+"lab": "22406",
+"lib": "1924",
+"grn": "1366",
+"ukp": "6649",
+"oth": "330",
+"mpn": "Paula Sherriff"
+});

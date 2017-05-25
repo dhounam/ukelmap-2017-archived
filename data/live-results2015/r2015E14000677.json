@@ -1,0 +1,17 @@
+resultCB({
+"name": "Easington",
+"id": "E14000677",
+"region": "North East",
+"turnout": "34624",
+"electorate": "61675",
+"win": "lab",
+"swing": "5.99",
+"status": "hold",
+"con": "4478",
+"lab": "21132",
+"lib": "834",
+"grn": "733",
+"ukp": "6491",
+"oth": "956",
+"mpn": "Grahame Morris"
+});

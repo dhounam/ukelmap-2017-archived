@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Blackburn",
+
+"id": "E14000570",
+
+"region": "North West",
+
+"turnout": "45499",
+
+"electorate": "72331",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.721,
+
+"hpr": 1.26702848817337,
+
+"sal": 4.92343477418105,
+
+"ele": 1.02754,
+
+"con": "11895",
+
+"lab": "21751",
+
+"lib": "6918",
+
+"ukp": "942",
+
+"bnp": "2158",
+
+"ind": "238",
+
+"oth": "1597",
+
+"mpn": "Jack Straw",
+
+});
+

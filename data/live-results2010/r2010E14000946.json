@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Suffolk, South",
+
+"id": "E14000946",
+
+"region": "East Of England",
+
+"turnout": "51416",
+
+"electorate": "72498",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.917,
+
+"hpr": 14.7944108760304,
+
+"sal": 7.13128038897892,
+
+"ele": -0.25605,
+
+"con": "24550",
+
+"lab": "7368",
+
+"lib": "15861",
+
+"ukp": "3637",
+
+"mpn": "Tim Yeo",
+
+});
+

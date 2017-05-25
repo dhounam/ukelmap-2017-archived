@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Ealing, Central & Acton",
+
+"id": "E14000674",
+
+"region": "London",
+
+"turnout": "47200",
+
+"electorate": "63489",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.147,
+
+"hpr": 56.1679771898582,
+
+"sal": -3.57086176797333,
+
+"ele": -1.12077,
+
+"con": "17944",
+
+"lab": "14228",
+
+"lib": "13041",
+
+"grn": "737",
+
+"ukp": "765",
+
+"oth": "485",
+
+"mpn": "Angie Bray",
+
+});
+

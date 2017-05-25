@@ -1,0 +1,17 @@
+resultCB({
+"name": "Huddersfield",
+"id": "E14000756",
+"region": "Yorkshire",
+"turnout": "40486",
+"electorate": "65265",
+"win": "lab",
+"swing": "3.55",
+"status": "hold",
+"con": "10841",
+"lab": "18186",
+"lib": "2365",
+"grn": "2798",
+"ukp": "5948",
+"oth": "348",
+"mpn": "Barry Sheerman"
+});

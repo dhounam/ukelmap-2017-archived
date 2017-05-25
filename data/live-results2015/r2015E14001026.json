@@ -1,0 +1,18 @@
+resultCB({
+"name": "Wells",
+"id": "E14001026",
+"region": "South West",
+"turnout": "56904",
+"electorate": "79405",
+"win": "con",
+"swing": "7.38",
+"status": "gain",
+"con": "26247",
+"lab": "3780",
+"lib": "18662",
+"grn": "2331",
+"ukp": "5644",
+"ind": "76",
+"oth": "164",
+"mpn": "James Heappey"
+});

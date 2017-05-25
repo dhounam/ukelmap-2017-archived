@@ -1,0 +1,17 @@
+resultCB({
+"name": "Gainsborough",
+"id": "E14000707",
+"region": "East Midlands",
+"turnout": "49261",
+"electorate": "73212",
+"win": "con",
+"swing": "1.14",
+"status": "hold",
+"con": "25949",
+"lab": "10500",
+"lib": "3290",
+"grn": "1290",
+"ukp": "7727",
+"oth": "505",
+"mpn": "Sir Edward Leigh"
+});

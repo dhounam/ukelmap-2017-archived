@@ -1,0 +1,16 @@
+resultCB({
+"name": "Sevenoaks",
+"id": "E14000918",
+"region": "South East",
+"turnout": "50124",
+"electorate": "70741",
+"win": "con",
+"swing": "7.1",
+"status": "hold",
+"con": "28531",
+"lab": "6448",
+"lib": "3937",
+"grn": "2238",
+"ukp": "8970",
+"mpn": "Michael Fallon"
+});

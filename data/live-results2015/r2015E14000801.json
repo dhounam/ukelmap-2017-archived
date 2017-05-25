@@ -1,0 +1,17 @@
+resultCB({
+"name": "Luton South",
+"id": "E14000801",
+"region": "East Anglia",
+"turnout": "42216",
+"electorate": "67234",
+"win": "lab",
+"swing": "4.01",
+"status": "hold",
+"con": "12949",
+"lab": "18660",
+"lib": "3183",
+"grn": "1237",
+"ukp": "5129",
+"ind": "1058",
+"mpn": "Gavin Shuker"
+});

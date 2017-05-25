@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Torbay",
+
+"id": "E14000999",
+
+"region": "South West",
+
+"turnout": "49210",
+
+"electorate": "76151",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 0.57,
+
+"hpr": 4.84783394919626,
+
+"sal": 8.52534562211981,
+
+"ele": -0.6544,
+
+"con": "19048",
+
+"lab": "3231",
+
+"lib": "23126",
+
+"grn": "468",
+
+"ukp": "2628",
+
+"bnp": "709",
+
+"mpn": "Adrian Sanders",
+
+});
+

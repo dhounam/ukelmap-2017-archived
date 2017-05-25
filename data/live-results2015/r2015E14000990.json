@@ -1,0 +1,16 @@
+resultCB({
+"name": "Tewkesbury",
+"id": "E14000990",
+"region": "South West",
+"turnout": "55344",
+"electorate": "78500",
+"win": "con",
+"swing": "2.04",
+"status": "hold",
+"con": "30176",
+"lab": "8204",
+"lib": "7629",
+"grn": "2207",
+"ukp": "7128",
+"mpn": "Laurence Robertson"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Bedfordshire, South West",
+
+"id": "E14000949",
+
+"region": "East Of England",
+
+"turnout": "50774",
+
+"electorate": "76559",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.591,
+
+"hpr": 17.0677604172695,
+
+"sal": 14.9465415666594,
+
+"ele": 2.931245,
+
+"con": "26815",
+
+"lab": "9948",
+
+"lib": "10166",
+
+"ukp": "2142",
+
+"bnp": "1703",
+
+"mpn": "Andrew Selous",
+
+});
+

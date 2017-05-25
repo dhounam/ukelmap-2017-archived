@@ -1,0 +1,18 @@
+resultCB({
+"name": "East Lothian",
+"id": "S14000020",
+"region": "Scotland",
+"turnout": "59014",
+"electorate": "79481",
+"win": "snp",
+"swing": "20.04",
+"status": "gain",
+"con": "11511",
+"lab": "18301",
+"lib": "1517",
+"grn": "1245",
+"ukp": "1178",
+"snp": "25104",
+"ind": "158",
+"mpn": "George Kerevan"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Ashford",
+
+"id": "E14000536",
+
+"region": "South East",
+
+"turnout": "55185",
+
+"electorate": "81269",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.135,
+
+"hpr": 16.7679810291266,
+
+"sal": 5.37877232601107,
+
+"ele": 3.517167,
+
+"con": "29878",
+
+"lab": "9204",
+
+"lib": "12581",
+
+"grn": "1014",
+
+"ukp": "2508",
+
+"mpn": "Damian Green",
+
+});
+

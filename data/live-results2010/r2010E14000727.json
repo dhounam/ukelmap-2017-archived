@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Hampstead & Kilburn",
+
+"id": "E14000727",
+
+"region": "London",
+
+"turnout": "52822",
+
+"electorate": "79713",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 5.538,
+
+"hpr": 51.516593118601,
+
+"sal": 1.74456879526004,
+
+"ele": -3.22313,
+
+"con": "17290",
+
+"lab": "17332",
+
+"lib": "16491",
+
+"grn": "759",
+
+"ukp": "408",
+
+"bnp": "328",
+
+"ind": "91",
+
+"oth": "123",
+
+"mpn": "Glenda Jackson",
+
+});
+

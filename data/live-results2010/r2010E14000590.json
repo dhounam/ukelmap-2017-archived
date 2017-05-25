@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Braintree",
+
+"id": "E14000590",
+
+"region": "East Of England",
+
+"turnout": "49203",
+
+"electorate": "71162",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.297,
+
+"hpr": 16.5964893409529,
+
+"sal": -1.2853470437018,
+
+"ele": 3.217487,
+
+"con": "25901",
+
+"lab": "9780",
+
+"lib": "9247",
+
+"grn": "718",
+
+"ukp": "2477",
+
+"bnp": "1080",
+
+"mpn": "Brooks Newmark",
+
+});
+

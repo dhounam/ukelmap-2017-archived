@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Motherwell & Wishaw",
+
+"id": "S14000047",
+
+"region": "Scotland",
+
+"turnout": "39123",
+
+"electorate": "66918",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 6.4192462433767,
+
+"sal": 5.94412522290497E-02,
+
+"ele": 2.015842,
+
+"con": "3660",
+
+"lab": "23910",
+
+"lib": "3840",
+
+"snp": "7104",
+
+"oth": "609",
+
+"mpn": "Frank Roy",
+
+});
+

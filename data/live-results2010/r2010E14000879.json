@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Plymouth Moor View",
+
+"id": "E14000879",
+
+"region": "South West",
+
+"turnout": "41526",
+
+"electorate": "67261",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.433,
+
+"hpr": 10.2115252552622,
+
+"sal": 9.12162162162163,
+
+"ele": -1.59257,
+
+"con": "13845",
+
+"lab": "15433",
+
+"lib": "7016",
+
+"grn": "398",
+
+"ukp": "3188",
+
+"bnp": "1438",
+
+"oth": "208",
+
+"mpn": "Alison Seabeck",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Gateshead",
+"id": "E14000709",
+"region": "North East",
+"turnout": "38009",
+"electorate": "63910",
+"win": "lab",
+"swing": "6.18",
+"status": "hold",
+"con": "5562",
+"lab": "21549",
+"lib": "2585",
+"grn": "1548",
+"ukp": "6765",
+"mpn": "Ian Mearns"
+});

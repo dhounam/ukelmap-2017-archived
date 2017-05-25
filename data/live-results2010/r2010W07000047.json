@@ -1,0 +1,46 @@
+resultCB({
+
+"name": "Swansea, West",
+
+"id": "W07000047",
+
+"region": "Wales",
+
+"turnout": "35593",
+
+"electorate": "61334",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.138,
+
+"hpr": -3.82457402323219,
+
+"sal": 7.17602363866609,
+
+"ele": -9.79756,
+
+"con": "7407",
+
+"lab": "12335",
+
+"lib": "11831",
+
+"grn": "404",
+
+"ukp": "716",
+
+"bnp": "910",
+
+"plc": "1437",
+
+"ind": "374",
+
+"oth": "179",
+
+"mpn": "Geraint Davies",
+
+});
+

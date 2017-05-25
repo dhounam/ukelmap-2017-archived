@@ -1,0 +1,16 @@
+resultCB({
+"name": "Meon Valley",
+"id": "E14000811",
+"region": "South East",
+"turnout": "51717",
+"electorate": "72738",
+"win": "con",
+"swing": "3.55",
+"status": "hold",
+"con": "31578",
+"lab": "5656",
+"lib": "4987",
+"grn": "1831",
+"ukp": "7665",
+"mpn": "George Hollingbery"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Clwyd West",
+"id": "W07000059",
+"region": "Wales",
+"turnout": "38028",
+"electorate": "58657",
+"win": "con",
+"swing": "0.43",
+"status": "hold",
+"con": "16463",
+"lab": "9733",
+"lib": "1387",
+"ukp": "4988",
+"plc": "4651",
+"oth": "806",
+"mpn": "David Jones"
+});

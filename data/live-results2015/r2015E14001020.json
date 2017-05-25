@@ -1,0 +1,17 @@
+resultCB({
+"name": "Washington and Sunderland West",
+"id": "E14001020",
+"region": "North East",
+"turnout": "37257",
+"electorate": "68188",
+"win": "lab",
+"swing": "6.92",
+"status": "hold",
+"con": "7033",
+"lab": "20478",
+"lib": "993",
+"grn": "1091",
+"ukp": "7321",
+"oth": "341",
+"mpn": "Sharon Hodgson"
+});

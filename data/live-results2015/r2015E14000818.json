@@ -1,0 +1,16 @@
+resultCB({
+"name": "Mid Worcestershire",
+"id": "E14000818",
+"region": "West Midlands",
+"turnout": "52225",
+"electorate": "73069",
+"win": "con",
+"swing": "4.61",
+"status": "hold",
+"con": "29763",
+"lab": "7548",
+"lib": "3750",
+"grn": "1933",
+"ukp": "9231",
+"mpn": "Nigel Huddleston"
+});

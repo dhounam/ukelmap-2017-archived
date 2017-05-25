@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Garston & Halewood",
+
+"id": "E14000708",
+
+"region": "North West",
+
+"turnout": "42825",
+
+"electorate": "71312",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.987,
+
+"hpr": 2.55049715035236,
+
+"sal": -3.16279069767442,
+
+"ele": 0.563451,
+
+"con": "6908",
+
+"lab": "25493",
+
+"lib": "8616",
+
+"ukp": "1540",
+
+"res": "268",
+
+"mpn": "Maria Eagle",
+
+});
+

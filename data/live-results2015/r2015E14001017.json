@@ -1,0 +1,16 @@
+resultCB({
+"name": "Warrington North",
+"id": "E14001017",
+"region": "North West",
+"turnout": "45419",
+"electorate": "72632",
+"win": "lab",
+"swing": "2.17",
+"status": "hold",
+"con": "12797",
+"lab": "21720",
+"lib": "1881",
+"grn": "1264",
+"ukp": "7757",
+"mpn": "Helen Jones"
+});

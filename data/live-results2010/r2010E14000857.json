@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Hampshire, North West",
+
+"id": "E14000857",
+
+"region": "South East",
+
+"turnout": "53292",
+
+"electorate": "76040",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.471,
+
+"hpr": 9.04805313161351,
+
+"sal": -4.1166994809379,
+
+"ele": 2.567617,
+
+"con": "31072",
+
+"lab": "6980",
+
+"lib": "12489",
+
+"ukp": "2751",
+
+"mpn": "Sir George Young",
+
+});
+

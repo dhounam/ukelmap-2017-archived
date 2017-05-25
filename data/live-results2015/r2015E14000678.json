@@ -1,0 +1,16 @@
+resultCB({
+"name": "East Devon",
+"id": "E14000678",
+"region": "South West",
+"turnout": "54717",
+"electorate": "74224",
+"win": "con",
+"swing": "",
+"status": "hold",
+"con": "25401",
+"lab": "5591",
+"lib": "3715",
+"ukp": "6870",
+"ind": "13140",
+"mpn": "Hugo Swire"
+});

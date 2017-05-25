@@ -1,0 +1,16 @@
+resultCB({
+"name": "Burton",
+"id": "E14000610",
+"region": "West Midlands",
+"turnout": "49334",
+"electorate": "75300",
+"win": "con",
+"swing": "5.08",
+"status": "hold",
+"con": "24736",
+"lab": "13484",
+"lib": "1232",
+"grn": "1224",
+"ukp": "8658",
+"mpn": "Andrew Griffiths"
+});

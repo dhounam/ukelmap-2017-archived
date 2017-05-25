@@ -1,0 +1,16 @@
+resultCB({
+"name": "Ayr, Carrick and Cumnock",
+"id": "S14000006",
+"region": "Scotland",
+"turnout": "52209",
+"electorate": "72985",
+"win": "snp",
+"swing": "25.34",
+"status": "gain",
+"con": "10355",
+"lab": "14227",
+"lib": "855",
+"ukp": "1280",
+"snp": "25492",
+"mpn": "Corri Wilson"
+});

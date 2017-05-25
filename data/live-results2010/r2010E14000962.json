@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "St. Helens, North",
+
+"id": "E14000962",
+
+"region": "North West",
+
+"turnout": "44556",
+
+"electorate": "74985",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.532,
+
+"hpr": 4.09635689987876,
+
+"sal": 8.4303492573264,
+
+"ele": -2.36206,
+
+"con": "9940",
+
+"lab": "23041",
+
+"lib": "8992",
+
+"ukp": "2100",
+
+"oth": "483",
+
+"mpn": "Dave Watts",
+
+});
+

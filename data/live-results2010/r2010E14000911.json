@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Salford & Eccles",
+
+"id": "E14000911",
+
+"region": "North West",
+
+"turnout": "41533",
+
+"electorate": "75482",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.68,
+
+"hpr": 7.33614801350855,
+
+"sal": 10.4822565969063,
+
+"ele": -3.14501,
+
+"con": "8497",
+
+"lab": "16655",
+
+"lib": "10930",
+
+"ukp": "1084",
+
+"bnp": "2632",
+
+"ind": "384",
+
+"oth": "1351",
+
+"mpn": "Hazel Blears",
+
+});
+

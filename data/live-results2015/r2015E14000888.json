@@ -1,0 +1,17 @@
+resultCB({
+"name": "Rayleigh and Wickford",
+"id": "E14000888",
+"region": "East Of England",
+"turnout": "53220",
+"electorate": "77870",
+"win": "con",
+"swing": "10.6",
+"status": "hold",
+"con": "29088",
+"lab": "6705",
+"lib": "1622",
+"grn": "1529",
+"ukp": "11858",
+"ind": "2418",
+"mpn": "Mark Francois"
+});

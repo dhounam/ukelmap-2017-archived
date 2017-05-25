@@ -1,0 +1,17 @@
+resultCB({
+"name": "Wakefield",
+"id": "E14001009",
+"region": "Yorkshire",
+"turnout": "42973",
+"electorate": "70521",
+"win": "lab",
+"swing": "1.23",
+"status": "hold",
+"con": "14688",
+"lab": "17301",
+"lib": "1483",
+"grn": "1069",
+"ukp": "7862",
+"oth": "570",
+"mpn": "Mary Creagh"
+});

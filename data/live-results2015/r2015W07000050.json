@@ -1,0 +1,19 @@
+resultCB({
+"name": "Cardiff Central",
+"id": "W07000050",
+"region": "Wales",
+"turnout": "38646",
+"electorate": "57454",
+"win": "lab",
+"swing": "12.77",
+"status": "gain",
+"con": "5674",
+"lab": "15462",
+"lib": "10481",
+"grn": "2461",
+"ukp": "2499",
+"plc": "1925",
+"ind": "34",
+"oth": "110",
+"mpn": "Jo Stevens"
+});

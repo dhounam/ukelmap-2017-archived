@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bury, North",
+
+"id": "E14000611",
+
+"region": "North West",
+
+"turnout": "44961",
+
+"electorate": "66759",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.317,
+
+"hpr": 9.42506474026223,
+
+"sal": 18.5998768220078,
+
+"ele": -0.56659,
+
+"con": "18070",
+
+"lab": "15827",
+
+"lib": "7645",
+
+"ukp": "1282",
+
+"bnp": "1825",
+
+"ind": "181",
+
+"oth": "131",
+
+"mpn": "David Nuttall",
+
+});
+

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Leeds, East",
+
+"id": "E14000778",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "37813",
+
+"electorate": "65067",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.257,
+
+"hpr": 13.1906390855379,
+
+"sal": -5.69587179933811,
+
+"ele": -1.3927,
+
+"con": "8763",
+
+"lab": "19056",
+
+"lib": "6618",
+
+"bnp": "2947",
+
+"oth": "429",
+
+"mpn": "George Mudie",
+
+});
+

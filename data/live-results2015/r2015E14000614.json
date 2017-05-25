@@ -1,0 +1,17 @@
+resultCB({
+"name": "Calder Valley",
+"id": "E14000614",
+"region": "Yorkshire",
+"turnout": "53541",
+"electorate": "77753",
+"win": "con",
+"swing": "2.08",
+"status": "hold",
+"con": "23354",
+"lab": "18927",
+"lib": "2666",
+"grn": "2090",
+"ukp": "5950",
+"oth": "554",
+"mpn": "Craig Whittaker"
+});

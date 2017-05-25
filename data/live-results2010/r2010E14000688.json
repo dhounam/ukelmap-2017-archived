@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Ellesmere Port & Neston",
+
+"id": "E14000688",
+
+"region": "North West",
+
+"turnout": "44233",
+
+"electorate": "63097",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": -0.327,
+
+"hpr": 6.2112193617353,
+
+"sal": -7.27793696275072,
+
+"ele": 3.891145,
+
+"con": "15419",
+
+"lab": "19750",
+
+"lib": "6663",
+
+"ukp": "1619",
+
+"ind": "782",
+
+"mpn": "Andrew Miller",
+
+});
+

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Leicestershire, South",
+
+"id": "E14000940",
+
+"region": "East Midlands",
+
+"turnout": "54577",
+
+"electorate": "76639",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.549,
+
+"hpr": 12.0760112610613,
+
+"sal": 4.92517522258002,
+
+"ele": -0.40503,
+
+"con": "27000",
+
+"lab": "11392",
+
+"lib": "11476",
+
+"ukp": "1988",
+
+"bnp": "2721",
+
+"mpn": "Andrew Robathan",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Dudley South",
+"id": "E14000672",
+"region": "West Midlands",
+"turnout": "38210",
+"electorate": "60363",
+"win": "con",
+"swing": "0.54",
+"status": "hold",
+"con": "16723",
+"lab": "12453",
+"lib": "828",
+"grn": "970",
+"ukp": "7236",
+"mpn": "Mike Wood"
+});

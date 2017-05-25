@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Wallasey",
+
+"id": "E14001010",
+
+"region": "North West",
+
+"turnout": "41654",
+
+"electorate": "65915",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.098,
+
+"hpr": 4.60512143777751,
+
+"sal": 2.11065573770493,
+
+"ele": -3.59024,
+
+"con": "13071",
+
+"lab": "21578",
+
+"lib": "5693",
+
+"ukp": "1205",
+
+"ind": "107",
+
+"mpn": "Angela Eagle",
+
+});
+

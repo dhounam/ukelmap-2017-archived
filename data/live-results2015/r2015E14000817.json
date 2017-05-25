@@ -1,0 +1,18 @@
+resultCB({
+"name": "Mid Sussex",
+"id": "E14000817",
+"region": "South East",
+"turnout": "57492",
+"electorate": "79520",
+"win": "con",
+"swing": "0.94",
+"status": "hold",
+"con": "32268",
+"lab": "7982",
+"lib": "6604",
+"grn": "2453",
+"ukp": "6898",
+"ind": "958",
+"oth": "329",
+"mpn": "Nicholas Soames"
+});

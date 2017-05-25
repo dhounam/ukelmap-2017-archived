@@ -1,0 +1,17 @@
+resultCB({
+"name": "Harrow East",
+"id": "E14000731",
+"region": "London",
+"turnout": "49000",
+"electorate": "70980",
+"win": "con",
+"swing": "1.31",
+"status": "hold",
+"con": "24668",
+"lab": "19911",
+"lib": "1037",
+"grn": "846",
+"ukp": "2333",
+"oth": "205",
+"mpn": "Bob Blackman"
+});

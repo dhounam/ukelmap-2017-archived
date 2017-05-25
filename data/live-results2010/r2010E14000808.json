@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Manchester Gorton",
+
+"id": "E14000808",
+
+"region": "North West",
+
+"turnout": "38325",
+
+"electorate": "75933",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.243,
+
+"hpr": 8.99204711467041,
+
+"sal": -0.769390725722602,
+
+"ele": -0.02344,
+
+"con": "4224",
+
+"lab": "19211",
+
+"lib": "12508",
+
+"grn": "1048",
+
+"res": "337",
+
+"oth": "997",
+
+"mpn": "Gerald Kaufman",
+
+});
+

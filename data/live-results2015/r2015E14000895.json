@@ -1,0 +1,17 @@
+resultCB({
+"name": "Richmond (Yorks)",
+"id": "E14000895",
+"region": "Yorkshire",
+"turnout": "53999",
+"electorate": "83451",
+"win": "con",
+"swing": "",
+"status": "hold",
+"con": "27744",
+"lab": "7124",
+"lib": "3465",
+"grn": "2313",
+"ukp": "8194",
+"ind": "5159",
+"mpn": "Rishi Sunak"
+});

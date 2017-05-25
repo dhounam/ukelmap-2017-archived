@@ -1,0 +1,18 @@
+resultCB({
+"name": "Glasgow South West",
+"id": "S14000035",
+"region": "Scotland",
+"turnout": "40921",
+"electorate": "66209",
+"win": "snp",
+"swing": "35.24",
+"status": "gain",
+"con": "2036",
+"lab": "13438",
+"lib": "406",
+"grn": "507",
+"ukp": "970",
+"snp": "23388",
+"oth": "176",
+"mpn": "Christopher Stephens"
+});

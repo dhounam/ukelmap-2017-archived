@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Glasgow, North",
+
+"id": "S14000031",
+
+"region": "Scotland",
+
+"turnout": "29613",
+
+"electorate": "51416",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 3.48523690368869,
+
+"sal": 17.5536555574943,
+
+"ele": 13.02878,
+
+"con": "2089",
+
+"lab": "13181",
+
+"lib": "9283",
+
+"grn": "947",
+
+"bnp": "296",
+
+"snp": "3530",
+
+"oth": "287",
+
+"mpn": "Ann McKechin",
+
+});
+

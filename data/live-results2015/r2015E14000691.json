@@ -1,0 +1,17 @@
+resultCB({
+"name": "Enfield North",
+"id": "E14000691",
+"region": "London",
+"turnout": "46137",
+"electorate": "68119",
+"win": "lab",
+"swing": "3.08",
+"status": "gain",
+"con": "19086",
+"lab": "20172",
+"lib": "1059",
+"grn": "1303",
+"ukp": "4133",
+"oth": "384",
+"mpn": "Joan Ryan"
+});

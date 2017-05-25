@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Islington, South & Finsbury",
+
+"id": "E14000764",
+
+"region": "London",
+
+"turnout": "43555",
+
+"electorate": "67649",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 9.281,
+
+"hpr": 53.1313012205065,
+
+"sal": 5.83282489322757,
+
+"ele": -1.73154,
+
+"con": "8449",
+
+"lab": "18407",
+
+"lib": "14838",
+
+"grn": "710",
+
+"ukp": "701",
+
+"oth": "450",
+
+"mpn": "Emily Thornberry",
+
+});
+

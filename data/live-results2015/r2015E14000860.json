@@ -1,0 +1,17 @@
+resultCB({
+"name": "North Wiltshire",
+"id": "E14000860",
+"region": "South West",
+"turnout": "50556",
+"electorate": "67858",
+"win": "con",
+"swing": "13.13",
+"status": "hold",
+"con": "28938",
+"lab": "4930",
+"lib": "7892",
+"grn": "2350",
+"ukp": "5813",
+"ind": "633",
+"mpn": "James Gray"
+});

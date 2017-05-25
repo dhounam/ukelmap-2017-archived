@@ -1,0 +1,16 @@
+resultCB({
+"name": "South West Norfolk",
+"id": "E14000952",
+"region": "East Anglia",
+"turnout": "50110",
+"electorate": "76970",
+"win": "con",
+"swing": "7.22",
+"status": "hold",
+"con": "25515",
+"lab": "8649",
+"lib": "2217",
+"grn": "2075",
+"ukp": "11654",
+"mpn": "Elizabeth Truss"
+});

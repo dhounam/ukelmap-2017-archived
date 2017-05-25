@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Plymouth Sutton & Devonport",
+
+"id": "E14000880",
+
+"region": "South West",
+
+"turnout": "43894",
+
+"electorate": "71035",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.329,
+
+"hpr": 4.8249355453537,
+
+"sal": 0.294059988237592,
+
+"ele": -5.35452,
+
+"con": "15050",
+
+"lab": "13901",
+
+"lib": "10829",
+
+"grn": "904",
+
+"ukp": "2854",
+
+"ind": "233",
+
+"oth": "123",
+
+"mpn": "Oliver Colville",
+
+});
+

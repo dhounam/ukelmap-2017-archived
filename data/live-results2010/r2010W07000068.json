@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Brecon & Radnorshire",
+
+"id": "W07000068",
+
+"region": "Wales",
+
+"turnout": "38845",
+
+"electorate": "53589",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": -0.143,
+
+"hpr": 3.94281650995967,
+
+"sal": -4.07281001137656,
+
+"ele": -0.56299,
+
+"con": "14182",
+
+"lab": "4096",
+
+"lib": "17929",
+
+"grn": "341",
+
+"ukp": "876",
+
+"plc": "989",
+
+"oth": "432",
+
+"mpn": "Roger Williams",
+
+});
+

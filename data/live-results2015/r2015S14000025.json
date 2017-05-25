@@ -1,0 +1,17 @@
+resultCB({
+"name": "Edinburgh South West",
+"id": "S14000025",
+"region": "Scotland",
+"turnout": "51602",
+"electorate": "72178",
+"win": "snp",
+"swing": "23.22",
+"status": "gain",
+"con": "10444",
+"lab": "14033",
+"lib": "1920",
+"grn": "1965",
+"ukp": "1072",
+"snp": "22168",
+"mpn": "Joanna Cherry"
+});

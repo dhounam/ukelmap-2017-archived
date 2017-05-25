@@ -1,0 +1,17 @@
+resultCB({
+"name": "Foyle",
+"id": "N06000008",
+"region": "Northern Ireland",
+"turnout": "37002",
+"electorate": "70035",
+"win": "sdl",
+"swing": "1.8",
+"status": "hold",
+"con": "132",
+"ukp": "832",
+"snf": "11679",
+"sdl": "17725",
+"dup": "4573",
+"oth": "2061",
+"mpn": "Mark Durkan"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Edinburgh, East",
+
+"id": "S14000022",
+
+"region": "Scotland",
+
+"turnout": "39865",
+
+"electorate": "60941",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 31.7709203539866,
+
+"sal": 1.93812233285917,
+
+"ele": 7.803281,
+
+"con": "4358",
+
+"lab": "17314",
+
+"lib": "7751",
+
+"grn": "2035",
+
+"snp": "8133",
+
+"oth": "274",
+
+"mpn": "Sheila Gilmore",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Hackney, North & Stoke Newington",
+
+"id": "E14000720",
+
+"region": "London",
+
+"turnout": "46488",
+
+"electorate": "73874",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 5.501,
+
+"hpr": 57.676681159573,
+
+"sal": -1.72638436482086,
+
+"ele": 9.645498,
+
+"con": "6759",
+
+"lab": "25553",
+
+"lib": "11092",
+
+"grn": "2133",
+
+"ind": "96",
+
+"oth": "855",
+
+"mpn": "Diane Abbott",
+
+});
+

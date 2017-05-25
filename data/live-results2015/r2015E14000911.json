@@ -1,0 +1,17 @@
+resultCB({
+"name": "Salford and Eccles",
+"id": "E14000911",
+"region": "North West",
+"turnout": "43261",
+"electorate": "74290",
+"win": "lab",
+"swing": "4.67",
+"status": "hold",
+"con": "8823",
+"lab": "21364",
+"lib": "1614",
+"grn": "2251",
+"ukp": "7806",
+"oth": "1403",
+"mpn": "Rebecca Long-Bailey"
+});

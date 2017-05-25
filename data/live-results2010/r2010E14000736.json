@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Havant",
+
+"id": "E14000736",
+
+"region": "South East",
+
+"turnout": "43903",
+
+"electorate": "69712",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.408,
+
+"hpr": 21.0961398664446,
+
+"sal": 10.0244498777506,
+
+"ele": 0.524256,
+
+"con": "22433",
+
+"lab": "7777",
+
+"lib": "10273",
+
+"ukp": "2611",
+
+"oth": "809",
+
+"mpn": "David Willetts",
+
+});
+

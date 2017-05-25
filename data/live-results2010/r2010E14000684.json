@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Eastbourne",
+
+"id": "E14000684",
+
+"region": "South East",
+
+"turnout": "52124",
+
+"electorate": "77840",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 1.951,
+
+"hpr": 10.0651649882349,
+
+"sal": -1.65212548728422,
+
+"ele": -1.40025,
+
+"con": "21223",
+
+"lab": "2497",
+
+"lib": "24658",
+
+"ukp": "1305",
+
+"bnp": "939",
+
+"ind": "101",
+
+"oth": "1401",
+
+"mpn": "Stephen Lloyd",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Lanark and Hamilton East",
+"id": "S14000042",
+"region": "Scotland",
+"turnout": "55258",
+"electorate": "78846",
+"win": "snp",
+"swing": "23.61",
+"status": "gain",
+"con": "8772",
+"lab": "16876",
+"lib": "1203",
+"ukp": "1431",
+"snp": "26976",
+"mpn": "Angela Crawley"
+});

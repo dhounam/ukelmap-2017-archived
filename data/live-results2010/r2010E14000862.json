@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Northampton, South",
+
+"id": "E14000862",
+
+"region": "East Midlands",
+
+"turnout": "38978",
+
+"electorate": "66923",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.83,
+
+"hpr": 17.5439921524105,
+
+"sal": -6.2308868501529,
+
+"ele": -5.47477,
+
+"con": "15917",
+
+"lab": "9913",
+
+"lib": "7579",
+
+"grn": "363",
+
+"ukp": "1897",
+
+"ind": "2242",
+
+"oth": "1067",
+
+"mpn": "Brian Binley",
+
+});
+

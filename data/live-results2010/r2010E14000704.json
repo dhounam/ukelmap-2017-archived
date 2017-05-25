@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Folkestone & Hythe",
+
+"id": "E14000704",
+
+"region": "South East",
+
+"turnout": "52800",
+
+"electorate": "78003",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.776,
+
+"hpr": 9.31579740439356,
+
+"sal": 7.81155627139118,
+
+"ele": 5.706883,
+
+"con": "26109",
+
+"lab": "5719",
+
+"lib": "15987",
+
+"grn": "637",
+
+"ukp": "2439",
+
+"bnp": "1662",
+
+"ind": "247",
+
+"mpn": "Damian Collins",
+
+});
+

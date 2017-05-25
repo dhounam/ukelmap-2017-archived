@@ -1,0 +1,19 @@
+resultCB({
+"name": "West Tyrone",
+"id": "N06000018",
+"region": "Northern Ireland",
+"turnout": "38654",
+"electorate": "63854",
+"win": "snf",
+"swing": "1.32",
+"status": "hold",
+"con": "169",
+"grn": "780",
+"ind": "166",
+"snf": "16807",
+"sdl": "6444",
+"dup": "6747",
+"uup": "6144",
+"oth": "1563",
+"mpn": "Pat Doherty"
+});

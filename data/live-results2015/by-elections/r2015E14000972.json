@@ -1,0 +1,16 @@
+resultCB({
+"name": "Stoke-on-Trent Central",
+"byelection": true,
+"id": "E14000972",
+"region": "West Midlands",
+"turnout": "21200",
+"electorate": "66548",
+"win": "lab",
+"con": "5154",
+"lab": "7853",
+"lib": "2083",
+"grn": "294",
+"ukp": "5233",
+"oth": "553",
+"mpn": "Gareth Snell",
+});

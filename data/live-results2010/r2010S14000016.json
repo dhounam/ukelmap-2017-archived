@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Dundee, West",
+
+"id": "S14000016",
+
+"region": "Scotland",
+
+"turnout": "37126",
+
+"electorate": "63013",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 24.2780083275153,
+
+"sal": 8.59022556390978,
+
+"ele": 3.85314,
+
+"con": "3461",
+
+"lab": "17994",
+
+"lib": "4233",
+
+"snp": "10716",
+
+"ind": "365",
+
+"oth": "357",
+
+"mpn": "Jim McGovern",
+
+});
+

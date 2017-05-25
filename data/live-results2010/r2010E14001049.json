@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Wolverhampton, North East",
+
+"id": "E14001049",
+
+"region": "West Midlands",
+
+"turnout": "34894",
+
+"electorate": "59324",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.879,
+
+"hpr": 6.11949649971126,
+
+"sal": 7.38716502115655,
+
+"ele": 3.052596,
+
+"con": "11964",
+
+"lab": "14448",
+
+"lib": "4711",
+
+"ukp": "1138",
+
+"bnp": "2296",
+
+"oth": "337",
+
+"mpn": "Emma Reynolds",
+
+});
+

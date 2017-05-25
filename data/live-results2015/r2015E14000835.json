@@ -1,0 +1,17 @@
+resultCB({
+"name": "Newton Abbot",
+"id": "E14000835",
+"region": "South West",
+"turnout": "48199",
+"electorate": "69743",
+"win": "con",
+"swing": "11.17",
+"status": "hold",
+"con": "22794",
+"lab": "4736",
+"lib": "11506",
+"grn": "2216",
+"ukp": "6726",
+"oth": "221",
+"mpn": "Anne Marie Morris"
+});

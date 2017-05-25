@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wimbledon",
+"id": "E14001040",
+"region": "London",
+"turnout": "48422",
+"electorate": "65853",
+"win": "con",
+"swing": "0.38",
+"status": "hold",
+"con": "25225",
+"lab": "12606",
+"lib": "6129",
+"grn": "1986",
+"ukp": "2476",
+"mpn": "Stephen Hammond"
+});

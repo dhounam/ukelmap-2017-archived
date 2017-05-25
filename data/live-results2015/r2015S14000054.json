@@ -1,0 +1,18 @@
+resultCB({
+"name": "Perth and North Perthshire",
+"id": "S14000054",
+"region": "Scotland",
+"turnout": "54200",
+"electorate": "72447",
+"win": "snp",
+"swing": "4.36",
+"status": "hold",
+"con": "17738",
+"lab": "4413",
+"lib": "2059",
+"grn": "1146",
+"ukp": "1110",
+"snp": "27379",
+"ind": "355",
+"mpn": "Pete Wishart"
+});

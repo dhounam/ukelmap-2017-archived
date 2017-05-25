@@ -1,0 +1,17 @@
+resultCB({
+"name": "West Lancashire",
+"id": "E14001033",
+"region": "North West",
+"turnout": "49676",
+"electorate": "70945",
+"win": "lab",
+"swing": "3.93",
+"status": "hold",
+"con": "16114",
+"lab": "24474",
+"lib": "1298",
+"grn": "1582",
+"ukp": "6058",
+"oth": "150",
+"mpn": "Rosie Cooper"
+});

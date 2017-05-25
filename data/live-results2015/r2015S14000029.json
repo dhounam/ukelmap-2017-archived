@@ -1,0 +1,18 @@
+resultCB({
+"name": "Glasgow Central",
+"id": "S14000029",
+"region": "Scotland",
+"turnout": "39318",
+"electorate": "70945",
+"win": "snp",
+"swing": "27",
+"status": "gain",
+"con": "2359",
+"lab": "12996",
+"lib": "612",
+"grn": "1559",
+"ukp": "786",
+"snp": "20658",
+"oth": "348",
+"mpn": "Alison Thewliss"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Norwich North",
+"id": "E14000863",
+"region": "East Anglia",
+"turnout": "43592",
+"electorate": "65136",
+"win": "con",
+"swing": "0.54",
+"status": "hold",
+"con": "19052",
+"lab": "14589",
+"lib": "1894",
+"grn": "1939",
+"ukp": "5986",
+"ind": "132",
+"mpn": "Chloe Smith"
+});

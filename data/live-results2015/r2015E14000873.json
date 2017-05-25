@@ -1,0 +1,18 @@
+resultCB({
+"name": "Oxford East",
+"id": "E14000873",
+"region": "South East",
+"turnout": "50689",
+"electorate": "78974",
+"win": "lab",
+"swing": "3.25",
+"status": "hold",
+"con": "10076",
+"lab": "25356",
+"lib": "5453",
+"grn": "5890",
+"ukp": "3451",
+"ind": "160",
+"oth": "303",
+"mpn": "Andrew Smith"
+});

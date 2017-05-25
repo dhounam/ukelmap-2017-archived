@@ -1,0 +1,18 @@
+resultCB({
+"name": "Ealing Central and Acton",
+"id": "E14000674",
+"region": "London",
+"turnout": "50894",
+"electorate": "71238",
+"win": "lab",
+"swing": "4.21",
+"status": "gain",
+"con": "21728",
+"lab": "22002",
+"lib": "3106",
+"grn": "1841",
+"ukp": "1926",
+"ind": "125",
+"oth": "166",
+"mpn": "Rupa Huq"
+});

@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Taunton Deane",
+
+"id": "E14000988",
+
+"region": "South West",
+
+"turnout": "58150",
+
+"electorate": "82537",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 1.974,
+
+"hpr": 8.0352292101022,
+
+"sal": 3.43039489429597,
+
+"ele": -4.58915,
+
+"con": "24538",
+
+"lab": "2967",
+
+"lib": "28531",
+
+"ukp": "2114",
+
+"mpn": "Jeremy Browne",
+
+});
+

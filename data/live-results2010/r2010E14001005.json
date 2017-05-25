@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Twickenham",
+
+"id": "E14001005",
+
+"region": "London",
+
+"turnout": "59721",
+
+"electorate": "79861",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 3.799,
+
+"hpr": 36.4805634331234,
+
+"sal": -0.649154589371975,
+
+"ele": -1.29406,
+
+"con": "20343",
+
+"lab": "4583",
+
+"lib": "32483",
+
+"grn": "674",
+
+"ukp": "868",
+
+"bnp": "654",
+
+"oth": "116",
+
+"mpn": "Vince Cable",
+
+});
+

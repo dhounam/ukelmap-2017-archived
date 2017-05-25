@@ -1,0 +1,17 @@
+resultCB({
+"name": "Meriden",
+"id": "E14000812",
+"region": "West Midlands",
+"turnout": "52603",
+"electorate": "81079",
+"win": "con",
+"swing": "2.29",
+"status": "hold",
+"con": "28791",
+"lab": "9996",
+"lib": "2638",
+"grn": "2170",
+"ukp": "8908",
+"oth": "100",
+"mpn": "Caroline Spelman"
+});

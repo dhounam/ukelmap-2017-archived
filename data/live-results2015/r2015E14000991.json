@@ -1,0 +1,16 @@
+resultCB({
+"name": "Cotswold",
+"id": "E14000991",
+"region": "South West",
+"turnout": "56667",
+"electorate": "78292",
+"win": "con",
+"swing": "7.22",
+"status": "hold",
+"con": "32045",
+"lab": "5240",
+"lib": "10568",
+"grn": "2626",
+"ukp": "6188",
+"mpn": "Geoffrey Clifton-Brown"
+});

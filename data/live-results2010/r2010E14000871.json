@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Oldham, West & Royton",
+
+"id": "E14000871",
+
+"region": "North West",
+
+"turnout": "42910",
+
+"electorate": "72651",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.618,
+
+"hpr": -0.84435332640065,
+
+"sal": -7.51136588258549,
+
+"ele": -2.25627,
+
+"con": "10151",
+
+"lab": "19503",
+
+"lib": "8193",
+
+"ukp": "1387",
+
+"bnp": "3049",
+
+"res": "627",
+
+"mpn": "Michael Meacher",
+
+});
+

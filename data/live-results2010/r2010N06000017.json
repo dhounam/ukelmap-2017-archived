@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Upper Bann",
+
+"id": "N06000017",
+
+"region": "Northern Ireland",
+
+"turnout": "41383",
+
+"electorate": "74732",
+
+"win": "dup",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 6.875694,
+
+"snf": "10237",
+
+"sdl": "5276",
+
+"dup": "14000",
+
+"uup": "10639",
+
+"oth": "1231",
+
+"mpn": "Thomas Simpson",
+
+});
+

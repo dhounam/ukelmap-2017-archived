@@ -1,0 +1,17 @@
+resultCB({
+"name": "Birmingham Perry Barr",
+"id": "E14000566",
+"region": "West Midlands",
+"turnout": "41260",
+"electorate": "69943",
+"win": "lab",
+"swing": "3.48",
+"status": "hold",
+"con": "8869",
+"lab": "23697",
+"lib": "2001",
+"grn": "1330",
+"ukp": "5032",
+"oth": "331",
+"mpn": "Khalid Mahmood"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Cheltenham",
+
+"id": "E14000630",
+
+"region": "South West",
+
+"turnout": "52786",
+
+"electorate": "78998",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 0.824,
+
+"hpr": 15.3899179009683,
+
+"sal": 6.55373032169749,
+
+"ele": -4.55976,
+
+"con": "21739",
+
+"lab": "2703",
+
+"lib": "26659",
+
+"ukp": "1192",
+
+"oth": "493",
+
+"mpn": "Martin Horwood",
+
+});
+

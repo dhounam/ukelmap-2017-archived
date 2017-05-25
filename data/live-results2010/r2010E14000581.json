@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Bootle",
+
+"id": "E14000581",
+
+"region": "North West",
+
+"turnout": "41277",
+
+"electorate": "71426",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": -0.396,
+
+"hpr": 4.34637252566377,
+
+"sal": 1.80863477246207,
+
+"ele": -5.88096,
+
+"con": "3678",
+
+"lab": "27426",
+
+"lib": "6245",
+
+"ukp": "2514",
+
+"bnp": "942",
+
+"oth": "472",
+
+"mpn": "Joe Benton",
+
+});
+

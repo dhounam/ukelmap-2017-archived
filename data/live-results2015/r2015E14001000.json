@@ -1,0 +1,16 @@
+resultCB({
+"name": "Torridge and West Devon",
+"id": "E14001000",
+"region": "South West",
+"turnout": "64616",
+"electorate": "78582",
+"win": "con",
+"swing": "12.07",
+"status": "hold",
+"con": "28774",
+"lab": "6015",
+"lib": "7483",
+"grn": "3941",
+"ukp": "18403",
+"mpn": "Geoffrey Cox"
+});

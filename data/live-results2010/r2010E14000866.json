@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Nottingham, North",
+
+"id": "E14000866",
+
+"region": "East Midlands",
+
+"turnout": "34285",
+
+"electorate": "63240",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.508,
+
+"hpr": 5.29956889234543,
+
+"sal": -6.38422491214369,
+
+"ele": 1.294432,
+
+"con": "8508",
+
+"lab": "16646",
+
+"lib": "5849",
+
+"ukp": "1338",
+
+"bnp": "1944",
+
+"mpn": "Graham Allen",
+
+});
+

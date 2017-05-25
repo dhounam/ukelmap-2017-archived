@@ -1,0 +1,16 @@
+resultCB({
+"name": "York Outer",
+"id": "E14001062",
+"region": "Yorkshire And The Humber",
+"turnout": "53903",
+"electorate": "78561",
+"win": "con",
+"swing": "0.77",
+"status": "hold",
+"con": "26477",
+"lab": "13348",
+"lib": "6269",
+"grn": "2558",
+"ukp": "5251",
+"mpn": "Julian Sturdy"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Winchester",
+"id": "E14001041",
+"region": "South East",
+"turnout": "55316",
+"electorate": "74119",
+"win": "con",
+"swing": "12.56",
+"status": "hold",
+"con": "30425",
+"lab": "4613",
+"lib": "13511",
+"grn": "2645",
+"ukp": "4122",
+"mpn": "Steve Brine"
+});

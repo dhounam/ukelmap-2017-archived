@@ -1,0 +1,16 @@
+resultCB({
+"name": "South Cambridgeshire",
+"id": "E14000934",
+"region": "East Anglia",
+"turnout": "61540",
+"electorate": "84132",
+"win": "con",
+"swing": "1.87",
+"status": "hold",
+"con": "31454",
+"lab": "10860",
+"lib": "9368",
+"grn": "3848",
+"ukp": "6010",
+"mpn": "Heidi Allen"
+});

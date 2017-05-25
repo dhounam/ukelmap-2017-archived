@@ -1,0 +1,17 @@
+resultCB({
+"name": "Lewisham Deptford",
+"id": "E14000789",
+"region": "London",
+"turnout": "47426",
+"electorate": "73426",
+"win": "lab",
+"swing": "2.57",
+"status": "hold",
+"con": "7056",
+"lab": "28572",
+"lib": "2497",
+"grn": "5932",
+"ukp": "2013",
+"oth": "1356",
+"mpn": "Vicky Foxcroft"
+});

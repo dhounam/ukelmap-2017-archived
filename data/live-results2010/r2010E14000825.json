@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Morecambe & Lunesdale",
+
+"id": "E14000825",
+
+"region": "North West",
+
+"turnout": "43616",
+
+"electorate": "69965",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.958,
+
+"hpr": 1.55278544549695,
+
+"sal": 7.04837117472854,
+
+"ele": -4.77818,
+
+"con": "18035",
+
+"lab": "17169",
+
+"lib": "5971",
+
+"grn": "598",
+
+"ukp": "1843",
+
+"mpn": "David Morris",
+
+});
+

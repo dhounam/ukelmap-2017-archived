@@ -1,0 +1,16 @@
+resultCB({
+"name": "Argyll and Bute",
+"id": "S14000005",
+"region": "Scotland",
+"turnout": "51883",
+"electorate": "68875",
+"win": "snp",
+"swing": "14.5",
+"status": "gain",
+"con": "7733",
+"lab": "5394",
+"lib": "14486",
+"ukp": "1311",
+"snp": "22959",
+"mpn": "Brendan O'Hara"
+});

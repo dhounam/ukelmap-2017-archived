@@ -1,0 +1,16 @@
+resultCB({
+"name": "Crawley",
+"id": "E14000652",
+"region": "South East",
+"turnout": "48550",
+"electorate": "73940",
+"win": "con",
+"swing": "0.48",
+"status": "hold",
+"con": "22829",
+"lab": "16303",
+"lib": "1339",
+"grn": "1100",
+"ukp": "6979",
+"mpn": "Henry Smith"
+});

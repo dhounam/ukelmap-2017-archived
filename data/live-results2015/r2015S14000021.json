@@ -1,0 +1,16 @@
+resultCB({
+"name": "East Renfrewshire",
+"id": "S14000021",
+"region": "Scotland",
+"turnout": "56730",
+"electorate": "69982",
+"win": "snp",
+"swing": "24.23",
+"status": "gain",
+"con": "12465",
+"lab": "19295",
+"lib": "1069",
+"ukp": "888",
+"snp": "23013",
+"mpn": "Kirsten Oswald"
+});

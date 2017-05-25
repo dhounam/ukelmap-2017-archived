@@ -1,0 +1,16 @@
+resultCB({
+"name": "Tonbridge and Malling",
+"id": "E14000997",
+"region": "South East",
+"turnout": "53670",
+"electorate": "74877",
+"win": "con",
+"swing": "4.99",
+"status": "hold",
+"con": "31887",
+"lab": "7604",
+"lib": "3660",
+"grn": "2366",
+"ukp": "8153",
+"mpn": "Thomas Tugendhat"
+});

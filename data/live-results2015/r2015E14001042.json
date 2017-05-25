@@ -1,0 +1,17 @@
+resultCB({
+"name": "Windsor",
+"id": "E14001042",
+"region": "South East",
+"turnout": "50160",
+"electorate": "74119",
+"win": "con",
+"swing": "0.47",
+"status": "hold",
+"con": "31797",
+"lab": "6714",
+"lib": "4323",
+"grn": "1834",
+"ukp": "4992",
+"ind": "500",
+"mpn": "Adam Afriyie"
+});

@@ -1,0 +1,18 @@
+resultCB({
+"name": "Wrexham",
+"id": "W07000044",
+"region": "Wales",
+"turnout": "32719",
+"electorate": "50992",
+"win": "lab",
+"swing": "2.94",
+"status": "hold",
+"con": "10350",
+"lab": "12181",
+"lib": "1735",
+"grn": "669",
+"ukp": "5072",
+"plc": "2501",
+"ind": "211",
+"mpn": "Ian Lucas"
+});

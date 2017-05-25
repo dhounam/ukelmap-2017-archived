@@ -1,0 +1,16 @@
+resultCB({
+"name": "West Dorset",
+"id": "E14001031",
+"region": "South West",
+"turnout": "56458",
+"electorate": "78427",
+"win": "con",
+"swing": "10.86",
+"status": "hold",
+"con": "28329",
+"lab": "5633",
+"lib": "12199",
+"grn": "3242",
+"ukp": "7055",
+"mpn": "Oliver Letwin"
+});

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Beaconsfield",
+
+"id": "E14000550",
+
+"region": "South East",
+
+"turnout": "52490",
+
+"electorate": "74982",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.45,
+
+"hpr": 24.2883371519207,
+
+"sal": -8.39877545587647,
+
+"ele": 2.284476,
+
+"con": "32053",
+
+"lab": "6135",
+
+"lib": "10271",
+
+"grn": "768",
+
+"ukp": "2597",
+
+"ind": "191",
+
+"oth": "475",
+
+"mpn": "Dominic Grieve",
+
+});
+

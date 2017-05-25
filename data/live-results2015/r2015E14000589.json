@@ -1,0 +1,19 @@
+resultCB({
+"name": "Bradford West",
+"id": "E14000589",
+"region": "Yorkshire",
+"turnout": "40290",
+"electorate": "63371",
+"win": "lab",
+"swing": "6.97",
+"status": "gain",
+"con": "6160",
+"lab": "19977",
+"lib": "1173",
+"grn": "1085",
+"ukp": "3140",
+"ind": "100",
+"res": "8557",
+"oth": "98",
+"mpn": "Naseem Shah"
+});

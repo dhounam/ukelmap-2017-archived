@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Rotherham",
+
+"id": "E14000904",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "21450",
+
+"electorate": "63420",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.499,
+
+"hpr": 5.47622747820952,
+
+"sal": 1.96230814066445,
+
+"ele": 1.375105,
+
+"con": "1157",
+
+"lab": "9966",
+
+"lib": "451",
+
+"ukp": "4648",
+
+"bnp": "1804",
+
+"res": "1778",
+
+"oth": "1646",
+
+"mpn": "Denis MacShane",
+
+});
+

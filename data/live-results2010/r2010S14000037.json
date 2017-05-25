@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Gordon",
+
+"id": "S14000037",
+
+"region": "Scotland",
+
+"turnout": "48775",
+
+"electorate": "73420",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 27.3503993641009,
+
+"sal": 1.81547619047619,
+
+"ele": 7.684968,
+
+"con": "9111",
+
+"lab": "9811",
+
+"lib": "17575",
+
+"grn": "752",
+
+"bnp": "699",
+
+"snp": "10827",
+
+"mpn": "Malcolm Bruce",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Beverley and Holderness",
+"id": "E14000556",
+"region": "Yorkshire",
+"turnout": "52677",
+"electorate": "80822",
+"win": "con",
+"swing": "1.42",
+"status": "hold",
+"con": "25363",
+"lab": "13160",
+"lib": "2900",
+"grn": "1802",
+"ukp": "8794",
+"oth": "658",
+"mpn": "Graham Stuart"
+});

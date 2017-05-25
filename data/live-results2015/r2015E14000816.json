@@ -1,0 +1,16 @@
+resultCB({
+"name": "Mid Norfolk",
+"id": "E14000816",
+"region": "East Anglia",
+"turnout": "52212",
+"electorate": "76975",
+"win": "con",
+"swing": "5.44",
+"status": "hold",
+"con": "27206",
+"lab": "9585",
+"lib": "3300",
+"grn": "2191",
+"ukp": "9930",
+"mpn": "George Freeman"
+});

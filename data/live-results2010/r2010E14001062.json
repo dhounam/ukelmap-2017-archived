@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "York Outer",
+
+"id": "E14001062",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "53300",
+
+"electorate": "74965",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.846,
+
+"hpr": 11.7001252434451,
+
+"sal": 0.569434239529755,
+
+"ele": -0.21258,
+
+"con": "22912",
+
+"lab": "9108",
+
+"lib": "19224",
+
+"ukp": "1100",
+
+"bnp": "956",
+
+"mpn": "Julian Sturdy",
+
+});
+

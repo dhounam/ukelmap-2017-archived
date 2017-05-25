@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Yeovil",
+
+"id": "E14001060",
+
+"region": "South West",
+
+"turnout": "57160",
+
+"electorate": "82314",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 1.842,
+
+"hpr": 9.00726816155502,
+
+"sal": 13.2659507264687,
+
+"ele": -0.73701,
+
+"con": "18807",
+
+"lab": "2991",
+
+"lib": "31843",
+
+"ukp": "2357",
+
+"bnp": "1162",
+
+"mpn": "David Laws",
+
+});
+

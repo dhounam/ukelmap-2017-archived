@@ -1,0 +1,16 @@
+resultCB({
+"name": "South Derbyshire",
+"id": "E14000935",
+"region": "East Midlands",
+"turnout": "50762",
+"electorate": "74395",
+"win": "con",
+"swing": "4.23",
+"status": "hold",
+"con": "25066",
+"lab": "13595",
+"lib": "1887",
+"grn": "1216",
+"ukp": "8998",
+"mpn": "Heather Wheeler"
+});

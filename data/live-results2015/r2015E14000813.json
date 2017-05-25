@@ -1,0 +1,18 @@
+resultCB({
+"name": "Mid Bedfordshire",
+"id": "E14000813",
+"region": "East Anglia",
+"turnout": "58060",
+"electorate": "81144",
+"win": "con",
+"swing": "1.23",
+"status": "hold",
+"con": "32544",
+"lab": "9217",
+"lib": "4193",
+"grn": "2462",
+"ukp": "8966",
+"ind": "384",
+"oth": "294",
+"mpn": "Nadine Dorries"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Leeds, Central",
+
+"id": "E14000777",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "37394",
+
+"electorate": "64698",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 5.469,
+
+"hpr": -1.60740056906317,
+
+"sal": 2.09256960453983,
+
+"ele": -7.78835,
+
+"con": "7541",
+
+"lab": "18434",
+
+"lib": "7789",
+
+"bnp": "3066",
+
+"ind": "409",
+
+"oth": "155",
+
+"mpn": "Hilary Benn",
+
+});
+

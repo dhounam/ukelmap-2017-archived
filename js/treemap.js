@@ -382,6 +382,13 @@ mnv_ukelmap.treemap = (function(){
 
     treeMap.size([treeWidth,treeHeight]);
 
+    // Force vertical stack on treemap for Brexit
+    var tMode = "squarify";
+    if (key === 'brx') {
+      tMode = "dice";
+    }
+    treeMap.mode(tMode)
+
     // Convert to treemap-compatible data object
     if (key === "brx") {
       var remainVal = data.val.toFixed(1);
@@ -441,8 +448,9 @@ mnv_ukelmap.treemap = (function(){
     // })
 
     // Sorting...
-    // Brexit forces "Leave", "Remain"
-    // Others sort by value
+    // Brexit forced "Leave", "Remain". Comm'd out May '17,
+    // to preserve orientation
+    // Others sort by value.
     treeMap.sort(function(a,b) {
       if (key === 'brx') {
         if (a.id < b.id) { return -1 }
@@ -600,7 +608,11 @@ mnv_ukelmap.treemap = (function(){
     // Now slam everything into the elements:
     region.text(data.region);
     //constituency.text(data.constituency_name);
-    constituency.text(model.data.constituencyLookupObj[data.id].name);
+    var cName = model.data.constituencyLookupObj[data.id].name;
+    if (typeof data.byelection !== "undefined") {
+        cName += "*";
+    }
+    constituency.text(cName);
     partyname
       .text(winStr)
       .style("color",winCol)

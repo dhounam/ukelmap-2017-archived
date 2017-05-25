@@ -1,0 +1,17 @@
+resultCB({
+"name": "Tunbridge Wells",
+"id": "E14001004",
+"region": "South East",
+"turnout": "51428",
+"electorate": "73429",
+"win": "con",
+"swing": "0.47",
+"status": "hold",
+"con": "30181",
+"lab": "7307",
+"lib": "4342",
+"grn": "2659",
+"ukp": "6481",
+"ind": "458",
+"mpn": "Greg Clark"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "St. Albans",
+
+"id": "E14000960",
+
+"region": "East Of England",
+
+"turnout": "52835",
+
+"electorate": "70058",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.248,
+
+"hpr": 24.4088705978398,
+
+"sal": -6.4225974435853,
+
+"ele": 2.124979,
+
+"con": "21533",
+
+"lab": "9288",
+
+"lib": "19228",
+
+"grn": "758",
+
+"ukp": "2028",
+
+"mpn": "Anne Main",
+
+});
+

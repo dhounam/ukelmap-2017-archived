@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Beckenham",
+
+"id": "E14000551",
+
+"region": "London",
+
+"turnout": "47686",
+
+"electorate": "66219",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.611,
+
+"hpr": 29.6741219748357,
+
+"sal": 7.85842831433712,
+
+"ele": 0.946554,
+
+"con": "27597",
+
+"lab": "6893",
+
+"lib": "9813",
+
+"grn": "608",
+
+"ukp": "1551",
+
+"bnp": "1001",
+
+"oth": "223",
+
+"mpn": "Bob Stewart",
+
+});
+

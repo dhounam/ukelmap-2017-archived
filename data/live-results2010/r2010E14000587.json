@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Bradford, East",
+
+"id": "E14000587",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "40457",
+
+"electorate": "65116",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 3.19,
+
+"hpr": 4.45103724937329,
+
+"sal": 2.65230004144217,
+
+"ele": 0.382094,
+
+"con": "10860",
+
+"lab": "13272",
+
+"lib": "13637",
+
+"bnp": "1854",
+
+"ind": "375",
+
+"oth": "459",
+
+"mpn": "David Ward",
+
+});
+

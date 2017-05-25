@@ -1,0 +1,18 @@
+resultCB({
+"name": "Berwickshire, Roxburgh and Selkirk",
+"id": "S14000008",
+"region": "Scotland",
+"turnout": "55038",
+"electorate": "74179",
+"win": "snp",
+"swing": "27.04",
+"status": "gain",
+"con": "19817",
+"lab": "2700",
+"lib": "10294",
+"grn": "631",
+"ukp": "1316",
+"snp": "20145",
+"ind": "135",
+"mpn": "Calum Kerr"
+});

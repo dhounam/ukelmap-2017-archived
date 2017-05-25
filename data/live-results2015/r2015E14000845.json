@@ -1,0 +1,16 @@
+resultCB({
+"name": "North East Hertfordshire",
+"id": "E14000845",
+"region": "East Anglia",
+"turnout": "52287",
+"electorate": "73944",
+"win": "con",
+"swing": "0.3",
+"status": "hold",
+"con": "28949",
+"lab": "9869",
+"lib": "3952",
+"grn": "2789",
+"ukp": "6728",
+"mpn": "Sir Oliver Heald"
+});

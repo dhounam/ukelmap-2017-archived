@@ -1,0 +1,18 @@
+resultCB({
+"name": "Fylde",
+"id": "E14000706",
+"region": "North West",
+"turnout": "43557",
+"electorate": "65679",
+"win": "con",
+"swing": "1.07",
+"status": "hold",
+"con": "21406",
+"lab": "8182",
+"lib": "1623",
+"grn": "1381",
+"ukp": "5569",
+"ind": "5166",
+"oth": "230",
+"mpn": "Mark Menzies"
+});

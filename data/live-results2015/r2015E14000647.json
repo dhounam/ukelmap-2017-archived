@@ -1,0 +1,16 @@
+resultCB({
+"name": "Copeland",
+"id": "E14000647",
+"region": "North West",
+"turnout": "39631",
+"electorate": "62119",
+"win": "lab",
+"swing": "1.24",
+"status": "hold",
+"con": "14186",
+"lab": "16750",
+"lib": "1368",
+"grn": "1179",
+"ukp": "6148",
+"mpn": "Jamie Reed"
+});

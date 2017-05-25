@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Sutton Coldfield",
+
+"id": "E14000985",
+
+"region": "West Midlands",
+
+"turnout": "50589",
+
+"electorate": "74489",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.335,
+
+"hpr": 9.39534261189013,
+
+"sal": 2.15457600316267,
+
+"ele": 0.619683,
+
+"con": "27303",
+
+"lab": "10298",
+
+"lib": "9117",
+
+"grn": "535",
+
+"ukp": "1587",
+
+"bnp": "1749",
+
+"mpn": "Andrew Mitchell",
+
+});
+

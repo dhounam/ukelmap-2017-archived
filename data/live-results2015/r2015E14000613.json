@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bury St Edmunds",
+"id": "E14000613",
+"region": "East Anglia",
+"turnout": "59341",
+"electorate": "85993",
+"win": "con",
+"swing": "2.52",
+"status": "hold",
+"con": "31815",
+"lab": "10514",
+"lib": "3581",
+"grn": "4692",
+"ukp": "8739",
+"mpn": "Jo Churchill"
+});

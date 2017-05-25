@@ -1,0 +1,16 @@
+resultCB({
+"name": "Basingstoke",
+"id": "E14000545",
+"region": "South East",
+"turnout": "53076",
+"electorate": "79662",
+"win": "con",
+"swing": "4.64",
+"status": "hold",
+"con": "25769",
+"lab": "14706",
+"lib": "3919",
+"ukp": "8290",
+"ind": "392",
+"mpn": "Maria Miller"
+});

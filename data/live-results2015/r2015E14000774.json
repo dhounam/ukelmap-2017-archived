@@ -1,0 +1,18 @@
+resultCB({
+"name": "Kingswood",
+"id": "E14000774",
+"region": "South West",
+"turnout": "48125",
+"electorate": "67992",
+"win": "con",
+"swing": "6.81",
+"status": "hold",
+"con": "23252",
+"lab": "14246",
+"lib": "1827",
+"grn": "1370",
+"ukp": "7133",
+"bnp": "164",
+"oth": "133",
+"mpn": "Chris Skidmore"
+});

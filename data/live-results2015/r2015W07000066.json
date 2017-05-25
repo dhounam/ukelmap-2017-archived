@@ -1,0 +1,17 @@
+resultCB({
+"name": "Carmarthen West and South Pembrokeshire",
+"id": "W07000066",
+"region": "Wales",
+"turnout": "40350",
+"electorate": "57755",
+"win": "con",
+"swing": "3.28",
+"status": "hold",
+"con": "17626",
+"lab": "11572",
+"lib": "963",
+"grn": "1290",
+"ukp": "4698",
+"plc": "4201",
+"mpn": "Simon Hart"
+});

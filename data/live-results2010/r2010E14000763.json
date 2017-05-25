@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Islington, North",
+
+"id": "E14000763",
+
+"region": "London",
+
+"turnout": "44554",
+
+"electorate": "68120",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 6.262,
+
+"hpr": 60.6001032004842,
+
+"sal": -15.0226668750977,
+
+"ele": 3.756469,
+
+"con": "6339",
+
+"lab": "24276",
+
+"lib": "11875",
+
+"grn": "1348",
+
+"ukp": "716",
+
+"mpn": "Jeremy Corbyn",
+
+});
+

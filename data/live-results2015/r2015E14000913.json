@@ -1,0 +1,17 @@
+resultCB({
+"name": "Scarborough and Whitby",
+"id": "E14000913",
+"region": "Yorkshire",
+"turnout": "47739",
+"electorate": "73511",
+"win": "con",
+"swing": "1.75",
+"status": "hold",
+"con": "20613",
+"lab": "14413",
+"lib": "2159",
+"grn": "2185",
+"ukp": "8162",
+"oth": "207",
+"mpn": "Robert Goodwill"
+});

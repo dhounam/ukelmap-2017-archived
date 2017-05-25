@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Warrington, South",
+
+"id": "E14001018",
+
+"region": "North West",
+
+"turnout": "54874",
+
+"electorate": "80506",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.236,
+
+"hpr": 6.171861295002,
+
+"sal": -16.2284239393451,
+
+"ele": 5.537905,
+
+"con": "19641",
+
+"lab": "18088",
+
+"lib": "15094",
+
+"grn": "427",
+
+"ukp": "1624",
+
+"mpn": "David Mowat",
+
+});
+

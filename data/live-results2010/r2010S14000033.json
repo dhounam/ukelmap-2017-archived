@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Glasgow, North West",
+
+"id": "S14000033",
+
+"region": "Scotland",
+
+"turnout": "35582",
+
+"electorate": "60968",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 3.13473513981548,
+
+"sal": 25.0053339022829,
+
+"ele": 10.87241,
+
+"con": "3537",
+
+"lab": "19233",
+
+"lib": "5622",
+
+"grn": "882",
+
+"bnp": "699",
+
+"snp": "5430",
+
+"oth": "179",
+
+"mpn": "John Robertson",
+
+});
+

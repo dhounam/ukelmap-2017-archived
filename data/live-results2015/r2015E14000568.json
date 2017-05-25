@@ -1,0 +1,18 @@
+resultCB({
+"name": "Birmingham Yardley",
+"id": "E14000568",
+"region": "West Midlands",
+"turnout": "41151",
+"electorate": "72146",
+"win": "lab",
+"swing": "11.69",
+"status": "gain",
+"con": "5760",
+"lab": "17129",
+"lib": "10534",
+"grn": "698",
+"ukp": "6637",
+"res": "187",
+"oth": "206",
+"mpn": "Jess Phillips"
+});

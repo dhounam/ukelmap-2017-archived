@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Dudley, South",
+
+"id": "E14000672",
+
+"region": "West Midlands",
+
+"turnout": "38165",
+
+"electorate": "60572",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.694,
+
+"hpr": 7.74520374292528,
+
+"sal": 2.62744217381541,
+
+"ele": -1.14967,
+
+"con": "16450",
+
+"lab": "12594",
+
+"lib": "5989",
+
+"ukp": "3132",
+
+"mpn": "Chris Kelly",
+
+});
+

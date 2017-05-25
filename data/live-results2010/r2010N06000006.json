@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Londonderry, East",
+
+"id": "N06000006",
+
+"region": "Northern Ireland",
+
+"turnout": "34950",
+
+"electorate": "63220",
+
+"win": "dup",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 6.15141,
+
+"snf": "6742",
+
+"sdl": "5399",
+
+"dup": "12097",
+
+"uup": "6218",
+
+"oth": "4494",
+
+"mpn": "Gregory Campbell",
+
+});
+

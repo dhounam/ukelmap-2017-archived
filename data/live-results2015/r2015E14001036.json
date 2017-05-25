@@ -1,0 +1,18 @@
+resultCB({
+"name": "Westminster North",
+"id": "E14001036",
+"region": "London",
+"turnout": "39514",
+"electorate": "62346",
+"win": "lab",
+"swing": "0.18",
+"status": "hold",
+"con": "16527",
+"lab": "18504",
+"lib": "1457",
+"grn": "1322",
+"ukp": "1489",
+"ind": "63",
+"oth": "152",
+"mpn": "Karen Buck"
+});

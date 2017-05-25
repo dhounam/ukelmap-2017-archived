@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Brigg & Goole",
+
+"id": "E14000596",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "43874",
+
+"electorate": "67345",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.391,
+
+"hpr": 2.94989884405045,
+
+"sal": 18.3329588856437,
+
+"ele": -2.60547,
+
+"con": "19680",
+
+"lab": "14533",
+
+"lib": "6414",
+
+"ukp": "1749",
+
+"bnp": "1498",
+
+"mpn": "Andrew Percy",
+
+});
+

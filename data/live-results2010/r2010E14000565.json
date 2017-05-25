@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Birmingham Northfield",
+
+"id": "E14000565",
+
+"region": "West Midlands",
+
+"turnout": "41814",
+
+"electorate": "71338",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.962,
+
+"hpr": 15.8086602853208,
+
+"sal": -12.125,
+
+"ele": -0.08766,
+
+"con": "14059",
+
+"lab": "16841",
+
+"lib": "6550",
+
+"grn": "406",
+
+"ukp": "1363",
+
+"bnp": "2290",
+
+"oth": "305",
+
+"mpn": "Richard Burden",
+
+});
+

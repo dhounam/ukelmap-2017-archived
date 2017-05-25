@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Orpington",
+
+"id": "E14000872",
+
+"region": "London",
+
+"turnout": "48911",
+
+"electorate": "67732",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.877,
+
+"hpr": 33.33482419773,
+
+"sal": -11.7008259406546,
+
+"ele": -0.20955,
+
+"con": "29200",
+
+"lab": "4400",
+
+"lib": "12000",
+
+"grn": "511",
+
+"ukp": "1360",
+
+"bnp": "1241",
+
+"oth": "199",
+
+"mpn": "Joseph Johnson",
+
+});
+

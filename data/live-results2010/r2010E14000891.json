@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Redcar",
+
+"id": "E14000891",
+
+"region": "North East",
+
+"turnout": "41963",
+
+"electorate": "67125",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": -0.524,
+
+"hpr": 9.47957002760546,
+
+"sal": -1.94844733103308,
+
+"ele": -5.39574,
+
+"con": "5790",
+
+"lab": "13741",
+
+"lib": "18955",
+
+"ukp": "1875",
+
+"bnp": "1475",
+
+"oth": "127",
+
+"mpn": "Ian Swales",
+
+});
+

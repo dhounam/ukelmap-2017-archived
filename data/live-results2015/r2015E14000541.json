@@ -1,0 +1,17 @@
+resultCB({
+"name": "Barnsley Central",
+"id": "E14000541",
+"region": "Yorkshire",
+"turnout": "36560",
+"electorate": "64534",
+"win": "lab",
+"swing": "4.29",
+"status": "hold",
+"con": "5485",
+"lab": "20376",
+"lib": "770",
+"grn": "938",
+"ukp": "7941",
+"oth": "1050",
+"mpn": "Dan Jarvis"
+});

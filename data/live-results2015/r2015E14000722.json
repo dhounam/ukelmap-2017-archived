@@ -1,0 +1,16 @@
+resultCB({
+"name": "Halesowen and Rowley Regis",
+"id": "E14000722",
+"region": "West Midlands",
+"turnout": "43818",
+"electorate": "74203",
+"win": "con",
+"swing": "1.22",
+"status": "hold",
+"con": "18933",
+"lab": "15851",
+"lib": "905",
+"grn": "849",
+"ukp": "7280",
+"mpn": "James Morris"
+});

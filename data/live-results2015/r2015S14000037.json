@@ -1,0 +1,16 @@
+resultCB({
+"name": "Gordon",
+"id": "S14000037",
+"region": "Scotland",
+"turnout": "58161",
+"electorate": "79393",
+"win": "snp",
+"swing": "14.39",
+"status": "gain",
+"con": "6807",
+"lab": "3441",
+"lib": "19030",
+"ukp": "1166",
+"snp": "27717",
+"mpn": "Alex Salmond"
+});

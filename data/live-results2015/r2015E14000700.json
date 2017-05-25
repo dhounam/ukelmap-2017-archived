@@ -1,0 +1,17 @@
+resultCB({
+"name": "Faversham and Mid Kent",
+"id": "E14000700",
+"region": "South East",
+"turnout": "45803",
+"electorate": "69523",
+"win": "con",
+"swing": "8.08",
+"status": "hold",
+"con": "24895",
+"lab": "7403",
+"lib": "3039",
+"grn": "1768",
+"ukp": "8243",
+"oth": "455",
+"mpn": "Helen Whately"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Stockport",
+
+"id": "E14000969",
+
+"region": "North West",
+
+"turnout": "39128",
+
+"electorate": "63525",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.374,
+
+"hpr": 11.155094079652,
+
+"sal": 6.44122383252817,
+
+"ele": 1.108817,
+
+"con": "9913",
+
+"lab": "16697",
+
+"lib": "9778",
+
+"grn": "677",
+
+"ukp": "862",
+
+"bnp": "1201",
+
+"mpn": "Ann Coffey",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Hazel Grove",
+"id": "E14000738",
+"region": "North West",
+"turnout": "43219",
+"electorate": "63098",
+"win": "con",
+"swing": "15.17",
+"status": "gain",
+"con": "17882",
+"lab": "7584",
+"lib": "11330",
+"grn": "1140",
+"ukp": "5283",
+"mpn": "William Wragg"
+});

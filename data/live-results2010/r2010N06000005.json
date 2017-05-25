@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Antrim, East",
+
+"id": "N06000005",
+
+"region": "Northern Ireland",
+
+"turnout": "30502",
+
+"electorate": "60204",
+
+"win": "dup",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 4.687031,
+
+"snf": "2064",
+
+"sdl": "2019",
+
+"dup": "13993",
+
+"uup": "7223",
+
+"oth": "5203",
+
+"mpn": "Sammy Wilson",
+
+});
+

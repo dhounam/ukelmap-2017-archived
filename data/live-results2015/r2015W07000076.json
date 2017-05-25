@@ -1,0 +1,18 @@
+resultCB({
+"name": "Caerphilly",
+"id": "W07000076",
+"region": "Wales",
+"turnout": "40283",
+"electorate": "62793",
+"win": "lab",
+"swing": "8.61",
+"status": "hold",
+"con": "6683",
+"lab": "17864",
+"lib": "935",
+"grn": "937",
+"ukp": "7791",
+"plc": "5895",
+"oth": "178",
+"mpn": "Wayne David"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Ilford North",
+"id": "E14000759",
+"region": "London",
+"turnout": "48932",
+"electorate": "78162",
+"win": "lab",
+"swing": "6.35",
+"status": "gain",
+"con": "20874",
+"lab": "21463",
+"lib": "1130",
+"grn": "1023",
+"ukp": "4355",
+"ind": "87",
+"mpn": "Wes Streeting"
+});

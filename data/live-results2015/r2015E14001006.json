@@ -1,0 +1,16 @@
+resultCB({
+"name": "Tynemouth",
+"id": "E14001006",
+"region": "North East",
+"turnout": "53495",
+"electorate": "77523",
+"win": "lab",
+"swing": "2.25",
+"status": "hold",
+"con": "17551",
+"lab": "25791",
+"lib": "1595",
+"grn": "2017",
+"ukp": "6541",
+"mpn": "Alan Campbell"
+});

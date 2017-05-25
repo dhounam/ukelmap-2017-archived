@@ -1,0 +1,17 @@
+resultCB({
+"name": "Gosport",
+"id": "E14000713",
+"region": "South East",
+"turnout": "47665",
+"electorate": "73271",
+"win": "con",
+"swing": "6.36",
+"status": "hold",
+"con": "26364",
+"lab": "6926",
+"lib": "3298",
+"grn": "1707",
+"ukp": "9266",
+"oth": "104",
+"mpn": "Caroline Dinenage"
+});

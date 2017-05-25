@@ -1,0 +1,15 @@
+resultCB({
+"name": "Leicestershire South",
+"id": "E14000940",
+"region": "East Midlands",
+"turnout": "53926",
+"electorate": "76877",
+"win": "con",
+"swing": "1.3",
+"status": "hold",
+"con": "28700",
+"lab": "11876",
+"lib": "3987",
+"ukp": "9363",
+"mpn": "Alberto Costa"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Gloucester",
+"id": "E14000712",
+"region": "South West",
+"turnout": "52575",
+"electorate": "82949",
+"win": "con",
+"swing": "4.51",
+"status": "hold",
+"con": "23837",
+"lab": "16586",
+"lib": "2828",
+"grn": "1485",
+"ukp": "7497",
+"oth": "342",
+"mpn": "Richard Graham"
+});

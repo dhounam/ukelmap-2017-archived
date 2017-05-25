@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Chester, City of",
+
+"id": "E14000640",
+
+"region": "North West",
+
+"turnout": "46790",
+
+"electorate": "68874",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.825,
+
+"hpr": 7.37753966785397,
+
+"sal": 10.5557776889244,
+
+"ele": 2.371587,
+
+"con": "18995",
+
+"lab": "16412",
+
+"lib": "8930",
+
+"grn": "535",
+
+"ukp": "1225",
+
+"ind": "99",
+
+"oth": "594",
+
+"mpn": "Stephen Mosley",
+
+});
+

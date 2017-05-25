@@ -1,0 +1,17 @@
+resultCB({
+"name": "Montgomeryshire",
+"id": "W07000063",
+"region": "Wales",
+"turnout": "33757",
+"electorate": "48491",
+"win": "con",
+"swing": "6.14",
+"status": "hold",
+"con": "15204",
+"lab": "1900",
+"lib": "9879",
+"grn": "1260",
+"ukp": "3769",
+"plc": "1745",
+"mpn": "Glyn Davies"
+});

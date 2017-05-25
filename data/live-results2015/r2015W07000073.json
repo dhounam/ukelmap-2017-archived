@@ -1,0 +1,19 @@
+resultCB({
+"name": "Bridgend",
+"id": "W07000073",
+"region": "Wales",
+"turnout": "39473",
+"electorate": "59998",
+"win": "lab",
+"swing": "0.48",
+"status": "hold",
+"con": "12697",
+"lab": "14644",
+"lib": "1648",
+"grn": "736",
+"ukp": "5911",
+"plc": "2784",
+"ind": "763",
+"oth": "290",
+"mpn": "Madeleine Moon"
+});

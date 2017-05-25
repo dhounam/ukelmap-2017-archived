@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Midlothian",
+
+"id": "S14000045",
+
+"region": "Scotland",
+
+"turnout": "39242",
+
+"electorate": "61387",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 5.79968713083944,
+
+"sal": -0.724637681159408,
+
+"ele": 9.436879,
+
+"con": "4661",
+
+"lab": "18449",
+
+"lib": "6711",
+
+"grn": "595",
+
+"ukp": "364",
+
+"snp": "8100",
+
+"ind": "196",
+
+"oth": "166",
+
+"mpn": "David Hamilton",
+
+});
+

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Chesham & Amersham",
+
+"id": "E14000631",
+
+"region": "South East",
+
+"turnout": "52444",
+
+"electorate": "70333",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.361,
+
+"hpr": 20.3235866952106,
+
+"sal": 10.2512223908278,
+
+"ele": 3.156196,
+
+"con": "31658",
+
+"lab": "2942",
+
+"lib": "14948",
+
+"grn": "767",
+
+"ukp": "2129",
+
+"mpn": "Cheryl Gillan",
+
+});
+

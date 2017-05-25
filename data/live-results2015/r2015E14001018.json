@@ -1,0 +1,17 @@
+resultCB({
+"name": "Warrington South",
+"id": "E14001018",
+"region": "North West",
+"turnout": "59353",
+"electorate": "85566",
+"win": "con",
+"swing": "0.9",
+"status": "hold",
+"con": "25928",
+"lab": "23178",
+"lib": "3335",
+"grn": "1765",
+"ukp": "4909",
+"oth": "238",
+"mpn": "David Mowat"
+});

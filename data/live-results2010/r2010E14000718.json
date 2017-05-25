@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Greenwich & Woolwich",
+
+"id": "E14000718",
+
+"region": "London",
+
+"turnout": "41188",
+
+"electorate": "65489",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 7.095,
+
+"hpr": 27.8798508843662,
+
+"sal": -4.42229834942387,
+
+"ele": 9.80143,
+
+"con": "10109",
+
+"lab": "20262",
+
+"lib": "7498",
+
+"grn": "1054",
+
+"bnp": "1151",
+
+"ind": "65",
+
+"oth": "1049",
+
+"mpn": "Nick Raynsford",
+
+});
+

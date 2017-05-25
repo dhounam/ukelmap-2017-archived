@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Sheffield Brightside & Hillsborough",
+
+"id": "E14000921",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "38914",
+
+"electorate": "68186",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.511,
+
+"hpr": 4.43186039297277,
+
+"sal": -3.38212025316457,
+
+"ele": 1.184961,
+
+"con": "4468",
+
+"lab": "21400",
+
+"lib": "7768",
+
+"ukp": "1596",
+
+"bnp": "3026",
+
+"oth": "656",
+
+"mpn": "David Blunkett",
+
+});
+

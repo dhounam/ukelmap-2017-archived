@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Stockton, North",
+
+"id": "E14000970",
+
+"region": "North East",
+
+"turnout": "39498",
+
+"electorate": "67363",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.319,
+
+"hpr": 7.94156233574942,
+
+"sal": 6.86066679514359,
+
+"ele": -3.14226,
+
+"con": "10247",
+
+"lab": "16923",
+
+"lib": "6342",
+
+"ukp": "1556",
+
+"bnp": "1724",
+
+"ind": "1577",
+
+"oth": "1129",
+
+"mpn": "Alex Cunningham",
+
+});
+

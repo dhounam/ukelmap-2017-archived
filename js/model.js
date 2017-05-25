@@ -3,9 +3,16 @@ var mnv_ukelmap = mnv_ukelmap || {};
 
 // CONTROLLER
 mnv_ukelmap.model = (function(){
-  var my, windoeThreshold, flags;
-
+  var my;
   my = {};
+
+  // GO-LIVE TIME: 10pm on 8 June 2017 as ms
+  // Note that months are from zero (so 5 for June)
+  // And, since June is BST, subtract 1 from hour (i.e. 21 for 10pm)
+  // my.goliveTime = new Date(Date.UTC(2017, 5, 8, 21, 0, 0));
+  // But for TESTING (4 = May; hour must be T-1)
+  // NOTE: strict mode won't allow leading zeroes in numbers
+  my.goliveTime = Date.UTC(2017, 4, 24, 15, 11, 0);
 
   // WINDOW THRESHOLD
   //    threshold is value in px below which we draw 'small'
@@ -34,13 +41,6 @@ mnv_ukelmap.model = (function(){
     latestupdate: undefined,
     updatecounter: 0
   };
-
-  // GO-LIVE TIME: 10pm on 8 June 2017 as ms
-  // Note that months are from zero (so 5 for June)
-  // And, since June is BST, subtract 1 from hour (i.e. 21 for 10pm)
-  my.goliveTime = new Date(Date.UTC(2017, 5, 8, 21, 0, 0));
-  // But for TESTING (4 = May; hour must be T-1)
-  // my.goliveTime = Date.UTC(2017, 4, 9, 13, 45, 0);
 
   // COLOURS
   my.colours = {
@@ -79,9 +79,9 @@ mnv_ukelmap.model = (function(){
         {id:'sdl'},
         {id:'ukp'},
         {id:'grn'},
-        {id:'res'},
+        // {id:'res'},
         {id:'uup'},
-        {id:'bnp'},
+        // {id:'bnp'},
         {id:'oth'}
       ],
       smallranges: null,
@@ -104,9 +104,9 @@ mnv_ukelmap.model = (function(){
         {id:'sdl'},
         {id:'ukp'},
         {id:'grn'},
-        {id:'res'},
+        // {id:'res'},
         {id:'uup'},
-        {id:'bnp'},
+        // {id:'bnp'},
         {id:'oth'}
       ],
       smallranges: null,
@@ -129,9 +129,9 @@ mnv_ukelmap.model = (function(){
         {id:'sdl'},
         {id:'ukp'},
         {id:'grn'},
-        {id:'res'},
+        // {id:'res'},
         {id:'uup'},
-        {id:'bnp'},
+        // {id:'bnp'},
         {id:'oth'}
       ],
       smallranges: null,
@@ -162,22 +162,35 @@ mnv_ukelmap.model = (function(){
   // SOURCE FOLDERS
   // Just locations; actual map and data files will be defined by topic
   my.sourcefiles = {
+    // Relative paths to data folder...
+    // Constituency path files:
+    literalpaths: "data/ukliteralpaths.json",
+    constituencylookupdata: "data/constituencylookup.json",
+    // Collated files:
+    results2010: "data/seatsAndWinners2010.json",
+    results2015: "data/seatsAndWinners2015.json",
+    results2017: "data/seatsAndWinners2017.json",
+    // Brexit:
+    resultsBrexit: "data/brexit.json",
     // LITERAL PATHS are in my versioned folder
-    literalpaths: "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_map/test/" + version + "/ukliteralpaths.json",
+    // literalpaths: "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_map/test/" + version + "/ukliteralpaths.json",
     // CONSTITUENCY LOOKUPS of HEX LOCATIONS are in my versioned folder
-    constituencylookupdata: "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_map/test/" + version + "/constituencylookup.json",
+    // constituencylookupdata: "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_map/test/" + version + "/constituencylookup.json",
     // ALEX'S LIVE FOLDERS
     // GLOBAL -- timestame, seats, and winners --
-    results2010:        "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_livemap_2015_night/rBasic2010.json",
-    results2015:        "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_livemap_2015_night/finalBasic2015.json",
-    // ALL SINGLE CONSTITUENCY RESULTS -- 2010 AND 2015
-    singleconstitfolder: "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_livemap_2015_night/consFinalResults/",
+    // results2010:        "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_livemap_2015_night/rBasic2010.json",
+    // results2015:        "http://cdn.static-economist.com/sites/default/files/external/minerva_assets/ukel_livemap_2015_night/finalBasic2015.json",
+    // Single-constituency results start with a partial path, shared for all years
+    // Year-specific elements are added inferentially in datafilter.findConstituencyData
+    // (NOTE: doesn't end with '/', since year has to be added to folder name)
+    singleconstitfolder: "data/live-results",
     // NOTE: temporarily, for 2017:
-    results2017: "files-from-cdn/seatsAndWinners2017.json",
-    constitfolder2017: "files-from-cdn/live-results/",
+    // results2017: "files-from-cdn/seatsAndWinners2017.json",
+    // constitfolder2010: "data/live-results2010/",
+    // constitfolder2015: "data/live-results2015/",
+    // constitfolder2017: "data/live-results2017/",
     // These should eventually be replaced by a 'winners' file on CDN. And 2017 single constit files should go in the singleconstitfolder...
     // BREXIT data are local...
-    resultsBrexit: "files-from-cdn/brexit.json"
   };
 
   // STRINGS
@@ -239,7 +252,7 @@ mnv_ukelmap.model = (function(){
       id: "ten"
     },
     2: {
-      label: "Brexit",
+      label: "EU referendum",
       children: {},
       id: "brx"
     }
@@ -261,7 +274,7 @@ mnv_ukelmap.model = (function(){
       id: "ten"
     },
     3: {
-      label: "Brexit",
+      label: "EU referendum",
       children: {},
       id: "brx"
     }
@@ -277,7 +290,7 @@ mnv_ukelmap.model = (function(){
     snf:5,
     plc:3,
     sdl:3,
-    ukp:2,
+    ukp:0,
     grn:1,
     res:1,
     bnp:0,
@@ -289,19 +302,19 @@ mnv_ukelmap.model = (function(){
   my.results2015 = {
     con:331,
     lab:232,
-    lib:8,
-    grn:1,
-    ukp:1,
-    bnp:0,
     snp:56,
-    plc:3,
-    ind:0,
-    res:0,
+    lib:8,
+    dup:8,
     snf:4,
     sdl:3,
-    dup:8,
+    plc:3,
     uup:2,
+    ukp:1,
+    grn:1,
     oth:1,
+    // bnp:0,
+    ind:1,
+    // res:0,
     total: 650
 };
 // Overall national 'Remain' vote in the referendum:
@@ -374,36 +387,36 @@ my.resultsBrexit = {
       heatcolour: "#5eb130",
       currentseats:3
     },
-    res: {
-      id:"res",
-      longname:"Respect",
-      midname:"Respect",
-      shortname:"Respect",
-      keyname:"Respect",
-      colour:"#aca580",
-      heatcolour: "#aca580",
-      currentseats:1
-    },
+    // res: {
+    //   id:"res",
+    //   longname:"Respect",
+    //   midname:"Respect",
+    //   shortname:"Respect",
+    //   keyname:"Respect",
+    //   colour:"#aca580",
+    //   heatcolour: "#aca580",
+    //   currentseats:1
+    // },
     snp: {
       id:"snp",
       longname:"Scottish National Party",
       midname:"SNP",
       shortname:"SNP",
       keyname:"SNP",
-      colour:"#fbca2c",
+      colour:"#fddd03",
       heatcolour: "#fbca2c",
       currentseats:6
     },
-    bnp: {
-      id:"bnp",
-      longname:"British National Party",
-      midname:"BNP",
-      shortname:"BNP",
-      keyname:"BNP",
-      colour:"#8fbcee",
-      heatcolour: "#af781e",
-      currentseats:0
-    },
+    // bnp: {
+    //   id:"bnp",
+    //   longname:"British National Party",
+    //   midname:"BNP",
+    //   shortname:"BNP",
+    //   keyname:"BNP",
+    //   colour:"#8fbcee",
+    //   heatcolour: "#af781e",
+    //   currentseats:0
+    // },
     ind: {
       id:"ind",
       longname:"Independent",

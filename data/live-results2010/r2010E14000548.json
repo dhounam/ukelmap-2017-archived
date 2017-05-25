@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Batley & Spen",
+
+"id": "E14000548",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "51109",
+
+"electorate": "76732",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.471,
+
+"hpr": -0.29068678654987,
+
+"sal": 12.897324491196,
+
+"ele": 0.097887,
+
+"con": "17159",
+
+"lab": "21565",
+
+"lib": "8095",
+
+"grn": "605",
+
+"bnp": "3685",
+
+"mpn": "Mike Wood",
+
+});
+

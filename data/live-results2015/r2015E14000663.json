@@ -1,0 +1,17 @@
+resultCB({
+"name": "Derby South",
+"id": "E14000663",
+"region": "East Midlands",
+"turnout": "40820",
+"electorate": "70247",
+"win": "lab",
+"swing": "3.38",
+"status": "hold",
+"con": "11179",
+"lab": "20007",
+"lib": "1717",
+"grn": "1208",
+"ukp": "6341",
+"oth": "368",
+"mpn": "Margaret Beckett"
+});

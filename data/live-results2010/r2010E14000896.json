@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Richmond Park",
+
+"id": "E14000896",
+
+"region": "London",
+
+"turnout": "59268",
+
+"electorate": "77060",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.844,
+
+"hpr": 40.5473226995129,
+
+"sal": -7.08054667054375,
+
+"ele": -1.90476,
+
+"con": "29461",
+
+"lab": "2979",
+
+"lib": "25370",
+
+"grn": "572",
+
+"ukp": "669",
+
+"ind": "84",
+
+"oth": "133",
+
+"mpn": "Zac Goldsmith",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Wyre Forest",
+"id": "E14001058",
+"region": "West Midlands",
+"turnout": "49440",
+"electorate": "77451",
+"win": "con",
+"swing": "1.72",
+"status": "hold",
+"con": "22394",
+"lab": "9523",
+"lib": "1228",
+"grn": "1117",
+"ukp": "7967",
+"oth": "7211",
+"mpn": "Mark Garnier"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Selby and Ainsty",
+"id": "E14000917",
+"region": "Yorkshire And The Humber",
+"turnout": "52804",
+"electorate": "76082",
+"win": "con",
+"swing": "0.98",
+"status": "hold",
+"con": "27725",
+"lab": "14168",
+"lib": "1920",
+"grn": "1465",
+"ukp": "7389",
+"oth": "137",
+"mpn": "Nigel Adams"
+});

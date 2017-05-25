@@ -1,0 +1,16 @@
+resultCB({
+"name": "Warley",
+"id": "E14001016",
+"region": "West Midlands",
+"turnout": "37829",
+"electorate": "63740",
+"win": "lab",
+"swing": "5.38",
+"status": "hold",
+"con": "7310",
+"lab": "22012",
+"lib": "805",
+"grn": "1465",
+"ukp": "6237",
+"mpn": "John Spellar"
+});

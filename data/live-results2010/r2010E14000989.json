@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Telford",
+
+"id": "E14000989",
+
+"region": "West Midlands",
+
+"turnout": "41310",
+
+"electorate": "65061",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.47,
+
+"hpr": 6.2759298503464,
+
+"sal": 5.05194540639641,
+
+"ele": -0.11321,
+
+"con": "14996",
+
+"lab": "15974",
+
+"lib": "6399",
+
+"ukp": "2428",
+
+"bnp": "1513",
+
+"mpn": "David Wright",
+
+});
+

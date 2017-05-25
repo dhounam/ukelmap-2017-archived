@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Cardiff, North",
+
+"id": "W07000051",
+
+"region": "Wales",
+
+"turnout": "47630",
+
+"electorate": "65553",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.493,
+
+"hpr": 13.9229576652276,
+
+"sal": 8.33170731707318,
+
+"ele": 0.320027,
+
+"con": "17860",
+
+"lab": "17666",
+
+"lib": "8724",
+
+"grn": "362",
+
+"ukp": "1130",
+
+"plc": "1588",
+
+"oth": "300",
+
+"mpn": "Jonathan Evans",
+
+});
+

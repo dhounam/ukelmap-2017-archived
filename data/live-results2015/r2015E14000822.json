@@ -1,0 +1,17 @@
+resultCB({
+"name": "Milton Keynes South",
+"id": "E14000822",
+"region": "South East",
+"turnout": "59019",
+"electorate": "87968",
+"win": "con",
+"swing": "2.71",
+"status": "hold",
+"con": "27671",
+"lab": "18929",
+"lib": "2309",
+"grn": "1936",
+"ukp": "7803",
+"ind": "371",
+"mpn": "Iain Stewart"
+});

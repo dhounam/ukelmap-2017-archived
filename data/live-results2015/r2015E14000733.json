@@ -1,0 +1,18 @@
+resultCB({
+"name": "Hartlepool",
+"id": "E14000733",
+"region": "North East",
+"turnout": "39490",
+"electorate": "69516",
+"win": "lab",
+"swing": "13.93",
+"status": "hold",
+"con": "8256",
+"lab": "14076",
+"lib": "761",
+"grn": "1341",
+"ukp": "11052",
+"ind": "3155",
+"oth": "849",
+"mpn": "Iain Wright"
+});

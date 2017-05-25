@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Leyton & Wanstead",
+
+"id": "E14000790",
+
+"region": "London",
+
+"turnout": "40159",
+
+"electorate": "63541",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 3.94,
+
+"hpr": 42.2998385831689,
+
+"sal": -4.42859512356939,
+
+"ele": -1.55712,
+
+"con": "8928",
+
+"lab": "17511",
+
+"lib": "11095",
+
+"grn": "562",
+
+"ukp": "1080",
+
+"bnp": "561",
+
+"oth": "422",
+
+"mpn": "John Cryer",
+
+});
+

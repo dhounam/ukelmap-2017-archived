@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Hastings & Rye",
+
+"id": "E14000735",
+
+"region": "South East",
+
+"turnout": "49814",
+
+"electorate": "78000",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.398,
+
+"hpr": 10.6027409821416,
+
+"sal": 7.63152422541069,
+
+"ele": -5.53348,
+
+"con": "20468",
+
+"lab": "18475",
+
+"lib": "7825",
+
+"ukp": "1397",
+
+"bnp": "1310",
+
+"oth": "339",
+
+"mpn": "Amber Rudd",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Welwyn Hatfield",
+
+"id": "E14001027",
+
+"region": "East Of England",
+
+"turnout": "48972",
+
+"electorate": "72058",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.201,
+
+"hpr": 17.506387418328,
+
+"sal": -0.898528272656847,
+
+"ele": -0.82949,
+
+"con": "27894",
+
+"lab": "10471",
+
+"lib": "8010",
+
+"grn": "796",
+
+"ukp": "1643",
+
+"ind": "158",
+
+"mpn": "Grant Shapps",
+
+});
+

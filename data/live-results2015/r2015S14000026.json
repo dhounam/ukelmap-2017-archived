@@ -1,0 +1,17 @@
+resultCB({
+"name": "Edinburgh West",
+"id": "S14000026",
+"region": "Scotland",
+"turnout": "54858",
+"electorate": "71749",
+"win": "snp",
+"swing": "14.3",
+"status": "gain",
+"con": "6732",
+"lab": "6425",
+"lib": "18168",
+"grn": "1140",
+"ukp": "1015",
+"snp": "21378",
+"mpn": "Michelle Thomson"
+});

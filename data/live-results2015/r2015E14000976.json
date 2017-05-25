@@ -1,0 +1,16 @@
+resultCB({
+"name": "Stourbridge",
+"id": "E14000976",
+"region": "West Midlands",
+"turnout": "46029",
+"electorate": "69077",
+"win": "con",
+"swing": "1.81",
+"status": "hold",
+"con": "21195",
+"lab": "14501",
+"lib": "1538",
+"grn": "1021",
+"ukp": "7774",
+"mpn": "Margot James"
+});

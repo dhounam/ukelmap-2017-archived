@@ -1,0 +1,17 @@
+resultCB({
+"name": "Tottenham",
+"id": "E14001002",
+"region": "London",
+"turnout": "42558",
+"electorate": "70809",
+"win": "lab",
+"swing": "5.49",
+"status": "hold",
+"con": "5090",
+"lab": "28654",
+"lib": "1756",
+"grn": "3931",
+"ukp": "1512",
+"oth": "1615",
+"mpn": "David Lammy"
+});

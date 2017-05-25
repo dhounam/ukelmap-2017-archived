@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Rochford & Southend East",
+
+"id": "E14000899",
+
+"region": "East Of England",
+
+"turnout": "41631",
+
+"electorate": "71080",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.91,
+
+"hpr": 11.0979158943885,
+
+"sal": -1.41898370086288,
+
+"ele": -1.66383,
+
+"con": "19509",
+
+"lab": "8459",
+
+"lib": "8084",
+
+"grn": "707",
+
+"ukp": "2405",
+
+"bnp": "1856",
+
+"ind": "611",
+
+"mpn": "James Duddridge",
+
+});
+

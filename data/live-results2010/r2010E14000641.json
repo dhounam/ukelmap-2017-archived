@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Durham, City of",
+
+"id": "E14000641",
+
+"region": "North East",
+
+"turnout": "46252",
+
+"electorate": "68832",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 3.851,
+
+"hpr": 5.28686135191703,
+
+"sal": 11.8485189351331,
+
+"ele": -4.47651,
+
+"con": "6146",
+
+"lab": "20496",
+
+"lib": "17429",
+
+"ukp": "856",
+
+"bnp": "1153",
+
+"ind": "172",
+
+"mpn": "Roberta Blackman-Woods",
+
+});
+

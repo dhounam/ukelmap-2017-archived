@@ -1,0 +1,17 @@
+resultCB({
+"name": "St Austell and Newquay",
+"id": "E14000961",
+"region": "South West",
+"turnout": "50361",
+"electorate": "76607",
+"win": "con",
+"swing": "9.5",
+"status": "gain",
+"con": "20250",
+"lab": "5150",
+"lib": "12077",
+"grn": "2318",
+"ukp": "8503",
+"oth": "2063",
+"mpn": "Stephen Double"
+});

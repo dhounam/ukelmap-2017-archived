@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Boston & Skegness",
+
+"id": "E14000582",
+
+"region": "East Midlands",
+
+"turnout": "43125",
+
+"electorate": "70529",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.296,
+
+"hpr": 8.67356701166322,
+
+"sal": 13.2215096201283,
+
+"ele": -6.70396,
+
+"con": "21325",
+
+"lab": "8899",
+
+"lib": "6371",
+
+"ukp": "4081",
+
+"bnp": "2278",
+
+"ind": "171",
+
+"mpn": "Mark Simmonds",
+
+});
+

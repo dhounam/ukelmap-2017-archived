@@ -1,0 +1,17 @@
+resultCB({
+"name": "Mid Ulster",
+"id": "N06000010",
+"region": "Northern Ireland",
+"turnout": "40922",
+"electorate": "67831",
+"win": "snf",
+"swing": "",
+"status": "hold",
+"con": "120",
+"ukp": "863",
+"snf": "19935",
+"sdl": "5055",
+"dup": "5465",
+"uup": "6318",
+"mpn": "Francie Molloy"
+});

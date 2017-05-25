@@ -1,0 +1,16 @@
+resultCB({
+"name": "Ludlow",
+"id": "E14000799",
+"region": "West Midlands",
+"turnout": "48063",
+"electorate": "66423",
+"win": "con",
+"swing": "4.52",
+"status": "hold",
+"con": "26093",
+"lab": "5902",
+"lib": "6469",
+"grn": "2435",
+"ukp": "7164",
+"mpn": "Philip Dunne"
+});

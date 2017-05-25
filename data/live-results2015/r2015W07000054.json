@@ -1,0 +1,18 @@
+resultCB({
+"name": "Monmouth",
+"id": "W07000054",
+"region": "Wales",
+"turnout": "47462",
+"electorate": "65706",
+"win": "con",
+"swing": "0.36",
+"status": "hold",
+"con": "23701",
+"lab": "12719",
+"lib": "2496",
+"grn": "1629",
+"ukp": "4942",
+"plc": "1875",
+"oth": "100",
+"mpn": "David Davies"
+});

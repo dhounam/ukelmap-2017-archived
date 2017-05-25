@@ -1,0 +1,16 @@
+resultCB({
+"name": "Ilford South",
+"id": "E14000760",
+"region": "London",
+"turnout": "51912",
+"electorate": "95023",
+"win": "lab",
+"swing": "8.02",
+"status": "hold",
+"con": "13455",
+"lab": "33232",
+"lib": "1014",
+"grn": "1506",
+"ukp": "2705",
+"mpn": "Mike Gapes"
+});

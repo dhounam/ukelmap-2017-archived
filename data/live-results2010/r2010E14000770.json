@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Kingston & Surbiton",
+
+"id": "E14000770",
+
+"region": "London",
+
+"turnout": "57111",
+
+"electorate": "81116",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 4.841,
+
+"hpr": 39.8659558094687,
+
+"sal": -3.90173410404624,
+
+"ele": -2.86305,
+
+"con": "20868",
+
+"lab": "5337",
+
+"lib": "28428",
+
+"grn": "555",
+
+"ukp": "1450",
+
+"oth": "473",
+
+"mpn": "Edward Davey",
+
+});
+

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Carlisle",
+
+"id": "E14000620",
+
+"region": "North West",
+
+"turnout": "42200",
+
+"electorate": "65263",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.087,
+
+"hpr": 4.75583396383288,
+
+"sal": -3.03155289750464,
+
+"ele": -1.44466,
+
+"con": "16589",
+
+"lab": "15736",
+
+"lib": "6567",
+
+"grn": "614",
+
+"ukp": "969",
+
+"bnp": "1086",
+
+"oth": "639",
+
+"mpn": "John Stevenson",
+
+});
+

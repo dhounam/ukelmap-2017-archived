@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Devon, South West",
+
+"id": "E14000950",
+
+"region": "South West",
+
+"turnout": "49860",
+
+"electorate": "70059",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": -0.257,
+
+"hpr": 14.6695192521618,
+
+"sal": 9.08210220392347,
+
+"ele": -1.62894,
+
+"con": "27908",
+
+"lab": "6193",
+
+"lib": "12034",
+
+"grn": "641",
+
+"ukp": "3084",
+
+"mpn": "Gary Streeter",
+
+});
+

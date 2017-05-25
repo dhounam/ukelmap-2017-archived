@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Derby, North",
+
+"id": "E14000662",
+
+"region": "East Midlands",
+
+"turnout": "45080",
+
+"electorate": "71484",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.558,
+
+"hpr": 6.40978138547968,
+
+"sal": 1.041305102395,
+
+"ele": -4.30993,
+
+"con": "14283",
+
+"lab": "14896",
+
+"lib": "12638",
+
+"ukp": "829",
+
+"bnp": "2000",
+
+"ind": "264",
+
+"oth": "170",
+
+"mpn": "Chris Williamson",
+
+});
+

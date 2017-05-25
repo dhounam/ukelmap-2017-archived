@@ -1,0 +1,18 @@
+resultCB({
+"name": "Maldon",
+"id": "E14000806",
+"region": "East Of England",
+"turnout": "48045",
+"electorate": "69455",
+"win": "con",
+"swing": "4.4",
+"status": "hold",
+"con": "29112",
+"lab": "5690",
+"lib": "2157",
+"grn": "1504",
+"ukp": "7042",
+"ind": "2424",
+"oth": "116",
+"mpn": "John Whittingdale"
+});

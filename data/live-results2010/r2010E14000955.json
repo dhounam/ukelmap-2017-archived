@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Southampton Itchen",
+
+"id": "E14000955",
+
+"region": "South East",
+
+"turnout": "44412",
+
+"electorate": "74532",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 4.186,
+
+"hpr": 12.7293710626632,
+
+"sal": 7.8026070763501,
+
+"ele": -6.08539,
+
+"con": "16134",
+
+"lab": "16326",
+
+"lib": "9256",
+
+"grn": "600",
+
+"ukp": "1928",
+
+"oth": "168",
+
+"mpn": "John Denham",
+
+});
+

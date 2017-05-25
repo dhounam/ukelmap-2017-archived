@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Gedling",
+
+"id": "E14000710",
+
+"region": "East Midlands",
+
+"turnout": "48190",
+
+"electorate": "70590",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.294,
+
+"hpr": 9.49311823479728,
+
+"sal": 24.7931930985582,
+
+"ele": -2.87228,
+
+"con": "17962",
+
+"lab": "19821",
+
+"lib": "7350",
+
+"ukp": "1459",
+
+"bnp": "1598",
+
+"mpn": "Vernon Coaker",
+
+});
+

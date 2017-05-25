@@ -1,0 +1,17 @@
+resultCB({
+"name": "Liverpool Riverside",
+"id": "E14000793",
+"region": "North West",
+"turnout": "44263",
+"electorate": "70950",
+"win": "lab",
+"swing": "0.26",
+"status": "hold",
+"con": "4245",
+"lab": "29835",
+"lib": "1719",
+"grn": "5372",
+"ukp": "2510",
+"oth": "582",
+"mpn": "Louise Ellman"
+});

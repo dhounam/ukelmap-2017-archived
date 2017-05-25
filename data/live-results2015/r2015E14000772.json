@@ -1,0 +1,17 @@
+resultCB({
+"name": "Kingston upon Hull North",
+"id": "E14000772",
+"region": "Yorkshire",
+"turnout": "35336",
+"electorate": "63650",
+"win": "lab",
+"swing": "0.7",
+"status": "hold",
+"con": "5306",
+"lab": "18661",
+"lib": "3175",
+"grn": "2066",
+"ukp": "5762",
+"oth": "366",
+"mpn": "Diana Johnson"
+});

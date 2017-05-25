@@ -1,0 +1,17 @@
+resultCB({
+"name": "Guildford",
+"id": "E14000719",
+"region": "South East",
+"turnout": "53986",
+"electorate": "76554",
+"win": "con",
+"swing": "13.79",
+"status": "hold",
+"con": "30802",
+"lab": "6534",
+"lib": "8354",
+"grn": "2558",
+"ukp": "4774",
+"oth": "964",
+"mpn": "Anne Milton"
+});

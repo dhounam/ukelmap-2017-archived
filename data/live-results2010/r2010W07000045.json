@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Llanelli",
+
+"id": "W07000045",
+
+"region": "Wales",
+
+"turnout": "37461",
+
+"electorate": "55637",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.234,
+
+"hpr": 2.68421107019618,
+
+"sal": 10.1851851851852,
+
+"ele": 5.055425,
+
+"con": "5381",
+
+"lab": "15916",
+
+"lib": "3902",
+
+"ukp": "1047",
+
+"plc": "11215",
+
+"mpn": "Nia Griffith",
+
+});
+

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Somerset, North East",
+
+"id": "E14000846",
+
+"region": "South West",
+
+"turnout": "51203",
+
+"electorate": "67412",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.167,
+
+"hpr": 16.340439286927,
+
+"sal": 5.78894472361809,
+
+"ele": 0.289604,
+
+"con": "21130",
+
+"lab": "16216",
+
+"lib": "11433",
+
+"grn": "670",
+
+"ukp": "1754",
+
+"mpn": "Jacob Rees-Mogg",
+
+});
+

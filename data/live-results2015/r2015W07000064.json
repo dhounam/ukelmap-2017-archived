@@ -1,0 +1,17 @@
+resultCB({
+"name": "Ceredigion",
+"id": "W07000064",
+"region": "Wales",
+"turnout": "37416",
+"electorate": "54215",
+"win": "lib",
+"swing": "6.78",
+"status": "hold",
+"con": "4123",
+"lab": "3615",
+"lib": "13414",
+"grn": "2088",
+"ukp": "3829",
+"plc": "10347",
+"mpn": "Mark Williams"
+});

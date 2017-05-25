@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bedford",
+"id": "E14000552",
+"region": "East Anglia",
+"turnout": "46086",
+"electorate": "69311",
+"win": "con",
+"swing": "0.31",
+"status": "hold",
+"con": "19625",
+"lab": "18528",
+"lib": "1958",
+"grn": "1412",
+"ukp": "4434",
+"ind": "129",
+"mpn": "Richard Fuller"
+});

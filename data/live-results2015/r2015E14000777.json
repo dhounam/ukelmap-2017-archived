@@ -1,0 +1,17 @@
+resultCB({
+"name": "Leeds Central",
+"id": "E14000777",
+"region": "Yorkshire",
+"turnout": "45048",
+"electorate": "81799",
+"win": "lab",
+"swing": "4.27",
+"status": "hold",
+"con": "7791",
+"lab": "24758",
+"lib": "1529",
+"grn": "3558",
+"ukp": "7082",
+"oth": "330",
+"mpn": "Hilary Benn"
+});

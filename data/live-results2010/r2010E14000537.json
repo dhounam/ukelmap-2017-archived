@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Ashton-under-Lyne",
+
+"id": "E14000537",
+
+"region": "North West",
+
+"turnout": "38432",
+
+"electorate": "67564",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.702,
+
+"hpr": 7.31960480118781,
+
+"sal": -1.29133242027001,
+
+"ele": -0.44489,
+
+"con": "9510",
+
+"lab": "18604",
+
+"lib": "5703",
+
+"ukp": "1686",
+
+"bnp": "2929",
+
+"mpn": "David Heyes",
+
+});
+

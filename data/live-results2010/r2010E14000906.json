@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Ruislip, Northwood & Pinner",
+
+"id": "E14000906",
+
+"region": "London",
+
+"turnout": "50205",
+
+"electorate": "70873",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.201,
+
+"hpr": 37.6187169789822,
+
+"sal": 0.386930352536538,
+
+"ele": 3.185449,
+
+"con": "28866",
+
+"lab": "9806",
+
+"lib": "8345",
+
+"grn": "740",
+
+"ukp": "1351",
+
+"oth": "1097",
+
+"mpn": "Nick Hurd",
+
+});
+

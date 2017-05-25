@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Loughborough",
+
+"id": "E14000797",
+
+"region": "East Midlands",
+
+"turnout": "52838",
+
+"electorate": "77502",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.249,
+
+"hpr": 14.3742348291088,
+
+"sal": -1.10438190238688,
+
+"ele": -9.72194,
+
+"con": "21971",
+
+"lab": "18227",
+
+"lib": "9675",
+
+"ukp": "925",
+
+"bnp": "2040",
+
+"mpn": "Nicky Morgan",
+
+});
+

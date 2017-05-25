@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Maidstone & The Weald",
+
+"id": "E14000804",
+
+"region": "South East",
+
+"turnout": "48928",
+
+"electorate": "71041",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.02,
+
+"hpr": 9.80439689879928,
+
+"sal": -8.49981153411234,
+
+"ele": -1.94385,
+
+"con": "23491",
+
+"lab": "4769",
+
+"lib": "17602",
+
+"grn": "655",
+
+"ukp": "1637",
+
+"oth": "774",
+
+"mpn": "Helen Grant",
+
+});
+

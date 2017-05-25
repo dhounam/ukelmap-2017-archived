@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Belfast, South",
+
+"id": "N06000003",
+
+"region": "Northern Ireland",
+
+"turnout": "34186",
+
+"electorate": "59524",
+
+"win": "sdl",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 9.206398,
+
+"sdl": "14026",
+
+"dup": "8100",
+
+"uup": "5910",
+
+"oth": "6150",
+
+"mpn": "Alasdair McDonnell",
+
+});
+

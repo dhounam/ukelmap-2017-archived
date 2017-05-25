@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Westminster, North",
+
+"id": "E14001036",
+
+"region": "London",
+
+"turnout": "39598",
+
+"electorate": "66739",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 3.909,
+
+"hpr": 70.0574798728786,
+
+"sal": -4.52468680913782,
+
+"ele": -10.1987,
+
+"con": "15251",
+
+"lab": "17377",
+
+"lib": "5513",
+
+"grn": "478",
+
+"ukp": "315",
+
+"bnp": "334",
+
+"ind": "101",
+
+"oth": "229",
+
+"mpn": "Karen Buck",
+
+});
+

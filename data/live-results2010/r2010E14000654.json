@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Croydon, Central",
+
+"id": "E14000654",
+
+"region": "London",
+
+"turnout": "49757",
+
+"electorate": "78880",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.629,
+
+"hpr": 29.2961467249681,
+
+"sal": 5.152,
+
+"ele": 0.797134,
+
+"con": "19657",
+
+"lab": "16688",
+
+"lib": "6553",
+
+"grn": "581",
+
+"ukp": "997",
+
+"bnp": "1448",
+
+"ind": "138",
+
+"oth": "3695",
+
+"mpn": "Gavin Barwell",
+
+});
+

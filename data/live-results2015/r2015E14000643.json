@@ -1,0 +1,17 @@
+resultCB({
+"name": "Cleethorpes",
+"id": "E14000643",
+"region": "Yorkshire",
+"turnout": "45089",
+"electorate": "70514",
+"win": "con",
+"swing": "3.97",
+"status": "hold",
+"con": "21026",
+"lab": "13133",
+"lib": "1346",
+"grn": "1013",
+"ukp": "8356",
+"oth": "215",
+"mpn": "Martin Vickers"
+});

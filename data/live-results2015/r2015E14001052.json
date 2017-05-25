@@ -1,0 +1,18 @@
+resultCB({
+"name": "Worcester",
+"id": "E14001052",
+"region": "West Midlands",
+"turnout": "49723",
+"electorate": "71003",
+"win": "con",
+"swing": "2.63",
+"status": "hold",
+"con": "22534",
+"lab": "16888",
+"lib": "1677",
+"grn": "2024",
+"ukp": "6378",
+"ind": "69",
+"oth": "153",
+"mpn": "Robin Walker"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Down, South",
+
+"id": "N06000015",
+
+"region": "Northern Ireland",
+
+"turnout": "42589",
+
+"electorate": "70784",
+
+"win": "sdl",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 6.168333,
+
+"grn": "901",
+
+"snf": "12236",
+
+"sdl": "20648",
+
+"dup": "3645",
+
+"uup": "3093",
+
+"oth": "2066",
+
+"mpn": "Margaret Ritchie",
+
+});
+

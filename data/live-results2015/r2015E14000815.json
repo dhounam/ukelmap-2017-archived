@@ -1,0 +1,16 @@
+resultCB({
+"name": "Mid Dorset and North Poole",
+"id": "E14000815",
+"region": "South West",
+"turnout": "46499",
+"electorate": "68917",
+"win": "con",
+"swing": "11.61",
+"status": "gain",
+"con": "23639",
+"lab": "2767",
+"lib": "13109",
+"grn": "1321",
+"ukp": "5663",
+"mpn": "Michael Tomlinson"
+});

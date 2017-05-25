@@ -1,0 +1,16 @@
+resultCB({
+"name": "North Shropshire",
+"id": "E14000849",
+"region": "West Midlands",
+"turnout": "52563",
+"electorate": "78910",
+"win": "con",
+"swing": "0.98",
+"status": "hold",
+"con": "27031",
+"lab": "10547",
+"lib": "3148",
+"grn": "2575",
+"ukp": "9262",
+"mpn": "Owen Paterson"
+});

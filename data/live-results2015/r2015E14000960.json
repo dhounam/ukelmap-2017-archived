@@ -1,0 +1,16 @@
+resultCB({
+"name": "St Albans",
+"id": "E14000960",
+"region": "East Anglia",
+"turnout": "54433",
+"electorate": "72507",
+"win": "con",
+"swing": "0.11",
+"status": "hold",
+"con": "25392",
+"lab": "12660",
+"lib": "10076",
+"grn": "2034",
+"ukp": "4271",
+"mpn": "Anne Main"
+});

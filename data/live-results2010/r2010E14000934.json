@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Cambridgeshire, South",
+
+"id": "E14000934",
+
+"region": "East Of England",
+
+"turnout": "59056",
+
+"electorate": "78995",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.933,
+
+"hpr": 22.1582614349989,
+
+"sal": 7.32685485114916,
+
+"ele": 4.676131,
+
+"con": "27995",
+
+"lab": "6024",
+
+"lib": "20157",
+
+"grn": "1039",
+
+"ukp": "1873",
+
+"ind": "1968",
+
+"mpn": "Andrew Lansley",
+
+});
+

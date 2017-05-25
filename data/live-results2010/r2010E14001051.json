@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Wolverhampton, South West",
+
+"id": "E14001051",
+
+"region": "West Midlands",
+
+"turnout": "40160",
+
+"electorate": "59160",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": -0.084,
+
+"hpr": 12.1356846685459,
+
+"sal": -21.1109301189119,
+
+"ele": 1.998939,
+
+"con": "16344",
+
+"lab": "15653",
+
+"lib": "6430",
+
+"ukp": "1487",
+
+"oth": "246",
+
+"mpn": "Paul Uppal",
+
+});
+

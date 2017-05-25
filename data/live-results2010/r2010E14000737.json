@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Hayes & Harlington",
+
+"id": "E14000737",
+
+"region": "London",
+
+"turnout": "42637",
+
+"electorate": "70233",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 9.259,
+
+"hpr": 23.8502142236502,
+
+"sal": 9.69292803970222,
+
+"ele": 7.561846,
+
+"con": "12553",
+
+"lab": "23377",
+
+"lib": "3726",
+
+"grn": "348",
+
+"bnp": "1520",
+
+"oth": "1113",
+
+"mpn": "John McDonnell",
+
+});
+

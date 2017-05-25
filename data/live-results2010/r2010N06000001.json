@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Belfast, East",
+
+"id": "N06000001",
+
+"region": "Northern Ireland",
+
+"turnout": "34488",
+
+"electorate": "59007",
+
+"win": "oth",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 8.312681,
+
+"ind": "1856",
+
+"snf": "817",
+
+"sdl": "365",
+
+"dup": "11306",
+
+"uup": "7305",
+
+"oth": "12839",
+
+"mpn": "Naomi Long",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Nottingham East",
+"id": "E14000865",
+"region": "East Midlands",
+"turnout": "35209",
+"electorate": "60464",
+"win": "lab",
+"swing": "6.05",
+"status": "hold",
+"con": "7314",
+"lab": "19208",
+"lib": "1475",
+"grn": "3473",
+"ukp": "3501",
+"ind": "238",
+"mpn": "Chris Leslie"
+});

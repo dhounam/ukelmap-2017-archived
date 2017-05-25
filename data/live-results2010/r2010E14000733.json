@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Hartlepool",
+
+"id": "E14000733",
+
+"region": "North East",
+
+"turnout": "38242",
+
+"electorate": "68923",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.972,
+
+"hpr": 6.86829471673963,
+
+"sal": 14.803764057838,
+
+"ele": -0.70435,
+
+"con": "10758",
+
+"lab": "16267",
+
+"lib": "6533",
+
+"ukp": "2682",
+
+"bnp": "2002",
+
+"mpn": "Iain Wright",
+
+});
+

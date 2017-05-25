@@ -1,0 +1,16 @@
+resultCB({
+"name": "North West Leicestershire",
+"id": "E14000858",
+"region": "East Midlands",
+"turnout": "51548",
+"electorate": "72194",
+"win": "con",
+"swing": "3.8",
+"status": "hold",
+"con": "25505",
+"lab": "14132",
+"lib": "2033",
+"grn": "1174",
+"ukp": "8704",
+"mpn": "Andrew Bridgen"
+});

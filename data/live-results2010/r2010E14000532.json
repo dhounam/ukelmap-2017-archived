@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Altrincham & Sale West",
+
+"id": "E14000532",
+
+"region": "North West",
+
+"turnout": "49393",
+
+"electorate": "71254",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.362,
+
+"hpr": -1.41733591545639,
+
+"sal": -4.88464598249801,
+
+"ele": -1.97213,
+
+"con": "24176",
+
+"lab": "11073",
+
+"lib": "12581",
+
+"ukp": "1563",
+
+"mpn": "Graham Brady",
+
+});
+

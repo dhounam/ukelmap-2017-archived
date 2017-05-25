@@ -1,0 +1,17 @@
+resultCB({
+"name": "Chelmsford",
+"id": "E14000628",
+"region": "East Of England",
+"turnout": "53817",
+"electorate": "78580",
+"win": "con",
+"swing": "0.65",
+"status": "hold",
+"con": "27732",
+"lab": "9482",
+"lib": "6394",
+"grn": "1892",
+"ukp": "7652",
+"oth": "665",
+"mpn": "Simon Burns"
+});

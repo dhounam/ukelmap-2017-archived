@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bootle",
+"id": "E14000581",
+"region": "North West",
+"turnout": "45152",
+"electorate": "70137",
+"win": "lab",
+"swing": "1.61",
+"status": "hold",
+"con": "3639",
+"lab": "33619",
+"lib": "978",
+"grn": "1501",
+"ukp": "4915",
+"oth": "500",
+"mpn": "Peter Dowd"
+});

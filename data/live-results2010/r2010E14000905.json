@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Rugby",
+
+"id": "E14000905",
+
+"region": "West Midlands",
+
+"turnout": "47468",
+
+"electorate": "68914",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.436,
+
+"hpr": 23.8390289604288,
+
+"sal": 5.33667621776506,
+
+"ele": 2.612022,
+
+"con": "20901",
+
+"lab": "14901",
+
+"lib": "9434",
+
+"grn": "451",
+
+"ukp": "406",
+
+"bnp": "1375",
+
+"mpn": "Mark Pawsey",
+
+});
+

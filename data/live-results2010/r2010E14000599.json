@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bristol East",
+
+"id": "E14000599",
+
+"region": "South West",
+
+"turnout": "45017",
+
+"electorate": "69448",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.524,
+
+"hpr": 19.8889383587663,
+
+"sal": 7.39918608952905E-02,
+
+"ele": 1.07103,
+
+"con": "12749",
+
+"lab": "16471",
+
+"lib": "10993",
+
+"grn": "803",
+
+"ukp": "1510",
+
+"bnp": "1960",
+
+"oth": "531",
+
+"mpn": "Kerry McCarthy",
+
+});
+

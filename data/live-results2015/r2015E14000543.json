@@ -1,0 +1,17 @@
+resultCB({
+"name": "Barrow and Furness",
+"id": "E14000543",
+"region": "North West",
+"turnout": "43275",
+"electorate": "68338",
+"win": "lab",
+"swing": "4.98",
+"status": "hold",
+"con": "17525",
+"lab": "18320",
+"lib": "1169",
+"grn": "1061",
+"ukp": "5070",
+"ind": "130",
+"mpn": "John Woodcock"
+});

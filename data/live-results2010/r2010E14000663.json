@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Derby, South",
+
+"id": "E14000663",
+
+"region": "East Midlands",
+
+"turnout": "41188",
+
+"electorate": "71012",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.875,
+
+"hpr": 13.4814772193745,
+
+"sal": 2.97759433962266,
+
+"ele": -3.87006,
+
+"con": "11729",
+
+"lab": "17851",
+
+"lib": "8430",
+
+"ukp": "1821",
+
+"ind": "1357",
+
+"mpn": "Margaret Beckett",
+
+});
+

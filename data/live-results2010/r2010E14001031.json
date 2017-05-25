@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Dorset, West",
+
+"id": "E14001031",
+
+"region": "South West",
+
+"turnout": "57337",
+
+"electorate": "76869",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.878,
+
+"hpr": 11.4684058509837,
+
+"sal": 9.5374539500614,
+
+"ele": 0.971682,
+
+"con": "27287",
+
+"lab": "3815",
+
+"lib": "23364",
+
+"grn": "675",
+
+"ukp": "2196",
+
+"mpn": "Oliver Letwin",
+
+});
+

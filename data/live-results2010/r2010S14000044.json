@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Livingston",
+
+"id": "S14000044",
+
+"region": "Scotland",
+
+"turnout": "47907",
+
+"electorate": "75924",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 44.4582029980284,
+
+"sal": 6.36512484650021,
+
+"ele": 7.610366,
+
+"con": "5158",
+
+"lab": "23215",
+
+"lib": "5316",
+
+"ukp": "443",
+
+"bnp": "960",
+
+"snp": "12424",
+
+"ind": "149",
+
+"oth": "242",
+
+"mpn": "Graeme Morrice",
+
+});
+

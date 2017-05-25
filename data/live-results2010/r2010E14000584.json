@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Bournemouth, East",
+
+"id": "E14000584",
+
+"region": "South West",
+
+"turnout": "44024",
+
+"electorate": "71125",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 5.639,
+
+"hpr": 12.3819525406484,
+
+"sal": 0.330742516950551,
+
+"ele": -0.66077,
+
+"con": "21320",
+
+"lab": "5836",
+
+"lib": "13592",
+
+"ukp": "3027",
+
+"ind": "249",
+
+"mpn": "Tobias Ellwood",
+
+});
+

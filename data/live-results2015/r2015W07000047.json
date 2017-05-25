@@ -1,0 +1,19 @@
+resultCB({
+"name": "Swansea West",
+"id": "W07000047",
+"region": "Wales",
+"turnout": "35156",
+"electorate": "58776",
+"win": "lab",
+"swing": "3.08",
+"status": "hold",
+"con": "7931",
+"lab": "14967",
+"lib": "3178",
+"grn": "1784",
+"ukp": "4744",
+"plc": "2266",
+"ind": "78",
+"oth": "208",
+"mpn": "Geraint Davies"
+});

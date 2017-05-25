@@ -1,0 +1,17 @@
+resultCB({
+"name": "Broxtowe",
+"id": "E14000607",
+"region": "East Midlands",
+"turnout": "53440",
+"electorate": "71865",
+"win": "con",
+"swing": "3.64",
+"status": "hold",
+"con": "24163",
+"lab": "19876",
+"lib": "2120",
+"grn": "1544",
+"ukp": "5674",
+"oth": "63",
+"mpn": "Anna Soubry"
+});

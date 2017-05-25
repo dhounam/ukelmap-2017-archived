@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Swindon, South",
+
+"id": "E14000947",
+
+"region": "South West",
+
+"turnout": "47119",
+
+"electorate": "72622",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.368,
+
+"hpr": 12.4361223442782,
+
+"sal": 5.18831067354274,
+
+"ele": 0.284329,
+
+"con": "19687",
+
+"lab": "16143",
+
+"lib": "8305",
+
+"grn": "619",
+
+"ukp": "2029",
+
+"ind": "160",
+
+"oth": "176",
+
+"mpn": "Robert Buckland",
+
+});
+

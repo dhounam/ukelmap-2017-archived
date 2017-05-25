@@ -1,0 +1,17 @@
+resultCB({
+"name": "Leicester South",
+"id": "E14000783",
+"region": "East Midlands",
+"turnout": "45962",
+"electorate": "73518",
+"win": "lab",
+"swing": "7.32",
+"status": "hold",
+"con": "9628",
+"lab": "27493",
+"lib": "2127",
+"grn": "2533",
+"ukp": "3832",
+"oth": "349",
+"mpn": "Jon Ashworth"
+});

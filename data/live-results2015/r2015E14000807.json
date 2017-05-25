@@ -1,0 +1,17 @@
+resultCB({
+"name": "Manchester Central",
+"id": "E14000807",
+"region": "North West",
+"turnout": "45331",
+"electorate": "98435",
+"win": "lab",
+"swing": "3.39",
+"status": "hold",
+"con": "6133",
+"lab": "27772",
+"lib": "1867",
+"grn": "3838",
+"ukp": "5033",
+"oth": "688",
+"mpn": "Lucy Powell"
+});

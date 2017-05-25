@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Thirsk & Malton",
+
+"id": "E14000993",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "49540",
+
+"electorate": "75220",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.634,
+
+"hpr": 1.81632925850137,
+
+"sal": 2.9353343632752,
+
+"ele": -1.30283,
+
+"con": "20167",
+
+"lab": "5169",
+
+"lib": "8886",
+
+"ukp": "2502",
+
+"oth": "1418",
+
+"mpn": "Anne McIntosh",
+
+});
+

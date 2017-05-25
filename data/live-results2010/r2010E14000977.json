@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Stratford-on-Avon",
+
+"id": "E14000977",
+
+"region": "West Midlands",
+
+"turnout": "50542",
+
+"electorate": "69516",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.798,
+
+"hpr": 14.2826795524382,
+
+"sal": -1.8840579710145,
+
+"ele": 0.922642,
+
+"con": "26052",
+
+"lab": "4809",
+
+"lib": "14706",
+
+"grn": "527",
+
+"ukp": "1846",
+
+"bnp": "1097",
+
+"ind": "1032",
+
+"oth": "473",
+
+"mpn": "Nadhim Zahawi",
+
+});
+

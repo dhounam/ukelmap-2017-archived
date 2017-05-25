@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Inverness, Nairn, Badenoch & Strathspey",
+
+"id": "S14000039",
+
+"region": "Scotland",
+
+"turnout": "47086",
+
+"electorate": "72528",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 5.88574682972489,
+
+"sal": 11.5035317860747,
+
+"ele": 6.371046,
+
+"con": "6278",
+
+"lab": "10407",
+
+"lib": "19172",
+
+"grn": "789",
+
+"ukp": "574",
+
+"snp": "8803",
+
+"oth": "1063",
+
+"mpn": "Danny Alexander",
+
+});
+

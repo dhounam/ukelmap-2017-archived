@@ -1,0 +1,17 @@
+resultCB({
+"name": "Morecambe and Lunesdale",
+"id": "E14000825",
+"region": "North West",
+"turnout": "43242",
+"electorate": "66476",
+"win": "con",
+"swing": "4.31",
+"status": "hold",
+"con": "19691",
+"lab": "15101",
+"lib": "1612",
+"grn": "1395",
+"ukp": "5358",
+"oth": "85",
+"mpn": "David Morris"
+});

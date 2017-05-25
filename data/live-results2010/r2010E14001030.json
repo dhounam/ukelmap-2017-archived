@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "West Bromwich West",
+
+"id": "E14001030",
+
+"region": "West Midlands",
+
+"turnout": "36171",
+
+"electorate": "65013",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 3.307,
+
+"hpr": 0.542357829402263,
+
+"sal": 2.10128178188695,
+
+"ele": 0.355877,
+
+"con": "10612",
+
+"lab": "16263",
+
+"lib": "4336",
+
+"ukp": "1566",
+
+"bnp": "3394",
+
+"mpn": "Adrian Bailey",
+
+});
+

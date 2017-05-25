@@ -1,0 +1,18 @@
+resultCB({
+"name": "Hackney South and Shoreditch",
+"id": "E14000721",
+"region": "London",
+"turnout": "47580",
+"electorate": "79962",
+"win": "lab",
+"swing": "4.34",
+"status": "hold",
+"con": "6420",
+"lab": "30633",
+"lib": "2186",
+"grn": "5519",
+"ukp": "1818",
+"ind": "78",
+"oth": "926",
+"mpn": "Meg Hillier"
+});

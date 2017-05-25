@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Shipley",
+
+"id": "E14000925",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "49427",
+
+"electorate": "67689",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.937,
+
+"hpr": 3.34767642893353,
+
+"sal": 3.52529012480842,
+
+"ele": 2.610989,
+
+"con": "24002",
+
+"lab": "14058",
+
+"lib": "9890",
+
+"grn": "1477",
+
+"mpn": "Philip Davies",
+
+});
+

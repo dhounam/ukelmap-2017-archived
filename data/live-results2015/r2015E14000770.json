@@ -1,0 +1,17 @@
+resultCB({
+"name": "Kingston and Surbiton",
+"id": "E14000770",
+"region": "London",
+"turnout": "59253",
+"electorate": "81277",
+"win": "con",
+"swing": "9.01",
+"status": "gain",
+"con": "23249",
+"lab": "8574",
+"lib": "20415",
+"grn": "2322",
+"ukp": "4321",
+"oth": "372",
+"mpn": "James Berry"
+});

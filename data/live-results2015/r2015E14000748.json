@@ -1,0 +1,16 @@
+resultCB({
+"name": "High Peak",
+"id": "E14000748",
+"region": "East Midlands",
+"turnout": "50789",
+"electorate": "73336",
+"win": "con",
+"swing": "0.17",
+"status": "hold",
+"con": "22836",
+"lab": "17942",
+"lib": "2389",
+"grn": "1811",
+"ukp": "5811",
+"mpn": "Andrew Bingham"
+});

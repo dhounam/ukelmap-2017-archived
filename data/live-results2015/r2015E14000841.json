@@ -1,0 +1,16 @@
+resultCB({
+"name": "North East Bedfordshire",
+"id": "E14000841",
+"region": "East Anglia",
+"turnout": "58672",
+"electorate": "83551",
+"win": "con",
+"swing": "2.02",
+"status": "hold",
+"con": "34891",
+"lab": "9247",
+"lib": "3418",
+"grn": "2537",
+"ukp": "8579",
+"mpn": "Alistair Burt"
+});

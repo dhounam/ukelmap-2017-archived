@@ -1,0 +1,19 @@
+resultCB({
+"name": "Merthyr Tydfil and Rhymney",
+"id": "W07000071",
+"region": "Wales",
+"turnout": "32715",
+"electorate": "61719",
+"win": "lab",
+"swing": "2.88",
+"status": "hold",
+"con": "3292",
+"lab": "17619",
+"lib": "1351",
+"grn": "603",
+"ukp": "6106",
+"plc": "3099",
+"ind": "459",
+"oth": "186",
+"mpn": "Gerald Jones"
+});

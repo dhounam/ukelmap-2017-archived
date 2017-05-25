@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Neath",
+
+"id": "W07000069",
+
+"region": "Wales",
+
+"turnout": "37122",
+
+"electorate": "57186",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.101,
+
+"hpr": 3.98685822940436,
+
+"sal": 1.71377698642333,
+
+"ele": -3.67938,
+
+"con": "4847",
+
+"lab": "17172",
+
+"lib": "5535",
+
+"ukp": "829",
+
+"bnp": "1342",
+
+"plc": "7397",
+
+"mpn": "Peter Hain",
+
+});
+

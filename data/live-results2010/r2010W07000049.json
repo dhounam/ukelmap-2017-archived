@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Aberavon",
+
+"id": "W07000049",
+
+"region": "Wales",
+
+"turnout": "30958",
+
+"electorate": "50789",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.282,
+
+"hpr": 8.1901225827651,
+
+"sal": 2.56253813300793,
+
+"ele": -3.69656,
+
+"con": "4411",
+
+"lab": "16073",
+
+"lib": "5034",
+
+"ukp": "489",
+
+"bnp": "1276",
+
+"plc": "2198",
+
+"ind": "919",
+
+"oth": "558",
+
+"mpn": "Hywel Francis",
+
+});
+

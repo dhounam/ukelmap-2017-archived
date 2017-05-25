@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Burnley",
+
+"id": "E14000609",
+
+"region": "North West",
+
+"turnout": "41845",
+
+"electorate": "66616",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": -0.009,
+
+"hpr": 4.93681965407184,
+
+"sal": -0.64772252402841,
+
+"ele": -4.55021,
+
+"con": "6950",
+
+"lab": "13114",
+
+"lib": "14932",
+
+"ukp": "929",
+
+"bnp": "3747",
+
+"ind": "1876",
+
+"oth": "297",
+
+"mpn": "Gordon Birtwistle",
+
+});
+

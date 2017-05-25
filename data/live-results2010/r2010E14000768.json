@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Kensington",
+
+"id": "E14000768",
+
+"region": "London",
+
+"turnout": "35150",
+
+"electorate": "65961",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": -3.928,
+
+"hpr": 71.4207693089233,
+
+"sal": -2.2977501196745,
+
+"ele": -7.63139,
+
+"con": "17595",
+
+"lab": "8979",
+
+"lib": "6872",
+
+"grn": "753",
+
+"ukp": "754",
+
+"oth": "197",
+
+"mpn": "Sir Malcolm Rifkind",
+
+});
+

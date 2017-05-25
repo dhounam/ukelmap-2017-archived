@@ -1,0 +1,17 @@
+resultCB({
+"name": "Upper Bann",
+"id": "N06000017",
+"region": "Northern Ireland",
+"turnout": "47219",
+"electorate": "80052",
+"win": "dup",
+"swing": "",
+"status": "hold",
+"con": "201",
+"snf": "11593",
+"sdl": "4238",
+"dup": "15430",
+"uup": "13166",
+"oth": "2591",
+"mpn": "David Simpson"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Tooting",
+"id": "E14000998",
+"region": "London",
+"turnout": "53529",
+"electorate": "76778",
+"win": "lab",
+"swing": "0.16",
+"status": "hold",
+"con": "22421",
+"lab": "25263",
+"lib": "2107",
+"grn": "2201",
+"ukp": "1537",
+"mpn": "Sadiq Khan"
+});

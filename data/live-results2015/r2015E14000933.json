@@ -1,0 +1,17 @@
+resultCB({
+"name": "Basildon South and Thurrock East",
+"id": "E14000933",
+"region": "East Of England",
+"turnout": "45593",
+"electorate": "73210",
+"win": "con",
+"swing": "10.55",
+"status": "hold",
+"con": "19788",
+"lab": "11493",
+"lib": "1356",
+"ukp": "12097",
+"ind": "606",
+"oth": "253",
+"mpn": "Stephen Metcalfe"
+});

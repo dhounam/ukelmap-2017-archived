@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Dartford",
+
+"id": "E14000659",
+
+"region": "South East",
+
+"turnout": "50080",
+
+"electorate": "76271",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.218,
+
+"hpr": 22.3791725152074,
+
+"sal": 1.69603161534664,
+
+"ele": 0.239728,
+
+"con": "24428",
+
+"lab": "13800",
+
+"lib": "7361",
+
+"ukp": "1842",
+
+"ind": "264",
+
+"oth": "2385",
+
+"mpn": "Gareth Johnson",
+
+});
+

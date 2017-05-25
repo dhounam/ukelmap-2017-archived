@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Christchurch",
+
+"id": "E14000638",
+
+"region": "South West",
+
+"turnout": "49416",
+
+"electorate": "68861",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.488,
+
+"hpr": 13.8536827593939,
+
+"sal": 9.63552576455801,
+
+"ele": -0.84592,
+
+"con": "27888",
+
+"lab": "4849",
+
+"lib": "12478",
+
+"ukp": "4201",
+
+"mpn": "Christopher Chope",
+
+});
+

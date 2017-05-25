@@ -1,0 +1,17 @@
+resultCB({
+"name": "Alyn and Deeside",
+"id": "W07000043",
+"region": "Wales",
+"turnout": "41314",
+"electorate": "62016",
+"win": "lab",
+"swing": "0.39",
+"status": "hold",
+"con": "13197",
+"lab": "16540",
+"lib": "1733",
+"grn": "976",
+"ukp": "7260",
+"plc": "1608",
+"mpn": "Mark Tami"
+});

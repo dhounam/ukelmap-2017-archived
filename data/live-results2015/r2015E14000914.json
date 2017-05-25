@@ -1,0 +1,17 @@
+resultCB({
+"name": "Scunthorpe",
+"id": "E14000914",
+"region": "Yorkshire",
+"turnout": "36941",
+"electorate": "64010",
+"win": "lab",
+"swing": "0.8",
+"status": "hold",
+"con": "12259",
+"lab": "15393",
+"lib": "770",
+"grn": "887",
+"ukp": "6329",
+"ind": "1303",
+"mpn": "Nic Dakin"
+});

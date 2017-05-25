@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Ayrshire, North & Arran",
+
+"id": "S14000048",
+
+"region": "Scotland",
+
+"turnout": "46116",
+
+"electorate": "74953",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 1.59645363161698,
+
+"sal": 7.91938110749186,
+
+"ele": 1.151289,
+
+"con": "7212",
+
+"lab": "21860",
+
+"lib": "4630",
+
+"snp": "11965",
+
+"oth": "449",
+
+"mpn": "Katy Clark",
+
+});
+

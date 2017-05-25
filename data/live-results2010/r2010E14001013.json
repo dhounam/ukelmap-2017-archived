@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Walthamstow",
+
+"id": "E14001013",
+
+"region": "London",
+
+"turnout": "40994",
+
+"electorate": "64625",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 5.585,
+
+"hpr": 61.628706138054,
+
+"sal": 7.6407007081625,
+
+"ele": 0.171092,
+
+"con": "5734",
+
+"lab": "21252",
+
+"lib": "11774",
+
+"grn": "767",
+
+"ukp": "823",
+
+"ind": "117",
+
+"oth": "527",
+
+"mpn": "Stella Creasy",
+
+});
+

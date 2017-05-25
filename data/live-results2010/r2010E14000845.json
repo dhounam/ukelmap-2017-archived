@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Hertfordshire, North East",
+
+"id": "E14000845",
+
+"region": "East Of England",
+
+"turnout": "50425",
+
+"electorate": "72200",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.155,
+
+"hpr": 23.2759584776134,
+
+"sal": 8.37609970674487,
+
+"ele": 0.680622,
+
+"con": "26995",
+
+"lab": "8291",
+
+"lib": "11801",
+
+"grn": "875",
+
+"ukp": "2075",
+
+"ind": "209",
+
+"oth": "179",
+
+"mpn": "Oliver Heald",
+
+});
+

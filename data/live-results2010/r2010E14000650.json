@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Coventry, North West",
+
+"id": "E14000650",
+
+"region": "West Midlands",
+
+"turnout": "46560",
+
+"electorate": "72871",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.993,
+
+"hpr": 16.1555666438075,
+
+"sal": -12.8470425935506,
+
+"ele": -0.74627,
+
+"con": "13648",
+
+"lab": "19936",
+
+"lib": "8344",
+
+"grn": "497",
+
+"ukp": "1295",
+
+"bnp": "1666",
+
+"ind": "640",
+
+"oth": "534",
+
+"mpn": "Geoffrey Robinson",
+
+});
+

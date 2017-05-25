@@ -1,0 +1,16 @@
+resultCB({
+"name": "South West Bedfordshire",
+"id": "E14000949",
+"region": "East Anglia",
+"turnout": "51304",
+"electorate": "79664",
+"win": "con",
+"swing": "0.75",
+"status": "hold",
+"con": "28212",
+"lab": "10399",
+"lib": "2646",
+"grn": "2106",
+"ukp": "7941",
+"mpn": "Andrew Selous"
+});

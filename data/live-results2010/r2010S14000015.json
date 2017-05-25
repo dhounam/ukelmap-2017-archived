@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Dundee, East",
+
+"id": "S14000015",
+
+"region": "Scotland",
+
+"turnout": "40568",
+
+"electorate": "65471",
+
+"win": "snp",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": 5.04690795695635,
+
+"sal": 25.0117536436295,
+
+"ele": 3.9684,
+
+"con": "6177",
+
+"lab": "13529",
+
+"lib": "4285",
+
+"grn": "542",
+
+"ukp": "431",
+
+"snp": "15350",
+
+"oth": "254",
+
+"mpn": "Stewart Hosie",
+
+});
+

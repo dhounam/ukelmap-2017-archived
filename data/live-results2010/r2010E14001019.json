@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Warwick & Leamington",
+
+"id": "E14001019",
+
+"region": "West Midlands",
+
+"turnout": "49032",
+
+"electorate": "58030",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.901,
+
+"hpr": 22.9770002950755,
+
+"sal": -0.290548624166817,
+
+"ele": 0.617634,
+
+"con": "20876",
+
+"lab": "17363",
+
+"lib": "8977",
+
+"grn": "693",
+
+"ukp": "926",
+
+"ind": "197",
+
+"mpn": "Chris White",
+
+});
+

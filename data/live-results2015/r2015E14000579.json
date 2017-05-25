@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bolton South East",
+"id": "E14000579",
+"region": "North West",
+"turnout": "40743",
+"electorate": "69692",
+"win": "lab",
+"swing": "8.33",
+"status": "hold",
+"con": "8289",
+"lab": "20555",
+"lib": "1072",
+"grn": "1200",
+"ukp": "9627",
+"mpn": "Yasmin Qureshi"
+});

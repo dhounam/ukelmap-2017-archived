@@ -1,0 +1,16 @@
+resultCB({
+"name": "Sefton Central",
+"id": "E14000916",
+"region": "North West",
+"turnout": "49021",
+"electorate": "67746",
+"win": "lab",
+"swing": "8.1",
+"status": "hold",
+"con": "14513",
+"lab": "26359",
+"lib": "2086",
+"grn": "1184",
+"ukp": "4879",
+"mpn": "Bill Esterson"
+});

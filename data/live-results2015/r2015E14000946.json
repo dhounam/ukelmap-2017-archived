@@ -1,0 +1,17 @@
+resultCB({
+"name": "South Suffolk",
+"id": "E14000946",
+"region": "East Anglia",
+"turnout": "51907",
+"electorate": "73220",
+"win": "con",
+"swing": "0.19",
+"status": "hold",
+"con": "27546",
+"lab": "10001",
+"lib": "4044",
+"grn": "2253",
+"ukp": "7897",
+"oth": "166",
+"mpn": "James Cartlidge"
+});

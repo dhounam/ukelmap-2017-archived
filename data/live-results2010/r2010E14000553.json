@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bermondsey & Old Southwark",
+
+"id": "E14000553",
+
+"region": "London",
+
+"turnout": "44651",
+
+"electorate": "77623",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 7.608,
+
+"hpr": 51.9048993119026,
+
+"sal": 3.05005213764338,
+
+"ele": 3.018276,
+
+"con": "7638",
+
+"lab": "13060",
+
+"lib": "21590",
+
+"grn": "718",
+
+"bnp": "1370",
+
+"ind": "155",
+
+"oth": "120",
+
+"mpn": "Simon Hughes",
+
+});
+

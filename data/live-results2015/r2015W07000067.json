@@ -1,0 +1,17 @@
+resultCB({
+"name": "Carmarthen East and Dinefwr",
+"id": "W07000067",
+"region": "Wales",
+"turnout": "39399",
+"electorate": "55750",
+"win": "plc",
+"swing": "2.53",
+"status": "hold",
+"con": "8336",
+"lab": "9541",
+"lib": "928",
+"grn": "1091",
+"ukp": "4363",
+"plc": "15140",
+"mpn": "Jonathan Edwards"
+});

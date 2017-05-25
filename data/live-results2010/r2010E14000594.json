@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Brentwood & Ongar",
+
+"id": "E14000594",
+
+"region": "East Of England",
+
+"turnout": "50592",
+
+"electorate": "73224",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.518,
+
+"hpr": 13.8432559619243,
+
+"sal": 2.32053422370618,
+
+"ele": 5.063813,
+
+"con": "28793",
+
+"lab": "4992",
+
+"lib": "11872",
+
+"grn": "584",
+
+"ukp": "2037",
+
+"bnp": "1447",
+
+"ind": "263",
+
+"oth": "604",
+
+"mpn": "Eric Pickles",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Sedgefield",
+
+"id": "E14000915",
+
+"region": "North East",
+
+"turnout": "40222",
+
+"electorate": "64727",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": -0.22,
+
+"hpr": -3.04264614015835,
+
+"sal": 6.15451767786992,
+
+"ele": -5.51821,
+
+"con": "9445",
+
+"lab": "18141",
+
+"lib": "8033",
+
+"ukp": "1479",
+
+"bnp": "2075",
+
+"ind": "1049",
+
+"mpn": "Phil Wilson",
+
+});
+

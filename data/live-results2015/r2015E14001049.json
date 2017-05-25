@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wolverhampton North East",
+"id": "E14001049",
+"region": "West Midlands",
+"turnout": "34003",
+"electorate": "61073",
+"win": "lab",
+"swing": "4.52",
+"status": "hold",
+"con": "10174",
+"lab": "15669",
+"lib": "935",
+"grn": "701",
+"ukp": "6524",
+"mpn": "Emma Reynolds"
+});

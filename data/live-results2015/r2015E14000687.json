@@ -1,0 +1,17 @@
+resultCB({
+"name": "Edmonton",
+"id": "E14000687",
+"region": "London",
+"turnout": "41338",
+"electorate": "66015",
+"win": "lab",
+"swing": "6.75",
+"status": "hold",
+"con": "9969",
+"lab": "25388",
+"lib": "897",
+"grn": "1358",
+"ukp": "3366",
+"oth": "360",
+"mpn": "Kate Osamor"
+});

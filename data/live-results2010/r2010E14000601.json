@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bristol, South",
+
+"id": "E14000601",
+
+"region": "South West",
+
+"turnout": "48377",
+
+"electorate": "78579",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.976,
+
+"hpr": 19.6392326021852,
+
+"sal": 10.0106951871658,
+
+"ele": 1.745406,
+
+"con": "11086",
+
+"lab": "18600",
+
+"lib": "13866",
+
+"grn": "1216",
+
+"ukp": "1264",
+
+"bnp": "1739",
+
+"oth": "606",
+
+"mpn": "Dawn Primarolo",
+
+});
+

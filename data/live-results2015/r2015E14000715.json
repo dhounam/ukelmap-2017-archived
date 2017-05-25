@@ -1,0 +1,16 @@
+resultCB({
+"name": "Gravesham",
+"id": "E14000715",
+"region": "South East",
+"turnout": "50149",
+"electorate": "74307",
+"win": "con",
+"swing": "1.49",
+"status": "hold",
+"con": "23494",
+"lab": "15114",
+"lib": "1111",
+"grn": "1124",
+"ukp": "9306",
+"mpn": "Adam Holloway"
+});

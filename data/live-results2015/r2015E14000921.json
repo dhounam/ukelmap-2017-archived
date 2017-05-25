@@ -1,0 +1,17 @@
+resultCB({
+"name": "Sheffield Brightside and Hillsborough",
+"id": "E14000921",
+"region": "Yorkshire And The Humber",
+"turnout": "40053",
+"electorate": "73090",
+"win": "lab",
+"swing": "8.21",
+"status": "hold",
+"con": "4407",
+"lab": "22663",
+"lib": "1802",
+"grn": "1712",
+"ukp": "8856",
+"oth": "613",
+"mpn": "Harry Harpham"
+});

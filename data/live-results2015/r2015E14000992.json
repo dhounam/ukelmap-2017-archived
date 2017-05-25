@@ -1,0 +1,16 @@
+resultCB({
+"name": "The Wrekin",
+"id": "E14000992",
+"region": "West Midlands",
+"turnout": "45437",
+"electorate": "65942",
+"win": "con",
+"swing": "1.54",
+"status": "hold",
+"con": "22579",
+"lab": "11836",
+"lib": "1959",
+"grn": "1443",
+"ukp": "7620",
+"mpn": "Mark Pritchard"
+});

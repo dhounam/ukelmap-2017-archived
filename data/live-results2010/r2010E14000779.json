@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Leeds, North East",
+
+"id": "E14000779",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "47535",
+
+"electorate": "67899",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.225,
+
+"hpr": 6.1117467229536,
+
+"sal": 9.6786534047437,
+
+"ele": -0.58973,
+
+"con": "15742",
+
+"lab": "20287",
+
+"lib": "9310",
+
+"ukp": "842",
+
+"bnp": "758",
+
+"oth": "596",
+
+"mpn": "Fabian Hamilton",
+
+});
+

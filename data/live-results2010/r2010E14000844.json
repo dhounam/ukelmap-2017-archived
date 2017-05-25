@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Hampshire, North East",
+
+"id": "E14000844",
+
+"region": "South East",
+
+"turnout": "52939",
+
+"electorate": "72196",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.983,
+
+"hpr": 19.1775598719744,
+
+"sal": -4.31483410206815,
+
+"ele": 2.489522,
+
+"con": "32075",
+
+"lab": "5173",
+
+"lib": "13478",
+
+"ukp": "2213",
+
+"mpn": "James Arbuthnot",
+
+});
+

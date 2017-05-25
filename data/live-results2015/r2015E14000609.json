@@ -1,0 +1,16 @@
+resultCB({
+"name": "Burnley",
+"id": "E14000609",
+"region": "North West",
+"turnout": "39746",
+"electorate": "64486",
+"win": "lab",
+"swing": "6.25",
+"status": "gain",
+"con": "5374",
+"lab": "14951",
+"lib": "11707",
+"grn": "850",
+"ukp": "6864",
+"mpn": "Julie Cooper"
+});

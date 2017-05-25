@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Cornwall, South East",
+
+"id": "E14000938",
+
+"region": "South West",
+
+"turnout": "49617",
+
+"electorate": "72237",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.447,
+
+"hpr": 1.30448894389352,
+
+"sal": 1.96747114375655,
+
+"ele": -2.81919,
+
+"con": "22390",
+
+"lab": "3507",
+
+"lib": "19170",
+
+"grn": "826",
+
+"ukp": "3083",
+
+"oth": "641",
+
+"mpn": "Sheryll Murray",
+
+});
+

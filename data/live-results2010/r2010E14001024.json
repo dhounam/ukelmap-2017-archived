@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Weaver Vale",
+
+"id": "E14001024",
+
+"region": "North West",
+
+"turnout": "43990",
+
+"electorate": "66538",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": -0.051,
+
+"hpr": -2.21909946193658,
+
+"sal": -4.40459610027855,
+
+"ele": 0.958734,
+
+"con": "16953",
+
+"lab": "15962",
+
+"lib": "8196",
+
+"grn": "338",
+
+"ukp": "1018",
+
+"bnp": "1063",
+
+"ind": "57",
+
+"oth": "403",
+
+"mpn": "Graham Evans",
+
+});
+

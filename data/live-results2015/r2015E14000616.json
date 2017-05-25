@@ -1,0 +1,17 @@
+resultCB({
+"name": "Camborne and Redruth",
+"id": "E14000616",
+"region": "South West",
+"turnout": "45868",
+"electorate": "66944",
+"win": "con",
+"swing": "2.98",
+"status": "hold",
+"con": "18452",
+"lab": "11448",
+"lib": "5687",
+"grn": "2608",
+"ukp": "6776",
+"oth": "897",
+"mpn": "George Eustice"
+});

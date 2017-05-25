@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Shrewsbury & Atcham",
+
+"id": "E14000926",
+
+"region": "West Midlands",
+
+"turnout": "53045",
+
+"electorate": "75438",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.699,
+
+"hpr": 8.43018298103732,
+
+"sal": 8.31725202624467,
+
+"ele": -0.25974,
+
+"con": "23313",
+
+"lab": "10915",
+
+"lib": "15369",
+
+"grn": "565",
+
+"ukp": "1627",
+
+"bnp": "1168",
+
+"oth": "88",
+
+"mpn": "Daniel Kawczynski",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Coventry, North East",
+
+"id": "E14000649",
+
+"region": "West Midlands",
+
+"turnout": "43383",
+
+"electorate": "73035",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 6.296,
+
+"hpr": 15.7744033365471,
+
+"sal": -5.40584949063424,
+
+"ele": 3.571527,
+
+"con": "9609",
+
+"lab": "21384",
+
+"lib": "7210",
+
+"ukp": "1291",
+
+"bnp": "1863",
+
+"oth": "2026",
+
+"mpn": "Bob Ainsworth",
+
+});
+

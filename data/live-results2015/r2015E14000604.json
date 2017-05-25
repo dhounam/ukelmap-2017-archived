@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bromley and Chislehurst",
+"id": "E14000604",
+"region": "London",
+"turnout": "44066",
+"electorate": "65476",
+"win": "con",
+"swing": "3.09",
+"status": "hold",
+"con": "23343",
+"lab": "9779",
+"lib": "2836",
+"grn": "1823",
+"ukp": "6285",
+"mpn": "Bob Neill"
+});

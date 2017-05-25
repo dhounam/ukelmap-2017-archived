@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Mole Valley",
+
+"id": "E14000824",
+
+"region": "South East",
+
+"turnout": "54324",
+
+"electorate": "72612",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.244,
+
+"hpr": 18.4742613403602,
+
+"sal": -1.12963959117805,
+
+"ele": 1.200943,
+
+"con": "31263",
+
+"lab": "3804",
+
+"lib": "15610",
+
+"grn": "895",
+
+"ukp": "2752",
+
+"mpn": "Sir Paul Beresford",
+
+});
+

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Moray",
+
+"id": "S14000046",
+
+"region": "Scotland",
+
+"turnout": "41004",
+
+"electorate": "65925",
+
+"win": "snp",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 6.66111586678662,
+
+"sal": 6.66666666666667,
+
+"ele": 8.266711,
+
+"con": "10683",
+
+"lab": "7007",
+
+"lib": "5956",
+
+"ukp": "1085",
+
+"snp": "16273",
+
+"mpn": "Angus Robertson",
+
+});
+

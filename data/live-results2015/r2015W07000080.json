@@ -1,0 +1,18 @@
+resultCB({
+"name": "Cardiff South and Penarth",
+"id": "W07000080",
+"region": "Wales",
+"turnout": "46667",
+"electorate": "75714",
+"win": "lab",
+"swing": "2.68",
+"status": "hold",
+"con": "12513",
+"lab": "19966",
+"lib": "2318",
+"grn": "1746",
+"ukp": "6423",
+"plc": "3443",
+"oth": "258",
+"mpn": "Stephen Doughty"
+});

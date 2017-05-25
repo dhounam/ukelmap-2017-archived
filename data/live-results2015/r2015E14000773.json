@@ -1,0 +1,17 @@
+resultCB({
+"name": "Kingston upon Hull West and Hessle",
+"id": "E14000773",
+"region": "Yorkshire",
+"turnout": "31803",
+"electorate": "59008",
+"win": "lab",
+"swing": "3.88",
+"status": "hold",
+"con": "5561",
+"lab": "15646",
+"lib": "3169",
+"grn": "943",
+"ukp": "6313",
+"oth": "171",
+"mpn": "Alan Johnson"
+});

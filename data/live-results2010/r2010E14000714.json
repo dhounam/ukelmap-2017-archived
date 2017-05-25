@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Grantham & Stamford",
+
+"id": "E14000714",
+
+"region": "East Midlands",
+
+"turnout": "52799",
+
+"electorate": "78000",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.783,
+
+"hpr": 10.6666773850885,
+
+"sal": -8.50111856823266,
+
+"ele": 1.267794,
+
+"con": "26552",
+
+"lab": "9503",
+
+"lib": "11726",
+
+"ukp": "1604",
+
+"bnp": "2485",
+
+"oth": "929",
+
+"mpn": "Nicholas Boles",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Gower",
+
+"id": "W07000046",
+
+"region": "Wales",
+
+"turnout": "41671",
+
+"electorate": "61696",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.945,
+
+"hpr": 0.750761059509486,
+
+"sal": 1.09207708779444,
+
+"ele": -1.46206,
+
+"con": "13333",
+
+"lab": "16016",
+
+"lib": "7947",
+
+"ukp": "652",
+
+"bnp": "963",
+
+"plc": "2760",
+
+"mpn": "Martin Caton",
+
+});
+

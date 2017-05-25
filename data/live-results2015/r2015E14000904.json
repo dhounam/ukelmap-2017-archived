@@ -1,0 +1,17 @@
+resultCB({
+"name": "Rotherham",
+"id": "E14000904",
+"region": "Yorkshire",
+"turnout": "37823",
+"electorate": "63698",
+"win": "lab",
+"swing": "8.19",
+"status": "hold",
+"con": "4656",
+"lab": "19860",
+"lib": "1093",
+"ukp": "11414",
+"bnp": "225",
+"oth": "575",
+"mpn": "Sarah Champion"
+});

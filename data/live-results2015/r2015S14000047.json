@@ -1,0 +1,16 @@
+resultCB({
+"name": "Motherwell and Wishaw",
+"id": "S14000047",
+"region": "Scotland",
+"turnout": "48237",
+"electorate": "70269",
+"win": "snp",
+"swing": "33.81",
+"status": "gain",
+"con": "3695",
+"lab": "15377",
+"lib": "601",
+"ukp": "1289",
+"snp": "27275",
+"mpn": "Marion Fellows"
+});

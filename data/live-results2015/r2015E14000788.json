@@ -1,0 +1,18 @@
+resultCB({
+"name": "Lewisham West and Penge",
+"id": "E14000788",
+"region": "London",
+"turnout": "48125",
+"electorate": "72289",
+"win": "lab",
+"swing": "5.42",
+"status": "hold",
+"con": "11633",
+"lab": "24347",
+"lib": "3709",
+"grn": "4077",
+"ukp": "3764",
+"ind": "204",
+"oth": "391",
+"mpn": "Jim Dowd"
+});

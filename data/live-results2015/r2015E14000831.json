@@ -1,0 +1,16 @@
+resultCB({
+"name": "Newcastle upon Tyne Central",
+"id": "E14000831",
+"region": "North East",
+"turnout": "35085",
+"electorate": "61061",
+"win": "lab",
+"swing": "4.76",
+"status": "hold",
+"con": "6628",
+"lab": "19301",
+"lib": "2218",
+"grn": "1724",
+"ukp": "5214",
+"mpn": "Chi Onwurah"
+});

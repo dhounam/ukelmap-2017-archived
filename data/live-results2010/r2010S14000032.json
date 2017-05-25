@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Glasgow, North East",
+
+"id": "S14000032",
+
+"region": "Scotland",
+
+"turnout": "29409",
+
+"electorate": "59859",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": -7.70280352320518,
+
+"sal": -0.327932098765416,
+
+"ele": 9.401524,
+
+"con": "1569",
+
+"lab": "20100",
+
+"lib": "2262",
+
+"bnp": "798",
+
+"snp": "4158",
+
+"oth": "522",
+
+"mpn": "Willie Bain",
+
+});
+

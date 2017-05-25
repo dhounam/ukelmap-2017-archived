@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Croydon, South",
+
+"id": "E14000656",
+
+"region": "London",
+
+"turnout": "56322",
+
+"electorate": "81301",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.052,
+
+"hpr": 20.7655322927352,
+
+"sal": 6.233303650935,
+
+"ele": -0.14484,
+
+"con": "28684",
+
+"lab": "11287",
+
+"lib": "12866",
+
+"grn": "981",
+
+"ukp": "2504",
+
+"mpn": "Richard Ottaway",
+
+});
+

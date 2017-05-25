@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Pudsey",
+
+"id": "E14000886",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "49083",
+
+"electorate": "69257",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.743,
+
+"hpr": 9.36907552647715,
+
+"sal": 6.17954911433172,
+
+"ele": 0.189287,
+
+"con": "18874",
+
+"lab": "17215",
+
+"lib": "10224",
+
+"ukp": "1221",
+
+"bnp": "1549",
+
+"mpn": "Stuart Andrew",
+
+});
+

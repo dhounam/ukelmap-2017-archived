@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Barnsley, East",
+
+"id": "E14000542",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "38386",
+
+"electorate": "68435",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.963,
+
+"hpr": 3.33341359693762,
+
+"sal": 4.86276204884375,
+
+"ele": 1.123348,
+
+"con": "6329",
+
+"lab": "18059",
+
+"lib": "6969",
+
+"ukp": "1731",
+
+"bnp": "3301",
+
+"ind": "684",
+
+"oth": "1313",
+
+"mpn": "Michael Dugher",
+
+});
+

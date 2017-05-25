@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Derbyshire, North East",
+
+"id": "E14000843",
+
+"region": "East Midlands",
+
+"turnout": "47034",
+
+"electorate": "71422",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.284,
+
+"hpr": 6.06334029268474,
+
+"sal": -10.5530584326754,
+
+"ele": -0.97296,
+
+"con": "15503",
+
+"lab": "17948",
+
+"lib": "10947",
+
+"ukp": "2636",
+
+"mpn": "Natascha Engel",
+
+});
+

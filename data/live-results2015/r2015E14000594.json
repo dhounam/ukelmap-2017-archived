@@ -1,0 +1,17 @@
+resultCB({
+"name": "Brentwood and Ongar",
+"id": "E14000594",
+"region": "East Anglia",
+"turnout": "51897",
+"electorate": "72461",
+"win": "con",
+"swing": "5.43",
+"status": "hold",
+"con": "30534",
+"lab": "6492",
+"lib": "4577",
+"grn": "1397",
+"ukp": "8724",
+"oth": "173",
+"mpn": "Eric Pickles"
+});

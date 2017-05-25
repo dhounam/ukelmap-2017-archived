@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Enfield, North",
+
+"id": "E14000691",
+
+"region": "London",
+
+"turnout": "44453",
+
+"electorate": "66258",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.905,
+
+"hpr": 26.3976047306005,
+
+"sal": -6.58561296859169,
+
+"ele": 1.335574,
+
+"con": "18804",
+
+"lab": "17112",
+
+"lib": "5403",
+
+"grn": "489",
+
+"ukp": "938",
+
+"bnp": "1228",
+
+"ind": "91",
+
+"oth": "388",
+
+"mpn": "Nick de Bois",
+
+});
+

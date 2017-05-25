@@ -1,0 +1,18 @@
+resultCB({
+"name": "Halifax",
+"id": "E14000723",
+"region": "Yorkshire",
+"turnout": "43753",
+"electorate": "70461",
+"win": "lab",
+"swing": "1.2",
+"status": "hold",
+"con": "17078",
+"lab": "17506",
+"lib": "1629",
+"grn": "1142",
+"ukp": "5621",
+"res": "465",
+"oth": "312",
+"mpn": "Holly Lynch"
+});

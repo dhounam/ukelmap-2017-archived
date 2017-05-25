@@ -1,0 +1,17 @@
+resultCB({
+"name": "East Yorkshire",
+"id": "E14000683",
+"region": "Yorkshire",
+"turnout": "49991",
+"electorate": "81030",
+"win": "con",
+"swing": "1.35",
+"status": "hold",
+"con": "25276",
+"lab": "10343",
+"lib": "2966",
+"grn": "1731",
+"ukp": "8955",
+"oth": "720",
+"mpn": "Greg Knight"
+});

@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Chingford & Woodford Green",
+
+"id": "E14000634",
+
+"region": "London",
+
+"turnout": "43106",
+
+"electorate": "64831",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.481,
+
+"hpr": 31.052778386916,
+
+"sal": -15.6120331950207,
+
+"ele": 0.432072,
+
+"con": "22743",
+
+"lab": "9780",
+
+"lib": "7242",
+
+"grn": "650",
+
+"ukp": "1133",
+
+"bnp": "1288",
+
+"ind": "202",
+
+"oth": "68",
+
+"mpn": "Iain Duncan Smith",
+
+});
+

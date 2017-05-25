@@ -1,0 +1,16 @@
+resultCB({
+"name": "Thornbury and Yate",
+"id": "E14000994",
+"region": "South West",
+"turnout": "48570",
+"electorate": "65884",
+"win": "con",
+"swing": "8.92",
+"status": "gain",
+"con": "19924",
+"lab": "3775",
+"lib": "18429",
+"grn": "1316",
+"ukp": "5126",
+"mpn": "Luke Hall"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Blackley and Broughton",
+"id": "E14000571",
+"region": "North West",
+"turnout": "37112",
+"electorate": "71900",
+"win": "lab",
+"swing": "3.09",
+"status": "hold",
+"con": "5581",
+"lab": "22982",
+"lib": "874",
+"grn": "1567",
+"ukp": "6108",
+"mpn": "Graham Stringer"
+});

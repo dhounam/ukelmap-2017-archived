@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Harwich & Essex North",
+
+"id": "E14000734",
+
+"region": "East Of England",
+
+"turnout": "49000",
+
+"electorate": "70743",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.59,
+
+"hpr": 10.1073661040046,
+
+"sal": -0.761113994118659,
+
+"ele": -4.50899,
+
+"con": "23001",
+
+"lab": "9774",
+
+"lib": "11554",
+
+"grn": "909",
+
+"ukp": "2527",
+
+"bnp": "1065",
+
+"ind": "170",
+
+"mpn": "Bernard Jenkin",
+
+});
+

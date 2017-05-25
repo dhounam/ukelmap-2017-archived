@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Morley & Outwood",
+
+"id": "E14000826",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "48856",
+
+"electorate": "74200",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.34,
+
+"hpr": 6.94927787224134,
+
+"sal": 0,
+
+"ele": 0.771947,
+
+"con": "17264",
+
+"lab": "18365",
+
+"lib": "8186",
+
+"ukp": "1506",
+
+"bnp": "3535",
+
+"mpn": "Ed Balls",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Hornsey and Wood Green",
+"id": "E14000752",
+"region": "London",
+"turnout": "57785",
+"electorate": "79241",
+"win": "lab",
+"swing": "15.81",
+"status": "gain",
+"con": "5347",
+"lab": "29417",
+"lib": "18359",
+"grn": "3146",
+"ukp": "1271",
+"oth": "245",
+"mpn": "Catherine West"
+});

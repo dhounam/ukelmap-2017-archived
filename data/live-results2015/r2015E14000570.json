@@ -1,0 +1,15 @@
+resultCB({
+"name": "Blackburn",
+"id": "E14000570",
+"region": "North West",
+"turnout": "43999",
+"electorate": "73265",
+"win": "lab",
+"swing": "3.67",
+"status": "hold",
+"con": "12002",
+"lab": "24762",
+"lib": "955",
+"ukp": "6280",
+"mpn": "Kate Hollern"
+});

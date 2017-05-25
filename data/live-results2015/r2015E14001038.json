@@ -1,0 +1,17 @@
+resultCB({
+"name": "Weston-Super-Mare",
+"id": "E14001038",
+"region": "South West",
+"turnout": "52552",
+"electorate": "79493",
+"win": "con",
+"swing": "1.83",
+"status": "hold",
+"con": "25203",
+"lab": "9594",
+"lib": "5486",
+"grn": "2592",
+"ukp": "9366",
+"oth": "311",
+"mpn": "John Penrose"
+});

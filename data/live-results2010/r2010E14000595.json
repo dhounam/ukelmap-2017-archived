@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bridgwater & Somerset West",
+
+"id": "E14000595",
+
+"region": "South West",
+
+"turnout": "54493",
+
+"electorate": "76560",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.111,
+
+"hpr": 4.22960737821437,
+
+"sal": 8.69130869130869,
+
+"ele": -1.31788,
+
+"con": "24675",
+
+"lab": "9332",
+
+"lib": "15426",
+
+"grn": "859",
+
+"ukp": "2604",
+
+"bnp": "1282",
+
+"ind": "315",
+
+"mpn": "Ian Liddell-Grainger",
+
+});
+

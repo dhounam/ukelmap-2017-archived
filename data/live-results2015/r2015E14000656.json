@@ -1,0 +1,17 @@
+resultCB({
+"name": "Croydon South",
+"id": "E14000656",
+"region": "London",
+"turnout": "57712",
+"electorate": "82010",
+"win": "con",
+"swing": "0.59",
+"status": "hold",
+"con": "31448",
+"lab": "14308",
+"lib": "3448",
+"grn": "2154",
+"ukp": "6068",
+"oth": "286",
+"mpn": "Chris Philp"
+});

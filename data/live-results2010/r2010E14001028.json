@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Wentworth & Dearne",
+
+"id": "E14001028",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "42106",
+
+"electorate": "72586",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.259,
+
+"hpr": 10.3397229677046,
+
+"sal": 4.39535413345477,
+
+"ele": 2.67448,
+
+"con": "7396",
+
+"lab": "21316",
+
+"lib": "6787",
+
+"ukp": "3418",
+
+"bnp": "3189",
+
+"mpn": "John Healey",
+
+});
+

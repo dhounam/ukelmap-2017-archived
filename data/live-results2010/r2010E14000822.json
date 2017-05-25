@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Milton Keynes, South",
+
+"id": "E14000822",
+
+"region": "South East",
+
+"turnout": "55333",
+
+"electorate": "90487",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.504,
+
+"hpr": 29.5774297420395,
+
+"sal": 15.0933609958506,
+
+"ele": 1.302632,
+
+"con": "23034",
+
+"lab": "17833",
+
+"lib": "9787",
+
+"grn": "774",
+
+"ukp": "2074",
+
+"bnp": "1502",
+
+"oth": "329",
+
+"mpn": "Iain Stewart",
+
+});
+

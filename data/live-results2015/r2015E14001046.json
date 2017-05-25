@@ -1,0 +1,18 @@
+resultCB({
+"name": "Witney",
+"id": "E14001046",
+"region": "South East",
+"turnout": "58482",
+"electorate": "79767",
+"win": "con",
+"swing": "1.4",
+"status": "hold",
+"con": "35201",
+"lab": "10046",
+"lib": "3953",
+"grn": "2970",
+"ukp": "5352",
+"ind": "94",
+"oth": "866",
+"mpn": "David Cameron"
+});

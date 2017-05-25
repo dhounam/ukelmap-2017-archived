@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Wealden",
+
+"id": "E14001023",
+
+"region": "South East",
+
+"turnout": "54969",
+
+"electorate": "76537",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.858,
+
+"hpr": 13.0244706333614,
+
+"sal": 15.8205689277899,
+
+"ele": 3.309264,
+
+"con": "31090",
+
+"lab": "5266",
+
+"lib": "13911",
+
+"grn": "1383",
+
+"ukp": "3319",
+
+"mpn": "Charles Hendry",
+
+});
+

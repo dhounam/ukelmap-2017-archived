@@ -1,0 +1,17 @@
+resultCB({
+"name": "Rugby",
+"id": "E14000905",
+"region": "West Midlands",
+"turnout": "49006",
+"electorate": "79557",
+"win": "con",
+"swing": "4.23",
+"status": "hold",
+"con": "24040",
+"lab": "13695",
+"lib": "2776",
+"grn": "1415",
+"ukp": "6855",
+"oth": "225",
+"mpn": "Mark Pawsey"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Crewe & Nantwich",
+
+"id": "E14000653",
+
+"region": "North West",
+
+"turnout": "51084",
+
+"electorate": "77460",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.645,
+
+"hpr": 1.34157644395376,
+
+"sal": 5.20770010131713,
+
+"ele": -9.09021,
+
+"con": "23420",
+
+"lab": "17374",
+
+"lib": "7656",
+
+"ukp": "1414",
+
+"bnp": "1043",
+
+"ind": "177",
+
+"mpn": "Edward Timpson",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Linlithgow and East Falkirk",
+"id": "S14000043",
+"region": "Scotland",
+"turnout": "61597",
+"electorate": "86955",
+"win": "snp",
+"swing": "22.7",
+"status": "gain",
+"con": "7384",
+"lab": "19121",
+"lib": "1252",
+"ukp": "1682",
+"snp": "32055",
+"oth": "103",
+"mpn": "Martyn Day"
+});

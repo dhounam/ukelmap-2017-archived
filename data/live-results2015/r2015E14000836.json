@@ -1,0 +1,15 @@
+resultCB({
+"name": "Normanton, Pontefract and Castleford",
+"id": "E14000836",
+"region": "Yorkshire And The Humber",
+"turnout": "45897",
+"electorate": "82592",
+"win": "lab",
+"swing": "",
+"status": "hold",
+"con": "9569",
+"lab": "25213",
+"lib": "1330",
+"ukp": "9785",
+"mpn": "Yvette Cooper"
+});

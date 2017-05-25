@@ -1,0 +1,18 @@
+resultCB({
+"name": "Aberdeen South",
+"id": "S14000002",
+"region": "Scotland",
+"turnout": "48551",
+"electorate": "68056",
+"win": "snp",
+"swing": "19.78",
+"status": "gain",
+"con": "11087",
+"lab": "12991",
+"lib": "2252",
+"grn": "964",
+"ukp": "897",
+"snp": "20221",
+"ind": "139",
+"mpn": "Callum McCaig"
+});

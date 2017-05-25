@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Angus",
+
+"id": "S14000004",
+
+"region": "Scotland",
+
+"turnout": "37960",
+
+"electorate": "62863",
+
+"win": "snp",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": 7.79850058586948,
+
+"sal": 2.105029913583,
+
+"ele": 3.70048,
+
+"con": "11738",
+
+"lab": "6535",
+
+"lib": "4090",
+
+"ukp": "577",
+
+"snp": "15020",
+
+"mpn": "Mike Weir",
+
+});
+

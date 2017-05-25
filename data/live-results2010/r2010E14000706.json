@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Fylde",
+
+"id": "E14000706",
+
+"region": "North West",
+
+"turnout": "43690",
+
+"electorate": "65917",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.975,
+
+"hpr": 2.95673628029948,
+
+"sal": 5.86552217453504,
+
+"ele": -3.04097,
+
+"con": "22826",
+
+"lab": "8624",
+
+"lib": "9641",
+
+"grn": "654",
+
+"ukp": "1945",
+
+"mpn": "Mark Menzies",
+
+});
+

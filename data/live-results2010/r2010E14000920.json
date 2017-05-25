@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Sheffield, South East",
+
+"id": "E14000920",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "41408",
+
+"electorate": "67284",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.473,
+
+"hpr": 5.67392468311243,
+
+"sal": 16.3904653802497,
+
+"ele": 4.612684,
+
+"con": "7202",
+
+"lab": "20169",
+
+"lib": "9664",
+
+"ukp": "1889",
+
+"bnp": "2345",
+
+"oth": "139",
+
+"mpn": "Clive Betts",
+
+});
+

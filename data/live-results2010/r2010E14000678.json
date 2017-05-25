@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Devon, East",
+
+"id": "E14000678",
+
+"region": "South West",
+
+"turnout": "53092",
+
+"electorate": "73109",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.705,
+
+"hpr": 8.92793986038119,
+
+"sal": 19.9471016089927,
+
+"ele": -0.06463,
+
+"con": "25662",
+
+"lab": "5721",
+
+"lib": "16548",
+
+"grn": "815",
+
+"ukp": "4346",
+
+"mpn": "Hugo Swire",
+
+});
+

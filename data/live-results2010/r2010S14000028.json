@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Falkirk",
+
+"id": "S14000028",
+
+"region": "Scotland",
+
+"turnout": "50777",
+
+"electorate": "81869",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 3.86137805619329,
+
+"sal": 2.03016241299304,
+
+"ele": -2.84757,
+
+"con": "5698",
+
+"lab": "23207",
+
+"lib": "5225",
+
+"ukp": "1283",
+
+"snp": "15364",
+
+"mpn": "Eric Joyce",
+
+});
+

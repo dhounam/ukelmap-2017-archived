@@ -1,0 +1,39 @@
+resultCB({
+
+"name": "Rochester & Strood",
+
+"id": "E14000898",
+
+"region": "South East",
+
+"turnout": "48259",
+
+"electorate": "79163",
+
+"win": "ukp",
+
+"marginal": "True",
+
+"pop": 3.897,
+
+"hpr": 22.3110763479829,
+
+"sal": 8.03448951597099,
+
+"ele": 3.837402,
+
+"con": "13947",
+
+"lab": "6713",
+
+"lib": "349",
+
+"grn": "1692",
+
+"ukp": "16867",
+
+"oth": "497",
+
+"mpn": "Mark Reckless",
+
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Denton & Reddish",
+
+"id": "E14000661",
+
+"region": "North West",
+
+"turnout": "37635",
+
+"electorate": "64765",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.581,
+
+"hpr": 7.62584830621297,
+
+"sal": -2.27481617647058,
+
+"ele": 1.056463,
+
+"con": "9360",
+
+"lab": "19191",
+
+"lib": "6727",
+
+"ukp": "2060",
+
+"ind": "297",
+
+"mpn": "Andrew Gwynne",
+
+});
+

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Portsmouth, South",
+
+"id": "E14000884",
+
+"region": "South East",
+
+"turnout": "41264",
+
+"electorate": "70242",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 2.713,
+
+"hpr": 13.4762912893449,
+
+"sal": 1.6,
+
+"ele": -0.956,
+
+"con": "13721",
+
+"lab": "5640",
+
+"lib": "18921",
+
+"grn": "716",
+
+"ukp": "876",
+
+"bnp": "873",
+
+"oth": "517",
+
+"mpn": "Mike Hancock",
+
+});
+

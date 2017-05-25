@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Rayleigh & Wickford",
+
+"id": "E14000888",
+
+"region": "East Of England",
+
+"turnout": "52343",
+
+"electorate": "75905",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.423,
+
+"hpr": 21.3387181788972,
+
+"sal": -11.4601927882899,
+
+"ele": 2.062251,
+
+"con": "30257",
+
+"lab": "7577",
+
+"lib": "7919",
+
+"ukp": "2211",
+
+"bnp": "2160",
+
+"oth": "2219",
+
+"mpn": "Mark Francois",
+
+});
+

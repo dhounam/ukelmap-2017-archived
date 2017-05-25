@@ -1,0 +1,17 @@
+resultCB({
+"name": "Northampton South",
+"id": "E14000862",
+"region": "East Midlands",
+"turnout": "38884",
+"electorate": "61284",
+"win": "con",
+"swing": "2.82",
+"status": "hold",
+"con": "16163",
+"lab": "12370",
+"lib": "1673",
+"grn": "1403",
+"ukp": "7114",
+"ind": "161",
+"mpn": "David Mackintosh"
+});

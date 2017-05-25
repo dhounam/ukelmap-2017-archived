@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Dorset, North",
+
+"id": "E14000839",
+
+"region": "South West",
+
+"turnout": "54141",
+
+"electorate": "73698",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.125,
+
+"hpr": 9.24266565296981,
+
+"sal": 6.08945969884853,
+
+"ele": -1.94513,
+
+"con": "27640",
+
+"lab": "2910",
+
+"lib": "20015",
+
+"grn": "546",
+
+"ukp": "2812",
+
+"oth": "218",
+
+"mpn": "Bob Walter",
+
+});
+

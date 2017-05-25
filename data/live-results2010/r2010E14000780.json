@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Leeds, North West",
+
+"id": "E14000780",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "43483",
+
+"electorate": "65399",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": -0.613,
+
+"hpr": 9.79843219002731,
+
+"sal": 11.377694470478,
+
+"ele": -14.8237,
+
+"con": "11550",
+
+"lab": "9132",
+
+"lib": "20653",
+
+"grn": "508",
+
+"ukp": "600",
+
+"bnp": "766",
+
+"oth": "274",
+
+"mpn": "Greg Mulholland",
+
+});
+

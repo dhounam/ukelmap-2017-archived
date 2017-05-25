@@ -1,0 +1,16 @@
+resultCB({
+"name": "Ashton-under-Lyne",
+"id": "E14000537",
+"region": "North West",
+"turnout": "38918",
+"electorate": "67714",
+"win": "lab",
+"swing": "1.99",
+"status": "hold",
+"con": "8610",
+"lab": "19366",
+"lib": "943",
+"grn": "1531",
+"ukp": "8468",
+"mpn": "Angela Rayner"
+});

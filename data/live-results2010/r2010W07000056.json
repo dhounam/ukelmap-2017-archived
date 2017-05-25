@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Newport, West",
+
+"id": "W07000056",
+
+"region": "Wales",
+
+"turnout": "39720",
+
+"electorate": "62111",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.735,
+
+"hpr": 10.4012571725914,
+
+"sal": -4.65606438014945,
+
+"ele": -2.02238,
+
+"con": "12845",
+
+"lab": "16389",
+
+"lib": "6587",
+
+"grn": "450",
+
+"ukp": "1144",
+
+"bnp": "1183",
+
+"plc": "1122",
+
+"mpn": "Paul Flynn",
+
+});
+

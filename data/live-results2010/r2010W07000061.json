@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Dwyfor Meirionnydd",
+
+"id": "W07000061",
+
+"region": "Wales",
+
+"turnout": "28906",
+
+"electorate": "45354",
+
+"win": "plc",
+
+"marginal": "False",
+
+"pop": -0.234,
+
+"hpr": -2.51361213438108,
+
+"sal": -2.66373411534701,
+
+"ele": -5.47596,
+
+"con": "6447",
+
+"lab": "4021",
+
+"lib": "3538",
+
+"ukp": "776",
+
+"plc": "12814",
+
+"ind": "1310",
+
+"mpn": "Elfyn Llwyd",
+
+});
+

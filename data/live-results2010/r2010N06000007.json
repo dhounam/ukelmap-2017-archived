@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Fermanagh & South Tyrone",
+
+"id": "N06000007",
+
+"region": "Northern Ireland",
+
+"turnout": "46803",
+
+"electorate": "67908",
+
+"win": "snf",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 3.187728,
+
+"ind": "21300",
+
+"snf": "21304",
+
+"sdl": "3574",
+
+"oth": "625",
+
+"mpn": "Michelle Gildernew",
+
+});
+

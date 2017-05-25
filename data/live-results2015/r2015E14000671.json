@@ -1,0 +1,17 @@
+resultCB({
+"name": "Dudley North",
+"id": "E14000671",
+"region": "West Midlands",
+"turnout": "38018",
+"electorate": "60718",
+"win": "lab",
+"swing": "4.62",
+"status": "hold",
+"con": "11730",
+"lab": "15885",
+"lib": "478",
+"grn": "517",
+"ukp": "9113",
+"oth": "295",
+"mpn": "Ian Austin"
+});

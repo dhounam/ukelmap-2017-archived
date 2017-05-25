@@ -1,0 +1,17 @@
+resultCB({
+"name": "York Central",
+"id": "E14001061",
+"region": "Yorkshire And The Humber",
+"turnout": "47677",
+"electorate": "75351",
+"win": "lab",
+"swing": "0.1",
+"status": "hold",
+"con": "13496",
+"lab": "20212",
+"lib": "3804",
+"grn": "4791",
+"ukp": "4795",
+"oth": "579",
+"mpn": "Rachael Maskell"
+});

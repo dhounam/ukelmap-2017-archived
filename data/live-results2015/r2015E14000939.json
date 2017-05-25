@@ -1,0 +1,16 @@
+resultCB({
+"name": "South Holland and The Deepings",
+"id": "E14000939",
+"region": "East Midlands",
+"turnout": "49207",
+"electorate": "77015",
+"win": "con",
+"swing": "7.43",
+"status": "hold",
+"con": "29303",
+"lab": "6122",
+"lib": "1466",
+"grn": "1580",
+"ukp": "10736",
+"mpn": "John Hayes"
+});

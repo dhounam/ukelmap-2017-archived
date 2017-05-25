@@ -1,0 +1,17 @@
+resultCB({
+"name": "Greenwich and Woolwich",
+"id": "E14000718",
+"region": "London",
+"turnout": "46716",
+"electorate": "73315",
+"win": "lab",
+"swing": "0.46",
+"status": "hold",
+"con": "12438",
+"lab": "24384",
+"lib": "2645",
+"grn": "2991",
+"ukp": "3888",
+"oth": "370",
+"mpn": "Matthew Pennycook"
+});

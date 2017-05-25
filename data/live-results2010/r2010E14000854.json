@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Warwickshire, North",
+
+"id": "E14000854",
+
+"region": "West Midlands",
+
+"turnout": "47265",
+
+"electorate": "70143",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.335,
+
+"hpr": 5.73852446310295,
+
+"sal": -3.00288739172282,
+
+"ele": -1.88454,
+
+"con": "18993",
+
+"lab": "18939",
+
+"lib": "5481",
+
+"ukp": "1335",
+
+"bnp": "2106",
+
+"oth": "411",
+
+"mpn": "Dan Byles",
+
+});
+

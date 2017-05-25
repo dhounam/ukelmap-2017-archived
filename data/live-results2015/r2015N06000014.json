@@ -1,0 +1,17 @@
+resultCB({
+"name": "South Antrim",
+"id": "N06000014",
+"region": "Northern Ireland",
+"turnout": "36523",
+"electorate": "67423",
+"win": "uup",
+"swing": "",
+"status": "gain",
+"con": "415",
+"snf": "4699",
+"sdl": "2990",
+"dup": "10993",
+"uup": "11942",
+"oth": "5484",
+"mpn": "Danny Kinahan"
+});

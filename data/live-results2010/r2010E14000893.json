@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Reigate",
+
+"id": "E14000893",
+
+"region": "South East",
+
+"turnout": "49978",
+
+"electorate": "71604",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.935,
+
+"hpr": 20.2002655185836,
+
+"sal": 1.51228733459357,
+
+"ele": 2.180169,
+
+"con": "26688",
+
+"lab": "5672",
+
+"lib": "13097",
+
+"grn": "1087",
+
+"ukp": "2089",
+
+"bnp": "1345",
+
+"mpn": "Crispin Blunt",
+
+});
+

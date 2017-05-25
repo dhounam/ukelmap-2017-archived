@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Chorley",
+
+"id": "E14000637",
+
+"region": "North West",
+
+"turnout": "49774",
+
+"electorate": "70950",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 4.331,
+
+"hpr": 2.92164474071721,
+
+"sal": -2.01516360734237,
+
+"ele": 1.792034,
+
+"con": "18922",
+
+"lab": "21515",
+
+"lib": "6957",
+
+"ukp": "2021",
+
+"ind": "359",
+
+"mpn": "Lindsay Hoyle",
+
+});
+

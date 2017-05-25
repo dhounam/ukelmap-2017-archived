@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Rhondda",
+
+"id": "W07000052",
+
+"region": "Wales",
+
+"turnout": "31072",
+
+"electorate": "51554",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": -0.168,
+
+"hpr": -1.21891747263494,
+
+"sal": 1.51874703369721,
+
+"ele": -0.14505,
+
+"con": "1993",
+
+"lab": "17183",
+
+"lib": "3309",
+
+"ukp": "358",
+
+"plc": "5630",
+
+"ind": "2599",
+
+"mpn": "Chris Bryant",
+
+});
+

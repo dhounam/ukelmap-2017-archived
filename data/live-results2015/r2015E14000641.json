@@ -1,0 +1,17 @@
+resultCB({
+"name": "City of Durham",
+"id": "E14000641",
+"region": "North East",
+"turnout": "45669",
+"electorate": "68741",
+"win": "lab",
+"swing": "2.99",
+"status": "hold",
+"con": "10157",
+"lab": "21596",
+"lib": "5153",
+"grn": "2687",
+"ukp": "5232",
+"ind": "844",
+"mpn": "Roberta Blackman-Woods"
+});

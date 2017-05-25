@@ -1,0 +1,16 @@
+resultCB({
+"name": "Reading East",
+"id": "E14000889",
+"region": "South East",
+"turnout": "50494",
+"electorate": "74651",
+"win": "con",
+"swing": "2.09",
+"status": "hold",
+"con": "23217",
+"lab": "16697",
+"lib": "3719",
+"grn": "3214",
+"ukp": "3647",
+"mpn": "Rob Wilson"
+});

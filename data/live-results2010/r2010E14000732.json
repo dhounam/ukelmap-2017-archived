@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Harrow, West",
+
+"id": "E14000732",
+
+"region": "London",
+
+"turnout": "46116",
+
+"electorate": "71510",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.297,
+
+"hpr": 39.491596312515,
+
+"sal": -5.92025074003134,
+
+"ele": -0.8262,
+
+"con": "16968",
+
+"lab": "20111",
+
+"lib": "7458",
+
+"grn": "625",
+
+"ukp": "954",
+
+"mpn": "Gareth Thomas",
+
+});
+

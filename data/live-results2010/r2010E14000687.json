@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Edmonton",
+
+"id": "E14000687",
+
+"region": "London",
+
+"turnout": "40377",
+
+"electorate": "63902",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 5.241,
+
+"hpr": 26.8434748711257,
+
+"sal": -12.5064688632051,
+
+"ele": 2.442599,
+
+"con": "12052",
+
+"lab": "21665",
+
+"lib": "4252",
+
+"grn": "516",
+
+"ukp": "1036",
+
+"ind": "127",
+
+"oth": "729",
+
+"mpn": "Andy Love",
+
+});
+

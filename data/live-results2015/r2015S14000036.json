@@ -1,0 +1,15 @@
+resultCB({
+"name": "Glenrothes",
+"id": "S14000036",
+"region": "Scotland",
+"turnout": "47598",
+"electorate": "69781",
+"win": "snp",
+"swing": "34.9",
+"status": "gain",
+"con": "3685",
+"lab": "14562",
+"lib": "892",
+"snp": "28459",
+"mpn": "Peter Grant"
+});

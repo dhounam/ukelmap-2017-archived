@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Somerset, North",
+
+"id": "E14000850",
+
+"region": "South West",
+
+"turnout": "57941",
+
+"electorate": "77304",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.643,
+
+"hpr": 17.4377346917224,
+
+"sal": -3.22909585316111,
+
+"ele": 2.14906,
+
+"con": "28549",
+
+"lab": "6448",
+
+"lib": "20687",
+
+"ukp": "2257",
+
+"mpn": "Dr Liam Fox",
+
+});
+

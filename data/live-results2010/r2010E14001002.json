@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Tottenham",
+
+"id": "E14001002",
+
+"region": "London",
+
+"turnout": "40687",
+
+"electorate": "69933",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.664,
+
+"hpr": 53.0943360993139,
+
+"sal": -8.17114363841081,
+
+"ele": -4.63432,
+
+"con": "6064",
+
+"lab": "24128",
+
+"lib": "7197",
+
+"grn": "980",
+
+"ukp": "466",
+
+"ind": "125",
+
+"oth": "1727",
+
+"mpn": "David Lammy",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "West Bromwich West",
+"id": "E14001030",
+"region": "West Midlands",
+"turnout": "35026",
+"electorate": "65533",
+"win": "lab",
+"swing": "9.26",
+"status": "hold",
+"con": "8365",
+"lab": "16578",
+"lib": "550",
+"grn": "697",
+"ukp": "8836",
+"mpn": "Adrian Bailey"
+});

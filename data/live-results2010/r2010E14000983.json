@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Surrey Heath",
+
+"id": "E14000983",
+
+"region": "South East",
+
+"turnout": "54347",
+
+"electorate": "77690",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.427,
+
+"hpr": 20.018723235165,
+
+"sal": 6.78162825402089,
+
+"ele": 0.65553,
+
+"con": "31326",
+
+"lab": "5552",
+
+"lib": "14037",
+
+"ukp": "3432",
+
+"mpn": "Michael Gove",
+
+});
+

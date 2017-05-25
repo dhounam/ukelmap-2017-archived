@@ -1,0 +1,17 @@
+resultCB({
+"name": "Sheffield Central",
+"id": "E14000919",
+"region": "Yorkshire",
+"turnout": "44173",
+"electorate": "77014",
+"win": "lab",
+"swing": "0.8",
+"status": "hold",
+"con": "4917",
+"lab": "24308",
+"lib": "4278",
+"grn": "6999",
+"ukp": "3296",
+"oth": "375",
+"mpn": "Paul Blomfield"
+});

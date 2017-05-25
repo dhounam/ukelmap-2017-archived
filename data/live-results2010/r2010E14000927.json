@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Sittingbourne & Sheppey",
+
+"id": "E14000927",
+
+"region": "South East",
+
+"turnout": "48578",
+
+"electorate": "75354",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.591,
+
+"hpr": 13.5683496607278,
+
+"sal": 2.12102308172177,
+
+"ele": -3.83266,
+
+"con": "24313",
+
+"lab": "11930",
+
+"lib": "7943",
+
+"ukp": "2610",
+
+"bnp": "1305",
+
+"ind": "158",
+
+"oth": "319",
+
+"mpn": "Gordon Henderson",
+
+});
+

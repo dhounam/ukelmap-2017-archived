@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Edinburgh, South",
+
+"id": "S14000024",
+
+"region": "Scotland",
+
+"turnout": "43801",
+
+"electorate": "59354",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": 5.72815941205221,
+
+"sal": 8.59919028340082,
+
+"ele": 8.957508,
+
+"con": "9452",
+
+"lab": "15215",
+
+"lib": "14899",
+
+"grn": "881",
+
+"snp": "3354",
+
+"mpn": "Ian Murray",
+
+});
+

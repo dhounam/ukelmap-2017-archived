@@ -1,0 +1,17 @@
+resultCB({
+"name": "Ealing North",
+"id": "E14000675",
+"region": "London",
+"turnout": "48510",
+"electorate": "73836",
+"win": "lab",
+"swing": "2.95",
+"status": "hold",
+"con": "14419",
+"lab": "26745",
+"lib": "1575",
+"grn": "1635",
+"ukp": "3922",
+"oth": "214",
+"mpn": "Stephen Pound"
+});

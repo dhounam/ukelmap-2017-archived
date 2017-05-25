@@ -1,0 +1,17 @@
+resultCB({
+"name": "Mitcham and Morden",
+"id": "E14000823",
+"region": "London",
+"turnout": "45142",
+"electorate": "68474",
+"win": "lab",
+"swing": "3.14",
+"status": "hold",
+"con": "10458",
+"lab": "27380",
+"lib": "1378",
+"grn": "1422",
+"ukp": "4287",
+"oth": "217",
+"mpn": "Siobhain McDonagh"
+});

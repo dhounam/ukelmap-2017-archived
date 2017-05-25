@@ -11,7 +11,7 @@ var mnv_ukelmap = mnv_ukelmap || {};
     mnv_ukelmap.datafilter.filterResults(null, arguments[0], key, makeObj, makeArray);
   }
 // 2010 results
-  function results2010BasicCB() {
+  function seatsAndWinners2010CB() {
     var key, makeObj, makeArray;
     key = "results2010";
     makeObj = true;
@@ -19,7 +19,7 @@ var mnv_ukelmap = mnv_ukelmap || {};
     mnv_ukelmap.datafilter.filterResults(null, arguments[0], key, makeObj, makeArray);
   }
 // 2015 results
-  function results2015BasicCB() {
+  function seatsAndWinners2015CB() {
     var key, makeObj, makeArray;
     key = "results2015";
     makeObj = true;
@@ -432,7 +432,7 @@ mnv_ukelmap.datafilter = (function(){
     setTimeout( function() {
       // Pass defaultTextObj. If !== undefined, controller will update the field...
       mnv_ukelmap.controller.new2017BasicDataListener(defaultTextObj);
-    },500);
+    },1000);
   }
   // SWALLOW 2017 BASIC DATA ends
 
@@ -512,21 +512,22 @@ mnv_ukelmap.datafilter = (function(){
     }
     // Still here? We don't have the data.
     // So load it and put it into model.data...
-    // Construct a file name. For now, using "r" + year + "_" + id;
-    // Temporary path
+    // This is a sort of 'root' path
     filename = model.sourcefiles.singleconstitfolder;
+    // Then we append a year, to complete the folder address, and
+    // complete filename with "r" + year + "_" + id;
     if (dataindex === "sev") {
-      filename += "r2017";
+      filename += "2017/r2017";
       // NOTE: during local tests, override with local folder:
       // console.log('Inferentially pointing to local single-constituencies folder for 2017 results...')
       filename = model.sourcefiles.constitfolder2017 + 'r2017';
     } else if (dataindex === "fif") {
-      filename += "r2015";
+      filename += "2015/r2015";
     } else if (dataindex === "ten") {
-      filename += "r2010";
+      filename += "2010/r2010";
     } else {
-      // Brexit uses 2015
-      filename += "r2015";
+      // Brexit uses 2015 election results
+      filename += "2015/r2015";
     }
     filename += id + ".json";
     // Now jump out of the aeroplane to read it...

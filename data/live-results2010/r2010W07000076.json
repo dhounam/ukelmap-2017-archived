@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Caerphilly",
+
+"id": "W07000076",
+
+"region": "Wales",
+
+"turnout": "38992",
+
+"electorate": "62134",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.713,
+
+"hpr": 11.677673102272,
+
+"sal": 12.453409340057,
+
+"ele": 0.888918,
+
+"con": "6622",
+
+"lab": "17377",
+
+"lib": "5988",
+
+"ukp": "910",
+
+"bnp": "1635",
+
+"plc": "6460",
+
+"mpn": "Wayne David",
+
+});
+

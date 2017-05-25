@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Lewisham Deptford",
+
+"id": "E14000789",
+
+"region": "London",
+
+"turnout": "41220",
+
+"electorate": "67058",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 5.2,
+
+"hpr": 47.2097439099365,
+
+"sal": 3.2418952618454,
+
+"ele": 1.375234,
+
+"con": "5551",
+
+"lab": "22132",
+
+"lib": "9633",
+
+"grn": "2772",
+
+"oth": "1132",
+
+"mpn": "Joan Ruddock",
+
+});
+

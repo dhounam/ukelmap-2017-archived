@@ -1,0 +1,16 @@
+resultCB({
+"name": "Penrith and The Border",
+"id": "E14000877",
+"region": "North West",
+"turnout": "43921",
+"electorate": "65209",
+"win": "con",
+"swing": "2.42",
+"status": "hold",
+"con": "26202",
+"lab": "6308",
+"lib": "3745",
+"grn": "2313",
+"ukp": "5353",
+"mpn": "Rory Stewart"
+});

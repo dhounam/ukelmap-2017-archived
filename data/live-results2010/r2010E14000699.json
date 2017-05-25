@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Fareham",
+
+"id": "E14000699",
+
+"region": "South East",
+
+"turnout": "54345",
+
+"electorate": "75878",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.346,
+
+"hpr": 15.1372125986412,
+
+"sal": 13.5016465422612,
+
+"ele": 1.321394,
+
+"con": "30037",
+
+"lab": "7719",
+
+"lib": "12945",
+
+"grn": "791",
+
+"ukp": "2235",
+
+"oth": "618",
+
+"mpn": "Mark Hoban",
+
+});
+

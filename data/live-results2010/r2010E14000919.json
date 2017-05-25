@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Sheffield, Central",
+
+"id": "E14000919",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "41468",
+
+"electorate": "69519",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 7.675,
+
+"hpr": 11.4729183665085,
+
+"sal": 0.818033084893656,
+
+"ele": -0.15104,
+
+"con": "4206",
+
+"lab": "17138",
+
+"lib": "16973",
+
+"grn": "1556",
+
+"ukp": "652",
+
+"bnp": "903",
+
+"ind": "40",
+
+"mpn": "Paul Blomfield",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Saffron Walden",
+
+"id": "E14000910",
+
+"region": "East Of England",
+
+"turnout": "54369",
+
+"electorate": "76035",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.581,
+
+"hpr": 18.9118425419295,
+
+"sal": -3.09295967190705,
+
+"ele": 4.86879,
+
+"con": "30155",
+
+"lab": "5288",
+
+"lib": "14913",
+
+"grn": "735",
+
+"ukp": "2228",
+
+"bnp": "1050",
+
+"mpn": "Sir Alan Haselhurst",
+
+});
+

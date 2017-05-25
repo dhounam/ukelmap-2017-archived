@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Caithness, Sutherland & Easter Ross",
+
+"id": "S14000009",
+
+"region": "Scotland",
+
+"turnout": "28768",
+
+"electorate": "47257",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": -0.237003989851814,
+
+"sal": -4.83365949119373,
+
+"ele": 0.854791,
+
+"con": "3744",
+
+"lab": "7081",
+
+"lib": "11907",
+
+"snp": "5516",
+
+"ind": "520",
+
+"mpn": "John Thurso",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Lancashire, West",
+
+"id": "E14001033",
+
+"region": "North West",
+
+"turnout": "48473",
+
+"electorate": "75975",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.897,
+
+"hpr": -8.11911534757286E-02,
+
+"sal": -9.88620199146514,
+
+"ele": -3.90894,
+
+"con": "17540",
+
+"lab": "21883",
+
+"lib": "6573",
+
+"grn": "485",
+
+"ukp": "1775",
+
+"oth": "217",
+
+"mpn": "Rosie Cooper",
+
+});
+

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Birmingham Erdington",
+
+"id": "E14000561",
+
+"region": "West Midlands",
+
+"turnout": "35546",
+
+"electorate": "66405",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.396,
+
+"hpr": 0.569188486838044,
+
+"sal": 18.4550264550265,
+
+"ele": -2.41326,
+
+"con": "11592",
+
+"lab": "14869",
+
+"lib": "5742",
+
+"ukp": "842",
+
+"bnp": "1815",
+
+"ind": "240",
+
+"oth": "446",
+
+"mpn": "Jack Dromey",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Canterbury",
+"id": "E14000619",
+"region": "South East",
+"turnout": "53465",
+"electorate": "83481",
+"win": "con",
+"swing": "5.17",
+"status": "hold",
+"con": "22918",
+"lab": "13120",
+"lib": "6227",
+"grn": "3746",
+"ukp": "7289",
+"oth": "165",
+"mpn": "Julian Brazier"
+});

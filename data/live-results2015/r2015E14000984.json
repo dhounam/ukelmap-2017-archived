@@ -1,0 +1,17 @@
+resultCB({
+"name": "Sutton and Cheam",
+"id": "E14000984",
+"region": "London",
+"turnout": "49905",
+"electorate": "69160",
+"win": "con",
+"swing": "5.59",
+"status": "gain",
+"con": "20732",
+"lab": "5546",
+"lib": "16811",
+"grn": "1051",
+"ukp": "5341",
+"oth": "424",
+"mpn": "Paul Scully"
+});

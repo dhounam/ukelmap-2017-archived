@@ -1,0 +1,17 @@
+resultCB({
+"name": "Leicester East",
+"id": "E14000782",
+"region": "East Midlands",
+"turnout": "48068",
+"electorate": "75430",
+"win": "lab",
+"swing": "4.42",
+"status": "hold",
+"con": "11034",
+"lab": "29386",
+"lib": "1233",
+"grn": "1468",
+"ukp": "4290",
+"oth": "657",
+"mpn": "Keith Vaz"
+});

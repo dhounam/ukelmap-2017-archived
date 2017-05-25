@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wirral South",
+"id": "E14001043",
+"region": "North West",
+"turnout": "41837",
+"electorate": "56956",
+"win": "lab",
+"swing": "4.83",
+"status": "hold",
+"con": "15566",
+"lab": "20165",
+"lib": "1474",
+"grn": "895",
+"ukp": "3737",
+"mpn": "Alison McGovern"
+});

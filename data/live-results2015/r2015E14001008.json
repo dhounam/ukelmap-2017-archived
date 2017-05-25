@@ -1,0 +1,17 @@
+resultCB({
+"name": "Vauxhall",
+"id": "E14001008",
+"region": "London",
+"turnout": "47941",
+"electorate": "81698",
+"win": "lab",
+"swing": "0.87",
+"status": "hold",
+"con": "13070",
+"lab": "25778",
+"lib": "3312",
+"grn": "3658",
+"ukp": "1385",
+"oth": "738",
+"mpn": "Kate Hoey"
+});

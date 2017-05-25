@@ -1,0 +1,17 @@
+resultCB({
+"name": "Cambridge",
+"id": "E14000617",
+"region": "East Anglia",
+"turnout": "51774",
+"electorate": "83384",
+"win": "lab",
+"swing": "8.01",
+"status": "gain",
+"con": "8117",
+"lab": "18646",
+"lib": "18047",
+"grn": "4109",
+"ukp": "2668",
+"ind": "187",
+"mpn": "Daniel Zeichner"
+});

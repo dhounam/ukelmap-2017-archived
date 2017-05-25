@@ -1,0 +1,17 @@
+resultCB({
+"name": "Rutherglen and Hamilton West",
+"id": "S14000056",
+"region": "Scotland",
+"turnout": "57615",
+"electorate": "82701",
+"win": "snp",
+"swing": "31.01",
+"status": "gain",
+"con": "4350",
+"lab": "20304",
+"lib": "1045",
+"ukp": "1301",
+"snp": "30279",
+"oth": "336",
+"mpn": "Margaret Ferrier"
+});

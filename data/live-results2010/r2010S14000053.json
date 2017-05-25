@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Paisley & Renfrewshire South",
+
+"id": "S14000053",
+
+"region": "Scotland",
+
+"turnout": "39998",
+
+"electorate": "61197",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 11.8255657375804,
+
+"sal": -3.27410332346166,
+
+"ele": -2.70755,
+
+"con": "3979",
+
+"lab": "23842",
+
+"lib": "3812",
+
+"snp": "7228",
+
+"ind": "249",
+
+"oth": "888",
+
+"mpn": "Douglas Alexander",
+
+});
+

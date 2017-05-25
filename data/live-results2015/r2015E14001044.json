@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wirral West",
+"id": "E14001044",
+"region": "North West",
+"turnout": "41858",
+"electorate": "55377",
+"win": "lab",
+"swing": "3.59",
+"status": "gain",
+"con": "18481",
+"lab": "18898",
+"lib": "1433",
+"ukp": "2772",
+"oth": "274",
+"mpn": "Margaret Greenwood"
+});

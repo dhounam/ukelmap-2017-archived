@@ -1,0 +1,18 @@
+resultCB({
+"name": "Brighton Kemptown",
+"id": "E14000597",
+"region": "South East",
+"turnout": "45306",
+"electorate": "67858",
+"win": "con",
+"swing": "0.79",
+"status": "hold",
+"con": "18428",
+"lab": "17738",
+"lib": "1365",
+"grn": "3187",
+"ukp": "4446",
+"ind": "69",
+"oth": "73",
+"mpn": "Simon Kirby"
+});

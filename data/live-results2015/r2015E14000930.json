@@ -1,0 +1,16 @@
+resultCB({
+"name": "Slough",
+"id": "E14000930",
+"region": "South East",
+"turnout": "48275",
+"electorate": "86366",
+"win": "lab",
+"swing": "1.81",
+"status": "hold",
+"con": "16085",
+"lab": "23421",
+"lib": "1275",
+"grn": "1220",
+"ukp": "6274",
+"mpn": "Fiona Mactaggart"
+});

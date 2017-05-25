@@ -1,0 +1,16 @@
+resultCB({
+"name": "Barnsley East",
+"id": "E14000542",
+"region": "Yorkshire And The Humber",
+"turnout": "38517",
+"electorate": "69135",
+"win": "lab",
+"swing": "5.65",
+"status": "hold",
+"con": "5622",
+"lab": "21079",
+"lib": "1217",
+"ukp": "9045",
+"oth": "1554",
+"mpn": "Michael Dugher"
+});

@@ -1,0 +1,18 @@
+resultCB({
+"name": "Epsom and Ewell",
+"id": "E14000694",
+"region": "South East",
+"turnout": "57143",
+"electorate": "78633",
+"win": "con",
+"swing": "0.75",
+"status": "hold",
+"con": "33309",
+"lab": "8866",
+"lib": "5002",
+"grn": "2116",
+"ukp": "7117",
+"ind": "612",
+"oth": "121",
+"mpn": "Chris Grayling"
+});

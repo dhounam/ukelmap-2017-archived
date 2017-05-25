@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Dorset, South",
+
+"id": "E14000936",
+
+"region": "South West",
+
+"turnout": "50310",
+
+"electorate": "73838",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.176,
+
+"hpr": 9.23619699800031,
+
+"sal": 11.1017484727196,
+
+"ele": -3.66554,
+
+"con": "22667",
+
+"lab": "15224",
+
+"lib": "9557",
+
+"grn": "595",
+
+"ukp": "2034",
+
+"oth": "233",
+
+"mpn": "Richard Drax",
+
+});
+

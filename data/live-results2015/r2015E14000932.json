@@ -1,0 +1,17 @@
+resultCB({
+"name": "Somerton and Frome",
+"id": "E14000932",
+"region": "South West",
+"turnout": "60309",
+"electorate": "83527",
+"win": "con",
+"swing": "18.3",
+"status": "gain",
+"con": "31960",
+"lab": "4419",
+"lib": "11692",
+"grn": "5434",
+"ukp": "6439",
+"ind": "365",
+"mpn": "David Warburton"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Hendon",
+
+"id": "E14000741",
+
+"region": "London",
+
+"turnout": "46374",
+
+"electorate": "78923",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 6.631,
+
+"hpr": 30.8179546970458,
+
+"sal": 7.95773485223708,
+
+"ele": -0.56587,
+
+"con": "19635",
+
+"lab": "19529",
+
+"lib": "5734",
+
+"grn": "518",
+
+"ukp": "958",
+
+"mpn": "Matthew Offord",
+
+});
+

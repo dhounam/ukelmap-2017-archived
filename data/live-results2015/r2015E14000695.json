@@ -1,0 +1,16 @@
+resultCB({
+"name": "Erewash",
+"id": "E14000695",
+"region": "East Midlands",
+"turnout": "48322",
+"electorate": "71937",
+"win": "con",
+"swing": "1.08",
+"status": "hold",
+"con": "20636",
+"lab": "17052",
+"lib": "1658",
+"grn": "1184",
+"ukp": "7792",
+"mpn": "Maggie Throup"
+});

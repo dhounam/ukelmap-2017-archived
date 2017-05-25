@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Harborough",
+
+"id": "E14000728",
+
+"region": "East Midlands",
+
+"turnout": "54945",
+
+"electorate": "77917",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.024,
+
+"hpr": 20.2168887470986,
+
+"sal": -0.27063599458728,
+
+"ele": -1.93408,
+
+"con": "26894",
+
+"lab": "6981",
+
+"lib": "17097",
+
+"ukp": "1462",
+
+"bnp": "1715",
+
+"ind": "228",
+
+"oth": "568",
+
+"mpn": "Edward Garnier",
+
+});
+

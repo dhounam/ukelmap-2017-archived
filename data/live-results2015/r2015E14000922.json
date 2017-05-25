@@ -1,0 +1,18 @@
+resultCB({
+"name": "Sheffield Hallam",
+"id": "E14000922",
+"region": "Yorkshire",
+"turnout": "55481",
+"electorate": "73658",
+"win": "lib",
+"swing": "16.55",
+"status": "hold",
+"con": "7544",
+"lab": "19862",
+"lib": "22215",
+"grn": "1772",
+"ukp": "3575",
+"ind": "346",
+"oth": "167",
+"mpn": "Nick Clegg"
+});

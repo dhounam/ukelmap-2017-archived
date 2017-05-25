@@ -1,0 +1,18 @@
+resultCB({
+"name": "South Dorset",
+"id": "E14000936",
+"region": "South West",
+"turnout": "48597",
+"electorate": "71974",
+"win": "con",
+"swing": "4.94",
+"status": "hold",
+"con": "23756",
+"lab": "11762",
+"lib": "2901",
+"grn": "2275",
+"ukp": "7304",
+"ind": "435",
+"oth": "164",
+"mpn": "Richard Drax"
+});

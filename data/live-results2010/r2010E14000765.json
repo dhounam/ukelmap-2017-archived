@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Jarrow",
+
+"id": "E14000765",
+
+"region": "North East",
+
+"turnout": "38784",
+
+"electorate": "64350",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": -0.138,
+
+"hpr": 2.60712448018616,
+
+"sal": 12.3765635286373,
+
+"ele": -1.55647,
+
+"con": "8002",
+
+"lab": "20910",
+
+"lib": "7163",
+
+"bnp": "2709",
+
+"mpn": "Stephen Hepburn",
+
+});
+

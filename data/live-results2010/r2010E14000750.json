@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Holborn & St. Pancras",
+
+"id": "E14000750",
+
+"region": "London",
+
+"turnout": "54649",
+
+"electorate": "86863",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 6.399,
+
+"hpr": 66.8830640945812,
+
+"sal": 5.00563133525134E-02,
+
+"ele": -5.68082,
+
+"con": "11134",
+
+"lab": "25198",
+
+"lib": "15256",
+
+"grn": "1480",
+
+"ukp": "587",
+
+"bnp": "779",
+
+"ind": "96",
+
+"oth": "119",
+
+"mpn": "Frank Dobson",
+
+});
+

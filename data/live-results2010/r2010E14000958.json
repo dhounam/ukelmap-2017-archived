@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Southport",
+
+"id": "E14000958",
+
+"region": "North West",
+
+"turnout": "43757",
+
+"electorate": "67202",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 0.744,
+
+"hpr": -3.95333650926159,
+
+"sal": 8.82986360373297,
+
+"ele": -3.16259,
+
+"con": "15683",
+
+"lab": "4116",
+
+"lib": "21707",
+
+"ukp": "2251",
+
+"mpn": "John Pugh",
+
+});
+

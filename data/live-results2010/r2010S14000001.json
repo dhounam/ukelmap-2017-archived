@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Aberdeen, North",
+
+"id": "S14000001",
+
+"region": "Scotland",
+
+"turnout": "37701",
+
+"electorate": "64808",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 22.1114412629478,
+
+"sal": 12.0313009455494,
+
+"ele": 3.103054,
+
+"con": "4666",
+
+"lab": "16746",
+
+"lib": "7001",
+
+"bnp": "635",
+
+"snp": "8385",
+
+"oth": "268",
+
+"mpn": "Frank Doran",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Havant",
+"id": "E14000736",
+"region": "South East",
+"turnout": "44828",
+"electorate": "70573",
+"win": "con",
+"swing": "7.05",
+"status": "hold",
+"con": "23159",
+"lab": "7149",
+"lib": "2929",
+"grn": "2352",
+"ukp": "9239",
+"mpn": "Alan Mak"
+});

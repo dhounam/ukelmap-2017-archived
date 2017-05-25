@@ -1,0 +1,18 @@
+resultCB({
+"name": "Glasgow North",
+"id": "S14000031",
+"region": "Scotland",
+"turnout": "36922",
+"electorate": "58875",
+"win": "snp",
+"swing": "28.88",
+"status": "gain",
+"con": "2901",
+"lab": "10315",
+"lib": "1012",
+"grn": "2284",
+"ukp": "486",
+"snp": "19610",
+"oth": "314",
+"mpn": "Patrick Grady"
+});

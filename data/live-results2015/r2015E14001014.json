@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wansbeck",
+"id": "E14001014",
+"region": "North East",
+"turnout": "38528",
+"electorate": "63273",
+"win": "lab",
+"swing": "0.03",
+"status": "hold",
+"con": "8386",
+"lab": "19267",
+"lib": "2407",
+"grn": "1454",
+"ukp": "7014",
+"mpn": "Ian Lavery"
+});

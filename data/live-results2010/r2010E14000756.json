@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Huddersfield",
+
+"id": "E14000756",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "40524",
+
+"electorate": "66316",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.708,
+
+"hpr": 5.25595748399732,
+
+"sal": 4.73148333000599,
+
+"ele": -5.87258,
+
+"con": "11253",
+
+"lab": "15725",
+
+"lib": "10023",
+
+"grn": "1641",
+
+"bnp": "1563",
+
+"oth": "319",
+
+"mpn": "Barry Sheerman",
+
+});
+

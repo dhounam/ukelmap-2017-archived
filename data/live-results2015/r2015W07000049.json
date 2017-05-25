@@ -1,0 +1,19 @@
+resultCB({
+"name": "Aberavon",
+"id": "W07000049",
+"region": "Wales",
+"turnout": "31523",
+"electorate": "49821",
+"win": "lab",
+"swing": "8.6",
+"status": "hold",
+"con": "3742",
+"lab": "15416",
+"lib": "1397",
+"grn": "711",
+"ukp": "4971",
+"plc": "3663",
+"ind": "1137",
+"oth": "486",
+"mpn": "Stephen Kinnock"
+});

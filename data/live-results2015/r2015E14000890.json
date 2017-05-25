@@ -1,0 +1,18 @@
+resultCB({
+"name": "Reading West",
+"id": "E14000890",
+"region": "South East",
+"turnout": "48404",
+"electorate": "72302",
+"win": "con",
+"swing": "0.55",
+"status": "hold",
+"con": "23082",
+"lab": "16432",
+"lib": "2355",
+"grn": "1406",
+"ukp": "4826",
+"ind": "156",
+"oth": "147",
+"mpn": "Alok Sharma"
+});

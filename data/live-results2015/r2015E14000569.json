@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bishop Auckland",
+"id": "E14000569",
+"region": "North East",
+"turnout": "39389",
+"electorate": "66089",
+"win": "lab",
+"swing": "1.89",
+"status": "hold",
+"con": "12799",
+"lab": "16307",
+"lib": "1723",
+"grn": "1545",
+"ukp": "7015",
+"mpn": "Helen Goodman"
+});

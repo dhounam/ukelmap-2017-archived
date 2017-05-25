@@ -1,0 +1,16 @@
+resultCB({
+"name": "Pudsey",
+"id": "E14000886",
+"region": "Yorkshire",
+"turnout": "50927",
+"electorate": "70533",
+"win": "con",
+"swing": "2.73",
+"status": "hold",
+"con": "23637",
+"lab": "19136",
+"lib": "1926",
+"grn": "1539",
+"ukp": "4689",
+"mpn": "Stuart Andrew"
+});

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Horsham",
+
+"id": "E14000753",
+
+"region": "South East",
+
+"turnout": "55841",
+
+"electorate": "76835",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.871,
+
+"hpr": 20.0634169263112,
+
+"sal": 7.56859035004732,
+
+"ele": 0.990502,
+
+"con": "29447",
+
+"lab": "4189",
+
+"lib": "17987",
+
+"grn": "570",
+
+"ukp": "2839",
+
+"ind": "87",
+
+"oth": "722",
+
+"mpn": "Francis Maude",
+
+});
+

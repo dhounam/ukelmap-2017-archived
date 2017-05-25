@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Carmarthen, East & Dinefwr",
+
+"id": "W07000067",
+
+"region": "Wales",
+
+"turnout": "38011",
+
+"electorate": "52385",
+
+"win": "plc",
+
+"marginal": "True",
+
+"pop": 0.654,
+
+"hpr": -2.66702196947179,
+
+"sal": 23.0880929332043,
+
+"ele": 5.208552,
+
+"con": "8506",
+
+"lab": "10065",
+
+"lib": "4609",
+
+"ukp": "1285",
+
+"plc": "13546",
+
+"mpn": "Jonathan Edwards",
+
+});
+

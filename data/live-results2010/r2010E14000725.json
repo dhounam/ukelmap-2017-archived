@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Halton",
+
+"id": "E14000725",
+
+"region": "North West",
+
+"turnout": "41338",
+
+"electorate": "68884",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.375,
+
+"hpr": 8.8792659922069,
+
+"sal": 6.39654463183874,
+
+"ele": 3.928823,
+
+"con": "8339",
+
+"lab": "23843",
+
+"lib": "5718",
+
+"grn": "647",
+
+"ukp": "1228",
+
+"bnp": "1563",
+
+"mpn": "Derek Twigg",
+
+});
+

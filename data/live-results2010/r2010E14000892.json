@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Redditch",
+
+"id": "E14000892",
+
+"region": "West Midlands",
+
+"turnout": "44018",
+
+"electorate": "68550",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.096,
+
+"hpr": 12.7765903654374,
+
+"sal": -5.33676849466323,
+
+"ele": -3.06971,
+
+"con": "19138",
+
+"lab": "13317",
+
+"lib": "7750",
+
+"grn": "393",
+
+"ukp": "1497",
+
+"bnp": "1394",
+
+"ind": "100",
+
+"oth": "429",
+
+"mpn": "Karen Lumley",
+
+});
+

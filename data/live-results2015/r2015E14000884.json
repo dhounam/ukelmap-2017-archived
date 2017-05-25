@@ -1,0 +1,18 @@
+resultCB({
+"name": "Portsmouth South",
+"id": "E14000884",
+"region": "South East",
+"turnout": "41903",
+"electorate": "71639",
+"win": "con",
+"swing": "12.55",
+"status": "gain",
+"con": "14585",
+"lab": "8184",
+"lib": "9344",
+"grn": "3145",
+"ukp": "5595",
+"ind": "716",
+"oth": "334",
+"mpn": "Flick Drummond"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Tiverton and Honiton",
+"id": "E14000996",
+"region": "South West",
+"turnout": "53743",
+"electorate": "76270",
+"win": "con",
+"swing": "3.38",
+"status": "hold",
+"con": "29030",
+"lab": "6835",
+"lib": "5626",
+"grn": "3415",
+"ukp": "8837",
+"mpn": "Neil Parish"
+});

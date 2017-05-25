@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Camberwell & Peckham",
+
+"id": "E14000615",
+
+"region": "London",
+
+"turnout": "46659",
+
+"electorate": "78618",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 3.483,
+
+"hpr": 51.519079623091,
+
+"sal": 3.26565143824027,
+
+"ele": 1.447374,
+
+"con": "6080",
+
+"lab": "27619",
+
+"lib": "10432",
+
+"grn": "1361",
+
+"ind": "93",
+
+"oth": "1074",
+
+"mpn": "Harriet Harman",
+
+});
+

@@ -1,0 +1,18 @@
+resultCB({
+"name": "Braintree",
+"id": "E14000590",
+"region": "East Anglia",
+"turnout": "50283",
+"electorate": "73557",
+"win": "con",
+"swing": "6.29",
+"status": "hold",
+"con": "27071",
+"lab": "9296",
+"lib": "2488",
+"grn": "1564",
+"ukp": "9461",
+"bnp": "108",
+"ind": "295",
+"mpn": "James Cleverly"
+});

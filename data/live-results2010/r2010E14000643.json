@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Cleethorpes",
+
+"id": "E14000643",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "44966",
+
+"electorate": "70214",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.59,
+
+"hpr": 4.78865031742109,
+
+"sal": 10.4391371340524,
+
+"ele": -2.5169,
+
+"con": "18939",
+
+"lab": "14641",
+
+"lib": "8192",
+
+"ukp": "3194",
+
+"mpn": "Martin Vickers",
+
+});
+

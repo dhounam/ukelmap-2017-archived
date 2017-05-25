@@ -1,0 +1,18 @@
+resultCB({
+"name": "Newbury",
+"id": "E14000830",
+"region": "South East",
+"turnout": "57300",
+"electorate": "79058",
+"win": "con",
+"swing": "12.56",
+"status": "hold",
+"con": "34973",
+"lab": "4837",
+"lib": "8605",
+"grn": "2324",
+"ukp": "6195",
+"ind": "85",
+"oth": "281",
+"mpn": "Richard Benyon"
+});

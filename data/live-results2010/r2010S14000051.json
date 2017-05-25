@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Orkney & Shetland",
+
+"id": "S14000051",
+
+"region": "Scotland",
+
+"turnout": "19346",
+
+"electorate": "33085",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 21.5914666033204,
+
+"sal": 9.39053581292579,
+
+"ele": 3.727846,
+
+"con": "2032",
+
+"lab": "2061",
+
+"lib": "11989",
+
+"ukp": "1222",
+
+"snp": "2042",
+
+"mpn": "Alistair Carmichael",
+
+});
+

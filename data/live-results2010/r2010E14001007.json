@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Uxbridge & Ruislip South",
+
+"id": "E14001007",
+
+"region": "London",
+
+"turnout": "45076",
+
+"electorate": "71168",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 5.375,
+
+"hpr": 36.2812784953689,
+
+"sal": 4.15147265077138,
+
+"ele": -1.67185,
+
+"con": "21758",
+
+"lab": "10542",
+
+"lib": "8995",
+
+"grn": "477",
+
+"ukp": "1234",
+
+"bnp": "1396",
+
+"oth": "674",
+
+"mpn": "John Randall",
+
+});
+

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Wiltshire, South West",
+
+"id": "E14000954",
+
+"region": "South West",
+
+"turnout": "49018",
+
+"electorate": "71645",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.299,
+
+"hpr": 6.46579086575909,
+
+"sal": 2.12134068731586E-02,
+
+"ele": -0.96148,
+
+"con": "25321",
+
+"lab": "5613",
+
+"lib": "14954",
+
+"ukp": "2684",
+
+"ind": "446",
+
+"mpn": "Andrew Murrison",
+
+});
+

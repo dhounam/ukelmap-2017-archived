@@ -1,0 +1,18 @@
+resultCB({
+"name": "Dwyfor Meirionnydd",
+"id": "W07000061",
+"region": "Wales",
+"turnout": "28913",
+"electorate": "44395",
+"win": "plc",
+"swing": "1.92",
+"status": "hold",
+"con": "6550",
+"lab": "3904",
+"lib": "1153",
+"grn": "981",
+"ukp": "3126",
+"plc": "11811",
+"ind": "1388",
+"mpn": "Liz Saville Roberts"
+});

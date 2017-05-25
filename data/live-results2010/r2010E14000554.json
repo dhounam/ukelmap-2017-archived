@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Berwick-upon-Tweed",
+
+"id": "E14000554",
+
+"region": "North East",
+
+"turnout": "38439",
+
+"electorate": "57403",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 0.199,
+
+"hpr": 2.18221237400229,
+
+"sal": 12.7272727272727,
+
+"ele": 0.924499,
+
+"con": "14116",
+
+"lab": "5061",
+
+"lib": "16806",
+
+"ukp": "1243",
+
+"bnp": "1213",
+
+"mpn": "Sir Alan Beith",
+
+});
+

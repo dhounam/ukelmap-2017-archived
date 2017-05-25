@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Norfolk, North West",
+
+"id": "E14000859",
+
+"region": "East Of England",
+
+"turnout": "47800",
+
+"electorate": "73207",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.881,
+
+"hpr": 14.2705360955286,
+
+"sal": 7.54878833369075,
+
+"ele": -3.41295,
+
+"con": "25916",
+
+"lab": "6353",
+
+"lib": "11106",
+
+"grn": "745",
+
+"ukp": "1841",
+
+"bnp": "1839",
+
+"mpn": "Henry Bellingham",
+
+});
+

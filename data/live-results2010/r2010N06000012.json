@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Antrim, North",
+
+"id": "N06000012",
+
+"region": "Northern Ireland",
+
+"turnout": "42397",
+
+"electorate": "73338",
+
+"win": "dup",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 4.408655,
+
+"snf": "5265",
+
+"sdl": "3738",
+
+"dup": "19672",
+
+"uup": "4634",
+
+"oth": "9088",
+
+"mpn": "Ian Paisley Jnr",
+
+});
+

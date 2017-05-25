@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Aylesbury",
+
+"id": "E14000538",
+
+"region": "South East",
+
+"turnout": "53162",
+
+"electorate": "77934",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.679,
+
+"hpr": 13.6745444651316,
+
+"sal": -1.16279069767442,
+
+"ele": 2.111078,
+
+"con": "27736",
+
+"lab": "6695",
+
+"lib": "15118",
+
+"ukp": "3613",
+
+"mpn": "David Lidington",
+
+});
+

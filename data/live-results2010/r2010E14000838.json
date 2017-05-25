@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Devon, North",
+
+"id": "E14000838",
+
+"region": "South West",
+
+"turnout": "51321",
+
+"electorate": "74508",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 0.57,
+
+"hpr": 4.27672043817853,
+
+"sal": 2.19209039548022,
+
+"ele": -1.41114,
+
+"con": "18484",
+
+"lab": "2671",
+
+"lib": "24305",
+
+"grn": "697",
+
+"ukp": "3720",
+
+"bnp": "614",
+
+"ind": "588",
+
+"oth": "242",
+
+"mpn": "Nick Harvey",
+
+});
+

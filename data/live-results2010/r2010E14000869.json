@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Old Bexley & Sidcup",
+
+"id": "E14000869",
+
+"region": "London",
+
+"turnout": "45492",
+
+"electorate": "65665",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.551,
+
+"hpr": 27.4718382019131,
+
+"sal": 16.3243243243243,
+
+"ele": 1.167041,
+
+"con": "24625",
+
+"lab": "8768",
+
+"lib": "6996",
+
+"grn": "371",
+
+"ukp": "1532",
+
+"bnp": "2132",
+
+"oth": "1068",
+
+"mpn": "James Brokenshire",
+
+});
+

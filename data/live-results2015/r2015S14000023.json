@@ -1,0 +1,18 @@
+resultCB({
+"name": "Edinburgh North and Leith",
+"id": "S14000023",
+"region": "Scotland",
+"turnout": "58008",
+"electorate": "80978",
+"win": "snp",
+"swing": "18.73",
+"status": "gain",
+"con": "9378",
+"lab": "18145",
+"lib": "2634",
+"grn": "3140",
+"ukp": "847",
+"snp": "23742",
+"oth": "122",
+"mpn": "Deidre Brock"
+});

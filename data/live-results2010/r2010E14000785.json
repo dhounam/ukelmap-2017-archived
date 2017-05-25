@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Leigh",
+
+"id": "E14000785",
+
+"region": "North West",
+
+"turnout": "44332",
+
+"electorate": "76350",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.295,
+
+"hpr": 5.56145697081116,
+
+"sal": 0.435540069686397,
+
+"ele": -1.75494,
+
+"con": "9284",
+
+"lab": "21295",
+
+"lib": "8049",
+
+"ukp": "1535",
+
+"bnp": "2724",
+
+"ind": "988",
+
+"oth": "457",
+
+"mpn": "Andy Burnham",
+
+});
+

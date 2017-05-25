@@ -1,0 +1,16 @@
+resultCB({
+"name": "New Forest West",
+"id": "E14000828",
+"region": "South East",
+"turnout": "47410",
+"electorate": "68465",
+"win": "con",
+"swing": "4.75",
+"status": "hold",
+"con": "28420",
+"lab": "5133",
+"lib": "3293",
+"grn": "2748",
+"ukp": "7816",
+"mpn": "Desmond Swayne"
+});

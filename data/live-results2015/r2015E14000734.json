@@ -1,0 +1,16 @@
+resultCB({
+"name": "Harwich and North Essex",
+"id": "E14000734",
+"region": "East Of England",
+"turnout": "48432",
+"electorate": "69289",
+"win": "con",
+"swing": "2.17",
+"status": "hold",
+"con": "24722",
+"lab": "9548",
+"lib": "3576",
+"grn": "2122",
+"ukp": "8464",
+"mpn": "Bernard Jenkin"
+});

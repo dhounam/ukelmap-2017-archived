@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Buckingham",
+
+"id": "E14000608",
+
+"region": "South East",
+
+"turnout": "48335",
+
+"electorate": "74996",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.398,
+
+"hpr": 17.4931714486082,
+
+"sal": 5.30232558139534,
+
+"ele": 2.861101,
+
+"con": "22860",
+
+"ukp": "8401",
+
+"bnp": "980",
+
+"ind": "435",
+
+"oth": "15659",
+
+"mpn": "John Bercow",
+
+});
+

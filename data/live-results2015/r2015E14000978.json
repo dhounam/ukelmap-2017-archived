@@ -1,0 +1,17 @@
+resultCB({
+"name": "Streatham",
+"id": "E14000978",
+"region": "London",
+"turnout": "49933",
+"electorate": "78673",
+"win": "lab",
+"swing": "1.72",
+"status": "hold",
+"con": "12540",
+"lab": "26474",
+"lib": "4491",
+"grn": "4421",
+"ukp": "1602",
+"oth": "405",
+"mpn": "Chuka Umunna"
+});

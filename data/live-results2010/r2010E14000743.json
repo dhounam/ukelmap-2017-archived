@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Hereford & Herefordshire South",
+
+"id": "E14000743",
+
+"region": "West Midlands",
+
+"turnout": "48381",
+
+"electorate": "71435",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.164,
+
+"hpr": 4.52982022807089,
+
+"sal": 4.7978067169294,
+
+"ele": -4.67852,
+
+"con": "22366",
+
+"lab": "3506",
+
+"lib": "19885",
+
+"ukp": "1638",
+
+"bnp": "986",
+
+"mpn": "Jesse Norman",
+
+});
+

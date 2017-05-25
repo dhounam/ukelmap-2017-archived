@@ -1,0 +1,16 @@
+resultCB({
+"name": "Charnwood",
+"id": "E14000625",
+"region": "East Midlands",
+"turnout": "52261",
+"electorate": "77269",
+"win": "con",
+"swing": "1.23",
+"status": "hold",
+"con": "28384",
+"lab": "11453",
+"lib": "3605",
+"ukp": "8330",
+"bnp": "489",
+"mpn": "Edward Argar"
+});

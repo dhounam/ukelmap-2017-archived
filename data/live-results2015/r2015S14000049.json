@@ -1,0 +1,17 @@
+resultCB({
+"name": "North East Fife",
+"id": "S14000049",
+"region": "Scotland",
+"turnout": "45263",
+"electorate": "62003",
+"win": "snp",
+"swing": "19.87",
+"status": "gain",
+"con": "7373",
+"lab": "3476",
+"lib": "14179",
+"grn": "1387",
+"snp": "18523",
+"ind": "325",
+"mpn": "Stephen Gethins"
+});

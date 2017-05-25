@@ -1,0 +1,17 @@
+resultCB({
+"name": "Poole",
+"id": "E14000881",
+"region": "South West",
+"turnout": "47393",
+"electorate": "72557",
+"win": "con",
+"swing": "4.45",
+"status": "hold",
+"con": "23745",
+"lab": "6102",
+"lib": "5572",
+"grn": "2198",
+"ukp": "7956",
+"oth": "1820",
+"mpn": "Robert Syms"
+});

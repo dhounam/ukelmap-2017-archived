@@ -1,0 +1,16 @@
+resultCB({
+"name": "Skipton and Ripon",
+"id": "E14000928",
+"region": "Yorkshire",
+"turnout": "54559",
+"electorate": "76243",
+"win": "con",
+"swing": "1.25",
+"status": "hold",
+"con": "30248",
+"lab": "9487",
+"lib": "4057",
+"grn": "3116",
+"ukp": "7651",
+"mpn": "Julian Smith"
+});

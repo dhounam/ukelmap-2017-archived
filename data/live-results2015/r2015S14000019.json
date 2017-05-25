@@ -1,0 +1,17 @@
+resultCB({
+"name": "East Kilbride, Strathaven and Lesmahagow",
+"id": "S14000019",
+"region": "Scotland",
+"turnout": "60339",
+"electorate": "83071",
+"win": "snp",
+"swing": "27.93",
+"status": "gain",
+"con": "7129",
+"lab": "17151",
+"lib": "1042",
+"ukp": "1021",
+"snp": "33678",
+"ind": "318",
+"mpn": "Dr Lisa Cameron"
+});

@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Calder Valley",
+
+"id": "E14000614",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "51780",
+
+"electorate": "76903",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.172,
+
+"hpr": 0.737644670244947,
+
+"sal": 6.53566851772747,
+
+"ele": -2.62103,
+
+"con": "20397",
+
+"lab": "13966",
+
+"lib": "13037",
+
+"grn": "858",
+
+"ukp": "1173",
+
+"bnp": "1823",
+
+"ind": "194",
+
+"oth": "332",
+
+"mpn": "Craig Whittaker",
+
+});
+

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Lewes",
+
+"id": "E14000786",
+
+"region": "South East",
+
+"turnout": "50088",
+
+"electorate": "68708",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 1.962,
+
+"hpr": 20.7544608097961,
+
+"sal": 5.8762242133778,
+
+"ele": -1.31083,
+
+"con": "18401",
+
+"lab": "2508",
+
+"lib": "26048",
+
+"grn": "729",
+
+"ukp": "1728",
+
+"bnp": "594",
+
+"ind": "80",
+
+"mpn": "Norman Baker",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bradford South",
+"id": "E14000588",
+"region": "Yorkshire",
+"turnout": "37600",
+"electorate": "63670",
+"win": "lab",
+"swing": "2.49",
+"status": "hold",
+"con": "9878",
+"lab": "16328",
+"lib": "1094",
+"grn": "1243",
+"ukp": "9057",
+"mpn": "Judith Cummins"
+});

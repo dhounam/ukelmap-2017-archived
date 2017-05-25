@@ -1,0 +1,17 @@
+resultCB({
+"name": "Blaenau Gwent",
+"id": "W07000072",
+"region": "Wales",
+"turnout": "31683",
+"electorate": "51332",
+"win": "lab",
+"swing": "5.4",
+"status": "hold",
+"con": "3419",
+"lab": "18380",
+"lib": "620",
+"grn": "738",
+"ukp": "5677",
+"plc": "2849",
+"mpn": "Nick Smith"
+});

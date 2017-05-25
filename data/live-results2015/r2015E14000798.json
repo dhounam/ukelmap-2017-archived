@@ -1,0 +1,17 @@
+resultCB({
+"name": "Louth and Horncastle",
+"id": "E14000798",
+"region": "East Midlands",
+"turnout": "50336",
+"electorate": "74280",
+"win": "con",
+"swing": "7.78",
+"status": "hold",
+"con": "25755",
+"lab": "9077",
+"lib": "2255",
+"grn": "1549",
+"ukp": "10778",
+"oth": "922",
+"mpn": "Victoria Atkins"
+});

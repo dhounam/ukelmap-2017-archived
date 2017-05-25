@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Antrim, South",
+
+"id": "N06000014",
+
+"region": "Northern Ireland",
+
+"turnout": "34009",
+
+"electorate": "63054",
+
+"win": "dup",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 7.199131,
+
+"snf": "4729",
+
+"sdl": "2955",
+
+"dup": "11536",
+
+"uup": "10353",
+
+"oth": "4436",
+
+"mpn": "William McCrea",
+
+});
+

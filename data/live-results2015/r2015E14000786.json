@@ -1,0 +1,16 @@
+resultCB({
+"name": "Lewes",
+"id": "E14000786",
+"region": "South East",
+"turnout": "50540",
+"electorate": "69481",
+"win": "con",
+"swing": "8.7",
+"status": "gain",
+"con": "19206",
+"lab": "5000",
+"lib": "18123",
+"grn": "2784",
+"ukp": "5427",
+"mpn": "Maria Caulfield"
+});

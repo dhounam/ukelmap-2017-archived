@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Cheadle",
+
+"id": "E14000627",
+
+"region": "North West",
+
+"turnout": "52512",
+
+"electorate": "72458",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 0.69,
+
+"hpr": 13.0287262095436,
+
+"sal": 12.0871519972333,
+
+"ele": 1.402811,
+
+"con": "21445",
+
+"lab": "4920",
+
+"lib": "24717",
+
+"ukp": "1430",
+
+"mpn": "Mark Hunter",
+
+});
+

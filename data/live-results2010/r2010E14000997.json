@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Tonbridge & Malling",
+
+"id": "E14000997",
+
+"region": "South East",
+
+"turnout": "51314",
+
+"electorate": "71790",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.806,
+
+"hpr": 23.8429670751291,
+
+"sal": 4.8881239242685,
+
+"ele": 2.340548,
+
+"con": "29723",
+
+"lab": "6476",
+
+"lib": "11545",
+
+"grn": "764",
+
+"ukp": "1911",
+
+"oth": "895",
+
+"mpn": "Sir John Stanley",
+
+});
+

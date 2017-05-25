@@ -1,0 +1,16 @@
+resultCB({
+"name": "St Helens South & Whiston",
+"id": "E14000963",
+"region": "North West",
+"turnout": "48397",
+"electorate": "77720",
+"win": "lab",
+"swing": "4.42",
+"status": "hold",
+"con": "7707",
+"lab": "28950",
+"lib": "2737",
+"grn": "2237",
+"ukp": "6766",
+"mpn": "Marie Rimmer"
+});

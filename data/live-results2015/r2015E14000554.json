@@ -1,0 +1,17 @@
+resultCB({
+"name": "Berwick-upon-Tweed",
+"id": "E14000554",
+"region": "North East",
+"turnout": "40423",
+"electorate": "58098",
+"win": "con",
+"swing": "9.58",
+"status": "gain",
+"con": "16603",
+"lab": "6042",
+"lib": "11689",
+"grn": "1488",
+"ukp": "4513",
+"oth": "88",
+"mpn": "Anne-Marie Trevelyan"
+});

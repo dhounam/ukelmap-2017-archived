@@ -1,0 +1,16 @@
+resultCB({
+"name": "Paisley and Renfrewshire South",
+"id": "S14000053",
+"region": "Scotland",
+"turnout": "46226",
+"electorate": "61281",
+"win": "snp",
+"swing": "26.92",
+"status": "gain",
+"con": "3526",
+"lab": "17864",
+"lib": "1010",
+"snp": "23548",
+"oth": "278",
+"mpn": "Mhairi Black"
+});

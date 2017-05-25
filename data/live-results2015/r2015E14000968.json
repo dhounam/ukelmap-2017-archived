@@ -1,0 +1,18 @@
+resultCB({
+"name": "Stevenage",
+"id": "E14000968",
+"region": "East Anglia",
+"turnout": "47799",
+"electorate": "70597",
+"win": "con",
+"swing": "1.18",
+"status": "hold",
+"con": "21291",
+"lab": "16336",
+"lib": "1582",
+"grn": "1369",
+"ukp": "6864",
+"ind": "67",
+"oth": "290",
+"mpn": "Stephen McPartland"
+});

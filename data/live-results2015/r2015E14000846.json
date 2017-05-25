@@ -1,0 +1,16 @@
+resultCB({
+"name": "Somerset North East",
+"id": "E14000846",
+"region": "South West",
+"turnout": "51102",
+"electorate": "69380",
+"win": "con",
+"swing": "7.67",
+"status": "hold",
+"con": "25431",
+"lab": "12690",
+"lib": "4029",
+"grn": "2802",
+"ukp": "6150",
+"mpn": "Jacob Rees-Mogg"
+});

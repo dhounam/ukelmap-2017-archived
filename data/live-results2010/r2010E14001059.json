@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Wythenshawe & Sale East",
+
+"id": "E14001059",
+
+"region": "North West",
+
+"turnout": "23961",
+
+"electorate": "85058",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.107,
+
+"hpr": 10.5207720999028,
+
+"sal": 1.43772735146372,
+
+"ele": 0.900181,
+
+"con": "3479",
+
+"lab": "13261",
+
+"lib": "1176",
+
+"grn": "748",
+
+"ukp": "4301",
+
+"bnp": "700",
+
+"oth": "200",
+
+"mpn": "Michael Kane",
+
+});
+

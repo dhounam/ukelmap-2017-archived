@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Brent, Central",
+
+"id": "E14000591",
+
+"region": "London",
+
+"turnout": "45324",
+
+"electorate": "74076",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 3.559,
+
+"hpr": 50.4644548197158,
+
+"sal": 16.92,
+
+"ele": 2.086114,
+
+"con": "5068",
+
+"lab": "18681",
+
+"lib": "20026",
+
+"grn": "668",
+
+"ind": "163",
+
+"res": "230",
+
+"oth": "488",
+
+"mpn": "Sarah Teather",
+
+});
+

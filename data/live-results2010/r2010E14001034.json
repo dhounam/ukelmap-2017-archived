@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Suffolk, West",
+
+"id": "E14001034",
+
+"region": "East Of England",
+
+"turnout": "48089",
+
+"electorate": "74413",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.741,
+
+"hpr": 19.1584065273142,
+
+"sal": -4.17999573469822,
+
+"ele": 1.894527,
+
+"con": "24312",
+
+"lab": "7089",
+
+"lib": "11262",
+
+"ukp": "3085",
+
+"bnp": "1428",
+
+"ind": "540",
+
+"oth": "373",
+
+"mpn": "Matthew Hancock",
+
+});
+

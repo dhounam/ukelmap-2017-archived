@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Stoke-on-Trent, North",
+
+"id": "E14000973",
+
+"region": "West Midlands",
+
+"turnout": "40196",
+
+"electorate": "72052",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.986,
+
+"hpr": 3.80956870152882,
+
+"sal": -3.55545090652224,
+
+"ele": -1.65825,
+
+"con": "9580",
+
+"lab": "17815",
+
+"lib": "7120",
+
+"ukp": "2485",
+
+"bnp": "3196",
+
+"mpn": "Joan Walley",
+
+});
+

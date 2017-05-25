@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Ashfield",
+
+"id": "E14000535",
+
+"region": "East Midlands",
+
+"turnout": "48196",
+
+"electorate": "77379",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.89,
+
+"hpr": 11.1667797015269,
+
+"sal": -2.78656126482214,
+
+"ele": -1.91654,
+
+"con": "10698",
+
+"lab": "16239",
+
+"lib": "16047",
+
+"ukp": "933",
+
+"bnp": "2781",
+
+"ind": "396",
+
+"oth": "1102",
+
+"mpn": "Gloria de Piero",
+
+});
+

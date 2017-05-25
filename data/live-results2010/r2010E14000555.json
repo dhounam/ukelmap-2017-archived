@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Bethnal Green & Bow",
+
+"id": "E14000555",
+
+"region": "London",
+
+"turnout": "50728",
+
+"electorate": "81243",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 7.378,
+
+"hpr": 49.8717541337803,
+
+"sal": 13.0514705882353,
+
+"ele": -0.46937,
+
+"con": "7071",
+
+"lab": "21784",
+
+"lib": "10210",
+
+"grn": "856",
+
+"bnp": "1405",
+
+"ind": "277",
+
+"res": "8532",
+
+"oth": "593",
+
+"mpn": "Rushanara Ali",
+
+});
+

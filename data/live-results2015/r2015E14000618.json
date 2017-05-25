@@ -1,0 +1,16 @@
+resultCB({
+"name": "Cannock Chase",
+"id": "E14000618",
+"region": "West Midlands",
+"turnout": "47099",
+"electorate": "74531",
+"win": "con",
+"swing": "1.72",
+"status": "hold",
+"con": "20811",
+"lab": "15888",
+"lib": "1270",
+"grn": "906",
+"ukp": "8224",
+"mpn": "Amanda Milling"
+});

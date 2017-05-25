@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Dulwich & West Norwood",
+
+"id": "E14000673",
+
+"region": "London",
+
+"turnout": "48214",
+
+"electorate": "72817",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 3.615,
+
+"hpr": 44.6862925696583,
+
+"sal": 4.10958904109589,
+
+"ele": 2.058317,
+
+"con": "10684",
+
+"lab": "22461",
+
+"lib": "13096",
+
+"grn": "1266",
+
+"ukp": "707",
+
+"mpn": "Tessa Jowell",
+
+});
+

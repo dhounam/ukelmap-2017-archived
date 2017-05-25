@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Ribble Valley",
+
+"id": "E14000894",
+
+"region": "North West",
+
+"turnout": "52287",
+
+"electorate": "78068",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.719,
+
+"hpr": 7.24677762826462,
+
+"sal": 15.4174674354046,
+
+"ele": -1.12445,
+
+"con": "26298",
+
+"lab": "11529",
+
+"lib": "10732",
+
+"ukp": "3496",
+
+"oth": "232",
+
+"mpn": "Nigel Evans",
+
+});
+

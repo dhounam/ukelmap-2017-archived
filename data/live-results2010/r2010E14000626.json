@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Chatham & Aylesford",
+
+"id": "E14000626",
+
+"region": "South East",
+
+"turnout": "43807",
+
+"electorate": "71122",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.823,
+
+"hpr": 22.2596121869603,
+
+"sal": 0.315146740200902,
+
+"ele": -1.90037,
+
+"con": "20230",
+
+"lab": "14161",
+
+"lib": "5832",
+
+"grn": "396",
+
+"ukp": "1314",
+
+"bnp": "1365",
+
+"oth": "509",
+
+"mpn": "Tracey Crouch",
+
+});
+

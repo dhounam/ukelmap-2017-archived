@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Glasgow, South",
+
+"id": "S14000034",
+
+"region": "Scotland",
+
+"turnout": "40094",
+
+"electorate": "65029",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 3.01334301891674,
+
+"sal": -12.6435089785104,
+
+"ele": 11.28756,
+
+"con": "4592",
+
+"lab": "20736",
+
+"lib": "4739",
+
+"grn": "961",
+
+"bnp": "637",
+
+"snp": "8078",
+
+"oth": "351",
+
+"mpn": "Tom Harris",
+
+});
+

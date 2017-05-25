@@ -1,0 +1,16 @@
+resultCB({
+"name": "North West Durham",
+"id": "E14000856",
+"region": "North East",
+"turnout": "42818",
+"electorate": "69817",
+"win": "lab",
+"swing": "0.59",
+"status": "hold",
+"con": "10018",
+"lab": "20074",
+"lib": "3894",
+"grn": "1567",
+"ukp": "7265",
+"mpn": "Pat Glass"
+});

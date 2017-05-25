@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Haltemprice & Howden",
+
+"id": "E14000724",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "48737",
+
+"electorate": "70403",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": -0.22,
+
+"hpr": 3.79621355401163,
+
+"sal": -0.892857142857153,
+
+"ele": -1.67484,
+
+"con": "24486",
+
+"lab": "7630",
+
+"lib": "12884",
+
+"grn": "669",
+
+"bnp": "1583",
+
+"oth": "1485",
+
+"mpn": "David Davis",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Derbyshire, Mid",
+
+"id": "E14000814",
+
+"region": "East Midlands",
+
+"turnout": "47342",
+
+"electorate": "66297",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.359,
+
+"hpr": 7.89356652301947,
+
+"sal": 18.2585517547756,
+
+"ele": 1.404541,
+
+"con": "22877",
+
+"lab": "11585",
+
+"lib": "9711",
+
+"ukp": "1252",
+
+"bnp": "1698",
+
+"oth": "219",
+
+"mpn": "Pauline Latham",
+
+});
+

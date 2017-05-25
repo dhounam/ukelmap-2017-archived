@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Cornwall, North",
+
+"id": "E14000837",
+
+"region": "South West",
+
+"turnout": "46844",
+
+"electorate": "68662",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 2.618,
+
+"hpr": 4.92191003744162,
+
+"sal": 14.6543086172345,
+
+"ele": -3.80721,
+
+"con": "19531",
+
+"lab": "1971",
+
+"lib": "22512",
+
+"ukp": "2300",
+
+"oth": "530",
+
+"mpn": "Dan Rogerson",
+
+});
+

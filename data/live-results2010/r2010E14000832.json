@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Newcastle upon Tyne, East",
+
+"id": "E14000832",
+
+"region": "North East",
+
+"turnout": "37840",
+
+"electorate": "64487",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.803,
+
+"hpr": 6.59794315022013,
+
+"sal": 17.5479250052665,
+
+"ele": -9.42039,
+
+"con": "6068",
+
+"lab": "17043",
+
+"lib": "12590",
+
+"grn": "620",
+
+"bnp": "1342",
+
+"oth": "177",
+
+"mpn": "Nicholas Brown",
+
+});
+

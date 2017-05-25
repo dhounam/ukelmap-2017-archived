@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Wansbeck",
+
+"id": "E14001014",
+
+"region": "North East",
+
+"turnout": "38273",
+
+"electorate": "63045",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.318,
+
+"hpr": 3.6764478287038,
+
+"sal": -1.56855151045701,
+
+"ele": 0.229,
+
+"con": "6714",
+
+"lab": "17548",
+
+"lib": "10517",
+
+"grn": "601",
+
+"ukp": "974",
+
+"bnp": "1418",
+
+"ind": "359",
+
+"oth": "142",
+
+"mpn": "Ian Lavery",
+
+});
+

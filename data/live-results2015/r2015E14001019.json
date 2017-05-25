@@ -1,0 +1,16 @@
+resultCB({
+"name": "Warwick and Leamington",
+"id": "E14001019",
+"region": "West Midlands",
+"turnout": "50581",
+"electorate": "71570",
+"win": "con",
+"swing": "2.95",
+"status": "hold",
+"con": "24249",
+"lab": "17643",
+"lib": "2512",
+"grn": "1994",
+"ukp": "4183",
+"mpn": "Chris White"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Eddisbury",
+"id": "E14000686",
+"region": "North West",
+"turnout": "47352",
+"electorate": "68636",
+"win": "con",
+"swing": "1.36",
+"status": "hold",
+"con": "24167",
+"lab": "11193",
+"lib": "4289",
+"grn": "1624",
+"ukp": "5778",
+"oth": "301",
+"mpn": "Antoinette Sandbach"
+});

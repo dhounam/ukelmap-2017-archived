@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bournemouth East",
+"id": "E14000584",
+"region": "South West",
+"turnout": "44827",
+"electorate": "71956",
+"win": "con",
+"swing": "1.29",
+"status": "hold",
+"con": "22060",
+"lab": "7448",
+"lib": "3752",
+"grn": "3263",
+"ukp": "7401",
+"oth": "903",
+"mpn": "Tobias Ellwood"
+});

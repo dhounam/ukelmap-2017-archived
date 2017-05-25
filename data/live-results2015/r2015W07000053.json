@@ -1,0 +1,18 @@
+resultCB({
+"name": "Torfaen",
+"id": "W07000053",
+"region": "Wales",
+"turnout": "37937",
+"electorate": "61896",
+"win": "lab",
+"swing": "1.6",
+"status": "hold",
+"con": "8769",
+"lab": "16938",
+"lib": "1271",
+"grn": "746",
+"ukp": "7203",
+"plc": "2169",
+"oth": "841",
+"mpn": "Nick Thomas-Symonds"
+});

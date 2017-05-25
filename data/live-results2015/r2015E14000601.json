@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bristol South",
+"id": "E14000601",
+"region": "South West",
+"turnout": "50842",
+"electorate": "81996",
+"win": "lab",
+"swing": "0.76",
+"status": "hold",
+"con": "12377",
+"lab": "19505",
+"lib": "4416",
+"grn": "5861",
+"ukp": "8381",
+"oth": "302",
+"mpn": "Karin Smyth"
+});

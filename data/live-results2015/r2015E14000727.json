@@ -1,0 +1,18 @@
+resultCB({
+"name": "Hampstead and Kilburn",
+"id": "E14000727",
+"region": "London",
+"turnout": "53964",
+"electorate": "80241",
+"win": "lab",
+"swing": "1.01",
+"status": "hold",
+"con": "22839",
+"lab": "23977",
+"lib": "3039",
+"grn": "2387",
+"ukp": "1532",
+"ind": "113",
+"oth": "77",
+"mpn": "Tulip Siddiq"
+});

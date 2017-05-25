@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Chesterfield",
+
+"id": "E14000632",
+
+"region": "East Midlands",
+
+"turnout": "45839",
+
+"electorate": "71878",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.815,
+
+"hpr": 12.6818508009001,
+
+"sal": -4.24764576237227,
+
+"ele": -2.81782,
+
+"con": "7214",
+
+"lab": "17891",
+
+"lib": "17342",
+
+"grn": "600",
+
+"ukp": "1432",
+
+"ind": "147",
+
+"oth": "1213",
+
+"mpn": "Toby Perkins",
+
+});
+

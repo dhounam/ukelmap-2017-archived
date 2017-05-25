@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bracknell",
+"id": "E14000586",
+"region": "South East",
+"turnout": "53086",
+"electorate": "78131",
+"win": "con",
+"swing": "1.64",
+"status": "hold",
+"con": "29606",
+"lab": "8956",
+"lib": "3983",
+"grn": "2202",
+"ukp": "8339",
+"mpn": "Phillip Lee"
+});

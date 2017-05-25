@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Hazel Grove",
+
+"id": "E14000738",
+
+"region": "North West",
+
+"turnout": "41981",
+
+"electorate": "63074",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 0.576,
+
+"hpr": 11.5977662137068,
+
+"sal": 5.06091846298031,
+
+"ele": 0.813851,
+
+"con": "14114",
+
+"lab": "5234",
+
+"lib": "20485",
+
+"ukp": "2148",
+
+"mpn": "Andrew Stunell",
+
+});
+

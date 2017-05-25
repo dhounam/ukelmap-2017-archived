@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Yorkshire, East ",
+
+"id": "E14000683",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "51254",
+
+"electorate": "80342",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.869,
+
+"hpr": 6.59912354855494,
+
+"sal": -1.78117048346056,
+
+"ele": -1.56869,
+
+"con": "24328",
+
+"lab": "10401",
+
+"lib": "10842",
+
+"grn": "762",
+
+"ukp": "2142",
+
+"bnp": "1865",
+
+"oth": "914",
+
+"mpn": "Greg Knight",
+
+});
+

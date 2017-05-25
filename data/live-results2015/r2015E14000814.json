@@ -1,0 +1,16 @@
+resultCB({
+"name": "Mid Derbyshire",
+"id": "E14000814",
+"region": "East Midlands",
+"turnout": "47729",
+"electorate": "67576",
+"win": "con",
+"swing": "1.46",
+"status": "hold",
+"con": "24908",
+"lab": "12134",
+"lib": "2292",
+"grn": "1898",
+"ukp": "6497",
+"mpn": "Pauline Latham"
+});

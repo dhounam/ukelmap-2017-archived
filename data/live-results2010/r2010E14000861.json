@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Northampton, North",
+
+"id": "E14000861",
+
+"region": "East Midlands",
+
+"turnout": "40271",
+
+"electorate": "64230",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.707,
+
+"hpr": 16.736483310068,
+
+"sal": 8.76777251184832,
+
+"ele": -6.47784,
+
+"con": "13735",
+
+"lab": "11799",
+
+"lib": "11250",
+
+"grn": "443",
+
+"ukp": "1238",
+
+"bnp": "1316",
+
+"ind": "334",
+
+"oth": "156",
+
+"mpn": "Michael Ellis",
+
+});
+

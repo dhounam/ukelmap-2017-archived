@@ -1,0 +1,16 @@
+resultCB({
+"name": "Stockton North",
+"id": "E14000970",
+"region": "North East",
+"turnout": "39571",
+"electorate": "66126",
+"win": "lab",
+"swing": "2.12",
+"status": "hold",
+"con": "11069",
+"lab": "19436",
+"lib": "884",
+"ukp": "7581",
+"oth": "601",
+"mpn": "Alex Cunningham"
+});

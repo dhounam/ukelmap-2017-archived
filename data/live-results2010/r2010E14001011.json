@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Walsall, North",
+
+"id": "E14001011",
+
+"region": "West Midlands",
+
+"turnout": "36187",
+
+"electorate": "65183",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.016,
+
+"hpr": 12.6558063349614,
+
+"sal": 5.1574719932361,
+
+"ele": 2.56063,
+
+"con": "12395",
+
+"lab": "13385",
+
+"lib": "4754",
+
+"ukp": "1737",
+
+"bnp": "2930",
+
+"oth": "986",
+
+"mpn": "David Winnick",
+
+});
+

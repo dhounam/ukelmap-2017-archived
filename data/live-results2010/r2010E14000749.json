@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Hitchin & Harpenden",
+
+"id": "E14000749",
+
+"region": "East Of England",
+
+"turnout": "54707",
+
+"electorate": "73851",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.209,
+
+"hpr": 29.1434689915847,
+
+"sal": -0.606175412009833,
+
+"ele": 0.354961,
+
+"con": "29869",
+
+"lab": "7413",
+
+"lib": "14598",
+
+"grn": "807",
+
+"ukp": "1663",
+
+"ind": "109",
+
+"oth": "248",
+
+"mpn": "Peter Lilley",
+
+});
+

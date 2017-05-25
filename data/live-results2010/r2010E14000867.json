@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Nottingham, South",
+
+"id": "E14000867",
+
+"region": "East Midlands",
+
+"turnout": "40789",
+
+"electorate": "67441",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 5.416,
+
+"hpr": 11.7448955224164,
+
+"sal": 1.45622119815667,
+
+"ele": -6.37821,
+
+"con": "13437",
+
+"lab": "15209",
+
+"lib": "9406",
+
+"grn": "630",
+
+"ukp": "967",
+
+"bnp": "1140",
+
+"mpn": "Lilian Greenwood",
+
+});
+

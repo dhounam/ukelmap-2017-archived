@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Harlow",
+
+"id": "E14000729",
+
+"region": "East Of England",
+
+"turnout": "43878",
+
+"electorate": "67439",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.038,
+
+"hpr": 19.976022749668,
+
+"sal": 17.8040103492885,
+
+"ele": -0.09195,
+
+"con": "19691",
+
+"lab": "14766",
+
+"lib": "5990",
+
+"ukp": "1591",
+
+"bnp": "1739",
+
+"oth": "101",
+
+"mpn": "Robert Halfon",
+
+});
+

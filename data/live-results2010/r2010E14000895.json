@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Richmond (Yorks)",
+
+"id": "E14000895",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "53412",
+
+"electorate": "79478",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.297,
+
+"hpr": 2.46088142338552,
+
+"sal": 8.70863970588236,
+
+"ele": -4.56379,
+
+"con": "33541",
+
+"lab": "8150",
+
+"lib": "10205",
+
+"grn": "1516",
+
+"mpn": "William Hague",
+
+});
+

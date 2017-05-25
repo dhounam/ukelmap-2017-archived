@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Hull, West & Hessle",
+
+"id": "E14000773",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "31505",
+
+"electorate": "69017",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.854,
+
+"hpr": 7.348307620366,
+
+"sal": 4.08883354088833,
+
+"ele": -4.45141,
+
+"con": "6361",
+
+"lab": "13378",
+
+"lib": "7636",
+
+"ukp": "1688",
+
+"bnp": "1416",
+
+"oth": "1026",
+
+"mpn": "Alan Johnson",
+
+});
+

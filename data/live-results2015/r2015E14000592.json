@@ -1,0 +1,17 @@
+resultCB({
+"name": "Brent North",
+"id": "E14000592",
+"region": "London",
+"turnout": "52235",
+"electorate": "82196",
+"win": "lab",
+"swing": "2.7",
+"status": "hold",
+"con": "17517",
+"lab": "28351",
+"lib": "2607",
+"grn": "1539",
+"ukp": "2024",
+"ind": "197",
+"mpn": "Barry Gardiner"
+});

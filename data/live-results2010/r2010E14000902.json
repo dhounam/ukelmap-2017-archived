@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Rossendale & Darwen",
+
+"id": "E14000902",
+
+"region": "North West",
+
+"turnout": "47128",
+
+"electorate": "73003",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.382,
+
+"hpr": 3.80945805609154,
+
+"sal": 12.3904014766959,
+
+"ele": 0.061566,
+
+"con": "19691",
+
+"lab": "15198",
+
+"lib": "8541",
+
+"ukp": "1617",
+
+"ind": "113",
+
+"oth": "1968",
+
+"mpn": "Jake Berry",
+
+});
+

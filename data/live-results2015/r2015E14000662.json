@@ -1,0 +1,16 @@
+resultCB({
+"name": "Derby North",
+"id": "E14000662",
+"region": "East Midlands",
+"turnout": "44745",
+"electorate": "64739",
+"win": "con",
+"swing": "0.73",
+"status": "gain",
+"con": "16402",
+"lab": "16361",
+"lib": "3832",
+"grn": "1618",
+"ukp": "6532",
+"mpn": "Amanda Solloway"
+});

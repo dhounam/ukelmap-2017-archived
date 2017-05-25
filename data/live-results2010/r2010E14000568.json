@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Birmingham Yardley",
+
+"id": "E14000568",
+
+"region": "West Midlands",
+
+"turnout": "40850",
+
+"electorate": "72321",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 3.25,
+
+"hpr": 12.267350344552,
+
+"sal": -7.86042944785275,
+
+"ele": -0.76033,
+
+"con": "7836",
+
+"lab": "13160",
+
+"lib": "16162",
+
+"ukp": "1190",
+
+"bnp": "2153",
+
+"oth": "349",
+
+"mpn": "John Hemming",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Manchester Withington",
+"id": "E14000809",
+"region": "North West",
+"turnout": "49966",
+"electorate": "80590",
+"win": "lab",
+"swing": "16.99",
+"status": "gain",
+"con": "4872",
+"lab": "26843",
+"lib": "11970",
+"grn": "4048",
+"ukp": "2172",
+"ind": "61",
+"mpn": "Jeff Smith"
+});

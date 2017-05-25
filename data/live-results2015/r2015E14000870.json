@@ -1,0 +1,16 @@
+resultCB({
+"name": "Oldham East and Saddleworth",
+"id": "E14000870",
+"region": "North West",
+"turnout": "44483",
+"electorate": "72005",
+"win": "lab",
+"swing": "4.04",
+"status": "hold",
+"con": "11527",
+"lab": "17529",
+"lib": "5718",
+"grn": "1152",
+"ukp": "8557",
+"mpn": "Debbie Abrahams"
+});

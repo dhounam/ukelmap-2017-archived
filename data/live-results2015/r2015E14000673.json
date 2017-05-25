@@ -1,0 +1,18 @@
+resultCB({
+"name": "Dulwich and West Norwood",
+"id": "E14000673",
+"region": "London",
+"turnout": "51362",
+"electorate": "75244",
+"win": "lab",
+"swing": "3.48",
+"status": "hold",
+"con": "11650",
+"lab": "27772",
+"lib": "5055",
+"grn": "4844",
+"ukp": "1606",
+"ind": "125",
+"oth": "310",
+"mpn": "Helen Hayes"
+});

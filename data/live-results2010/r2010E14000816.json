@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Norfolk, Mid",
+
+"id": "E14000816",
+
+"region": "East Of England",
+
+"turnout": "50765",
+
+"electorate": "74260",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.043,
+
+"hpr": 9.84094842424057,
+
+"sal": 5.33815397703106,
+
+"ele": 1.980823,
+
+"con": "25123",
+
+"lab": "8857",
+
+"lib": "11267",
+
+"grn": "1457",
+
+"ukp": "2800",
+
+"bnp": "1261",
+
+"mpn": "George Freeman",
+
+});
+

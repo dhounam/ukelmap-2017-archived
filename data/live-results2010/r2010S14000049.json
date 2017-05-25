@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Fife, North East",
+
+"id": "S14000049",
+
+"region": "Scotland",
+
+"turnout": "40064",
+
+"electorate": "62969",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 5.8269245077216,
+
+"sal": 5.04256712508185,
+
+"ele": -4.37916,
+
+"con": "8715",
+
+"lab": "6869",
+
+"lib": "17763",
+
+"ukp": "1032",
+
+"snp": "5685",
+
+"mpn": "Sir Menzies Campbell",
+
+});
+

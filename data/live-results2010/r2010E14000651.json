@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Coventry, South",
+
+"id": "E14000651",
+
+"region": "West Midlands",
+
+"turnout": "45924",
+
+"electorate": "73652",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 6.111,
+
+"hpr": 8.84336567013015,
+
+"sal": 13.0947989671708,
+
+"ele": -8.434,
+
+"con": "15352",
+
+"lab": "19197",
+
+"lib": "8278",
+
+"grn": "639",
+
+"ukp": "1767",
+
+"oth": "691",
+
+"mpn": "Jim Cunningham",
+
+});
+

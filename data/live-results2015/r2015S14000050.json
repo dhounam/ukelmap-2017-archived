@@ -1,0 +1,16 @@
+resultCB({
+"name": "Ochil and South Perthshire",
+"id": "S14000050",
+"region": "Scotland",
+"turnout": "57871",
+"electorate": "77370",
+"win": "snp",
+"swing": "13.92",
+"status": "gain",
+"con": "11987",
+"lab": "16452",
+"lib": "1481",
+"ukp": "1331",
+"snp": "26620",
+"mpn": "Tasmina Ahmed-Sheikh"
+});

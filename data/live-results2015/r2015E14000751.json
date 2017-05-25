@@ -1,0 +1,17 @@
+resultCB({
+"name": "Hornchurch and Upminster",
+"id": "E14000751",
+"region": "London",
+"turnout": "55236",
+"electorate": "79331",
+"win": "con",
+"swing": "11.22",
+"status": "hold",
+"con": "27051",
+"lab": "11103",
+"lib": "1501",
+"grn": "1411",
+"ukp": "13977",
+"bnp": "193",
+"mpn": "Angela Watkinson"
+});

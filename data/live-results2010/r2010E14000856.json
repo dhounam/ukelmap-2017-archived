@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Durham, North West",
+
+"id": "E14000856",
+
+"region": "North East",
+
+"turnout": "43815",
+
+"electorate": "70618",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.916,
+
+"hpr": -4.10415480650769,
+
+"sal": 13.2916145181477,
+
+"ele": -2.21187,
+
+"con": "8766",
+
+"lab": "18539",
+
+"lib": "10927",
+
+"ukp": "1259",
+
+"bnp": "1852",
+
+"ind": "2472",
+
+"mpn": "Pat Glass",
+
+});
+

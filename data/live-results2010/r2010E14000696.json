@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Erith & Thamesmead",
+
+"id": "E14000696",
+
+"region": "London",
+
+"turnout": "42476",
+
+"electorate": "69918",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 6.865,
+
+"hpr": 24.2781420535742,
+
+"sal": -6.57048496436641,
+
+"ele": 1.144762,
+
+"con": "13365",
+
+"lab": "19068",
+
+"lib": "5116",
+
+"grn": "322",
+
+"ukp": "1139",
+
+"bnp": "2184",
+
+"oth": "1282",
+
+"mpn": "Teresa Pearce",
+
+});
+

@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Southend, West",
+
+"id": "E14000957",
+
+"region": "East Of England",
+
+"turnout": "43606",
+
+"electorate": "66527",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.891,
+
+"hpr": 19.9937726404014,
+
+"sal": 5.07351418513149,
+
+"ele": -2.08467,
+
+"con": "20086",
+
+"lab": "5850",
+
+"lib": "12816",
+
+"grn": "644",
+
+"ukp": "1714",
+
+"bnp": "1333",
+
+"ind": "617",
+
+"oth": "546",
+
+"mpn": "David Amess",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "North Tyneside",
+"id": "E14000853",
+"region": "North East",
+"turnout": "46818",
+"electorate": "79286",
+"win": "lab",
+"swing": "2.21",
+"status": "hold",
+"con": "8997",
+"lab": "26191",
+"lib": "2075",
+"grn": "1442",
+"ukp": "7618",
+"oth": "495",
+"mpn": "Mary Glindon"
+});

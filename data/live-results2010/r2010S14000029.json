@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Glasgow, Central",
+
+"id": "S14000029",
+
+"region": "Scotland",
+
+"turnout": "30580",
+
+"electorate": "60062",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 26.8460846035254,
+
+"sal": 11.3004484304933,
+
+"ele": 16.33444,
+
+"con": "2158",
+
+"lab": "15908",
+
+"lib": "5010",
+
+"grn": "800",
+
+"ukp": "246",
+
+"bnp": "616",
+
+"snp": "5357",
+
+"oth": "485",
+
+"mpn": "Anas Sarwar",
+
+});
+

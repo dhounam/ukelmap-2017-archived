@@ -1,0 +1,16 @@
+resultCB({
+"name": "Yeovil",
+"id": "E14001060",
+"region": "South West",
+"turnout": "56933",
+"electorate": "82446",
+"win": "con",
+"swing": "16.07",
+"status": "gain",
+"con": "24178",
+"lab": "4053",
+"lib": "18865",
+"grn": "2191",
+"ukp": "7646",
+"mpn": "Marcus Fysh"
+});

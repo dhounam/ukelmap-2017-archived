@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Norwich, South",
+
+"id": "E14000864",
+
+"region": "East Of England",
+
+"turnout": "47551",
+
+"electorate": "73649",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 4.142,
+
+"hpr": 18.5419435862826,
+
+"sal": 3.03205870992662,
+
+"ele": -4.04202,
+
+"con": "10902",
+
+"lab": "13650",
+
+"lib": "13960",
+
+"grn": "7095",
+
+"ukp": "1145",
+
+"bnp": "697",
+
+"oth": "102",
+
+"mpn": "Simon Wright",
+
+});
+

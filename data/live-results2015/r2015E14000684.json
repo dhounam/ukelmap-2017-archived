@@ -1,0 +1,17 @@
+resultCB({
+"name": "Eastbourne",
+"id": "E14000684",
+"region": "South East",
+"turnout": "52907",
+"electorate": "78262",
+"win": "con",
+"swing": "3.99",
+"status": "gain",
+"con": "20934",
+"lab": "4143",
+"lib": "20201",
+"grn": "1351",
+"ukp": "6139",
+"ind": "139",
+"mpn": "Caroline Ansell"
+});

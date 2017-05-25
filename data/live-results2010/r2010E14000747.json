@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Heywood & Middleton",
+
+"id": "E14000747",
+
+"region": "North West",
+
+"turnout": "28472",
+
+"electorate": "79170",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.861,
+
+"hpr": 8.53347952192223,
+
+"sal": 2.44584206848357,
+
+"ele": 1.300755,
+
+"con": "3496",
+
+"lab": "11633",
+
+"lib": "1457",
+
+"grn": "870",
+
+"ukp": "11016",
+
+"mpn": "Liz McInnes",
+
+});
+

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Airdrie and Shotts",
+"id": "S14000003",
+"region": "Scotland",
+"turnout": "44286",
+"electorate": "66715",
+"win": "snp",
+"swing": "27.22",
+"status": "gain",
+"con": "3389",
+"lab": "15108",
+"lib": "678",
+"ukp": "1088",
+"snp": "23887",
+"ind": "136",
+"mpn": "Neil Gray"
+});

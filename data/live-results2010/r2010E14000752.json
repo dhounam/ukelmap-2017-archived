@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Hornsey & Wood Green",
+
+"id": "E14000752",
+
+"region": "London",
+
+"turnout": "55042",
+
+"electorate": "79916",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 3.741,
+
+"hpr": 53.7875757540278,
+
+"sal": 12.342617321633,
+
+"ele": -6.64034,
+
+"con": "9174",
+
+"lab": "18720",
+
+"lib": "25595",
+
+"grn": "1261",
+
+"ind": "201",
+
+"oth": "91",
+
+"mpn": "Lynne Featherstone",
+
+});
+

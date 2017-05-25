@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Wantage",
+
+"id": "E14001015",
+
+"region": "South East",
+
+"turnout": "56341",
+
+"electorate": "80456",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.346,
+
+"hpr": 16.9375645742748,
+
+"sal": 0.169308911805444,
+
+"ele": 6.745624,
+
+"con": "29284",
+
+"lab": "7855",
+
+"lib": "15737",
+
+"grn": "1044",
+
+"ukp": "2421",
+
+"mpn": "Ed Vaizey",
+
+});
+

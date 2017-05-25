@@ -1,0 +1,17 @@
+resultCB({
+"name": "Twickenham",
+"id": "E14001005",
+"region": "London",
+"turnout": "62004",
+"electorate": "80242",
+"win": "con",
+"swing": "11.79",
+"status": "gain",
+"con": "25580",
+"lab": "7129",
+"lib": "23563",
+"grn": "2463",
+"ukp": "3069",
+"oth": "200",
+"mpn": "Tania Mathias"
+});

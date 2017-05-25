@@ -1,0 +1,18 @@
+resultCB({
+"name": "Edinburgh East",
+"id": "S14000022",
+"region": "Scotland",
+"turnout": "47089",
+"electorate": "66178",
+"win": "snp",
+"swing": "21.18",
+"status": "gain",
+"con": "4670",
+"lab": "14082",
+"lib": "1325",
+"grn": "2809",
+"ukp": "898",
+"snp": "23188",
+"oth": "117",
+"mpn": "Tommy Sheppard"
+});

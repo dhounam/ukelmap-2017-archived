@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Bradford, South",
+
+"id": "E14000588",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "37995",
+
+"electorate": "63580",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.204,
+
+"hpr": 6.02948513020624,
+
+"sal": 14.3762183235868,
+
+"ele": -1.12384,
+
+"con": "11060",
+
+"lab": "15682",
+
+"lib": "6948",
+
+"ukp": "1339",
+
+"bnp": "2651",
+
+"oth": "315",
+
+"mpn": "Gerry Sutcliffe",
+
+});
+

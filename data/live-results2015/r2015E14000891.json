@@ -1,0 +1,17 @@
+resultCB({
+"name": "Redcar",
+"id": "E14000891",
+"region": "North East",
+"turnout": "40919",
+"electorate": "64825",
+"win": "lab",
+"swing": "18.91",
+"status": "gain",
+"con": "6630",
+"lab": "17946",
+"lib": "7558",
+"grn": "880",
+"ukp": "7516",
+"oth": "389",
+"mpn": "Anna Turley"
+});

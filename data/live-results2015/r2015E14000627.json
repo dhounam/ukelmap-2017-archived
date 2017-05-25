@@ -1,0 +1,17 @@
+resultCB({
+"name": "Cheadle",
+"id": "E14000627",
+"region": "North West",
+"turnout": "53095",
+"electorate": "73239",
+"win": "con",
+"swing": "9.19",
+"status": "gain",
+"con": "22889",
+"lab": "8673",
+"lib": "16436",
+"ukp": "4423",
+"ind": "390",
+"oth": "284",
+"mpn": "Mary Robinson"
+});

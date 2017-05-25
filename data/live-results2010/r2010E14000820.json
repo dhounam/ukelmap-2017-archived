@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Middlesbrough South & Cleveland East",
+
+"id": "E14000820",
+
+"region": "North East",
+
+"turnout": "46214",
+
+"electorate": "72664",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": -0.589,
+
+"hpr": 9.39601559748256,
+
+"sal": -1.01070154577883,
+
+"ele": -2.83495,
+
+"con": "16461",
+
+"lab": "18138",
+
+"lib": "7340",
+
+"ukp": "1881",
+
+"bnp": "1576",
+
+"ind": "818",
+
+"mpn": "Tom Blenkinsop",
+
+});
+

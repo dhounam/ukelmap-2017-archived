@@ -1,0 +1,16 @@
+resultCB({
+"name": "Chippenham",
+"id": "E14000635",
+"region": "South West",
+"turnout": "55407",
+"electorate": "74225",
+"win": "con",
+"swing": "11.45",
+"status": "gain",
+"con": "26354",
+"lab": "4561",
+"lib": "16278",
+"grn": "2330",
+"ukp": "5884",
+"mpn": "Michelle Donelan"
+});

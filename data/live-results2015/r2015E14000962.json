@@ -1,0 +1,16 @@
+resultCB({
+"name": "St Helens North",
+"id": "E14000962",
+"region": "North West",
+"turnout": "46256",
+"electorate": "75262",
+"win": "lab",
+"swing": "3.99",
+"status": "hold",
+"con": "9087",
+"lab": "26378",
+"lib": "2046",
+"grn": "1762",
+"ukp": "6983",
+"mpn": "Conor McGinn"
+});

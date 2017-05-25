@@ -1,0 +1,17 @@
+resultCB({
+"name": "North Devon",
+"id": "E14000838",
+"region": "South West",
+"turnout": "52320",
+"electorate": "74737",
+"win": "con",
+"swing": "12.3",
+"status": "gain",
+"con": "22341",
+"lab": "3699",
+"lib": "15405",
+"grn": "3018",
+"ukp": "7719",
+"oth": "138",
+"mpn": "Peter Heaton-Jones"
+});

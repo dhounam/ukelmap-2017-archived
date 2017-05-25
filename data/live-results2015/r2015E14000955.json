@@ -1,0 +1,17 @@
+resultCB({
+"name": "Southampton Itchen",
+"id": "E14000955",
+"region": "South East",
+"turnout": "44684",
+"electorate": "72309",
+"win": "con",
+"swing": "2.84",
+"status": "gain",
+"con": "18656",
+"lab": "16314",
+"lib": "1595",
+"grn": "1876",
+"ukp": "6010",
+"oth": "233",
+"mpn": "Royston Smith"
+});

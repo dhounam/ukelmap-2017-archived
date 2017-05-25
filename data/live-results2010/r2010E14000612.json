@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bury, South",
+
+"id": "E14000612",
+
+"region": "North West",
+
+"turnout": "48267",
+
+"electorate": "73544",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 0.642,
+
+"hpr": 0.659576499338456,
+
+"sal": 2.24916878544886,
+
+"ele": -1.25819,
+
+"con": "16216",
+
+"lab": "19508",
+
+"lib": "8796",
+
+"grn": "493",
+
+"ukp": "1017",
+
+"bnp": "1743",
+
+"oth": "494",
+
+"mpn": "Ivan Lewis",
+
+});
+

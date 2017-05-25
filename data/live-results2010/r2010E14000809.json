@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Manchester Withington",
+
+"id": "E14000809",
+
+"region": "North West",
+
+"turnout": "45031",
+
+"electorate": "74371",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 2.377,
+
+"hpr": 8.42504888085564,
+
+"sal": -0.749750083305571,
+
+"ele": 2.595361,
+
+"con": "5005",
+
+"lab": "18216",
+
+"lib": "20110",
+
+"grn": "798",
+
+"ukp": "698",
+
+"ind": "57",
+
+"oth": "147",
+
+"mpn": "John Leech",
+
+});
+

@@ -1,0 +1,18 @@
+resultCB({
+"name": "Hove",
+"id": "E14000755",
+"region": "South East",
+"turnout": "52214",
+"electorate": "73505",
+"win": "lab",
+"swing": "3.06",
+"status": "gain",
+"con": "20846",
+"lab": "22082",
+"lib": "1861",
+"grn": "3569",
+"ukp": "3265",
+"ind": "322",
+"oth": "269",
+"mpn": "Dr Peter Kyle"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Colchester",
+"id": "E14000644",
+"region": "East Anglia",
+"turnout": "48593",
+"electorate": "74203",
+"win": "con",
+"swing": "13.3",
+"status": "gain",
+"con": "18919",
+"lab": "7852",
+"lib": "13344",
+"grn": "2499",
+"ukp": "5870",
+"oth": "109",
+"mpn": "Will Quince"
+});

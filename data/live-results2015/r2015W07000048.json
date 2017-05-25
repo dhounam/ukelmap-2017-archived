@@ -1,0 +1,16 @@
+resultCB({
+"name": "Swansea East",
+"id": "W07000048",
+"region": "Wales",
+"turnout": "33618",
+"electorate": "58011",
+"win": "lab",
+"swing": "6.56",
+"status": "hold",
+"con": "5142",
+"lab": "17807",
+"lib": "1392",
+"ukp": "5779",
+"plc": "3498",
+"mpn": "Carolyn Harris"
+});

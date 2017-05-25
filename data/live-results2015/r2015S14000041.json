@@ -1,0 +1,16 @@
+resultCB({
+"name": "Kirkcaldy and Cowdenbeath",
+"id": "S14000041",
+"region": "Scotland",
+"turnout": "52892",
+"electorate": "75941",
+"win": "snp",
+"swing": "34.55",
+"status": "gain",
+"con": "5223",
+"lab": "17654",
+"lib": "1150",
+"ukp": "1237",
+"snp": "27628",
+"mpn": "Roger Mullin"
+});

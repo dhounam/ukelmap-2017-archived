@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Erewash",
+
+"id": "E14000695",
+
+"region": "East Midlands",
+
+"turnout": "47642",
+
+"electorate": "69654",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.199,
+
+"hpr": 11.7989730910961,
+
+"sal": 10.379746835443,
+
+"ele": 1.777324,
+
+"con": "18805",
+
+"lab": "16304",
+
+"lib": "8343",
+
+"grn": "534",
+
+"ukp": "855",
+
+"bnp": "2337",
+
+"ind": "464",
+
+"mpn": "Jessica Lee",
+
+});
+

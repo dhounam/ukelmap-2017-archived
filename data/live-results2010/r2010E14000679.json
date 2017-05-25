@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "East Ham",
+
+"id": "E14000679",
+
+"region": "London",
+
+"turnout": "50373",
+
+"electorate": "90675",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 6.11,
+
+"hpr": 25.4940495456538,
+
+"sal": 5.2588600359301,
+
+"ele": -5.91397,
+
+"con": "7645",
+
+"lab": "35471",
+
+"lib": "5849",
+
+"grn": "586",
+
+"oth": "822",
+
+"mpn": "Stephen Timms",
+
+});
+

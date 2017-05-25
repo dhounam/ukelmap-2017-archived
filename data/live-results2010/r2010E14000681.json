@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Surrey, East",
+
+"id": "E14000681",
+
+"region": "South East",
+
+"turnout": "54640",
+
+"electorate": "76855",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.692,
+
+"hpr": 24.9457614471817,
+
+"sal": 9.56826137689613,
+
+"ele": -0.06767,
+
+"con": "31007",
+
+"lab": "4925",
+
+"lib": "14133",
+
+"ukp": "3770",
+
+"ind": "383",
+
+"oth": "422",
+
+"mpn": "Sam Gyimah",
+
+});
+

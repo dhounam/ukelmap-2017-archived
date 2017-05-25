@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Bosworth",
+
+"id": "E14000583",
+
+"region": "East Midlands",
+
+"turnout": "54274",
+
+"electorate": "77296",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.865,
+
+"hpr": 7.44753414109223,
+
+"sal": 7.33413269384494,
+
+"ele": 1.50095,
+
+"con": "23132",
+
+"lab": "8674",
+
+"lib": "18100",
+
+"ukp": "1098",
+
+"bnp": "2458",
+
+"oth": "812",
+
+"mpn": "David Tredinnick",
+
+});
+

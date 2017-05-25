@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Ealing, North",
+
+"id": "E14000675",
+
+"region": "London",
+
+"turnout": "47678",
+
+"electorate": "67902",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.276,
+
+"hpr": 39.8377370053892,
+
+"sal": -10.3053435114504,
+
+"ele": -0.46517,
+
+"con": "14722",
+
+"lab": "24023",
+
+"lib": "6283",
+
+"grn": "505",
+
+"ukp": "685",
+
+"bnp": "1045",
+
+"oth": "415",
+
+"mpn": "Stephen Pound",
+
+});
+

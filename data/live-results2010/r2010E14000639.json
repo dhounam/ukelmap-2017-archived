@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Cities of London & Westminster",
+
+"id": "E14000639",
+
+"region": "London",
+
+"turnout": "36931",
+
+"electorate": "66489",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 4.998,
+
+"hpr": 103.772781115772,
+
+"sal": -0.965750696933483,
+
+"ele": -12.6835,
+
+"con": "19264",
+
+"lab": "8188",
+
+"lib": "7574",
+
+"grn": "778",
+
+"ukp": "664",
+
+"ind": "84",
+
+"oth": "379",
+
+"mpn": "Mark Field",
+
+});
+

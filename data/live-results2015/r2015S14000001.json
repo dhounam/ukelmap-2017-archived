@@ -1,0 +1,16 @@
+resultCB({
+"name": "Aberdeen North",
+"id": "S14000001",
+"region": "Scotland",
+"turnout": "43936",
+"electorate": "67745",
+"win": "snp",
+"swing": "26.33",
+"status": "gain",
+"con": "5304",
+"lab": "11397",
+"lib": "2050",
+"snp": "24793",
+"oth": "392",
+"mpn": "Kirsty Blackman"
+});

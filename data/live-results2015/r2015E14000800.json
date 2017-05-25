@@ -1,0 +1,16 @@
+resultCB({
+"name": "Luton North",
+"id": "E14000800",
+"region": "East Anglia",
+"turnout": "42571",
+"electorate": "66533",
+"win": "lab",
+"swing": "2.42",
+"status": "hold",
+"con": "12739",
+"lab": "22243",
+"lib": "1299",
+"grn": "972",
+"ukp": "5318",
+"mpn": "Kelvin Hopkins"
+});

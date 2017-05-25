@@ -1,0 +1,16 @@
+resultCB({
+"name": "Hendon",
+"id": "E14000741",
+"region": "London",
+"turnout": "49630",
+"electorate": "74658",
+"win": "con",
+"swing": "3.64",
+"status": "hold",
+"con": "24328",
+"lab": "20604",
+"lib": "1088",
+"grn": "1015",
+"ukp": "2595",
+"mpn": "Matthew Offord"
+});

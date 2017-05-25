@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Broadland",
+
+"id": "E14000603",
+
+"region": "East Of England",
+
+"turnout": "52676",
+
+"electorate": "73168",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.016,
+
+"hpr": 14.0991528533595,
+
+"sal": 4.72527472527473,
+
+"ele": -0.40844,
+
+"con": "24338",
+
+"lab": "7287",
+
+"lib": "17046",
+
+"grn": "752",
+
+"ukp": "2382",
+
+"bnp": "871",
+
+"mpn": "Keith Simpson",
+
+});
+

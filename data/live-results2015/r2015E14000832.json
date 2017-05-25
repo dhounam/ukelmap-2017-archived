@@ -1,0 +1,17 @@
+resultCB({
+"name": "Newcastle upon Tyne East",
+"id": "E14000832",
+"region": "North East",
+"turnout": "39222",
+"electorate": "74112",
+"win": "lab",
+"swing": "1.43",
+"status": "hold",
+"con": "6884",
+"lab": "19378",
+"lib": "4332",
+"grn": "3426",
+"ukp": "4910",
+"oth": "292",
+"mpn": "Nick Brown"
+});

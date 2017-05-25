@@ -1,0 +1,17 @@
+resultCB({
+"name": "Blackpool South",
+"id": "E14000573",
+"region": "North West",
+"turnout": "32436",
+"electorate": "57411",
+"win": "lab",
+"swing": "1.35",
+"status": "hold",
+"con": "10963",
+"lab": "13548",
+"lib": "743",
+"grn": "841",
+"ukp": "5613",
+"ind": "728",
+"mpn": "Gordon Marsden"
+});

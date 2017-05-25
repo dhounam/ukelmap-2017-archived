@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Swansea, East",
+
+"id": "W07000048",
+
+"region": "Wales",
+
+"turnout": "32676",
+
+"electorate": "59823",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.731,
+
+"hpr": -3.02858944531991,
+
+"sal": 7.97148412184059,
+
+"ele": -5.41719,
+
+"con": "4823",
+
+"lab": "16819",
+
+"lib": "5981",
+
+"grn": "318",
+
+"ukp": "839",
+
+"bnp": "1715",
+
+"plc": "2181",
+
+"mpn": "Sian James",
+
+});
+

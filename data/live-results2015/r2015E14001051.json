@@ -1,0 +1,17 @@
+resultCB({
+"name": "Wolverhampton South West",
+"id": "E14001051",
+"region": "West Midlands",
+"turnout": "40209",
+"electorate": "60375",
+"win": "lab",
+"swing": "1.86",
+"status": "gain",
+"con": "16573",
+"lab": "17374",
+"lib": "845",
+"grn": "1058",
+"ukp": "4310",
+"ind": "49",
+"mpn": "Rob Marris"
+});

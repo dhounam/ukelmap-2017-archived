@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Solihull",
+
+"id": "E14000931",
+
+"region": "West Midlands",
+
+"turnout": "55129",
+
+"electorate": "77863",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 1.607,
+
+"hpr": 12.6090453738023,
+
+"sal": 2.43182212958138,
+
+"ele": 0,
+
+"con": "23460",
+
+"lab": "4891",
+
+"lib": "23635",
+
+"ukp": "1200",
+
+"bnp": "1624",
+
+"oth": "319",
+
+"mpn": "Lorely Burt",
+
+});
+

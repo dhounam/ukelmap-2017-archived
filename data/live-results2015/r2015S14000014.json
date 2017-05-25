@@ -1,0 +1,17 @@
+resultCB({
+"name": "Dumfriesshire, Clydesdale and Tweeddale",
+"id": "S14000014",
+"region": "Scotland",
+"turnout": "52134",
+"electorate": "68483",
+"win": "con",
+"swing": "12.87",
+"status": "hold",
+"con": "20759",
+"lab": "7711",
+"lib": "1392",
+"grn": "839",
+"ukp": "1472",
+"snp": "19961",
+"mpn": "David Mundell"
+});

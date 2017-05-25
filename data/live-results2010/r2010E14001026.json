@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Wells",
+
+"id": "E14001026",
+
+"region": "South West",
+
+"turnout": "55864",
+
+"electorate": "79432",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 1.597,
+
+"hpr": 8.97519323740778,
+
+"sal": -14.3172690763052,
+
+"ele": 0.065726,
+
+"con": "23760",
+
+"lab": "4198",
+
+"lib": "24560",
+
+"grn": "631",
+
+"ukp": "1711",
+
+"bnp": "1004",
+
+"mpn": "Tessa Munt",
+
+});
+

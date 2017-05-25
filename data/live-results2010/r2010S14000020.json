@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Lothian, East",
+
+"id": "S14000020",
+
+"region": "Scotland",
+
+"turnout": "49161",
+
+"electorate": "73438",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 6.89997280343792,
+
+"sal": 11.0067388196855,
+
+"ele": 7.22493,
+
+"con": "9661",
+
+"lab": "21919",
+
+"lib": "8288",
+
+"grn": "862",
+
+"ukp": "548",
+
+"snp": "7883",
+
+"mpn": "Fiona O'Donnell",
+
+});
+

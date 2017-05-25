@@ -1,0 +1,16 @@
+resultCB({
+"name": "South West Devon",
+"id": "E14000950",
+"region": "South West",
+"turnout": "50372",
+"electorate": "71035",
+"win": "con",
+"swing": "1.82",
+"status": "hold",
+"con": "28500",
+"lab": "8391",
+"lib": "3767",
+"grn": "2408",
+"ukp": "7306",
+"mpn": "Gary Streeter"
+});

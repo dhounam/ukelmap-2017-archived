@@ -1,0 +1,18 @@
+resultCB({
+"name": "Esher and Walton",
+"id": "E14000697",
+"region": "South East",
+"turnout": "56976",
+"electorate": "79894",
+"win": "con",
+"swing": "1",
+"status": "hold",
+"con": "35845",
+"lab": "7229",
+"lib": "5372",
+"grn": "2355",
+"ukp": "5551",
+"ind": "228",
+"oth": "396",
+"mpn": "Dominic Raab"
+});

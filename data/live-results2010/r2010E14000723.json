@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Halifax",
+
+"id": "E14000723",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "43555",
+
+"electorate": "70380",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.093,
+
+"hpr": 3.06677045579656,
+
+"sal": 6.49549722168999,
+
+"ele": -3.82176,
+
+"con": "14806",
+
+"lab": "16278",
+
+"lib": "8335",
+
+"ukp": "654",
+
+"bnp": "2760",
+
+"oth": "722",
+
+"mpn": "Linda Riordan",
+
+});
+

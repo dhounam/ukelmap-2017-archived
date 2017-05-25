@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Banff & Buchan",
+
+"id": "S14000007",
+
+"region": "Scotland",
+
+"turnout": "38466",
+
+"electorate": "64300",
+
+"win": "snp",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 17.9696035290006,
+
+"sal": 11.2165450121654,
+
+"ele": 5.921083,
+
+"con": "11841",
+
+"lab": "5382",
+
+"lib": "4365",
+
+"bnp": "1010",
+
+"snp": "15868",
+
+"mpn": "Eilidh Whiteford",
+
+});
+

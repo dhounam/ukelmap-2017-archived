@@ -1,0 +1,16 @@
+resultCB({
+"name": "Rother Valley",
+"id": "E14000903",
+"region": "Yorkshire",
+"turnout": "47019",
+"electorate": "74275",
+"win": "lab",
+"swing": "9.92",
+"status": "hold",
+"con": "10945",
+"lab": "20501",
+"lib": "1992",
+"ukp": "13204",
+"oth": "377",
+"mpn": "Kevin Barron"
+});

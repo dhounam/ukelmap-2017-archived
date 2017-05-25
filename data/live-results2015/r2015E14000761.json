@@ -1,0 +1,16 @@
+resultCB({
+"name": "Ipswich",
+"id": "E14000761",
+"region": "East Anglia",
+"turnout": "48694",
+"electorate": "74498",
+"win": "con",
+"swing": "1.62",
+"status": "hold",
+"con": "21794",
+"lab": "18061",
+"lib": "1400",
+"grn": "1736",
+"ukp": "5703",
+"mpn": "Ben Gummer"
+});

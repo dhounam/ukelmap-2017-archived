@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Norfolk, South West",
+
+"id": "E14000952",
+
+"region": "East Of England",
+
+"turnout": "49150",
+
+"electorate": "74298",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.185,
+
+"hpr": 11.2283529514412,
+
+"sal": 5.63015312131921,
+
+"ele": 1.345267,
+
+"con": "23753",
+
+"lab": "9119",
+
+"lib": "10613",
+
+"grn": "830",
+
+"ukp": "3061",
+
+"bnp": "1774",
+
+"mpn": "Elizabeth Truss",
+
+});
+

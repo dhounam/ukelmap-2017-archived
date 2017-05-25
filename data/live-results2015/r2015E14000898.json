@@ -1,0 +1,17 @@
+resultCB({
+"name": "Rochester and Strood",
+"id": "E14000898",
+"region": "South East",
+"turnout": "52516",
+"electorate": "79000",
+"win": "con",
+"swing": "",
+"status": "gain",
+"con": "23142",
+"lab": "10396",
+"lib": "1251",
+"grn": "1516",
+"ukp": "16009",
+"oth": "202",
+"mpn": "Kelly Tolhurst"
+});

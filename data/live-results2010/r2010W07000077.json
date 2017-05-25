@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Islwyn",
+
+"id": "W07000077",
+
+"region": "Wales",
+
+"turnout": "34690",
+
+"electorate": "54826",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.634,
+
+"hpr": 7.27101456139008,
+
+"sal": 3.37261275904103,
+
+"ele": 0.254327,
+
+"con": "4854",
+
+"lab": "17069",
+
+"lib": "3597",
+
+"ukp": "936",
+
+"bnp": "1320",
+
+"plc": "4518",
+
+"ind": "1495",
+
+"oth": "901",
+
+"mpn": "Christopher Evans",
+
+});
+

@@ -1,0 +1,18 @@
+resultCB({
+"name": "Brent Central",
+"id": "E14000591",
+"region": "London",
+"turnout": "47032",
+"electorate": "77038",
+"win": "lab",
+"swing": "28.36",
+"status": "gain",
+"con": "9567",
+"lab": "29216",
+"lib": "3937",
+"grn": "1912",
+"ukp": "1850",
+"ind": "145",
+"oth": "405",
+"mpn": "Dawn Butler"
+});

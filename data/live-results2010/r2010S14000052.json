@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Paisley & Renfrewshire North",
+
+"id": "S14000052",
+
+"region": "Scotland",
+
+"turnout": "43707",
+
+"electorate": "63704",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 20.0884272260309,
+
+"sal": -3.11693102176321,
+
+"ele": 1.346991,
+
+"con": "6381",
+
+"lab": "23613",
+
+"lib": "4597",
+
+"snp": "8333",
+
+"ind": "550",
+
+"oth": "233",
+
+"mpn": "Jim Sheridan",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Hyndburn",
+"id": "E14000758",
+"region": "North West",
+"turnout": "42887",
+"electorate": "68341",
+"win": "lab",
+"swing": "1.51",
+"status": "hold",
+"con": "13676",
+"lab": "18076",
+"lib": "859",
+"grn": "1122",
+"ukp": "9154",
+"mpn": "Graham Jones"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Hertsmere",
+
+"id": "E14000745",
+
+"region": "East Of England",
+
+"turnout": "47270",
+
+"electorate": "73062",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.88,
+
+"hpr": 32.9369279454251,
+
+"sal": -8.46296560582276,
+
+"ele": 4.450013,
+
+"con": "26476",
+
+"lab": "8871",
+
+"lib": "8210",
+
+"grn": "604",
+
+"ukp": "1712",
+
+"bnp": "1397",
+
+"mpn": "James Clappison",
+
+});
+

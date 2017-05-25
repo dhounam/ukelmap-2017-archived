@@ -1,0 +1,17 @@
+resultCB({
+"name": "Bolton West",
+"id": "E14000580",
+"region": "North West",
+"turnout": "48592",
+"electorate": "72727",
+"win": "con",
+"swing": "0.92",
+"status": "gain",
+"con": "19744",
+"lab": "18943",
+"lib": "1947",
+"ukp": "7428",
+"ind": "321",
+"oth": "209",
+"mpn": "Chris Green"
+});

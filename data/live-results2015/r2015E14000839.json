@@ -1,0 +1,16 @@
+resultCB({
+"name": "North Dorset",
+"id": "E14000839",
+"region": "South West",
+"turnout": "53385",
+"electorate": "74576",
+"win": "con",
+"swing": "3.15",
+"status": "hold",
+"con": "30227",
+"lab": "4785",
+"lib": "6226",
+"grn": "3038",
+"ukp": "9109",
+"mpn": "Simon Hoare"
+});

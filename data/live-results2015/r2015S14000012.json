@@ -1,0 +1,15 @@
+resultCB({
+"name": "Cumbernauld, Kilsyth and Kirkintilloch East",
+"id": "S14000012",
+"region": "Scotland",
+"turnout": "49382",
+"electorate": "67009",
+"win": "snp",
+"swing": "31.65",
+"status": "gain",
+"con": "3891",
+"lab": "14820",
+"lib": "1099",
+"snp": "29572",
+"mpn": "Stuart McDonald"
+});

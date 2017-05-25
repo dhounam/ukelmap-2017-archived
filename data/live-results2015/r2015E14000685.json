@@ -1,0 +1,17 @@
+resultCB({
+"name": "Eastleigh",
+"id": "E14000685",
+"region": "South East",
+"turnout": "55505",
+"electorate": "79609",
+"win": "con",
+"swing": "11.84",
+"status": "gain",
+"con": "23464",
+"lab": "7181",
+"lib": "14317",
+"grn": "1513",
+"ukp": "8783",
+"oth": "247",
+"mpn": "Mims Davies"
+});

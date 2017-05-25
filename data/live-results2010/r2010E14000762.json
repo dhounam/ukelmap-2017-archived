@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Isle of Wight",
+
+"id": "E14000762",
+
+"region": "South East",
+
+"turnout": "70264",
+
+"electorate": "109966",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.021,
+
+"hpr": 3.08916755079302,
+
+"sal": -4.98257125281935,
+
+"ele": -2.40955,
+
+"con": "32810",
+
+"lab": "8169",
+
+"lib": "22283",
+
+"grn": "931",
+
+"ukp": "2435",
+
+"bnp": "1457",
+
+"ind": "66",
+
+"oth": "2113",
+
+"mpn": "Andrew Turner",
+
+});
+

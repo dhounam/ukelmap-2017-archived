@@ -1,0 +1,17 @@
+resultCB({
+"name": "Angus",
+"id": "S14000004",
+"region": "Scotland",
+"turnout": "44485",
+"electorate": "65792",
+"win": "snp",
+"swing": "8.3",
+"status": "hold",
+"con": "12900",
+"lab": "3919",
+"lib": "1216",
+"grn": "965",
+"ukp": "1355",
+"snp": "24130",
+"mpn": "Mike Weir"
+});

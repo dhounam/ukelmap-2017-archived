@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Portsmouth, North",
+
+"id": "E14000883",
+
+"region": "South East",
+
+"turnout": "44118",
+
+"electorate": "70329",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.948,
+
+"hpr": 10.4298478506702,
+
+"sal": -7.54828247088308,
+
+"ele": 3.469857,
+
+"con": "19533",
+
+"lab": "12244",
+
+"lib": "8874",
+
+"grn": "461",
+
+"ukp": "1812",
+
+"oth": "1194",
+
+"mpn": "Penny Mordaunt",
+
+});
+

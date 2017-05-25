@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bromsgrove",
+"id": "E14000605",
+"region": "West Midlands",
+"turnout": "52245",
+"electorate": "73329",
+"win": "con",
+"swing": "4.87",
+"status": "hold",
+"con": "28133",
+"lab": "11604",
+"lib": "2616",
+"grn": "1729",
+"ukp": "8163",
+"mpn": "Sajid Javid"
+});

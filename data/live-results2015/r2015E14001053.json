@@ -1,0 +1,17 @@
+resultCB({
+"name": "Workington",
+"id": "E14001053",
+"region": "North West",
+"turnout": "38463",
+"electorate": "58672",
+"win": "lab",
+"swing": "0.26",
+"status": "hold",
+"con": "11596",
+"lab": "16282",
+"lib": "1708",
+"grn": "1149",
+"ukp": "7538",
+"oth": "190",
+"mpn": "Sue Hayman"
+});

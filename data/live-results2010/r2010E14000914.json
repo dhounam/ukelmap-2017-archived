@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Scunthorpe",
+
+"id": "E14000914",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "37034",
+
+"electorate": "63089",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.995,
+
+"hpr": 4.27975253236124,
+
+"sal": 7.5241698192518,
+
+"ele": -3.12485,
+
+"con": "12091",
+
+"lab": "14640",
+
+"lib": "6774",
+
+"grn": "396",
+
+"ukp": "1686",
+
+"bnp": "1447",
+
+"mpn": "Nic Dakin",
+
+});
+

@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Crawley",
+
+"id": "E14000652",
+
+"region": "South East",
+
+"turnout": "47504",
+
+"electorate": "72781",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.312,
+
+"hpr": 26.417022818463,
+
+"sal": 6.68836452400325,
+
+"ele": 0.55537,
+
+"con": "21264",
+
+"lab": "15336",
+
+"lib": "6844",
+
+"grn": "598",
+
+"ukp": "1382",
+
+"bnp": "1672",
+
+"ind": "143",
+
+"oth": "265",
+
+"mpn": "Henry Smith",
+
+});
+

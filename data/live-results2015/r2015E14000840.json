@@ -1,0 +1,16 @@
+resultCB({
+"name": "North Durham",
+"id": "E14000840",
+"region": "North East",
+"turnout": "40146",
+"electorate": "65373",
+"win": "lab",
+"swing": "2.25",
+"status": "hold",
+"con": "8403",
+"lab": "22047",
+"lib": "2046",
+"grn": "1246",
+"ukp": "6404",
+"mpn": "Kevan Jones"
+});

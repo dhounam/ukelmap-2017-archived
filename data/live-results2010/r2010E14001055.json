@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Worthing, West",
+
+"id": "E14001055",
+
+"region": "South East",
+
+"turnout": "49123",
+
+"electorate": "75945",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.902,
+
+"hpr": 20.9362079043478,
+
+"sal": 4.03861308116626,
+
+"ele": -1.51794,
+
+"con": "25416",
+
+"lab": "5800",
+
+"lib": "13687",
+
+"grn": "996",
+
+"ukp": "2924",
+
+"oth": "300",
+
+"mpn": "Peter Bottomley",
+
+});
+

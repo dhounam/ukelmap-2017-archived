@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Amber Valley",
+
+"id": "E14000533",
+
+"region": "East Midlands",
+
+"turnout": "45958",
+
+"electorate": "70171",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.137,
+
+"hpr": 5.89232981428115,
+
+"sal": 5.95310907237514,
+
+"ele": 0.211861,
+
+"con": "17746",
+
+"lab": "17210",
+
+"lib": "6636",
+
+"ukp": "906",
+
+"bnp": "3195",
+
+"oth": "265",
+
+"mpn": "Nigel Mills",
+
+});
+

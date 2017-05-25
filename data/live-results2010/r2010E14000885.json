@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Preston",
+
+"id": "E14000885",
+
+"region": "North West",
+
+"turnout": "32505",
+
+"electorate": "62460",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.054,
+
+"hpr": -1.24000429880742,
+
+"sal": -1.670692431562,
+
+"ele": -4.94896,
+
+"con": "7060",
+
+"lab": "15668",
+
+"lib": "7935",
+
+"ukp": "1462",
+
+"ind": "108",
+
+"oth": "272",
+
+"mpn": "Mark Hendrick",
+
+});
+

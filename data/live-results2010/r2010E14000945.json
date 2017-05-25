@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Staffordshire, South",
+
+"id": "E14000945",
+
+"region": "West Midlands",
+
+"turnout": "50440",
+
+"electorate": "73390",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.354,
+
+"hpr": 5.91637042259043,
+
+"sal": -3.23308270676692,
+
+"ele": -2.27353,
+
+"con": "26834",
+
+"lab": "10244",
+
+"lib": "8427",
+
+"ukp": "2753",
+
+"bnp": "1928",
+
+"ind": "254",
+
+"mpn": "Gavin Williamson",
+
+});
+

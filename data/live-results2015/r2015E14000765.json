@@ -1,0 +1,17 @@
+resultCB({
+"name": "Jarrow",
+"id": "E14000765",
+"region": "North East",
+"turnout": "38567",
+"electorate": "63882",
+"win": "lab",
+"swing": "",
+"status": "hold",
+"con": "6584",
+"lab": "21467",
+"lib": "1238",
+"grn": "1310",
+"ukp": "7583",
+"oth": "385",
+"mpn": "Stephen Hepburn"
+});

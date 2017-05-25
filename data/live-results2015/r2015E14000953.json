@@ -1,0 +1,17 @@
+resultCB({
+"name": "South West Surrey",
+"id": "E14000953",
+"region": "South East",
+"turnout": "57154",
+"electorate": "77050",
+"win": "con",
+"swing": "3.07",
+"status": "hold",
+"con": "34199",
+"lab": "5450",
+"lib": "3586",
+"grn": "3105",
+"ukp": "5643",
+"oth": "5171",
+"mpn": "Jeremy Hunt"
+});

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Somerton & Frome",
+
+"id": "E14000932",
+
+"region": "South West",
+
+"turnout": "60612",
+
+"electorate": "81548",
+
+"win": "lib",
+
+"marginal": "True",
+
+"pop": 1.433,
+
+"hpr": 10.1066190532511,
+
+"sal": 16.7896678966789,
+
+"ele": 0.735601,
+
+"con": "26976",
+
+"lab": "2675",
+
+"lib": "28793",
+
+"ukp": "1932",
+
+"oth": "236",
+
+"mpn": "David Heath",
+
+});
+

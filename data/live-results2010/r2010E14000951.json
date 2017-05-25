@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Hertfordshire, South West",
+
+"id": "E14000951",
+
+"region": "East Of England",
+
+"turnout": "56750",
+
+"electorate": "78248",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.772,
+
+"hpr": 22.1217148653464,
+
+"sal": -8.89479905437352,
+
+"ele": 0.329301,
+
+"con": "30773",
+
+"lab": "6526",
+
+"lib": "15853",
+
+"ukp": "1450",
+
+"bnp": "1302",
+
+"ind": "846",
+
+"mpn": "David Gauke",
+
+});
+

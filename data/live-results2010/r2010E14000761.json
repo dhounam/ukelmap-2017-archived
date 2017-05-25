@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Ipswich",
+
+"id": "E14000761",
+
+"region": "East Of England",
+
+"turnout": "46941",
+
+"electorate": "78371",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.674,
+
+"hpr": 23.042471943606,
+
+"sal": 10.8250438853131,
+
+"ele": -4.43878,
+
+"con": "18371",
+
+"lab": "16292",
+
+"lib": "8556",
+
+"grn": "775",
+
+"ukp": "1365",
+
+"bnp": "1270",
+
+"ind": "93",
+
+"oth": "219",
+
+"mpn": "Ben Gummer",
+
+});
+

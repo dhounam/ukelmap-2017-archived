@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Gillingham & Rainham",
+
+"id": "E14000711",
+
+"region": "South East",
+
+"turnout": "46786",
+
+"electorate": "70865",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.382,
+
+"hpr": 14.1700178943309,
+
+"sal": -1.89873417721519,
+
+"ele": -0.44599,
+
+"con": "21624",
+
+"lab": "12944",
+
+"lib": "8484",
+
+"grn": "356",
+
+"ukp": "1515",
+
+"bnp": "1149",
+
+"oth": "714",
+
+"mpn": "Rehman Chishti",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Runnymede and Weybridge",
+"id": "E14000907",
+"region": "South East",
+"turnout": "50052",
+"electorate": "73744",
+"win": "con",
+"swing": "0.86",
+"status": "hold",
+"con": "29901",
+"lab": "7767",
+"lib": "3362",
+"grn": "2071",
+"ukp": "6951",
+"mpn": "Philip Hammond"
+});

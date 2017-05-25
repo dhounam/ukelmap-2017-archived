@@ -1,0 +1,18 @@
+resultCB({
+"name": "South Thanet",
+"id": "E14000948",
+"region": "South East",
+"turnout": "49401",
+"electorate": "70182",
+"win": "con",
+"swing": "18.4",
+"status": "hold",
+"con": "18838",
+"lab": "11740",
+"lib": "932",
+"grn": "1076",
+"ukp": "16026",
+"ind": "61",
+"oth": "728",
+"mpn": "Craig Mackinlay"
+});

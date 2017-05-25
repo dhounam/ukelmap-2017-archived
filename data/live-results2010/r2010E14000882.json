@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Poplar & Limehouse",
+
+"id": "E14000882",
+
+"region": "London",
+
+"turnout": "46700",
+
+"electorate": "74956",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 12.213,
+
+"hpr": 21.8425347360767,
+
+"sal": 9.75392296718974,
+
+"ele": 9.228273,
+
+"con": "12649",
+
+"lab": "18679",
+
+"lib": "5209",
+
+"grn": "449",
+
+"ukp": "565",
+
+"ind": "167",
+
+"res": "8160",
+
+"oth": "822",
+
+"mpn": "Jim Fitzpatrick",
+
+});
+

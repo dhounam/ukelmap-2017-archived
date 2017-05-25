@@ -1,0 +1,17 @@
+resultCB({
+"name": "Sheffield Heeley",
+"id": "E14000923",
+"region": "Yorkshire",
+"turnout": "42048",
+"electorate": "69265",
+"win": "lab",
+"swing": "4.02",
+"status": "hold",
+"con": "6792",
+"lab": "20269",
+"lib": "4746",
+"grn": "2566",
+"ukp": "7315",
+"oth": "360",
+"mpn": "Louise Haigh"
+});

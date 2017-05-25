@@ -1,0 +1,17 @@
+resultCB({
+"name": "West Ham",
+"id": "E14001032",
+"region": "London",
+"turnout": "52793",
+"electorate": "90634",
+"win": "lab",
+"swing": "2.51",
+"status": "hold",
+"con": "8146",
+"lab": "36132",
+"lib": "1430",
+"grn": "2651",
+"ukp": "3950",
+"oth": "484",
+"mpn": "Lyn Brown"
+});

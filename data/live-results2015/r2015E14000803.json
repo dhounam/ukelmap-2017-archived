@@ -1,0 +1,18 @@
+resultCB({
+"name": "Maidenhead",
+"id": "E14000803",
+"region": "South East",
+"turnout": "53855",
+"electorate": "74963",
+"win": "con",
+"swing": "0.79",
+"status": "hold",
+"con": "35453",
+"lab": "6394",
+"lib": "5337",
+"grn": "1915",
+"ukp": "4539",
+"ind": "162",
+"oth": "55",
+"mpn": "Theresa May"
+});

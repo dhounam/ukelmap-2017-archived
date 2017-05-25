@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Rother Valley",
+
+"id": "E14000903",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "46758",
+
+"electorate": "72841",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.147,
+
+"hpr": 6.78728913574602,
+
+"sal": 8.03295571575696,
+
+"ele": 2.897406,
+
+"con": "13281",
+
+"lab": "19147",
+
+"lib": "8111",
+
+"ukp": "2613",
+
+"bnp": "3606",
+
+"mpn": "Kevin Barron",
+
+});
+

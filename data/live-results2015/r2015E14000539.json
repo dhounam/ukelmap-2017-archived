@@ -1,0 +1,17 @@
+resultCB({
+"name": "Banbury",
+"id": "E14000539",
+"region": "South East",
+"turnout": "58008",
+"electorate": "86420",
+"win": "con",
+"swing": "0.97",
+"status": "hold",
+"con": "30749",
+"lab": "12354",
+"lib": "3440",
+"grn": "2686",
+"ukp": "8050",
+"oth": "729",
+"mpn": "Victoria Prentis"
+});

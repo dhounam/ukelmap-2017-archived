@@ -1,0 +1,18 @@
+resultCB({
+"name": "Boston and Skegness",
+"id": "E14000582",
+"region": "East Midlands",
+"turnout": "43339",
+"electorate": "67834",
+"win": "con",
+"swing": "14.99",
+"status": "hold",
+"con": "18981",
+"lab": "7142",
+"lib": "1015",
+"grn": "800",
+"ukp": "14645",
+"bnp": "119",
+"oth": "637",
+"mpn": "Matt Warman"
+});

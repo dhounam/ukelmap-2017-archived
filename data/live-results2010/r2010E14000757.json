@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Huntingdon",
+
+"id": "E14000757",
+
+"region": "East Of England",
+
+"turnout": "54266",
+
+"electorate": "83557",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.49,
+
+"hpr": 15.2692915263938,
+
+"sal": -3.4969975273755,
+
+"ele": -2.28003,
+
+"con": "26516",
+
+"lab": "5982",
+
+"lib": "15697",
+
+"grn": "652",
+
+"ukp": "3258",
+
+"ind": "1432",
+
+"oth": "729",
+
+"mpn": "Jonathan Djanogly",
+
+});
+

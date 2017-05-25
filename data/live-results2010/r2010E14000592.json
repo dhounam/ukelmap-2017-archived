@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Brent, North",
+
+"id": "E14000592",
+
+"region": "London",
+
+"turnout": "52298",
+
+"electorate": "83896",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 5.744,
+
+"hpr": 23.4248783115001,
+
+"sal": 11.2881123672491,
+
+"ele": -1.6367,
+
+"con": "16486",
+
+"lab": "24514",
+
+"lib": "8879",
+
+"grn": "725",
+
+"ukp": "380",
+
+"ind": "734",
+
+"oth": "580",
+
+"mpn": "Barry Gardiner",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Lanark & Hamilton East",
+
+"id": "S14000042",
+
+"region": "Scotland",
+
+"turnout": "46554",
+
+"electorate": "74773",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 0.187189579593607,
+
+"sal": 8.14829904257486,
+
+"ele": 3.762713,
+
+"con": "6981",
+
+"lab": "23258",
+
+"lib": "5249",
+
+"ukp": "616",
+
+"snp": "9780",
+
+"ind": "670",
+
+"mpn": "Jim Hood",
+
+});
+

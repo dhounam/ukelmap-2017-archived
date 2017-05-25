@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Cumbernauld, Kilsyth & Kirkintilloch East",
+
+"id": "S14000012",
+
+"region": "Scotland",
+
+"turnout": "41150",
+
+"electorate": "64037",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 26.0198771705117,
+
+"sal": 16.0255001099143,
+
+"ele": 2.392315,
+
+"con": "3407",
+
+"lab": "23549",
+
+"lib": "3924",
+
+"snp": "9794",
+
+"oth": "476",
+
+"mpn": "Gregg McClymont",
+
+});
+

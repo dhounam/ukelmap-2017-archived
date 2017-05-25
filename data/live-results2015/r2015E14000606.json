@@ -1,0 +1,16 @@
+resultCB({
+"name": "Broxbourne",
+"id": "E14000606",
+"region": "East Anglia",
+"turnout": "46024",
+"electorate": "72944",
+"win": "con",
+"swing": "9.16",
+"status": "hold",
+"con": "25797",
+"lab": "8470",
+"lib": "1467",
+"grn": "1216",
+"ukp": "9074",
+"mpn": "Charles Walker"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Devon, West & Torridge",
+
+"id": "E14001000",
+
+"region": "South West",
+
+"turnout": "55257",
+
+"electorate": "76574",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.553,
+
+"hpr": 4.91028078225071,
+
+"sal": 15.2988047808765,
+
+"ele": 1.151827,
+
+"con": "25230",
+
+"lab": "2917",
+
+"lib": "22273",
+
+"grn": "1050",
+
+"ukp": "3021",
+
+"bnp": "766",
+
+"mpn": "Geoffrey Cox",
+
+});
+

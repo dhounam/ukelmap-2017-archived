@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Nuneaton",
+
+"id": "E14000868",
+
+"region": "West Midlands",
+
+"turnout": "44646",
+
+"electorate": "67837",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 1.131,
+
+"hpr": 8.45443063103879,
+
+"sal": 1.19661646379203,
+
+"ele": -1.81893,
+
+"con": "18536",
+
+"lab": "16467",
+
+"lib": "6846",
+
+"bnp": "2797",
+
+"mpn": "Marcus Jones",
+
+});
+

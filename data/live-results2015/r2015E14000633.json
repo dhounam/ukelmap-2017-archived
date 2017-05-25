@@ -1,0 +1,17 @@
+resultCB({
+"name": "Chichester",
+"id": "E14000633",
+"region": "South East",
+"turnout": "57139",
+"electorate": "83575",
+"win": "con",
+"swing": "2.9",
+"status": "hold",
+"con": "32953",
+"lab": "6933",
+"lib": "4865",
+"grn": "3742",
+"ukp": "8540",
+"oth": "106",
+"mpn": "Andrew Tyrie"
+});

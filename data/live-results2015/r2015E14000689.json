@@ -1,0 +1,16 @@
+resultCB({
+"name": "Elmet and Rothwell",
+"id": "E14000689",
+"region": "Yorkshire And The Humber",
+"turnout": "57797",
+"electorate": "79143",
+"win": "con",
+"swing": "3.29",
+"status": "hold",
+"con": "27978",
+"lab": "19488",
+"lib": "2640",
+"grn": "1261",
+"ukp": "6430",
+"mpn": "Alec Shelbrooke"
+});

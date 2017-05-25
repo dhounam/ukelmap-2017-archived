@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Faversham & Mid Kent",
+
+"id": "E14000700",
+
+"region": "South East",
+
+"turnout": "46712",
+
+"electorate": "68858",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.048,
+
+"hpr": 21.4721357984434,
+
+"sal": 26.3233190271817,
+
+"ele": -3.53963,
+
+"con": "26250",
+
+"lab": "7748",
+
+"lib": "9162",
+
+"grn": "890",
+
+"ukp": "1722",
+
+"oth": "940",
+
+"mpn": "Hugh Robertson",
+
+});
+

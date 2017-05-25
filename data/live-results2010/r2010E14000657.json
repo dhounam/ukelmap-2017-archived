@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Dagenham & Rainham",
+
+"id": "E14000657",
+
+"region": "London",
+
+"turnout": "44232",
+
+"electorate": "69764",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 3.408,
+
+"hpr": 29.0149468055454,
+
+"sal": 6.47647155271356,
+
+"ele": -2.0575,
+
+"con": "15183",
+
+"lab": "17813",
+
+"lib": "3806",
+
+"grn": "296",
+
+"ukp": "1569",
+
+"bnp": "4952",
+
+"ind": "308",
+
+"oth": "305",
+
+"mpn": "Jon Cruddas",
+
+});
+

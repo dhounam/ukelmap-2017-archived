@@ -1,0 +1,18 @@
+resultCB({
+"name": "Great Grimsby",
+"id": "E14000716",
+"region": "Yorkshire",
+"turnout": "33731",
+"electorate": "58484",
+"win": "lab",
+"swing": "5.65",
+"status": "hold",
+"con": "8874",
+"lab": "13414",
+"lib": "1680",
+"grn": "783",
+"ukp": "8417",
+"ind": "390",
+"oth": "173",
+"mpn": "Melanie Onn"
+});

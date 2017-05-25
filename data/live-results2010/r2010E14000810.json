@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Mansfield",
+
+"id": "E14000810",
+
+"region": "East Midlands",
+
+"turnout": "48395",
+
+"electorate": "80069",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.129,
+
+"hpr": 4.35000365954639,
+
+"sal": 13.1315483119907,
+
+"ele": -4.01884,
+
+"con": "12741",
+
+"lab": "18753",
+
+"lib": "7469",
+
+"ukp": "2985",
+
+"bnp": "2108",
+
+"oth": "4339",
+
+"mpn": "Joseph Meale",
+
+});
+

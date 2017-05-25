@@ -1,0 +1,16 @@
+resultCB({
+"name": "Stalybridge and Hyde",
+"id": "E14000967",
+"region": "North West",
+"turnout": "41034",
+"electorate": "69081",
+"win": "lab",
+"swing": "4.79",
+"status": "hold",
+"con": "11761",
+"lab": "18447",
+"lib": "1256",
+"grn": "1850",
+"ukp": "7720",
+"mpn": "Jonathan Reynolds"
+});

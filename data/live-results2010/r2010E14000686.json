@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Eddisbury",
+
+"id": "E14000686",
+
+"region": "North West",
+
+"turnout": "45414",
+
+"electorate": "65306",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 0.499,
+
+"hpr": 0.45236296259236,
+
+"sal": 3.6898839137645,
+
+"ele": 0.251129,
+
+"con": "23472",
+
+"lab": "9794",
+
+"lib": "10217",
+
+"ukp": "1931",
+
+"mpn": "Stephen O'Brien",
+
+});
+

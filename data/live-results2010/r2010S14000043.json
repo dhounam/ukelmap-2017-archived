@@ -1,0 +1,36 @@
+resultCB({
+
+"name": "Linlithgow & East Falkirk",
+
+"id": "S14000043",
+
+"region": "Scotland",
+
+"turnout": "51450",
+
+"electorate": "80907",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 4.26914411198121,
+
+"sal": 8.92524332159867,
+
+"ele": 5.285947,
+
+"con": "6146",
+
+"lab": "25634",
+
+"lib": "6589",
+
+"snp": "13081",
+
+"mpn": "Michael Connarty",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Na h-Eileanan an Iar",
+"id": "S14000027",
+"region": "Scotland",
+"turnout": "15938",
+"electorate": "21744",
+"win": "snp",
+"swing": "6.46",
+"status": "hold",
+"con": "1215",
+"lab": "4560",
+"lib": "456",
+"snp": "8662",
+"oth": "1045",
+"mpn": "Angus MacNeil"
+});

@@ -1,0 +1,18 @@
+resultCB({
+"name": "Stoke-on-Trent Central",
+"id": "E14000972",
+"region": "West Midlands",
+"turnout": "31084",
+"electorate": "62250",
+"win": "lab",
+"swing": "8.92",
+"status": "hold",
+"con": "7008",
+"lab": "12220",
+"lib": "1296",
+"grn": "1123",
+"ukp": "7041",
+"ind": "2120",
+"oth": "276",
+"mpn": "Tristram Hunt"
+});

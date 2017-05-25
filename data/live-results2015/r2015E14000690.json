@@ -1,0 +1,16 @@
+resultCB({
+"name": "Eltham",
+"id": "E14000690",
+"region": "London",
+"turnout": "43157",
+"electorate": "63998",
+"win": "lab",
+"swing": "1.14",
+"status": "hold",
+"con": "15700",
+"lab": "18393",
+"lib": "1308",
+"grn": "1275",
+"ukp": "6481",
+"mpn": "Clive Efford"
+});

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Hemsworth",
+"id": "E14000740",
+"region": "Yorkshire",
+"turnout": "42406",
+"electorate": "72714",
+"win": "lab",
+"swing": "3.01",
+"status": "hold",
+"con": "9694",
+"lab": "21772",
+"lib": "1357",
+"ukp": "8565",
+"oth": "1018",
+"mpn": "Jon Trickett"
+});

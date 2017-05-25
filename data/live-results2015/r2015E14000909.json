@@ -1,0 +1,17 @@
+resultCB({
+"name": "Rutland and Melton",
+"id": "E14000909",
+"region": "East Midlands",
+"turnout": "54603",
+"electorate": "79789",
+"win": "con",
+"swing": "3.4",
+"status": "hold",
+"con": "30383",
+"lab": "8383",
+"lib": "4407",
+"grn": "2325",
+"ukp": "8678",
+"ind": "427",
+"mpn": "Alan Duncan"
+});

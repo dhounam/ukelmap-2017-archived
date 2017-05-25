@@ -1,0 +1,46 @@
+resultCB({
+
+"name": "Torfaen",
+
+"id": "W07000053",
+
+"region": "Wales",
+
+"turnout": "37640",
+
+"electorate": "61178",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.424,
+
+"hpr": 7.04444538408724,
+
+"sal": -7.03357838267435,
+
+"ele": -0.81635,
+
+"con": "7541",
+
+"lab": "16847",
+
+"lib": "6264",
+
+"grn": "438",
+
+"ukp": "862",
+
+"bnp": "1657",
+
+"plc": "2005",
+
+"ind": "607",
+
+"oth": "1419",
+
+"mpn": "Paul Murphy",
+
+});
+

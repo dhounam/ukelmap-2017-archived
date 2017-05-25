@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Worcester",
+
+"id": "E14001052",
+
+"region": "West Midlands",
+
+"turnout": "48974",
+
+"electorate": "72831",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.816,
+
+"hpr": 13.3552069963994,
+
+"sal": 6.4011097899326,
+
+"ele": -1.89817,
+
+"con": "19358",
+
+"lab": "16376",
+
+"lib": "9525",
+
+"grn": "735",
+
+"ukp": "1360",
+
+"bnp": "1219",
+
+"ind": "99",
+
+"oth": "302",
+
+"mpn": "Robin Walker",
+
+});
+

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Keighley",
+
+"id": "E14000766",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "47692",
+
+"electorate": "65893",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.668,
+
+"hpr": -0.365073286677003,
+
+"sal": 0.920433626508483,
+
+"ele": 3.233663,
+
+"con": "20003",
+
+"lab": "17063",
+
+"lib": "7059",
+
+"ukp": "1470",
+
+"bnp": "1962",
+
+"oth": "135",
+
+"mpn": "Kris Hopkins",
+
+});
+

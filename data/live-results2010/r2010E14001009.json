@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Wakefield",
+
+"id": "E14001009",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "44444",
+
+"electorate": "70834",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 1.548,
+
+"hpr": 7.52238263704655,
+
+"sal": 3.85964912280701,
+
+"ele": -1.87172,
+
+"con": "15841",
+
+"lab": "17454",
+
+"lib": "7256",
+
+"grn": "873",
+
+"bnp": "2581",
+
+"ind": "439",
+
+"mpn": "Mary Creagh",
+
+});
+

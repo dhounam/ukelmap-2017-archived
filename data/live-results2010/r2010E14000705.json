@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Forest of Dean",
+
+"id": "E14000705",
+
+"region": "South West",
+
+"turnout": "48763",
+
+"electorate": "68419",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.059,
+
+"hpr": 0.563287006740183,
+
+"sal": 5.6831097976813,
+
+"ele": -0.01307,
+
+"con": "22853",
+
+"lab": "11789",
+
+"lib": "10676",
+
+"grn": "923",
+
+"ukp": "2522",
+
+"mpn": "Mark Harper",
+
+});
+

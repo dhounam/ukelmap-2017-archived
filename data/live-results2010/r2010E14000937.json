@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Cambridgeshire, South East",
+
+"id": "E14000937",
+
+"region": "East Of England",
+
+"turnout": "57602",
+
+"electorate": "83068",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.028,
+
+"hpr": 20.3748166460466,
+
+"sal": 2.14190093708164,
+
+"ele": 2.367396,
+
+"con": "27629",
+
+"lab": "4380",
+
+"lib": "21683",
+
+"grn": "766",
+
+"ukp": "2138",
+
+"ind": "517",
+
+"oth": "489",
+
+"mpn": "Jim Paice",
+
+});
+

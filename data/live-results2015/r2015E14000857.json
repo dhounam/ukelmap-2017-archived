@@ -1,0 +1,16 @@
+resultCB({
+"name": "North West Hampshire",
+"id": "E14000857",
+"region": "South East",
+"turnout": "55195",
+"electorate": "79223",
+"win": "con",
+"swing": "4.88",
+"status": "hold",
+"con": "32052",
+"lab": "7342",
+"lib": "5151",
+"grn": "2541",
+"ukp": "8109",
+"mpn": "Kit Malthouse"
+});

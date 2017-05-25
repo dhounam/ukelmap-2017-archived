@@ -1,0 +1,17 @@
+resultCB({
+"name": "Barking",
+"id": "E14000540",
+"region": "London",
+"turnout": "43023",
+"electorate": "74004",
+"win": "lab",
+"swing": "7.98",
+"status": "hold",
+"con": "7019",
+"lab": "24826",
+"lib": "562",
+"grn": "879",
+"ukp": "9554",
+"oth": "183",
+"mpn": "Margaret Hodge"
+});

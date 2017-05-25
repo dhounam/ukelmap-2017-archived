@@ -1,0 +1,17 @@
+resultCB({
+"name": "Coventry South",
+"id": "E14000651",
+"region": "West Midlands",
+"turnout": "43699",
+"electorate": "71380",
+"win": "lab",
+"swing": "0.54",
+"status": "hold",
+"con": "15284",
+"lab": "18472",
+"lib": "1779",
+"grn": "1719",
+"ukp": "5709",
+"oth": "736",
+"mpn": "Jim Cunningham"
+});

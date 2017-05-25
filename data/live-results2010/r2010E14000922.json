@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Sheffield Hallam",
+
+"id": "E14000922",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "51135",
+
+"electorate": "69378",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 2.032,
+
+"hpr": 11.455059595017,
+
+"sal": 1.30251330031189,
+
+"ele": 4.385166,
+
+"con": "12040",
+
+"lab": "8228",
+
+"lib": "27324",
+
+"grn": "919",
+
+"ukp": "1195",
+
+"ind": "429",
+
+"oth": "1000",
+
+"mpn": "Nick Clegg",
+
+});
+

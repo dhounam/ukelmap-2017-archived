@@ -1,0 +1,17 @@
+resultCB({
+"name": "Hemel Hempstead",
+"id": "E14000739",
+"region": "East Anglia",
+"turnout": "49633",
+"electorate": "74616",
+"win": "con",
+"swing": "0.05",
+"status": "hold",
+"con": "26245",
+"lab": "11825",
+"lib": "2402",
+"grn": "1660",
+"ukp": "7249",
+"ind": "252",
+"mpn": "Mike Penning"
+});

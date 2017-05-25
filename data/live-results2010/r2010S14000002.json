@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Aberdeen, South",
+
+"id": "S14000002",
+
+"region": "Scotland",
+
+"turnout": "43034",
+
+"electorate": "64031",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": "na",
+
+"hpr": 25.3166688001039,
+
+"sal": 6.92284688995217,
+
+"ele": 5.634068,
+
+"con": "8914",
+
+"lab": "15722",
+
+"lib": "12216",
+
+"grn": "413",
+
+"bnp": "529",
+
+"snp": "5102",
+
+"oth": "138",
+
+"mpn": "Anne Begg",
+
+});
+

@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bolton North East",
+"id": "E14000578",
+"region": "North West",
+"turnout": "43161",
+"electorate": "67901",
+"win": "lab",
+"swing": "0.35",
+"status": "hold",
+"con": "14164",
+"lab": "18541",
+"lib": "1236",
+"grn": "1103",
+"ukp": "8117",
+"mpn": "David Crausby"
+});

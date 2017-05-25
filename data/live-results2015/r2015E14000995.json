@@ -1,0 +1,16 @@
+resultCB({
+"name": "Thurrock",
+"id": "E14000995",
+"region": "East Anglia",
+"turnout": "49574",
+"electorate": "77569",
+"win": "con",
+"swing": "0.44",
+"status": "hold",
+"con": "16692",
+"lab": "16156",
+"lib": "644",
+"ukp": "15718",
+"oth": "364",
+"mpn": "Jackie Doyle-Price"
+});

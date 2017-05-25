@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Blackpool, South",
+
+"id": "E14000573",
+
+"region": "North West",
+
+"turnout": "35191",
+
+"electorate": "63025",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": -1.264,
+
+"hpr": -2.07613976270039,
+
+"sal": 0.79625292740046,
+
+"ele": -11.2778,
+
+"con": "12597",
+
+"lab": "14448",
+
+"lib": "5082",
+
+"ukp": "1352",
+
+"bnp": "1482",
+
+"oth": "230",
+
+"mpn": "Gordon Marsden",
+
+});
+

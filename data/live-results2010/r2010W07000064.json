@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Ceredigion",
+
+"id": "W07000064",
+
+"region": "Wales",
+
+"turnout": "38258",
+
+"electorate": "59043",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 0.993,
+
+"hpr": -2.26518805817072,
+
+"sal": 20.0789343857918,
+
+"ele": -15.7371,
+
+"con": "4421",
+
+"lab": "2210",
+
+"lib": "19139",
+
+"grn": "696",
+
+"ukp": "977",
+
+"plc": "10815",
+
+"mpn": "Mark Williams",
+
+});
+

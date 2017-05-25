@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Romford",
+
+"id": "E14000900",
+
+"region": "London",
+
+"turnout": "46481",
+
+"electorate": "71193",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.479,
+
+"hpr": 21.4535240239256,
+
+"sal": 8.04522366049486,
+
+"ele": 0.678765,
+
+"con": "26031",
+
+"lab": "9077",
+
+"lib": "5572",
+
+"grn": "447",
+
+"ukp": "2050",
+
+"bnp": "2438",
+
+"ind": "151",
+
+"oth": "715",
+
+"mpn": "Andrew Rosindell",
+
+});
+

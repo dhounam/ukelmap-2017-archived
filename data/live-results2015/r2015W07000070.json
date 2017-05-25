@@ -1,0 +1,18 @@
+resultCB({
+"name": "Cynon Valley",
+"id": "W07000070",
+"region": "Wales",
+"turnout": "30472",
+"electorate": "51421",
+"win": "lab",
+"swing": "0.66",
+"status": "hold",
+"con": "3676",
+"lab": "14532",
+"lib": "830",
+"grn": "799",
+"ukp": "4976",
+"plc": "5126",
+"oth": "533",
+"mpn": "Ann Clwyd"
+});

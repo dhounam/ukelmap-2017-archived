@@ -1,0 +1,17 @@
+resultCB({
+"name": "Mansfield",
+"id": "E14000810",
+"region": "East Midlands",
+"turnout": "47193",
+"electorate": "77534",
+"win": "lab",
+"swing": "0.58",
+"status": "hold",
+"con": "13288",
+"lab": "18603",
+"lib": "1642",
+"grn": "1486",
+"ukp": "11850",
+"oth": "324",
+"mpn": "Alan Meale"
+});

@@ -1,0 +1,17 @@
+resultCB({
+"name": "Plymouth Moor View",
+"id": "E14000879",
+"region": "South West",
+"turnout": "42606",
+"electorate": "69146",
+"win": "con",
+"swing": "3.12",
+"status": "gain",
+"con": "16020",
+"lab": "14994",
+"lib": "1265",
+"grn": "1023",
+"ukp": "9152",
+"oth": "152",
+"mpn": "Johnny Mercer"
+});

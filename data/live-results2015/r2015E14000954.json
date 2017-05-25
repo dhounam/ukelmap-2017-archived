@@ -1,0 +1,16 @@
+resultCB({
+"name": "Wiltshire South West",
+"id": "E14000954",
+"region": "South West",
+"turnout": "51643",
+"electorate": "73030",
+"win": "con",
+"swing": "5.5",
+"status": "hold",
+"con": "27198",
+"lab": "6948",
+"lib": "5482",
+"grn": "2985",
+"ukp": "9030",
+"mpn": "Dr Andrew Murrison"
+});

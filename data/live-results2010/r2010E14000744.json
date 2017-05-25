@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Hertford & Stortford",
+
+"id": "E14000744",
+
+"region": "East Of England",
+
+"turnout": "55377",
+
+"electorate": "78459",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 3.364,
+
+"hpr": 23.1576035593613,
+
+"sal": 10.8270146358667,
+
+"ele": -1.2185,
+
+"con": "29810",
+
+"lab": "7620",
+
+"lib": "14373",
+
+"ukp": "1716",
+
+"bnp": "1297",
+
+"ind": "236",
+
+"oth": "325",
+
+"mpn": "Mark Prisk",
+
+});
+

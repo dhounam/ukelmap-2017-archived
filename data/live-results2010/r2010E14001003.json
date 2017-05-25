@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Truro & Falmouth",
+
+"id": "E14001003",
+
+"region": "South West",
+
+"turnout": "48768",
+
+"electorate": "70598",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 3.147,
+
+"hpr": 3.79294006366253,
+
+"sal": 3.85521524951811,
+
+"ele": 1.426825,
+
+"con": "20349",
+
+"lab": "4697",
+
+"lib": "19914",
+
+"grn": "858",
+
+"ukp": "1911",
+
+"oth": "1039",
+
+"mpn": "Sarah Newton",
+
+});
+

@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Croydon, North",
+
+"id": "E14000655",
+
+"region": "London",
+
+"turnout": "24568",
+
+"electorate": "93036",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 5.468,
+
+"hpr": 39.4750499419507,
+
+"sal": 3.07778399552323,
+
+"ele": -0.65687,
+
+"con": "4137",
+
+"lab": "15898",
+
+"lib": "860",
+
+"grn": "855",
+
+"ukp": "1400",
+
+"res": "707",
+
+"oth": "711",
+
+"mpn": "Steve Reed",
+
+});
+

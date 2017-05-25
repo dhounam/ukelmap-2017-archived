@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bath",
+
+"id": "E14000547",
+
+"region": "South West",
+
+"turnout": "47086",
+
+"electorate": "65603",
+
+"win": "lib",
+
+"marginal": "False",
+
+"pop": 4.508,
+
+"hpr": 24.796440543314,
+
+"sal": -4.98624484181568,
+
+"ele": -13.6471,
+
+"con": "14768",
+
+"lab": "3251",
+
+"lib": "26651",
+
+"grn": "1120",
+
+"ukp": "890",
+
+"ind": "56",
+
+"oth": "350",
+
+"mpn": "Don Foster",
+
+});
+

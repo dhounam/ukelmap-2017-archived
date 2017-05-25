@@ -1,0 +1,17 @@
+resultCB({
+"name": "Kingston upon Hull East",
+"id": "E14000771",
+"region": "Yorkshire",
+"turnout": "35144",
+"electorate": "65606",
+"win": "lab",
+"swing": "5.27",
+"status": "hold",
+"con": "5593",
+"lab": "18180",
+"lib": "2294",
+"grn": "806",
+"ukp": "7861",
+"oth": "410",
+"mpn": "Karl Turner"
+});

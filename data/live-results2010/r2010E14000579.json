@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Bolton, South East",
+
+"id": "E14000579",
+
+"region": "North West",
+
+"turnout": "39604",
+
+"electorate": "69928",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.399,
+
+"hpr": 2.42180197333686,
+
+"sal": 1.2251148545176,
+
+"ele": -0.94677,
+
+"con": "10148",
+
+"lab": "18782",
+
+"lib": "6289",
+
+"grn": "614",
+
+"ukp": "1564",
+
+"bnp": "2012",
+
+"oth": "195",
+
+"mpn": "Yasmin Qureshi",
+
+});
+

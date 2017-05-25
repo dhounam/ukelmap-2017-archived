@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Lewisham, East",
+
+"id": "E14000787",
+
+"region": "London",
+
+"turnout": "41719",
+
+"electorate": "65926",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 4.78,
+
+"hpr": 37.9142321100441,
+
+"sal": 7.63148848401514,
+
+"ele": 0.270024,
+
+"con": "9850",
+
+"lab": "17966",
+
+"lib": "11750",
+
+"grn": "624",
+
+"ukp": "771",
+
+"oth": "758",
+
+"mpn": "Heidi Alexander",
+
+});
+

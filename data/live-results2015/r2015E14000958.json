@@ -1,0 +1,17 @@
+resultCB({
+"name": "Southport",
+"id": "E14000958",
+"region": "North West",
+"turnout": "44101",
+"electorate": "67328",
+"win": "lib",
+"swing": "5.38",
+"status": "hold",
+"con": "12330",
+"lab": "8468",
+"lib": "13652",
+"grn": "1230",
+"ukp": "7429",
+"oth": "992",
+"mpn": "John Pugh"
+});

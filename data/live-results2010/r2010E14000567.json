@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Birmingham Selly Oak",
+
+"id": "E14000567",
+
+"region": "West Midlands",
+
+"turnout": "46563",
+
+"electorate": "74805",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 2.475,
+
+"hpr": 8.59118731453792,
+
+"sal": -5.270135896586,
+
+"ele": -2.25855,
+
+"con": "14468",
+
+"lab": "17950",
+
+"lib": "10371",
+
+"grn": "664",
+
+"ukp": "1131",
+
+"bnp": "1820",
+
+"oth": "159",
+
+"mpn": "Steve McCabe",
+
+});
+

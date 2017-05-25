@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Waveney",
+
+"id": "E14001022",
+
+"region": "East Of England",
+
+"turnout": "51141",
+
+"electorate": "78532",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 0.356,
+
+"hpr": 5.52488005785045,
+
+"sal": 1.28013654789845,
+
+"ele": -0.15436,
+
+"con": "20571",
+
+"lab": "19802",
+
+"lib": "6811",
+
+"grn": "1167",
+
+"ukp": "2684",
+
+"ind": "106",
+
+"mpn": "Peter Aldous",
+
+});
+

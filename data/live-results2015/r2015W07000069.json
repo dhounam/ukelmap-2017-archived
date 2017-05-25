@@ -1,0 +1,17 @@
+resultCB({
+"name": "Neath",
+"id": "W07000069",
+"region": "Wales",
+"turnout": "37135",
+"electorate": "56099",
+"win": "lab",
+"swing": "0.31",
+"status": "hold",
+"con": "5691",
+"lab": "16270",
+"lib": "1173",
+"grn": "1185",
+"ukp": "6094",
+"plc": "6722",
+"mpn": "Christina Rees"
+});

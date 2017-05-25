@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Bury St. Edmunds",
+
+"id": "E14000613",
+
+"region": "East Of England",
+
+"turnout": "58718",
+
+"electorate": "84727",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 1.651,
+
+"hpr": 16.9048323495456,
+
+"sal": 1.88182921893971,
+
+"ele": 0.446872,
+
+"con": "27899",
+
+"lab": "9776",
+
+"lib": "15519",
+
+"grn": "2521",
+
+"ukp": "3003",
+
+"mpn": "David Ruffley",
+
+});
+

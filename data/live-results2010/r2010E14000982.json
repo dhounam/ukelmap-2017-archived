@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Sunderland, Central",
+
+"id": "E14000982",
+
+"region": "North East",
+
+"turnout": "42463",
+
+"electorate": "74485",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.119,
+
+"hpr": 1.33137739488723,
+
+"sal": 8.28821324448148,
+
+"ele": -3.25441,
+
+"con": "12770",
+
+"lab": "19495",
+
+"lib": "7191",
+
+"ukp": "1094",
+
+"bnp": "1913",
+
+"mpn": "Julie Elliott",
+
+});
+

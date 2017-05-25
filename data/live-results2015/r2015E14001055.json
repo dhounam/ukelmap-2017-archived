@@ -1,0 +1,16 @@
+resultCB({
+"name": "Worthing West",
+"id": "E14001055",
+"region": "South East",
+"turnout": "50763",
+"electorate": "75617",
+"win": "con",
+"swing": "6.29",
+"status": "hold",
+"con": "26124",
+"lab": "7955",
+"lib": "4477",
+"grn": "2938",
+"ukp": "9269",
+"mpn": "Peter Bottomley"
+});

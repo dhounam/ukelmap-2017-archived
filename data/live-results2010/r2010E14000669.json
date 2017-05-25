@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Doncaster, North",
+
+"id": "E14000669",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "41483",
+
+"electorate": "72381",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": -0.191,
+
+"hpr": 4.07689335463408,
+
+"sal": 7.66138038865311,
+
+"ele": -4.76402,
+
+"con": "8728",
+
+"lab": "19637",
+
+"lib": "6174",
+
+"ukp": "1797",
+
+"bnp": "2818",
+
+"oth": "2329",
+
+"mpn": "Ed Miliband",
+
+});
+

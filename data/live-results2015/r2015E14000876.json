@@ -1,0 +1,16 @@
+resultCB({
+"name": "Penistone and Stocksbridge",
+"id": "E14000876",
+"region": "Yorkshire And The Humber",
+"turnout": "46854",
+"electorate": "71048",
+"win": "lab",
+"swing": "3.9",
+"status": "hold",
+"con": "12968",
+"lab": "19691",
+"lib": "2957",
+"ukp": "10738",
+"oth": "500",
+"mpn": "Angela Smith"
+});

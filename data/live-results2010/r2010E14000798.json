@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Louth & Horncastle",
+
+"id": "E14000798",
+
+"region": "East Midlands",
+
+"turnout": "50494",
+
+"electorate": "77650",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": -0.59,
+
+"hpr": 7.85728398735262,
+
+"sal": 8.51692028162616,
+
+"ele": -5.72335,
+
+"con": "25065",
+
+"lab": "8760",
+
+"lib": "11194",
+
+"ukp": "2183",
+
+"bnp": "2199",
+
+"oth": "1093",
+
+"mpn": "Sir Peter Tapsell",
+
+});
+

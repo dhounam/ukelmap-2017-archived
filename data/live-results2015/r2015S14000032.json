@@ -1,0 +1,17 @@
+resultCB({
+"name": "Glasgow North East",
+"id": "S14000032",
+"region": "Scotland",
+"turnout": "37857",
+"electorate": "66678",
+"win": "snp",
+"swing": "39.28",
+"status": "gain",
+"con": "1769",
+"lab": "12754",
+"lib": "300",
+"grn": "615",
+"snp": "21976",
+"oth": "443",
+"mpn": "Anne McLaughlin"
+});

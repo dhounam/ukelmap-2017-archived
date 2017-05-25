@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Glenrothes",
+
+"id": "S14000036",
+
+"region": "Scotland",
+
+"turnout": "40501",
+
+"electorate": "67893",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": -2.23673348720286,
+
+"sal": 5.50981633945536,
+
+"ele": 0.967728,
+
+"con": "2922",
+
+"lab": "25247",
+
+"lib": "3108",
+
+"ukp": "425",
+
+"snp": "8799",
+
+"mpn": "Lindsay Roy",
+
+});
+

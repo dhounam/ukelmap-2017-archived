@@ -1,0 +1,16 @@
+resultCB({
+"name": "Garston and Halewood",
+"id": "E14000708",
+"region": "North West",
+"turnout": "48983",
+"electorate": "74063",
+"win": "lab",
+"swing": "6.01",
+"status": "hold",
+"con": "6693",
+"lab": "33839",
+"lib": "2279",
+"grn": "1690",
+"ukp": "4482",
+"mpn": "Maria Eagle"
+});

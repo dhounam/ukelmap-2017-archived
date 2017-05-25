@@ -1,0 +1,17 @@
+resultCB({
+"name": "East Dunbartonshire",
+"id": "S14000018",
+"region": "Scotland",
+"turnout": "54871",
+"electorate": "66966",
+"win": "snp",
+"swing": "16.05",
+"status": "gain",
+"con": "4727",
+"lab": "6754",
+"lib": "19926",
+"grn": "804",
+"ukp": "567",
+"snp": "22093",
+"mpn": "John Nicolson"
+});

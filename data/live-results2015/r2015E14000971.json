@@ -1,0 +1,17 @@
+resultCB({
+"name": "Stockton South",
+"id": "E14000971",
+"region": "North East",
+"turnout": "51797",
+"electorate": "75109",
+"win": "con",
+"swing": "4.54",
+"status": "hold",
+"con": "24221",
+"lab": "19175",
+"lib": "1366",
+"grn": "952",
+"ukp": "5480",
+"oth": "603",
+"mpn": "James Wharton"
+});

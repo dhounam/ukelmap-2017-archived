@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Northamptonshire, South",
+
+"id": "E14000942",
+
+"region": "East Midlands",
+
+"turnout": "59890",
+
+"electorate": "82032",
+
+"win": "con",
+
+"marginal": "False",
+
+"pop": 2.291,
+
+"hpr": 14.2101533560391,
+
+"sal": 10.1386481802426,
+
+"ele": -0.3059,
+
+"con": "33081",
+
+"lab": "10380",
+
+"lib": "12603",
+
+"grn": "685",
+
+"ukp": "2406",
+
+"oth": "735",
+
+"mpn": "Andrea Leadsom",
+
+});
+

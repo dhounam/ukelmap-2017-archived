@@ -1,0 +1,17 @@
+resultCB({
+"name": "Sherwood",
+"id": "E14000924",
+"region": "East Midlands",
+"turnout": "49947",
+"electorate": "73334",
+"win": "con",
+"swing": "3.68",
+"status": "hold",
+"con": "22082",
+"lab": "18186",
+"lib": "1094",
+"grn": "1108",
+"ukp": "7399",
+"oth": "78",
+"mpn": "Mark Spencer"
+});

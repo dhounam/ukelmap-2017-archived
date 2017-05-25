@@ -1,0 +1,17 @@
+resultCB({
+"name": "Rochdale",
+"id": "E14000897",
+"region": "North West",
+"turnout": "45430",
+"electorate": "79170",
+"win": "lab",
+"swing": "2.32",
+"status": "hold",
+"con": "7742",
+"lab": "20961",
+"lib": "4667",
+"grn": "1382",
+"ukp": "8519",
+"oth": "2159",
+"mpn": "Simon Danczuk"
+});

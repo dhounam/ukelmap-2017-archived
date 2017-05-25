@@ -1,0 +1,17 @@
+resultCB({
+"name": "Shipley",
+"id": "E14000925",
+"region": "Yorkshire",
+"turnout": "50542",
+"electorate": "70466",
+"win": "con",
+"swing": "0.54",
+"status": "hold",
+"con": "25269",
+"lab": "15645",
+"lib": "1949",
+"grn": "2657",
+"ukp": "4479",
+"oth": "543",
+"mpn": "Philip Davies"
+});

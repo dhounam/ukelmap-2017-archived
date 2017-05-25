@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Makerfield",
+
+"id": "E14000805",
+
+"region": "North West",
+
+"turnout": "43771",
+
+"electorate": "73641",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.351,
+
+"hpr": 2.57744165694307,
+
+"sal": -1.25495376486128,
+
+"ele": -0.83325,
+
+"con": "8210",
+
+"lab": "20700",
+
+"lib": "7082",
+
+"bnp": "3229",
+
+"ind": "3424",
+
+"oth": "1126",
+
+"mpn": "Yvonne Fovargue",
+
+});
+

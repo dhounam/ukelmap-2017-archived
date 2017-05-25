@@ -1,0 +1,16 @@
+resultCB({
+"name": "West Dunbartonshire",
+"id": "S14000059",
+"region": "Scotland",
+"turnout": "51141",
+"electorate": "69193",
+"win": "snp",
+"swing": "34.45",
+"status": "gain",
+"con": "3597",
+"lab": "16027",
+"lib": "816",
+"snp": "30198",
+"ind": "503",
+"mpn": "Martin Docherty"
+});

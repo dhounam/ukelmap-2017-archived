@@ -1,0 +1,18 @@
+resultCB({
+"name": "Bermondsey and Old Southwark",
+"id": "E14000553",
+"region": "London",
+"turnout": "51424",
+"electorate": "80604",
+"win": "lab",
+"swing": "13.92",
+"status": "gain",
+"con": "6051",
+"lab": "22146",
+"lib": "17657",
+"grn": "2023",
+"ukp": "3254",
+"ind": "72",
+"oth": "221",
+"mpn": "Neil Coyle"
+});

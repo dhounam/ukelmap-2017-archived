@@ -1,0 +1,16 @@
+resultCB({
+"name": "Bexhill and Battle",
+"id": "E14000557",
+"region": "South East",
+"turnout": "55218",
+"electorate": "78796",
+"win": "con",
+"swing": "",
+"status": "hold",
+"con": "30245",
+"lab": "7797",
+"lib": "4199",
+"grn": "2807",
+"ukp": "10170",
+"mpn": "Huw Merriman"
+});

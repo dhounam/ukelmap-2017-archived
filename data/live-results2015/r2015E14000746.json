@@ -1,0 +1,16 @@
+resultCB({
+"name": "Hexham",
+"id": "E14000746",
+"region": "North East",
+"turnout": "43345",
+"electorate": "60614",
+"win": "con",
+"swing": "1.76",
+"status": "hold",
+"con": "22834",
+"lab": "10803",
+"lib": "2961",
+"grn": "2445",
+"ukp": "4302",
+"mpn": "Guy Opperman"
+});

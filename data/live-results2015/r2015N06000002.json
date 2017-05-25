@@ -1,0 +1,16 @@
+resultCB({
+"name": "Belfast North",
+"id": "N06000002",
+"region": "Northern Ireland",
+"turnout": "40593",
+"electorate": "68552",
+"win": "dup",
+"swing": "3.55",
+"status": "hold",
+"ind": "529",
+"snf": "13770",
+"sdl": "3338",
+"dup": "19096",
+"oth": "3860",
+"mpn": "Nigel Dodds"
+});

@@ -1,0 +1,40 @@
+resultCB({
+
+"name": "Leeds, West",
+
+"id": "E14000781",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "38752",
+
+"electorate": "67453",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.154,
+
+"hpr": 2.25543328985978,
+
+"sal": 10.1419031719532,
+
+"ele": -7.35839,
+
+"con": "7641",
+
+"lab": "16389",
+
+"lib": "9373",
+
+"grn": "1832",
+
+"ukp": "1140",
+
+"bnp": "2377",
+
+"mpn": "Rachel Reeves",
+
+});
+

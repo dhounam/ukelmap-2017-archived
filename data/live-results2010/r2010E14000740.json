@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Hemsworth",
+
+"id": "E14000740",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "43840",
+
+"electorate": "72552",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 0.458,
+
+"hpr": 5.24297408988492,
+
+"sal": -1.01885974420117,
+
+"ele": -1.35119,
+
+"con": "10662",
+
+"lab": "20506",
+
+"lib": "5667",
+
+"bnp": "3059",
+
+"ind": "3946",
+
+"mpn": "Jon Trickett",
+
+});
+

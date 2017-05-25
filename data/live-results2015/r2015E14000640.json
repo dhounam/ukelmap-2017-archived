@@ -1,0 +1,15 @@
+resultCB({
+"name": "City of Chester",
+"id": "E14000640",
+"region": "North West",
+"turnout": "51161",
+"electorate": "72269",
+"win": "lab",
+"swing": "2.85",
+"status": "gain",
+"con": "22025",
+"lab": "22118",
+"lib": "2870",
+"ukp": "4148",
+"mpn": "Chris Matheson"
+});

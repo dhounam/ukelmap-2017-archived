@@ -1,0 +1,17 @@
+resultCB({
+"name": "Glasgow North West",
+"id": "S14000033",
+"region": "Scotland",
+"turnout": "43854",
+"electorate": "68418",
+"win": "snp",
+"swing": "31.21",
+"status": "gain",
+"con": "3692",
+"lab": "13544",
+"lib": "1194",
+"grn": "1167",
+"snp": "23908",
+"oth": "349",
+"mpn": "Carol Monaghan"
+});

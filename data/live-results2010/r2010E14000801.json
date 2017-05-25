@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Luton, South",
+
+"id": "E14000801",
+
+"region": "East Of England",
+
+"turnout": "42216",
+
+"electorate": "59962",
+
+"win": "lab",
+
+"marginal": "True",
+
+"pop": 4.717,
+
+"hpr": 13.7843312782396,
+
+"sal": 3.99065252561567,
+
+"ele": -0.47865,
+
+"con": "12396",
+
+"lab": "14725",
+
+"lib": "9567",
+
+"grn": "366",
+
+"ukp": "975",
+
+"bnp": "1299",
+
+"oth": "2888",
+
+"mpn": "Gavin Shuker",
+
+});
+

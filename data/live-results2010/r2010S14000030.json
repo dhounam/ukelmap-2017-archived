@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Glasgow, East",
+
+"id": "S14000030",
+
+"region": "Scotland",
+
+"turnout": "32164",
+
+"electorate": "61516",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": 56.5859310948455,
+
+"sal": 10.3002410694719,
+
+"ele": 12.71575,
+
+"con": "1453",
+
+"lab": "19797",
+
+"lib": "1617",
+
+"ukp": "209",
+
+"bnp": "677",
+
+"snp": "7957",
+
+"oth": "454",
+
+"mpn": "Margaret Curran",
+
+});
+

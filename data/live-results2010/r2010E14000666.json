@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Dewsbury",
+
+"id": "E14000666",
+
+"region": "Yorkshire And The Humber",
+
+"turnout": "54008",
+
+"electorate": "78901",
+
+"win": "con",
+
+"marginal": "True",
+
+"pop": 2.282,
+
+"hpr": 4.37918806175198,
+
+"sal": -7.47374922791848,
+
+"ele": -1.38023,
+
+"con": "18898",
+
+"lab": "17372",
+
+"lib": "9150",
+
+"grn": "849",
+
+"bnp": "3265",
+
+"ind": "3813",
+
+"oth": "661",
+
+"mpn": "Simon Reevell",
+
+});
+

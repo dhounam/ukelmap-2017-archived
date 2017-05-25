@@ -1,0 +1,16 @@
+resultCB({
+"name": "Caithness, Sutherland and Easter Ross",
+"id": "S14000009",
+"region": "Scotland",
+"turnout": "34186",
+"electorate": "47558",
+"win": "snp",
+"swing": "16.73",
+"status": "gain",
+"con": "2326",
+"lab": "3061",
+"lib": "11987",
+"ukp": "981",
+"snp": "15831",
+"mpn": "Dr Paul Monaghan"
+});

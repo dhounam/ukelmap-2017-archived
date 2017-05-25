@@ -1,0 +1,17 @@
+resultCB({
+"name": "Denton and Reddish",
+"id": "E14000661",
+"region": "North West",
+"turnout": "38681",
+"electorate": "66574",
+"win": "lab",
+"swing": "0.53",
+"status": "hold",
+"con": "9150",
+"lab": "19661",
+"lib": "957",
+"grn": "1466",
+"ukp": "7225",
+"ind": "222",
+"mpn": "Andrew Gwynne"
+});

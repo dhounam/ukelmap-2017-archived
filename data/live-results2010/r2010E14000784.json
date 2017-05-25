@@ -1,0 +1,44 @@
+resultCB({
+
+"name": "Leicester, West",
+
+"id": "E14000784",
+
+"region": "East Midlands",
+
+"turnout": "35819",
+
+"electorate": "64900",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 2.459,
+
+"hpr": 7.13144382729315,
+
+"sal": 9.82915464832483,
+
+"ele": -4.82493,
+
+"con": "9728",
+
+"lab": "13745",
+
+"lib": "8107",
+
+"grn": "639",
+
+"ukp": "883",
+
+"bnp": "2158",
+
+"ind": "108",
+
+"oth": "451",
+
+"mpn": "Elizabeth Kendall",
+
+});
+
