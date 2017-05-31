@@ -1,0 +1,16 @@
+resultCB({
+	"name": "Cardiff South & Penarth",
+	"id": "W07000080",
+	"region": "Wales",
+	"turnout": 19436,
+	"electorate": 75764,
+	"win:: "",
+	"mpn": "",
+	"con": 3859,
+	"lab": 9193,
+	"lib": 2103,
+	"grn": 800,
+	"ukp": 1179,
+	"plc": 1854,
+	"oth": 448
+})

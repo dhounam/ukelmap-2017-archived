@@ -12,7 +12,7 @@ mnv_ukelmap.model = (function(){
   // my.goliveTime = new Date(Date.UTC(2017, 5, 8, 21, 0, 0));
   // But for TESTING (4 = May; hour must be T-1)
   // NOTE: strict mode won't allow leading zeroes in numbers
-  my.goliveTime = Date.UTC(2017, 4, 24, 15, 11, 0);
+  my.goliveTime = Date.UTC(2017, 4, 31, 10, 22, 0);
 
   // WINDOW THRESHOLD
   //    threshold is value in px below which we draw 'small'
@@ -205,7 +205,14 @@ mnv_ukelmap.model = (function(){
     defaultHeader:"",
     defaultSubHeader:"",
     defaultText: "Britain is divided into 650 constituencies. Each sends one MP to the House of Commons in Westminster. Rural seats are much larger than urban ones, so our map shows both the true geographic picture of the country and a schematic view of the political landscape.",
-    brexitText: "The United Kingdom European Union membership referendum took place on 23 June 2016"
+    brexitText: "The United Kingdom European Union membership referendum took place on 23 June 2016",
+    footnote: {
+      default: "",
+      big: "*Includes by-elections    <sup>†</sup>Excludes by-elections",
+      small: "*Includes by-elections",
+      spare: "Results for Stoke-on-Trent Central; Copeland; Richmond Park; Witney; Batley and Seen; Tooting; Ogmore; Sheffield Brightside and Hillsborough; and Oldham West and Royton, are by-elections"
+
+    }
   };
 
   // STARTCHECKS
@@ -242,12 +249,12 @@ mnv_ukelmap.model = (function(){
   // TABS
   my.unlivetabs = {
     0: {
-      label: "2015",
+      label: "2015-17*",
       children: {},
       id: "fif"
     },
     1: {
-      label: "2010",
+      label: "2010<sup>†</sup>",
       children: {},
       id: "ten"
     },
@@ -264,12 +271,12 @@ mnv_ukelmap.model = (function(){
       id: "sev"
     },
     1: {
-      label: "2015",
+      label: "2015-17*",
       children: {},
       id: "fif"
     },
     2: {
-      label: "2010",
+      label: "2010<sup>†</sup>",
       children: {},
       id: "ten"
     },
@@ -290,7 +297,7 @@ mnv_ukelmap.model = (function(){
     snf:5,
     plc:3,
     sdl:3,
-    ukp:0,
+    ukp:2,
     grn:1,
     res:1,
     bnp:0,

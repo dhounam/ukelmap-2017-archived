@@ -129,6 +129,15 @@ mnv_ukelmap.dropdowns = (function(){
   };
   // INIT ends
 
+  // SHOW LATEST UPDATES
+  // ...is a desperate kludge to show Umbi's "Results at" spans when
+  // we pass the goLive threshold...
+  function showLatestUpdates() {
+    d3.select('.last-update-label').style('opacity', 1);
+    d3.select('.last-update').style('opacity', 1);
+  }
+  // SHOW LATEST UPDATES ends
+
   // UPDATE
   my.update = function() {
     var tabs, topicdiv, timeStamp, liveTime;
@@ -144,6 +153,8 @@ mnv_ukelmap.dropdowns = (function(){
     // If it's after 'go-live' time, redirect model.tabs to livetab definitions
     if (timeStamp > liveTime) {
       model.tabs = model.livetabs;
+      // Also, display Umbi's latest-update widget
+      showLatestUpdates();
       // Prevent any further update...
       model.startchecks.big.dropdowns.update = false;
     }

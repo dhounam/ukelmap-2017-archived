@@ -1,0 +1,15 @@
+resultCB({
+	"name": "Corby",
+	"id": "E14000648",
+	"region": "East Midlands",
+	"turnout": 35775,
+	"electorate": 79878,
+	"win:: "",
+	"mpn": "",
+	"con": 9476,
+	"lab": 17267,
+	"lib": 1770,
+	"grn": 378,
+	"ukp": 5108,
+	"oth": 1666
+})

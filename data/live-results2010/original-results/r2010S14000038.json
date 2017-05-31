@@ -1,0 +1,14 @@
+resultCB({
+	"name": "Inverclyde",
+	"id": "S14000038",
+	"region": "Scotland",
+	"turnout": 28097,
+	"electorate": 61856,
+	"win:: "",
+	"mpn": "",
+	"con": 2784,
+	"lab": 15118,
+	"lib": 627,
+	"ukp": 288,
+	"snp": 9280
+})

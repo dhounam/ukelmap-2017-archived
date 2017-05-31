@@ -578,6 +578,9 @@ mnv_ukelmap.treemap = (function(){
 
     if (data === undefined) { return; }
 
+    // Are we on Brexit tab?
+    var isBrexit =  (modelFlags.dataindex === "brx");
+
     // Do any workings...
     winStr = parties[data.win].midname;
     winCol = parties[data.win].colour;
@@ -601,6 +604,22 @@ mnv_ukelmap.treemap = (function(){
     else {
       swingVal += "%";
     }
+
+    // Brexit overrides:
+    var displayStr = 'block';
+    if (isBrexit) {
+      displayStr = 'none';
+      // 2 strings just go empty:
+      statusStr = "";
+      mpVotes = "";
+    }
+    // Show/hide other divs
+    var divList = ['.majority', '.swing', '.turnout'];
+    d3.selectAll(divList)
+      .each(function(d) {
+        d3.select(this)
+          .style('display', displayStr);
+      });
 
     // Turnout as number and % of population
     tuStr = numberformat(data.turnout);

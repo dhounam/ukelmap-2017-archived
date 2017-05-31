@@ -1,0 +1,42 @@
+resultCB({
+
+"name": "Oldham, East & Saddleworth",
+
+"id": "E14000870",
+
+"region": "North West",
+
+"turnout": "34930",
+
+"electorate": "72788",
+
+"win": "lab",
+
+"marginal": "False",
+
+"pop": 1.852,
+
+"hpr": 15.4661324303315,
+
+"sal": 0.502197112366616,
+
+"ele": -2.86279,
+
+"con": "4481",
+
+"lab": "14718",
+
+"lib": "11160",
+
+"grn": "530",
+
+"ukp": "2029",
+
+"bnp": "1560",
+
+"oth": "452",
+
+"mpn": "Debbie Abrahams",
+
+});
+

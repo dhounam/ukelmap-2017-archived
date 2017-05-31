@@ -556,7 +556,7 @@ $input-hover-bg: $color-light-grey;
     border: 0;
     background: transparent;
     float: left;
-    width: 30%;
+    width: 40%;
     height: 100%;
     padding-top: 1%;
     line-height: 1em;
@@ -569,7 +569,7 @@ $input-hover-bg: $color-light-grey;
     text-align: right;
     vertical-align: baseline;
     line-height: 1em;
-    display: none;
+    display: block;
     // width: 69%;
   }
   .footnote-show {
@@ -775,6 +775,7 @@ $input-hover-bg: $color-light-grey;
             display: block;
           }
         }
+
         @media screen and (max-width: 400px){
           width: 100px;
           .#{$prefix}-keys-li {
@@ -863,6 +864,30 @@ $input-hover-bg: $color-light-grey;
     .toggle-views-back-to-uk {
       display: inline-block;
     }
+
+    // Hack up some overrides for map width
+    @media screen and (max-width: 595px){
+      .#{$prefix}-map-div {
+        width: 70%;
+      }
+    }
+    @media screen and (max-width: 500px){
+      .#{$prefix}-map-div {
+        width: 80%;
+      }
+    }
+    @media screen and (max-width: 450px){
+      .#{$prefix}-map-div {
+        width: 90%;
+      }
+    }
+    @media screen and (max-width: 420px){
+      .#{$prefix}-map-div {
+        width: 100%;
+      }
+    }
+
+
   }
   // Big version exceptions
   &.version-big {
@@ -1170,3 +1195,14 @@ $toggler-btn-width: 80px;
         }
       }
     }
+
+// Un-reset 'sup' for dagger in dropdown
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.5em;
+  padding-left: 1px;
+  font-family:sans-serif;
+}

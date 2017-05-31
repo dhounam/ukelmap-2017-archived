@@ -1,0 +1,14 @@
+resultCB({
+	"name": "Leicester South",
+	"id": "E14000783",
+	"region": "East Midlands",
+	"turnout": 34180,
+	"electorate": 77880,
+	"win:: "",
+	"mpn": "",
+	"con": 5169,
+	"lab": 19771,
+	"lib": 7693,
+	"ukp": 994,
+	"oth": 553
+})

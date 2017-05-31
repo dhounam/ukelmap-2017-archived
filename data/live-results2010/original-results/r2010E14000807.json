@@ -1,0 +1,16 @@
+resultCB({
+	"date": "Jan 10 2010",
+	"name": "Manchester Central",
+	"id": "E14000807",
+	"region": "North West",
+	"turnout": 16648,
+	"electorate": 91692,
+	"win:: "",
+	"mpn": "",
+	"con": 754,
+	"lab": 11507,
+	"lib": 1571,
+	"grn": 652,
+	"ukp": 749,
+	"oth": 1415
+})

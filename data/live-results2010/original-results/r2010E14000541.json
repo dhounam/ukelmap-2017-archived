@@ -1,0 +1,15 @@
+resultCB({
+	"name": "Barnsley Central",
+	"id": "E14000541",
+	"region": "Yorkshire And The Humber",
+	"turnout": 24219,
+	"electorate": 65471,
+	"win:: "",
+	"mpn": "",
+	"con": 1999,
+	"lab": 14724,
+	"lib": 1012,
+	"ukp": 2953,
+	"ind": 1266,
+	"oth": 2265
+})

@@ -1,0 +1,38 @@
+resultCB({
+
+"name": "Belfast, West",
+
+"id": "N06000004",
+
+"region": "Northern Ireland",
+
+"turnout": "22951",
+
+"electorate": "61441",
+
+"win": "snf",
+
+"marginal": "False",
+
+"pop": "na",
+
+"hpr": "na",
+
+"sal": "na",
+
+"ele": 5.42965,
+
+"snf": "16211",
+
+"sdl": "3088",
+
+"dup": "1393",
+
+"uup": "386",
+
+"oth": "1873",
+
+"mpn": "Paul Maskey",
+
+});
+

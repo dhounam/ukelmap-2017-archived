@@ -53,17 +53,20 @@ mnv_ukelmap.framework = (function(){
   // Responds to window resize event watcher defined in init
   // Calls resize functions of the various elements...
   frameworkResize = function() {
-    var componentlist, n, component, resize, version;
+    var componentlist, n, component, resize, version, footnote;
 
     if (controller.isSmallVersion()) {
       version = "small";
       // SMALL framework:
       componentlist = model.startchecks.small;
+      // Reset footnote:
+      footnote = strings.footnote.small;
     }
     else {
       version = "big";
       // BIG framework
       componentlist = model.startchecks.big;
+      footnote = strings.footnote.big;
     }
     markVersion(version);
     // Loop through all components listed.
@@ -76,6 +79,8 @@ mnv_ukelmap.framework = (function(){
         }
       }
     }
+    // Reset footnote:
+    d3.select('.footnote-div').html(footnote);
   };
   // FRAMEWORK-RESIZE ends
 
@@ -103,17 +108,22 @@ mnv_ukelmap.framework = (function(){
     footer.append('span')
       .attr('class','last-update-label')
       .text('Results at: ')
+      .style('opacity', 0)
     ;
 
     footer.append('span')
       .attr('class','last-update')
+      .style('opacity', 0)
     ;
 
-    var bString = "Results for Stoke-on-Trent Central; Copeland; Richmond Park; Witney; Batley and Seen; Tooting; Ogmore; Sheffield Brightside and Hillsborough; and Oldham West and Royton, are by-elections";
-    bString = "*By-election result"
+    // Footnote, set for small or big:
+    var footnote = strings.footnote.big;
+    if (controller.isSmallVersion()) {
+      footnote = strings.footnote.small;
+    }
     footer.append('span')
       .attr('class','footnote-div')
-      .text(bString)
+      .html(footnote)
     ;
 
     if(my.localflags.visiblehead){
@@ -313,6 +323,7 @@ mnv_ukelmap.framework = (function(){
 
   // UPDATE
   // This would allow us to update the header with any headline values
+  // Never gets called since framework has no 'update'
   my.update = function() {
     var totals, headerString;
     return;
