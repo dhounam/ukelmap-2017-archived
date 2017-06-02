@@ -196,8 +196,9 @@ mnv_ukelmap.treemap = (function(){
   // UPDATE
   my.update = function() {
     var currentconstit, constitavailable, changed, data, dataindex, defaultText,
-      updatecounter;
+      updatecounter, constitfound;
     constitavailable = modelFlags.constitavailable;
+    constitfound = modelFlags.constitfound;
     currentconstit = modelFlags.currentconstit;
     dataindex = modelFlags.dataindex; // i.e. index of current tab
     updatecounter = modelFlags.updatecounter;
@@ -207,7 +208,8 @@ mnv_ukelmap.treemap = (function(){
     // and if the datafilter set the not-available flag, bale out now.
     if ( (currentconstit !== undefined) &&
          (!constitavailable) ) {
-      showUndeclared(currentconstit);
+      // Modded Jun 17 to pass in 'found' flag
+      showUndeclared(currentconstit, constitfound);
       return;
     }
 
@@ -362,6 +364,23 @@ mnv_ukelmap.treemap = (function(){
   }
   // UPDATE BREXIT TREEMAP ENDS
 
+  function getTreeFill(d,i) {
+    console.log(d)
+    var col;
+    // Node 0 is the background, so white:
+    if (i === 0) {
+      col = "#ffffff";
+    }
+    else {
+      // Defined colour?
+      col = model.colours[d.id];
+      if (typeof col === 'undefined') {
+        col = parties[d.id].colour;
+      }
+    }
+    return col;
+  }
+
   // UPDATE TREEMAP
   function updateTreeMap(data, key, constitID) {
     var sizes, tree, kids, kLen, maj, turnout, hpercent, wpercent, mapTree, majorityTree, itemisedData;
@@ -472,28 +491,22 @@ mnv_ukelmap.treemap = (function(){
     ;
     // Update
     node
-      //.data(treeMap.nodes)
-      // .transition().duration(500)
       .call(position)
       .style("background-color", function(d, i) {
-        var col;
-        // Node 0 is the background, so white:
-        if (i === 0) {
-          col = "#ffffff";
+        return getTreeFill(d,i);
+      })
+      // Border to force text margin at top and left
+      .style("border-color", function(d,i) {
+        var sCol = getTreeFill(d,i);
+        console.log(sCol);
+        return getTreeFill(d,i);
+      })
+      .style("border-width", function(d,i) {
+        var w = '0px';
+        if ( (d.dx > 40) && (d.dy > 20) ) {
+          w = '3px';
         }
-        else {
-          // Defined colour?
-          col = model.colours[d.id];
-          // if (d.id === "undeclared") {
-          //   col = model.colours.undeclared;
-          // } else if (d.id === "remain") {
-          //   col = model.colours.undeclared;
-          // }
-          if (typeof col === 'undefined') {
-            col = parties[d.id].colour;
-          }
-        }
-        return col;
+        return w;
       })
       .attr("datatooltip", function(d, i){
         var result;
@@ -657,13 +670,19 @@ mnv_ukelmap.treemap = (function(){
 
   // SHOW UNDECLARED
   // Hide treemap and show undeclared details
-  function showUndeclared(id) {
+  // Params are constit ID and a flag indicating that this is a constit
+  // that has declared by has no details
+  function showUndeclared(id, isFound) {
     d3.select(".ukelmap-treechart")
       .transition().duration(500)
       .style("opacity", 0);
     mnv_ukelmap.framework.viewConstituency(true);
     d3.select(".ukelmap-treetext-bottom").text("");
-    region.text("Not declared");
+    if (isFound) {
+      region.text("Not declared");
+    } else {
+      region.text("Awaiting details...");
+    }
     constituency.text(model.data.constituencyLookupObj[id].name);
     partyname.text("");
     partystatus.text("");

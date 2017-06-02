@@ -31,6 +31,7 @@ mnv_ukelmap.model = (function(){
     requestedconstit: undefined,
     currentconstit: undefined,
     constitavailable: false,
+    singlefound: false,
     dataindex: "fif",
     datapointindex: 0,
     freezechart: false,
@@ -440,8 +441,8 @@ my.resultsBrexit = {
       midname:"Other",
       shortname:"Other",
       keyname:"Other",
-      colour:"#f0dcac",
-      heatcolour: "#929ca1",
+      colour:"#96B4D2",
+      heatcolour: "#96B4D2",
       currentseats:0
     },
     sdl: {

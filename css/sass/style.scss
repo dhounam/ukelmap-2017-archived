@@ -497,17 +497,15 @@ $input-hover-bg: $color-light-grey;
     height: 100%;
   }
   .#{$prefix}-treemap-node {
-    border: none;
+    border: solid;
+    box-sizing: border-box;
     fill: none;
-    //border: 1px solid white;
-    background-color: red;
-    line-height: 0.95;
     overflow: hidden;
     position: absolute;
     border-radius: 0;
     color: $color-white;
     text-indent: 2px;
-    line-height: 20px;
+    line-height: 1em;
     font-size:  14px;
     font-weight: bold;
     cursor: default;

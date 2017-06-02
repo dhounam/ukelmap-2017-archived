@@ -129,10 +129,11 @@ mnv_ukelmap.controller = (function(){
     updateAllComponents();
   }
   // Passed back after the datafilter has looked for a single constit
-  my.findConstitListener = function(id, available) {
+  my.findConstitListener = function(id, available, notfound) {
     // console.log("Constit " + id + ": availability -- " + available);
     model.flags.currentconstit = id;
     model.flags.constitavailable = available;
+    model.flags.constitfound = (typeof notfound === 'undefined');
     updateAllComponents();
   }
   // Tripped after datafilter has polled new live data

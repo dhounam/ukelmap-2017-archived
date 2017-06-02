@@ -83,6 +83,19 @@ mnv_ukelmap.datafilter = (function(){
   };
   // FILTER DONE ends
 
+  function fileExists(urlToFile) {
+      var xhr = new XMLHttpRequest();
+      xhr.open('HEAD', urlToFile, false);
+      xhr.send();
+      if (xhr.status == "404") {
+          // console.log("File doesn't exist");
+          return false;
+      } else {
+          // console.log("File exists");
+          return true;
+      }
+  }
+
   // SINGLE CONSTITUENCY FILES: LOAD ONE CONSTIT DATA
   my.fetchOneConstitData = function(filename, correction) {
     // Key for callback lookup
@@ -335,7 +348,6 @@ mnv_ukelmap.datafilter = (function(){
       cacheStr = my.getCacheString();
     }
     jsonpStr = filename + '?callback=d3.jsonp.' + padding + cacheStr;
-    // console.log(jsonpStr);
     d3.jsonp(jsonpStr, function() {});
   };
   // GO JSON ends
@@ -520,7 +532,7 @@ mnv_ukelmap.datafilter = (function(){
       filename += "2017/r2017";
       // NOTE: during local tests, override with local folder:
       // console.log('Inferentially pointing to local single-constituencies folder for 2017 results...')
-      filename = model.sourcefiles.constitfolder2017 + 'r2017';
+      // filename = model.sourcefiles.constitfolder2017 + 'r2017';
     } else if (dataindex === "fif") {
       filename += "2015/r2015";
     } else if (dataindex === "ten") {
@@ -530,6 +542,15 @@ mnv_ukelmap.datafilter = (function(){
       filename += "2015/r2015";
     }
     filename += id + ".json";
+
+    // Does the file even exist?
+    if (dataindex === "sev") {
+      if (!fileExists(filename)) {
+        mnv_ukelmap.controller.findConstitListener(id, false, 'nofile');
+        return;
+      }
+    }
+
     // Now jump out of the aeroplane to read it...
     // with correction value...
     my.fetchOneConstitData(filename, correction);

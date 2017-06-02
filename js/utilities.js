@@ -39,15 +39,12 @@ mnv_ukelmap.utilities = (function() {
   // without screwing up decimal places, and returns as a string:
   my.numberWithCommas = function(n) {
     "use strict";
+    if (typeof n === 'undefined') {
+      return '';
+    }
     var parts=n.toString().split(".");
     return parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",") + (parts[1] ? "." + parts[1] : "");
   };  
-
-  my.log = function(txt){
-    if(window.console && window.console.log){
-      // console.log(txt);
-    }
-  };
   // NUMBER WITH COMMAS ends
 
   // RECURSIVE PARENT SIZE SEARCH
@@ -75,12 +72,12 @@ mnv_ukelmap.utilities = (function() {
       // console.log('Unable to detect sizes on' + el + ' I will try with ' + el.parentElement );
       return my.recursiveParentSizeSearch(el.parentElement, recursiveLimit, recursiveDepth++);
     }
-    // 
+    //
     // recursiveLimit++;
   };
   // RECURSIVE PARENT SIZE SEARCH ends
 
 
   return my;
-  
+
 }());
