@@ -364,8 +364,9 @@ mnv_ukelmap.treemap = (function(){
   }
   // UPDATE BREXIT TREEMAP ENDS
 
+  // GET TREE FILL
+  // Returns colour for treemap node fill and/or stroke
   function getTreeFill(d,i) {
-    console.log(d)
     var col;
     // Node 0 is the background, so white:
     if (i === 0) {
@@ -380,6 +381,7 @@ mnv_ukelmap.treemap = (function(){
     }
     return col;
   }
+  // GET TREE FILL ends
 
   // UPDATE TREEMAP
   function updateTreeMap(data, key, constitID) {
@@ -498,7 +500,6 @@ mnv_ukelmap.treemap = (function(){
       // Border to force text margin at top and left
       .style("border-color", function(d,i) {
         var sCol = getTreeFill(d,i);
-        console.log(sCol);
         return getTreeFill(d,i);
       })
       .style("border-width", function(d,i) {
