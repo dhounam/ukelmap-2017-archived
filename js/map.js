@@ -552,6 +552,7 @@ mnv_ukelmap.map = (function(){
 
       // Show/hide border paths
       if (flag) {
+        // Allow time for the to-hex transitions...
         setTimeout(function(){
           borderGroup.style("opacity", 1);
         },2000);
