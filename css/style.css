@@ -811,13 +811,19 @@ ul.ec-interactive-dropdowns {
     stroke-linecap: butt;
     stroke-miterlimit: 2; }
   .mnv-map-uk-election-2017-election-night .mappath {
-    stroke: #cccccc;
+    stroke: #bbb;
     stroke-width: .5px;
     cursor: pointer; }
   .mnv-map-uk-election-2017-election-night .mappath-hover, .mnv-map-uk-election-2017-election-night .blob-hover {
     stroke: #00ff64;
     fill: none;
     background-color: none; }
+  .mnv-map-uk-election-2017-election-night .map-border {
+    stroke: #fff;
+    stroke-width: 1.5px;
+    fill: none;
+    stroke-linecap: 'butt';
+    cursor: none; }
   .mnv-map-uk-election-2017-election-night .chartheaders-div {
     position: absolute;
     pointer-events: none;
@@ -1079,15 +1085,15 @@ ul.ec-interactive-dropdowns {
       line-height: 110%; } }
   @media screen and (max-width: 700px) {
     .mnv-map-uk-election-2017-election-night.version-big .ukelmap-tree {
-      width: 40%; }
+      width: 30%; }
     .mnv-map-uk-election-2017-election-night.version-big .ukelmap-map-div {
-      width: 35%; }
+      width: 45%; }
     .mnv-map-uk-election-2017-election-night.version-big .mnv-ec-livesearch {
-      width: 70%; }
+      width: 55%; }
     .mnv-map-uk-election-2017-election-night.version-big .ukelmap-keys-div {
       width: 25%; }
     .mnv-map-uk-election-2017-election-night.version-big .constituency-info {
-      font-size: 16px !important; } }
+      font-size: 15px !important; } }
   .mnv-map-uk-election-2017-election-night .ec-interactive-dropdowns {
     border-bottom: solid 4px #07c5b2;
     background: #000;

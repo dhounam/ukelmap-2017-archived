@@ -5,14 +5,14 @@ var mnv_ukelmap = mnv_ukelmap || {};
 mnv_ukelmap.map = (function(){
   var my, model, modelFlags, controller;
   // Internal 'globals'
-  var mapWrapper, mapWidth, mapHeight, mapSVG, mapOcean, mapGroup, hoverGroup, surfaceRatio, mapRatio,
+  var mapWrapper, mapWidth, mapHeight, mapSVG, mapOcean, mapGroup, borderGroup, hoverGroup, surfaceRatio, mapRatio,
     projection, path, mapindex, dataindex, mapDetails, mapGroupSize, mapSource, searchField,
     zoomGroup, scaledBy, centerOnContainer, groundMapWrapper, widgetContainer, preloader;
   var centroids = {};
   var nodrag = false;
   // Functions
   var cloneMapPath, cloneBlob, d3clone, arc, pie, oceanMouseOver, mapDone,
-    pathClickFcn, getPath, zoom;
+    pathClickFcn, getPath, assembleBorder, zoom;
   my = {};
   model = mnv_ukelmap.model;
   modelFlags = model.flags;
@@ -53,17 +53,22 @@ mnv_ukelmap.map = (function(){
 
   // ZOOM as called on mouse-wheel or drag
   zoom = function() {
-    var transBy, mapStroke, hoverStroke, mapW, mapH, mapX, mapY;
+    var transBy, mapStroke, borderStroke, hoverStroke, mapW, mapH, mapX, mapY;
     scaledBy = d3.event.scale;
     transBy = d3.event.translate;
     mapStroke = 1 / scaledBy + "px";
     hoverStroke = 2 / scaledBy + "px";
+    borderStroke = 2 / scaledBy + "px";
 
     var se = d3.event.sourceEvent;
 
     mapGroup
       .attr("transform", "translate(" + transBy + ")scale(" + scaledBy + ")")
       .style("stroke-width",mapStroke)
+      ;
+    borderGroup
+      .attr("transform", "translate(" + transBy + ")scale(" + scaledBy + ")")
+      .style("stroke-width",borderStroke)
       ;
     hoverGroup
       .attr("transform", "translate(" + transBy + ")scale(" + scaledBy + ")")
@@ -124,7 +129,7 @@ mnv_ukelmap.map = (function(){
     id = d.id;
     if (my.localflags.hexflag) {
       // Hex refers to the constit lookup file
-      path = oneHexPath(d.id);
+      path = oneHexPath(d.id, true);
     }
     else {
       // 'Raw' geographic path
@@ -133,6 +138,34 @@ mnv_ukelmap.map = (function(){
     }
     return path;
   };
+
+  // ASSEMBLE BORDER
+  assembleBorder = function(bArray) {
+    var x, y, bPath, thisB, allSegStr, allSegArray, points, oneSide;
+    // bArray is array of objs with id and segments
+    bPath = "";
+    for (x = 0; x < bArray.length; x ++) {
+      thisB = bArray[x];
+      allSegStr = getPath(thisB);
+      allSegStr = allSegStr.replace("M", "").replace("Z", "");
+      // Split
+      allSegArray = allSegStr.split("L");
+      // Which segments of the hex path?
+      points = thisB.points;
+      for (y = 0; y < points.length; y ++) {
+        if ((x === 0) && (y === 0)) {
+          oneSide = "M";
+        } else {
+          oneSide = "L";
+        }
+        oneSide += allSegArray[points[y]];
+        bPath += oneSide;
+      }
+    }
+    // bPath += "z";
+    return bPath;
+  }
+  // ASSEMBLE BORDER ends
 
   // Event dispatcher
   my.dispatch = d3.dispatch("load");
@@ -173,7 +206,7 @@ mnv_ukelmap.map = (function(){
     path.enter().append("path")
       .attr("class","mappath")
       .style("fill",function(d) {
-        var fill = "#DDDDDD";
+        var fill = "#fff";
         return fill;
       })
       .attr("id", function(d) {
@@ -198,6 +231,30 @@ mnv_ukelmap.map = (function(){
 
     // Exit:
     path.exit().remove();
+
+    // Borders:
+    var scotData = model.scotData;
+    var scotPath = assembleBorder(scotData);
+    borderGroup.append("path")
+      .attr("class","map-border")
+      .attr("d", scotPath)
+      .style("stroke-linecap", "square")
+      ;
+    var walesData = model.walesData;
+    var walesPath = assembleBorder(walesData);
+    borderGroup.append("path")
+      .attr("class","map-border")
+      .attr("d", walesPath)
+      .style("stroke-linecap", "square")
+      ;
+    var lonData = model.lonData;
+    var lonPath = assembleBorder(lonData);
+    lonPath += "Z";
+    borderGroup.append("path")
+      .attr("class","map-border")
+      .attr("d", lonPath)
+      .style("stroke-linecap", "butt")
+      ;
 
     // Size of map groups:
     mapGroupSize = mapGroup.node().getBBox();
@@ -305,12 +362,12 @@ mnv_ukelmap.map = (function(){
     mapRatio = 0.6666;                 // map artwork w/h
 
     if (mapRatio > surfaceRatio) {
-      // If artwork is disproportionatel wide
+      // If artwork is disproportionately wide
       vbSize = mapWidth;
-      mnv_ukelmap.utilities.log("Went with width of " + vbSize);
+      // mnv_ukelmap.utilities.log("Went with width of " + vbSize);
       if (vbSize < 310) {
         vbSize = 310;
-        mnv_ukelmap.utilities.log("Tweaked to " + vbSize + " to squeeze!");
+        // mnv_ukelmap.utilities.log("Tweaked to " + vbSize + " to squeeze!");
       }
     }
     else {
@@ -357,6 +414,10 @@ mnv_ukelmap.map = (function(){
     // SVG group
     mapGroup = groundMapWrapper.append("g")
       .attr('id','mapgroup')
+      ;
+    // Borders
+    borderGroup = groundMapWrapper.append("g")
+      .attr('id','bordergroup')
       ;
     // Hover group: on mouseover, the cloned, outlined
     // path is created in this group
@@ -483,10 +544,20 @@ mnv_ukelmap.map = (function(){
     if (flg === 'mobile') {
       drawHexPaths();
       my.localflags.hexflag = true;
+      borderGroup.style("opacity", 1);
     }
     else {
       // Set flag to DESIRED STATE (!current)
       var flag = !my.localflags.hexflag;
+
+      // Show/hide border paths
+      if (flag) {
+        setTimeout(function(){
+          borderGroup.style("opacity", 1);
+        },2000);
+      } else {
+        borderGroup.style("opacity", 0);
+      }
 
       // Kill any existing highlight
       d3.selectAll(".mappath-hover").remove();
@@ -513,6 +584,12 @@ mnv_ukelmap.map = (function(){
     }
   }
   // TOGGLE LISTENER ends
+
+  // DRAW BORDERS
+  function drawBorders() {
+
+  }
+  // DRAW BORDERS ends
 
   function drawHexPaths() {
     var data, i, id;
@@ -662,9 +739,6 @@ mnv_ukelmap.map = (function(){
             default:
               fill = simpleColour(luObj);
           }
-        }
-        else {
-          //console.log("Unable to find " + id + " to colour...");
         }
         return fill;
       })
@@ -922,6 +996,10 @@ mnv_ukelmap.map = (function(){
       .transition().duration(2000)
       .attr("transform", transStr)
       ;
+    borderGroup
+      .transition().duration(2000)
+      .attr("transform", transStr)
+      ;
     hoverGroup
       .transition().duration(2000)
       .attr("transform", transStr)
@@ -980,7 +1058,10 @@ mnv_ukelmap.map = (function(){
     mapGroup
       .transition().duration(2000)
       .attr("transform", transStr)
-      // .style("stroke-width",mapStroke)
+      ;
+    borderGroup
+      .transition().duration(2000)
+      .attr("transform", transStr)
       ;
     hoverGroup
       .transition().duration(2000)

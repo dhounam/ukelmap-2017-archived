@@ -588,7 +588,8 @@ $input-hover-bg: $color-light-grey;
   // Individual map paths.
   .mappath {
     //fill: #DDDDDD;
-    stroke: #cccccc;
+    // stroke: #cccccc;
+    stroke: #bbb;
     stroke-width: .5px;
     cursor: pointer;
   }
@@ -596,6 +597,15 @@ $input-hover-bg: $color-light-grey;
     stroke: rgb(0, 255, 100);
     fill: none;
     background-color: none;
+  }
+  // Paths separating Scotland, Wales and London
+  // ...altho, since width is dynamic, this may be a waste of time...
+  .map-border {
+    stroke: #fff;
+    stroke-width: 1.5px;
+    fill: none;
+    stroke-linecap: 'butt';
+    cursor: none;
   }
 
   .chartheaders-div {
@@ -968,19 +978,22 @@ $input-hover-bg: $color-light-grey;
     }
     @media screen and (max-width: 700px){
       .#{$prefix}-tree{
-        width: 40%;
+        // width: 40%;
+        width: 30%;
       }
       .#{$prefix}-map-div {
-        width: 35%;
+        // width: 35%;
+        width: 45%;
       }
       .mnv-ec-livesearch {
-        width: 70%;
+        // width: 70%;
+        width: 55%;
       }
       .#{$prefix}-keys-div {
         width: 25%;
       }
       .constituency-info {
-        font-size: 16px !important;
+        font-size: 15px !important;
       }
     }
   }

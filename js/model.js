@@ -491,6 +491,68 @@ my.resultsBrexit = {
   // CONSOLIDATION LIST is an array of parties that get folded into "other" for small widget
   my.consolidationList = ['dup','uup','bnp','res','ind','plc','snf','snp','sdl'];
 
+  // BORDERS FOR SCOTLAND, WALES AND LONDON
+  my.scotData = [
+    {
+      id: "S14000008",
+      // Name is redundant; just for my sanity.
+      name: "Berwickshire, Roxburgh and Selkirk",
+      // Index segements from zero
+      // Remember: these are points, not 'sides'
+      // First 'constit' includes first point; subsequent omit this,
+      // since path continues...
+      points: [0,1]
+    },
+    {id: "S14000045", name: "Midlothian", points: [0,1,2]},
+    {id: "S14000014", name: "Dumfriesshire, Clydesdale and Tweeddale", points: [1,2]}
+  ];
+  my.walesData = [
+    {id: "W07000042", name: "Delyn", points: [3,4,5,0]},
+    {id: "W07000043", name: "Alyn and Deeside", points: [5,0,1]},
+    {id: "W07000044", name: "Wrexham", points: [0,1]},
+    {id: "W07000062", name: "Clwyd", points: [0,1]},
+    {id: "W07000063", name: "Montgomery", points: [0,1]},
+    {id: "W07000068", name: "Brecon", points: [0,1]},
+    {id: "W07000064", name: "Ceredigion", points: [0,1]},
+    {id: "W07000072", name: "Blaenau Gwent", points: [0]},
+    {id: "W07000053", name: "Torfaen", points: [5,0,1]},
+    {id: "W07000054", name: "Monmouth", points: [0,1]},
+    {id: "W07000055", name: "Newport East", points: [0,1,2]},
+    {id: "W07000051", name: "Cardiff North", points: [1]},
+    {id: "W07000056", name: "Newport West", points: [0,1,2]}
+  ];
+  my.lonData = [
+    {id: "E14000636", name: "Chipping Barnet", points: [3,4,5,0]},
+    {id: "E14000692", name: "Enfield Southgate", points: [5,0]},
+    {id: "E14000691", name: "Enfield North", points: [5,0]},
+    {id: "E14000687", name: "Edmonton", points: [5,0]},
+    {id: "E14000634", name: "Chingford", points: [5,0]},
+    {id: "E14000759", name: "Ilford North", points: [5,0]},
+    {id: "E14000760", name: "Ilford South", points: [5,0]},
+    {id: "E14000900", name: "Romford", points: [5,0,1]},
+    {id: "E14000751", name: "Hornchurch", points: [0,1,2]},
+    {id: "E14000657", name: "Dagenham", points: [1,2]},
+    {id: "E14000696", name: "Erith", points: [1,2]},
+    {id: "E14000558", name: "Bexleyheath", points: [1,2]},
+    {id: "E14000872", name: "Orpington", points: [1,2]},
+    {id: "E14000551", name: "Beckenham", points: [1,2]},
+    {id: "E14000654", name: "Croydon Central", points: [1,2]},
+    {id: "E14000656", name: "Croydon South", points: [1,2,3]},
+    {id: "E14000621", name: "Carshalton", points: [2,3]},
+    {id: "E14000823", name: "Mitcham", points: [2,3]},
+    {id: "E14000984", name: "Sutton", points: [2]},
+    {id: "E14000770", name: "Kingston", points: [1,2,3,4]},
+    {id: "E14001005", name: "Twickenham", points: [3,4]},
+    {id: "E14000701", name: "Feltham", points: [3]},
+    {id: "E14000737", name: "Hayes", points: [2,3,4]},
+    {id: "E14001007", name: "Uxbridge", points: [3,4,5]},
+    {id: "E14000675", name: "Ealing North", points: [4]},
+    {id: "E14000906", name: "Ruislip", points: [3,4,5]},
+    {id: "E14000732", name: "Harrow West", points: [4,5]},
+    {id: "E14000731", name: "Harrow East", points: [4,5]},
+    {id: "E14000741", name: "Hendon", points: [4]}
+  ];
+
   return my;
 }());
 // CONTROLLER ends
