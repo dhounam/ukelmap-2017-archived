@@ -1,42 +1,20 @@
 resultCB({
-
 "name": "Feltham & Heston",
-
 "id": "E14000701",
-
 "region": "London",
-
 "turnout": "23224",
-
 "electorate": "80813",
-
 "win": "lab",
-
 "marginal": "False",
-
 "pop": 6.394,
-
 "hpr": 20.7336355126459,
-
 "sal": 1.68067226890756,
-
 "ele": 0.204251,
-
 "con": "6436",
-
 "lab": "12639",
-
 "lib": "1364",
-
 "grn": "426",
-
 "ukp": "1276",
-
-"bnp": "540",
-
-"oth": "543",
-
+"oth": "1083",
 "mpn": "Seema Malhotra",
-
 });
-

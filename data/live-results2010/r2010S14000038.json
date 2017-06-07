@@ -1,38 +1,19 @@
 resultCB({
-
 "name": "Inverclyde",
-
 "id": "S14000038",
-
 "region": "Scotland",
-
 "turnout": "28097",
-
 "electorate": "61856",
-
 "win": "lab",
-
 "marginal": "False",
-
 "pop": "na",
-
 "hpr": 11.4208893686388,
-
 "sal": 8.26104100946372,
-
 "ele": -1.77206,
-
 "con": "2784",
-
 "lab": "15118",
-
 "lib": "627",
-
 "ukp": "288",
-
 "snp": "9280",
-
 "mpn": "Iain McKenzie",
-
 });
-

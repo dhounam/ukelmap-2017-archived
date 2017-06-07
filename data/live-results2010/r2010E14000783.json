@@ -1,38 +1,19 @@
 resultCB({
-
 "name": "Leicester, South",
-
 "id": "E14000783",
-
 "region": "East Midlands",
-
 "turnout": "34180",
-
 "electorate": "77880",
-
 "win": "lab",
-
 "marginal": "False",
-
 "pop": 2.604,
-
 "hpr": 5.66564021066583,
-
 "sal": 1.96689386562805,
-
 "ele": -9.20343,
-
 "con": "5169",
-
 "lab": "19771",
-
 "lib": "7693",
-
 "ukp": "994",
-
 "oth": "553",
-
 "mpn": "Jon Ashworth",
-
 });
-

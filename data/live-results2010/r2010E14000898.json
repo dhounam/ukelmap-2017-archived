@@ -6,7 +6,7 @@ resultCB({
 
 "region": "South East",
 
-"turnout": "48259",
+"turnout": "40065",
 
 "electorate": "79163",
 
@@ -30,7 +30,7 @@ resultCB({
 
 "grn": "1692",
 
-"ukp": "16867",
+"ukp": 16867,
 
 "oth": "497",
 

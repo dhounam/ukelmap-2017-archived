@@ -1,39 +1,20 @@
 resultCB({
-
 "name": "Bradford, West",
-
 "id": "E14000589",
-
 "region": "Yorkshire And The Humber",
-
 "turnout": "32814",
-
 "electorate": "64618",
-
 "win": "oth",
-
 "marginal": "False",
-
 "pop": 1.796,
-
 "hpr": -17.7402612033694,
-
 "sal": 4.16827479737552,
-
 "ele": 1.635398,
-
 "con": "2746",
-
 "lab": "8201",
-
 "lib": "1505",
-
 "grn": "481",
-
 "ukp": "1085",
-
 "oth": "18341",
-
 "mpn": "George Galloway",
-
 });

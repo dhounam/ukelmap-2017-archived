@@ -6,9 +6,9 @@ resultCB({
 
 "region": "North East",
 
-"turnout": "33455",
+"turnout": "16866",
 
-"electorate": "65148",
+"electorate": "65095",
 
 "win": "lab",
 
@@ -22,19 +22,16 @@ resultCB({
 
 "ele": -2.40696,
 
-"con": "6283",
+"con": "1060",
 
-"lab": "15351",
+"lab": "10201",
 
-"lib": "6662",
+"lib": "1672",
 
-"ukp": "1236",
+"ukp": "1990",
 
-"bnp": "1954",
-
-"ind": "1969",
+"oth": "1943",
 
 "mpn": "Andrew McDonald",
 
 });
-

@@ -4,12 +4,12 @@ resultCB({
 "region": "East Of England",
 "turnout": "44207",
 "electorate": "68936",
-"win": "ukp",
+"win": "ind",
 "status": "hold",
 "con": "16205",
 "lab": "6364",
 "lib": "812",
 "grn": "1184",
-"ukp": "19642",
+"ind": "19642",
 "mpn": "Douglas Carswell"
 });

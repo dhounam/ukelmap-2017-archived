@@ -15,7 +15,9 @@ $result-font-size: 14px;
 $bar-height: 30px;
 // Increase bar height vars on certain context
 $bar-height-increaser: 10px;
-$map-height: 550px;
+// $map-height: 550px;
+$map-height-big: 550px;
+$map-height-small: 550px;
 // Search colors
 $input-bg: $color-aqua-blue-middle-light;
 $input-hover-bg: $color-light-grey;
@@ -487,6 +489,9 @@ $input-hover-bg: $color-light-grey;
     width: 100%;
     background-color: #FFFFFF;
   }
+  .#{$prefix}-treetext-bottom {
+    padding-top: 3px;
+  }
   .#{$prefix}-treechart {
     height: 33%;
   }
@@ -560,15 +565,15 @@ $input-hover-bg: $color-light-grey;
     line-height: 1em;
   }
   .footnote-div {
-    padding-top: 13px;
-    padding-right: 3px;
+    // padding-top: 13px;
+    padding-right: 6px;
     float: right;
     font-size: 100%;
     text-align: right;
     vertical-align: baseline;
-    line-height: 1em;
+    line-height: 2em;
     display: block;
-    // width: 69%;
+    width: 50%;
   }
   .footnote-show {
     display: block;
@@ -678,7 +683,7 @@ $input-hover-bg: $color-light-grey;
     background: $color-darker-grey;
     color: $color-white;
   }
-  // Small version for mobile devices
+  // SMALL VERSION for mobile devices
   &.version-small {
     .hide-on-small {
       display: none;
@@ -688,7 +693,7 @@ $input-hover-bg: $color-light-grey;
     }
     .#{$prefix}-mainmap-div {
       display: block;
-      height: $map-height;
+      height: $map-height-small;
     }
     .#{$prefix}-tree {
       display: none;
@@ -746,7 +751,7 @@ $input-hover-bg: $color-light-grey;
       display: inline;
     }
     .mnv-ec-livesearch .mnv-ec-livesearch-list {
-      max-height: $map-height - 150px;
+      max-height: $map-height-small - 150px;
     }
     &:not(.view-key){
       .#{$prefix}-map-div .toggle-views-btn.toggle-views-key {
@@ -903,20 +908,51 @@ $input-hover-bg: $color-light-grey;
       display: none;
     }
     .mnv-ec-livesearch-list {
-      max-height: $map-height - 100;
+      max-height: $map-height-big - 100;
     }
     .#{$prefix}-mainmap-div {
-      height: $map-height;
+      height: $map-height-big;
       overflow: visible;
     }
     .#{$prefix}-footer-div {
-      border-bottom: $dashed;
+      top: -160px;
+      width: 25%;
+      height: auto;
+      float: right;
+      height: 30px;
+      position: relative;
+      padding-right: 8px;
+      font-size: 14px;
+      line-height: 1.5em;
     }
+    .last-update-label {
+      float: left;
+      padding-right: 4px;
+      // padding-left: 40px;
+    }
+    .last-update {
+      float: left;
+    }
+    .footnote-div {
+      width: 100%;
+      line-height: 1em;
+      text-align: left;
+    }
+    // .#{$prefix}-footer-div::after {
+    //   content:"";
+    //   position:absolute;
+    //   left:0;
+    //   top:0;
+    //   height:50%;
+    //   width:100%;
+    //   border-bottom: $dashed;
+    // }
     .mnv-ec-livesearch {
       width: 53%;
       float: right;
       position: absolute;
       left: 102%;
+      // top: 0;
     }
     .#{$prefix}-keys-label {
       margin-bottom: 10px;
@@ -932,6 +968,9 @@ $input-hover-bg: $color-light-grey;
     .#{$prefix}-tree, .#{$prefix}-map-div, .#{$prefix}-keys-div {
       padding: 0 0 0 10px;
     }
+    // .#{$prefix}-map-div {
+    //   padding-top: 20px;
+    // }
     .#{$prefix}-keys-div {
       padding-left: 0;
     }
@@ -970,12 +1009,20 @@ $input-hover-bg: $color-light-grey;
             width: auto;
           }
       }
+      // .#{$prefix}-map-div {
+      //   height: 95%;
+      // }
       .default-text-container {
         margin-bottom: 0px;
         padding-top: 0px;
         line-height: 110%;
       }
     }
+    // @media screen and (max-width: 800px){
+    //   .#{$prefix}-map-div {
+    //     height: 90%;
+    //   }
+    // }
     @media screen and (max-width: 700px){
       .#{$prefix}-tree{
         // width: 40%;
@@ -985,6 +1032,10 @@ $input-hover-bg: $color-light-grey;
         // width: 35%;
         width: 45%;
       }
+      // .#{$prefix}-footer-div {
+      //   position:absolute;
+      //   top: 595px;
+      // }
       .mnv-ec-livesearch {
         // width: 70%;
         width: 55%;
@@ -997,6 +1048,14 @@ $input-hover-bg: $color-light-grey;
       }
     }
   }
+  // VERSION-BIG ENDS
+
+  // .#{$prefix}-footer-div {
+  //   top: 595px;
+  // }
+
+
+
   .ec-interactive-dropdowns {
     border-bottom: solid 4px $color-aqua-blue-middle;
     background: $color-black;

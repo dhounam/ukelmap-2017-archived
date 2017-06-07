@@ -48,7 +48,7 @@ mnv_ukelmap.model = (function(){
     map: {
       default: '#DDDDDD'
     },
-    undeclared: '#aaa',
+    undeclared: '#dbe2e7',
     remain: '#5DA4DF',
     leave: '#C89608',
   };
@@ -209,8 +209,9 @@ mnv_ukelmap.model = (function(){
     brexitText: "The United Kingdom European Union membership referendum took place on 23 June 2016",
     footnote: {
       default: "",
-      big: "*Includes by-elections    <sup>†</sup>Excludes by-elections",
-      small: "*Includes by-elections",
+      // big: "*Includes by-elections    <sup>†</sup>Excludes by-elections",
+      big: "*Includes subsequent by-elections",
+      small: "*Includes subsequent by-elections",
       spare: "Results for Stoke-on-Trent Central; Copeland; Richmond Park; Witney; Batley and Seen; Tooting; Ogmore; Sheffield Brightside and Hillsborough; and Oldham West and Royton, are by-elections"
 
     }
@@ -277,7 +278,8 @@ mnv_ukelmap.model = (function(){
       id: "fif"
     },
     2: {
-      label: "2010<sup>†</sup>",
+      // label: "2010<sup>†</sup>",
+      label: "2010-15*",
       children: {},
       id: "ten"
     },
@@ -290,39 +292,34 @@ mnv_ukelmap.model = (function(){
 
   // RESULTS
   my.results2010 = {
-    con: 302,
-    lab: 256,
-    lib: 56,
-    dup:8,
-    snp:6,
-    snf:5,
-    plc:3,
-    sdl:3,
-    ukp:2,
-    grn:1,
-    res:1,
-    bnp:0,
-    ind:5,
-    oth:2,
-    uup:0,
+    con: 303,
+    lab: 259,
+    lib: 57,
+    dup: 8,
+    snp: 6,
+    snf: 5,
+    plc: 3,
+    sdl: 3,
+    ukp: 2,
+    oth: 2,
+    grn: 1,
+    ind: 1,
+    uup: 0,
     total: 650
   };
   my.results2015 = {
-    con:331,
-    lab:232,
-    snp:56,
-    lib:8,
-    dup:8,
-    snf:4,
-    sdl:3,
-    plc:3,
-    uup:2,
-    ukp:1,
-    grn:1,
-    oth:1,
-    // bnp:0,
-    ind:1,
-    // res:0,
+    con: 330,
+    lab: 230,
+    snp: 54,
+    lib: 9,
+    dup: 8,
+    snf: 4,
+    ind: 5,
+    plc: 3,
+    sdl: 3,
+    uup: 2,
+    grn: 1,
+    oth: 1,
     total: 650
 };
 // Overall national 'Remain' vote in the referendum:

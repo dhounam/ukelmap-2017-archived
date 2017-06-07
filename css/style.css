@@ -736,6 +736,8 @@ ul.ec-interactive-dropdowns {
     float: left;
     width: 100%;
     background-color: #FFFFFF; }
+  .mnv-map-uk-election-2017-election-night .ukelmap-treetext-bottom {
+    padding-top: 3px; }
   .mnv-map-uk-election-2017-election-night .ukelmap-treechart {
     height: 33%; }
   .mnv-map-uk-election-2017-election-night .ukelmap-treemap-div {
@@ -792,14 +794,14 @@ ul.ec-interactive-dropdowns {
     padding-top: 1%;
     line-height: 1em; }
   .mnv-map-uk-election-2017-election-night .footnote-div {
-    padding-top: 13px;
-    padding-right: 3px;
+    padding-right: 6px;
     float: right;
     font-size: 100%;
     text-align: right;
     vertical-align: baseline;
-    line-height: 1em;
-    display: block; }
+    line-height: 2em;
+    display: block;
+    width: 50%; }
   .mnv-map-uk-election-2017-election-night .footnote-show {
     display: block; }
   .mnv-map-uk-election-2017-election-night .ocean {
@@ -1036,7 +1038,24 @@ ul.ec-interactive-dropdowns {
     height: 550px;
     overflow: visible; }
   .mnv-map-uk-election-2017-election-night.version-big .ukelmap-footer-div {
-    border-bottom: dashed 1px #8b8b8b; }
+    top: -160px;
+    width: 25%;
+    height: auto;
+    float: right;
+    height: 30px;
+    position: relative;
+    padding-right: 8px;
+    font-size: 14px;
+    line-height: 1.5em; }
+  .mnv-map-uk-election-2017-election-night.version-big .last-update-label {
+    float: left;
+    padding-right: 4px; }
+  .mnv-map-uk-election-2017-election-night.version-big .last-update {
+    float: left; }
+  .mnv-map-uk-election-2017-election-night.version-big .footnote-div {
+    width: 100%;
+    line-height: 1em;
+    text-align: left; }
   .mnv-map-uk-election-2017-election-night.version-big .mnv-ec-livesearch {
     width: 53%;
     float: right;

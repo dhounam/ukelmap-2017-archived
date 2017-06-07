@@ -1,39 +1,20 @@
 resultCB({
-
 "name": "Clacton",
-
 "id": "E14000642",
-
 "region": "East Of England",
-
 "turnout": "35338",
-
 "electorate": "69118",
-
 "win": "ukp",
-
 "marginal": "False",
-
 "pop": -0.137,
-
 "hpr": 9.6032914138535,
-
 "sal": 22.6558995065052,
-
 "ele": 1.179779,
-
 "con": "8709",
-
 "lab": "3957",
-
 "lib": "483",
-
 "grn": "688",
-
 "ukp": "21113",
-
 "oth": "388",
-
-"mpn": "Douglas Carswell",
-
+"mpn": "Douglas Carswell"
 });
