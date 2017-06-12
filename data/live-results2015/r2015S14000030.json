@@ -4,7 +4,7 @@ resultCB({
 "region": "Scotland",
 "turnout": "42417",
 "electorate": "70378",
-"win": "snp",
+"win": "ind",
 "swing": "30.65",
 "status": "gain",
 "con": "2544",
@@ -12,7 +12,7 @@ resultCB({
 "lib": "318",
 "grn": "381",
 "ukp": "1105",
-"snp": "24116",
+"ind": "24116",
 "oth": "224",
 "mpn": "Natalie McGarry"
 });

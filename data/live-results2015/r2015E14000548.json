@@ -2,16 +2,11 @@ resultCB({
 "name": "Batley and Spen",
 "id": "E14000548",
 "region": "Yorkshire",
-"turnout": "50473",
-"electorate": "78373",
+"turnout": "20393",
+"electorate": "79781",
 "win": "lab",
-"swing": "1.68",
 "status": "hold",
-"con": "15769",
-"lab": "21820",
-"lib": "2396",
-"grn": "1232",
-"ukp": "9080",
-"oth": "176",
-"mpn": "Jo Cox"
+"lab": "17506",
+"oth": "2887",
+"mpn": "Tracy Brabin"
 });

@@ -2,15 +2,14 @@ resultCB({
 "name": "Sleaford and North Hykeham",
 "id": "E14000929",
 "region": "East Midlands",
-"turnout": "61944",
-"electorate": "88188",
+"turnout": "32834",
+"electorate": "88712",
 "win": "con",
-"swing": "2.11",
 "status": "hold",
-"con": "34805",
-"lab": "10690",
-"lib": "3500",
-"ukp": "9716",
-"oth": "3233",
-"mpn": "Stephen Phillips"
+"con": "17570",
+"lab": "3363",
+"lib": "3606",
+"ukp": "4426",
+"oth": "3869",
+"mpn": "Caroline Johnson"
 });
